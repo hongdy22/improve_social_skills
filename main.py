@@ -56,7 +56,7 @@ def generate_followup_script(prev_script):
     """基于上一轮对话生成下一轮对话，并进行心理推理"""
     messages = [
         {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": f"Previous conversation:\n{prev_script}\n\n{content_instruction_A}\n\n{content_instruction_B}"}
+        {"role": "user", "content": f"Previous conversation:\n{prev_script}\n\n{content_instruction_A}\n\n{content_instruction_B}\n\nPlease strictly follow the above requirements and instructions to alternately play the roles of A and B, and continue the conversation for one more round."}
     ]
     response = client.chat.completions.create(model=model_name, messages=messages)
     return response.choices[0].message.content.strip()
