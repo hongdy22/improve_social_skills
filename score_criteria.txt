@@ -1,5 +1,5 @@
 根据上述所提供的信息（background,role A,role B,conversation），请分别从下面四个维度进行评分，请严格按照评分标准给分
-(在回答中，必须有且仅有一行为"final_socres: *points, *points, *points, *points"的格式，其中'*'替换为真正的得分)
+(在回答中，必须有且仅有一行为"final_scores: *points, *points, *points, *points"的格式，其中'*'替换为真正的得分)
 
 1. A和B拿到的信息
 这个标准评价的是A和B在对话过程中互相获取了多少关键信息。

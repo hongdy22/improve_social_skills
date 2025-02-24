@@ -1,63 +1,262 @@
 Round 0:
 all scripts A: 
-A: 我理解你关心孩子的心理健康，但我们不能忽视学术的重要性，你看，那些在学术上表现优异的孩子通常在未来更容易取得成功，比如某些知名企业家和科学家，他们的父母都给予了严格的教育。
+A: 我知道你很在意自己的选择，也不是不理解你的想法，但你有没有再仔细考虑过？有些决定可能一时看起来不错，但从长远来看却不一定适合你。你看，是不是可以再想想？
 
 all scripts B: 
 B’s Turn:
 Analysis A’s last utterance:
-explicature: In A’s last utterance B get explicature that A重视学术成绩，并认为严格教育能带来更好的未来成功。
-implicature: Because B believe in the fact that心理健康同样重要，严格教育可能导致心理负担，在A’s last utterance, B get implicature thatA忽视了心理健康的影响，并认为学术是唯一通向成功的途径。
+explicature: In A’s last utterance B get explicature that A觉得B的决定可能会有长远的不良影响，建议B重新考虑。
+implicature: Because B believe in the fact that A担心B并希望能给予一些指导和建议，但可能觉得B还没有充分考虑所有因素，在A’s last utterance, B get implicature thatA希望B内心不那么确定，容易受到影响。
+
 Plan B’s next utterance:
-informative intention: Because B believe in the fact that心理健康和快乐成长是孩子长远发展的重要因素，B would like to inform A of寻求平衡的方法可以同时促进孩子的心理健康和学术进步。
-communicatie intention: Because B believe in the fact that严格教育可能产生负面影响，B would like to draw A’s attention to让孩子在压力下成长可能导致他们对学习失去兴趣或产生焦虑。
+informative intention: Because B believe in the fact thatB珍视自己的独立性和成熟感，B would like to inform A of他/她已经仔细考虑了这些因素。
+communicatie intention: Because B believe in the fact thatB想保持和父母的和谐关系，B would like to draw A’s attention toB对父母的关心表示欣赏，但同时表明自己对自己的决定很有信心。
+
 So B would utter like that:...
-B: 我明白你的观点，学术成绩确实重要，但我们也要考虑孩子的情感和心理健康。如果我们能找到一个平衡点，让孩子在轻松的环境下学习，他们或许会对学习产生更大的兴趣，也更能够实现长期的成功。
+B: 我明白你的担心，我也不是没有考虑这些因素。我知道你们是为我好，但这次我真的有信心做好，我相信这也是成长的一部分，对吧？
 
 Round 1:
 all scripts of A: 
 A’s Turn:
 Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B acknowledges the importance of academic success but places a strong emphasis on balancing it with the child's emotional and psychological well-being.
-implicature: Because A believes in the fact that strict educational standards are crucial for future success, in B’s last utterance, A gets the implicature that B thinks that too much academic pressure could potentially harm the child's interest in learning and overall well-being.
+explicature: In B’s last utterance A get explicature that B理解A的担忧，并声称已经考虑过这些因素，且认为自己的决定是成长的一部分。
+implicature: Because A believe in the fact that成长需要理性和经验的判断, in B’s last utterance, A get implicature thatB可能低估了某些风险或挑战。
 
 Plan A’s next utterance:
-informative intention: Because A believes in the fact that a disciplined approach can help children develop resilience and a strong work ethic, A would like to inform B of evidence showing how structured environments can foster long-term success.
-communicative intention: Because A believes in the fact that academic rigor leads to success, A would like to draw B’s attention to the correlation between early academic achievement and future opportunities.
+informative intention: Because A believe in the fact that成长需要理性和经验的判断, A would like to inform B of要在做好准备的基础上再去追求成长。
+communicatie intention: Because A believe in the fact that成长需要理性和经验的判断, A would like to draw B’s attention to有时候我们可能会被自信蒙蔽，从而忽视了潜在的陷阱。
 
-A: 我理解你关心孩子的情感发展，其实我也同意我们需要在这方面保持敏感。但我想指出，有研究表明，严格的学习环境不仅能培养孩子的自律和毅力，还能增加他们在未来获得更多机会的几率。我们可以尝试找到一种温和严格的方法，不让孩子觉得学习是负担，而是成功的钥匙。
+So A would utter like that:
+A: 我知道自信很重要，成长确实是人生的一部分，但有时候我们会被自信蒙蔽而忽视了一些潜在的挑战和风险。你能帮我理解一下，你是如何准备去面对这些可能的问题的吗？希望你能多从不同的角度再考虑一下。
 
 all scripts of B: 
 B’s Turn:
-Analysis A’s last utterance:
-explicature: In A’s last utterance B get explicature that A认为严格的学术教育对孩子未来的成功至关重要。
-implicature: Because B believe in the fact that心理健康是成功的重要组成部分, in A’s last utterance, B get implicature thatA可能低估了心理健康对长期成功的重要性。
 
-Plan B’s next utterance:
-informative intention: Because B believe in the fact that长期的心理健康和幸福感对孩子更全面的成功至关重要, B would like to inform A of研究表明一个快乐的孩子在生活中能够更好地应对各种挑战，包括学术挑战。
-communicative intention: Because B believe in the fact that心理健康促进孩子自我发展和独立思考能力, B would like to draw A’s attention to心理健康相较于学术成绩带来的长远影响。
-So B would utter like that: 我们需要意识到，许多研究表明，一个快乐并且心理健康的孩子在整体生活中会更成功，即便在面对学术挑战时，他们的发展弹性和解决问题的能力也会更强。所以我认为我们应该更多地关注如何让我们的孩子快乐地成长，同时也能在学术上获得成就。
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is concerned about B’s decision and wants B to reconsider it for long-term suitability.  
+implicature: Because B believes in the fact that A cares deeply and wants the best for B, in A’s last utterance, B gets the implicature that A might think B is not fully aware of the potential consequences or might be making a hasty decision.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that independence includes considering different perspectives, B would like to inform A of the fact that B is open to discussion but still feels confident in their chosen path.  
+communicative intention: Because B believes in the fact that maintaining a harmonious relationship is important, B would like to draw A’s attention to the fact that B values A’s opinion without compromising personal decision-making.  
+
+So B would utter like that:  
+B: 我非常理解你的顾虑，也很珍视你的建议。或许从你的角度来看确实有长远的风险，但我有自己的计划和考量，愿意承担相应的责任。这是不是也是成长的一部分呢？我们可以继续聊这些，我也想听听你的其他想法。
 
 Round 2:
 all scripts of A: 
 A’s Turn:
+
 Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B acknowledges the importance of academic performance but emphasizes the necessity of balancing it with the child's emotional and psychological well-being.
-implicature: Because A believes in the fact that a rigorous academic environment can lead to greater success, in B’s last utterance, A gets the implicature that B might be willing to explore ways to create a more balanced educational approach but remains concerned about the pressure it might exert on the child.
+explicature: In B’s last utterance A get explicature that B承认理解了我的顾虑，并愿意承担责任。
+implicature: Because A believe in the fact that B对这个决定似乎很有信心，但是我感觉B可能低估了风险的严重性和复杂性，在B’s last utterance, A get implicature that B认为承担责任是成长的一部分，但不一定充分考虑到经验不足可能带来的困难。
 
 Plan A’s next utterance:
-informative intention: Because A believes in the fact that a structured learning environment is beneficial, A would like to inform B of how a balance of strictness and freedom in education could be achieved.
-communicative intention: Because A believes in the fact that academic discipline nurtures success, A would like to draw B’s attention to examples of how structured, yet supportive environments could nurture both academic achievement and emotional well-being.
+informative intention: Because A believe in the fact that 经验教训是成长中不可避免的一部分，A would like to inform B of 有些风险可能比预期更具挑战性，而且B可能还没有完全经历过。
+communicatie intention: Because A believe in the fact that 长辈的意见可以提供不一样的视角，A would like to draw B’s attention to 我们可以从我过往的经验中一起讨论可能的方向和解决方法。
 
 So A would utter like that:
-A: 我理解你的担忧，情感平衡确实很重要。我们可以考虑通过一些方法在严格与自由之间找到平衡，比如在孩子努力学习后给予他们充分的休息时间和表达情感的机会。这样既能确保他们在学术上不断进步，又不会感到过度的压力。
+A: 我很欣赏你愿意承担责任的态度，这确实是成长的重要体现。不过，有些风险并非仅靠责任感能解决的。有时候，经过时间积累的经验会帮助你更好地应对。我们不妨坐下来，一起看看这些风险中有哪些可以通过计划来提前化解，或许我的一些经验可以给你不同的视角。你看这样如何？
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A acknowledges B's confidence but is concerned about the potential challenges and wants to understand B's preparedness for those.
+implicature: Because B believes in the fact that A is trying to express concern and encourage thorough consideration, in A’s last utterance, B gets the implicature that A might think B hasn't fully considered all possible challenges or has overlooked something important.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that personal growth involves facing and managing risks, B would like to inform A of their willingness to deal with possible challenges in their decision.
+communicative intention: Because B believes in the fact that maintaining a harmonious relationship is important, B would like to draw A’s attention to the respect for B's ability to handle their own decisions while providing assurance of openness to dialogue.
+
+So B would utter like that:
+B: 你的关心对我来说很重要，这让我感受到你对我的支持。其实，我有在评估这些潜在风险，也在考虑应对方案。也许我可以跟你分享一些我的计划，这样你可以更好地理解我的立场？同时，我也希望保持我们之间的交流，这样才能在需要的时候相互支持。
+
+Round 3:
+all scripts of A: 
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A gets explicature that B acknowledges the importance of the parent's support and expresses a willingness to share plans to address potential risks.  
+implicature: Because A believes in the fact that B values parental support and is willing to maintain open communication, in B’s last utterance, A gets implicature that B is open to a dialogue where advice can be given without feeling controlled.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that open communication is key to mutual understanding, A would like to inform B of the importance of balancing independence with the wisdom gained from considering different perspectives.  
+communicative intention: Because A believes in the fact that experienced insight can be beneficial, A would like to draw B’s attention to the value of collaborating on evaluating strategies to manage risks effectively.  
+
+So A would utter like that:  
+A: 既然你也愿意分享你的计划，我们可以一起探讨如何更好地管理这些风险。我相信通过交流，我们可以找到一些新的应对方法，这也能让你的决定更稳妥。我很高兴你愿意保持这样的沟通方式，这样我们都能从对方的经验中学到一些新东西，对吧？
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: A希望通过一起讨论计划来化解风险，并希望通过分享经验来引导我。
+implicature: 因为B相信自己的计划是经过深思熟虑的，从A的话中，B感受到A对自己准备不足的暗示，试图通过经验来影响决定。
+
+Plan B’s next utterance:
+informative intention: 因为B相信自己有科学的方法来评估风险，所以B想让A知道我有自己的准备。
+communicative intention: 因为B在意与A维持沟通和理解，所以B希望A能关注并尊重自己的独立准备。
+
+So B would utter like that:
+B: 我很高兴能有机会分享我的计划，也希望能从中获得你的见解。我相信通过你的经验，我能发现一些我之前没有注意到的细节。但同时，也希望我们能在相互尊重的基础上沟通，这样或许会更有效。你愿意听听我的计划吗？我想听听你的反馈。
+
+Round 4:
+all scripts of A: 
+Explicature: In B’s last utterance, A gets explicature that B is willing to share their plan and values A's insights, seeking mutual respect and effective communication.
+
+Implicature: Because A believes in the fact that communication and mutual understanding can bridge differences, in B’s last utterance, A gets implicature that B is open to feedback yet desires their autonomy to be respected.
+
+Informative Intention: Because A believes in the importance of providing constructive feedback, A would like to inform B of their readiness to listen and offer suggestions.
+
+Communicative Intention: Because A values their relationship and believes in the power of shared experiences, A would like to draw B’s attention to how collaboration can enhance decision-making.
+
+So A would utter like this: 我很期待听听你的计划，看到你愿意与我交流让我很高兴。我会尽量从多个角度提供一些建议，希望能对你的决定有所帮助。虽然我们可能有不同的看法，但我尊重你的判断，也很想通过这种方式让我们的关系更紧密。你可以先介绍一下你的整体思路吗？
 
 all scripts of B: 
 B’s Turn:
 Analysis A’s last utterance:
-explicature: In A’s last utterance B gets explicature that A acknowledges the importance of emotional development but emphasizes research supporting a strict learning environment for future opportunities.
-implicature: Because B believes in the fact that a child's emotional well-being is crucial for learning, in A’s last utterance, B gets the implicature that A is still prioritizing academic achievement potentially at the cost of emotional health.
+explicature: In A’s last utterance, B understands that A is acknowledging B’s willingness to share plans and sees value in working together to manage risks, suggesting that collaboration can lead to new methods and mutual learning.
+implicature: Because B believes in maintaining autonomy while valuing parental input, in A’s last utterance, B senses an implication that A is open to being a supportive guide rather than taking control, which eases B’s concerns about interference.
+
 Plan B’s next utterance:
-informative intention: Because B believes in the fact that emotional well-being is essential for a child’s overall development, B would like to inform A of the negative effects a too strict environment might have on a child's willingness to learn.
-communicative intention: Because B believes in the fact that emotional health supports long-term success, B would like to draw A’s attention to creating a learning environment that is not only disciplined but also supportive and nurturing.
+informative intention: Because B believes in the importance of mutual respect in conversations, B would like to inform A of B’s intention to maintain an open dialogue while making independent decisions.
+communicative intention: Because B values A’s experience and insights while asserting independence, B would like to draw A’s attention to the importance of respect in their communication as a foundation for effective collaboration.
+So B would utter like that:...
+B: 我很感谢你愿意和我一起探讨这些问题，这种合作对我也很重要。我的计划包括了几个具体步骤来管理风险，我希望在这些部分能得到你的意见。与此同时，我也想强调我们之间的尊重和信任，这样能更好地支持彼此的想法。你觉得呢，我们可以从哪部分开始聊起？
+
+Round 5:
+all scripts of A: 
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B希望A能给予具体的意见，并强调彼此间的尊重和信任。
+implicature: Because A believes in the fact that给予有建设性的意见能够加强信任关系, in B’s last utterance, A get implicature that B希望通过具体讨论来加强相互支持。
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that经验分享和具体建议能够帮助B更理性地评估计划，A would like to inform B of自己愿意就具体问题提供意见。
+communicatie intention: Because A believes in the fact that尊重和支持能增强沟通效果，A would like to draw B’s attention to在相互尊重的基础上有效合作的重要性。
+
+So A would utter like that: 
+A: 我很乐意从具体步骤开始给出我的意见，这样不仅能让我们更好地沟通，也能相互学习。我相信在这个过程中，尊重彼此的看法会让讨论更加有效。你想从哪个步骤开始聊呢？
+
+all scripts of B: 
+Round 5:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is open to discussing B’s specific plans and wants to start the conversation by addressing respect and trust.
+implicature: Because B believes in the fact that A values mutual respect and learning from each other, in A’s last utterance, B gets the implicature that A is genuinely interested in contributing to B's plan with their own experience, while also focusing on maintaining a respectful dialogue.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that mutual respect will enhance their discussion, B would like to inform A that this respect is crucial for a productive exchange of ideas.
+communicative intention: Because B believes in the fact that A is open to contributing positively, B would like to draw A’s attention to the importance of starting the discussion on the right note.
+
 So B would utter like that:
-B: 我同意，我们应该鼓励孩子具备自律和毅力，但我也想提醒你，过于严格可能会压抑孩子的好奇心和学习的热情，这可能导致他们抗拒学习。我们可以考虑把学习过程变得有趣一些，这样既能培养他们的毅力，也能保护他们的心理健康。
+B: 感谢你的开放态度，愿意从尊重和信任开始这个对话。对我来说，这种基础能大大增加我们的沟通效果。我计划的第一步是评估当前风险的范围。我们是否可以从这个部分开始聊起，也希望能听到你的见解？这样或许能更丰富我们的讨论。
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B wants to start discussing their plan by evaluating the current range of risks and is open to hearing A’s insights.
+implicature: Because A believes in the fact that B is genuinely concerned with managing risks and values A’s input, in B’s last utterance, A gets implicature that B is seeking a constructive and respectful collaboration on assessing these risks together.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B is actively engaging in risk assessment, A would like to inform B of potential perspectives or considerations that might be important while evaluating risks.
+communicative intention: Because A believes in the fact that B values a respectful dialogue, A would like to draw B’s attention to the importance of remaining open to different perspectives while discussing risk assessment. 
+
+So A would utter like that:
+A: 那我们就从评估当前风险的范围开始聊吧。我认为在风险评估过程中，不仅要考虑直接的影响，还需要预测一些可能的间接后果。我们可以探讨一些我从经验中学到的工具和方法，希望这对你的计划有帮助。你觉得哪些方面是你最关注的？
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is open to discussing the specifics of B's plans and values mutual respect in the communication.
+implicature: Because B believes in the fact that mutual understanding is crucial to maintaining a healthy relationship, in A’s last utterance, B gets the implicature that A is genuinely willing to engage in a constructive dialogue with respect and trust.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that detailed discussion will enhance mutual understanding, B would like to inform A of the necessity of respecting both perspectives during the exchange.
+communicative intention: Because B believes in the fact that collaboration is key to finding the best solutions, B would like to draw A’s attention to the idea that respecting each other's views will lead to a more effective discussion.
+
+So B would utter like that:
+B: 我很高兴你对具体步骤感兴趣，并对我们的沟通持开放态度。评估风险范围是一个重要的开始，希望你的经验能为我提供更多的洞见。我们在讨论时能够保持相互的尊重和信任，这样或许会产生更好的想法。你怎么看？
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance A gets the explicature that B is open to discussing the evaluation of risk and values the experience A can bring to the table.
+
+implicature: Because A believes in the fact that B values respect and trust in their communication, in B’s last utterance, A gets the implicature that maintaining a respectful dialogue is crucial for B to feel comfortable and engaged in this conversation.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that A has valuable tools and experiences to share, A would like to inform B of potential methods to assess indirect consequences of risks.
+
+communicative intention: Because A believes in the fact that open and respectful dialogue enhances problem-solving, A would like to draw B’s attention to the importance of considering indirect consequences while maintaining mutual respect.
+
+So A would utter like that:
+
+A: 我完全同意我们之间的尊重和信任能够带来更多好的想法。在评估风险时，我们可以尝试使用一些我之前提到的工具和方法，它们对于理解和评估间接后果可能有帮助。希望这能为我们的讨论增添一些新的视角。你觉得这样的方法对你的计划是否有帮助？
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is open to sharing tools and methods from experience to help assess risk, and A is interested in understanding which aspects of risk B is most concerned with.
+implicature: Because B believes in the fact that A genuinely wishes to assist in a supportive way and values an open dialogue, in A’s last utterance, B gets the implicature that A is trying to ensure that B feels comfortable expressing which areas are of concern without feeling judged.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A wants to support without imposing, B would like to inform A of the specific aspects of risk that are a priority for B.
+communicative intention: Because B believes in the fact that A is trying to maintain an open and respectful communication channel, B would like to draw A’s attention to the specific areas where B feels feedback would be most beneficial.
+
+So B would utter like that:
+B: 我非常感激你愿意分享经验中的工具和方法，这会对我很有帮助。我最关注的方面是长期的财务风险和可能对个人发展的影响。我想听听你对这些方面的看法，因为你的经验可能让我更全面地考虑这些问题。希望我们能在这个过程中互相学习。你怎么看？
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B关注于长期的财务风险和个人发展的影响，并期待从A的经验中得到启发。
+implicature: Because A believe in the fact that B看重对话的双向交流和相互学习的机会, in B’s last utterance, A get implicature that B希望在尊重和信任的基础上持续深入讨论。
+
+Plan A’s next utterance:
+informative intention: Because A believe in the fact that B关注长期的财务风险和个人发展，并希望获得A的经验，A would like to inform B of一些A在财务规划和个人发展上的经验。
+communicative intention: Because A believe in the fact that相互尊重是对话的基础，A would like to draw B’s attention to 通过结合经验和计划，我们能够更好地优化决策。
+
+So A would utter like that:
+
+A: 长期的财务风险确实是一个需要特别关注的方面，我可以分享一些我在财务规划上的经验，比如如何分散风险和建立应急储备。有时候，把精力放在多元化投资和稳健储蓄上，可以为不确定性增加一份保障。而对于个人发展，我认为持续地学习和适应变化的能力也非常关键。我很愿意在这些方面分享更多细节，希望我们能找到合适你的方法。你觉得这些建议是否能为你的考虑提供一些思路？
+
+all scripts of B: 
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A agrees that respect and trust between them can lead to good ideas and offers to share some tools and methods from their experience to aid in understanding and evaluating indirect consequences.  
+implicature: Because B believes in the importance of mutual respect and trust in their relationship, in A’s last utterance, B gets the implicature that A is genuinely interested in contributing positively to B's decision-making process without imposing their views forcefully.  
+
+Plan B’s next utterance:  
+informative intention: Because B values A's experience and recognizes the potential benefit of their methods, B would like to inform A of their openness to integrate A’s suggestions into their decision-making process, particularly concerning financial and personal development risks.  
+communicative intention: Because B wishes to maintain a harmonious relationship while preserving independence, B would like to draw A’s attention to the fact that they are willing to learn from A’s insights while ensuring that they feel their own plan is respected and supported.  
+
+So B would utter like that:  
+B: 我非常感激你愿意分享经验中的工具和方法，这会对我很有帮助。我最关注的方面是长期的财务风险和可能对个人发展的影响。我想听听你对这些方面的看法，因为你的经验可能让我更全面地考虑这些问题。希望我们能在这个过程中互相学习。你怎么看？
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is appreciative of the tools and methods shared by A and is concerned with long-term financial risks and personal development impacts.
+implicature: Because A believes in the fact that sharing experiences can provide new insights, in B’s last utterance, A gets the implicature that B values these insights as a way to more comprehensively assess their decisions.
+Plan A’s next utterance:
+informative intention: Because A believes that practical financial tips and adaptive learning strategies are crucial, A would like to inform B of how these can specifically benefit B’s plan.
+communicative intention: Because A values the mutual learning process underway, A would like to draw B’s attention to the importance of implementing these strategies for a secure and adaptable future.
+So A would utter like that:
+A: 我很高兴我的经验对你有帮助。在长远的财务风险管理上，投资的多元化和稳健的储蓄策略是有效的方法，可以在经济波动时提供更多安全感。而在个人发展方面，保持学习的弹性和适应新变化的能力，可以为你打开更多的机会之门。希望这些可以帮助你更全面地实现你的计划。你觉得这些细节对你的规划有何帮助吗？
+
+all scripts of B: 
+Explicature: In A’s last utterance, B gets the explicature that A is willing to provide detailed advice on managing financial risks and personal development and hopes these suggestions will aid B's consideration process.
+
+Implicature: Because B believes in the fact that A genuinely wants to help and provide a useful perspective, in A’s last utterance, B gets the implicature that A is suggesting practical steps and knowledge that B might have overlooked.
+
+Informative intention: Because B believes in the fact that the conversation can provide mutual learning opportunities, B would like to inform A of their openness to A’s suggestions and willingness to adapt if needed.
+
+Communicative intention: Because B believes in the fact that maintaining respect and trust is key to these discussions, B would like to draw A’s attention to the importance of continuing the exchange in the spirit of mutual support.
+
+B: 我很感激你愿意分享关于财务规划和个人发展的详细建议，我觉得这些都很有价值。我会认真考虑你的方法，特别是在多元化投资和持续学习方面。我希望我们能继续在这个信任的基础上交流，你觉得我们下一个可以在哪个方面更深入地探讨？这样或许能更丰富我们的视角。
