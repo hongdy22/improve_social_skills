@@ -1,3 +1,4 @@
+instruction_B:
 You should play as A and continue the conversation in following steps:
 B’s Turn:
 Analysis A’s last utterance:
