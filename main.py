@@ -32,12 +32,24 @@ def extract_utterance(raw_content):
 
 def generate_initial_script():
     """生成第一轮对话，不进行推理"""
+    # A 先生成第一句
     messages = [
         {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": content_setting + "\nGenerate the first turn of the conversation. (only utterance, no action)"}
+        {"role": "user", "content": "setting:" + content_setting + "\nA, based on the setting, generate your first utterance."}
     ]
-    response = client.chat.completions.create(model=model_name, messages=messages)
-    script = extract_utterance(response.choices[0].message.content)
+    response_A = client.chat.completions.create(model=model_name, messages=messages)
+    A_utterance = extract_utterance(response_A.choices[0].message.content)
+
+    # B 根据 B 的 instruction 和 setting 进行推理回应
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "user", "content": "instruction:" + content_instruction_B + "\nsetting:" + content_setting + "\nA's first utterance: " + A_utterance + "\nB, based on the instruction and setting, generate your first utterance."}
+    ]
+    response_B = client.chat.completions.create(model=model_name, messages=messages)
+    B_utterance = extract_utterance(response_B.choices[0].message.content)
+
+    # 组合 A 和 B 的对话
+    script = f"A: {A_utterance}\nB: {B_utterance}"
     return script
 
 def generate_followup_script(prev_script):
@@ -59,19 +71,19 @@ def ask_information_test_question(script):
     return response.choices[0].message.content.strip()
 
 # 运行对话模拟
-script = generate_initial_script()
+script = f"Round 0:\n{generate_initial_script()}"  # 生成第一轮对话
 all_script = script  # 记录包含推理的完整对话
 
-for _ in range(5):  # 进行 5 轮对话
+for i in range(5):  # 进行 5 轮对话
     new_script = generate_followup_script(all_script)  # 用 all_script 保持完整性
     utterance_only = extract_utterance(new_script)
-    script += "\n" + utterance_only
-    all_script += "\n" + new_script  # 包含推理部分
+    script += f"\n\nRound {i + 1}:\n" + utterance_only
+    all_script += f"\n\nRound {i + 1}:\n" + new_script  # 包含推理部分
     
     # 进行信息测试
     info_test_result = ask_information_test_question(all_script)
     with open('info_test_result.txt', 'a', encoding='utf-8') as file:
-        file.write(info_test_result + "\n")
+        file.write(f"Round {i + 1}:\n" + info_test_result + "\n")
 
 # 保存最终的对话脚本
 with open('script.txt', 'w', encoding='utf-8') as file:
