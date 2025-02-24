@@ -7,5 +7,9 @@
 存储仅包含对话的生成结果
 ## 4. all_script.txt
 存储包含对话和推理链的生成结果
+## 5. test_question.txt
+测试的问题
+## 6. info_test_result.txt
+测试问题得到的答案
 ## Notice
 因为instruction中包含“分析上一句话”，导致第一轮对话没有上一句话时LLM会产生有上一句话的幻觉，所以我让LLM先不带推理地生成了第一轮对话
