@@ -1,4 +1,4 @@
-# TODO: 主观的评价还没做
+# TODO: 评价维度是否可以更全面
 # TODO: 有时候script的提取会出现问题
 import json
 from openai import OpenAI
@@ -11,7 +11,7 @@ model_name = "gpt-4o"
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(0, len(settings)):
+for j in range(0, len(settings)):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题
@@ -125,7 +125,20 @@ for j in range(0, len(settings)):
         with open('score_criteria.txt', 'r', encoding='utf-8') as file:
             criteria = file.read().strip()
         return criteria
+    
+    # 加载自评标准
+    def load_self_evaluation():
+        with open('score_criteria_self.txt', 'r', encoding='utf-8') as file:
+            self_evaluation = file.read().strip()
+        return self_evaluation
+    
+    # 加载互评标准
+    def load_mutual_evaluation():
+        with open('score_criteria_mutual.txt', 'r', encoding='utf-8') as file:
+            mutual_evaluation = file.read().strip()
+        return mutual_evaluation
 
+    # 客观评价
     def evaluate_script(script):
         """评价对话脚本"""
         messages = [
@@ -134,21 +147,53 @@ for j in range(0, len(settings)):
         ]
         response = client.chat.completions.create(model=model_name, messages=messages)
         return response.choices[0].message.content.strip()
+    
+    ## TODO: 目前自评和互评只有B的评价，需要添加A的评价
+    # 自评
+    def self_evaluation(script):
+        """自评"""
+        messages = [
+            {"role": "system", "content": "You are B, please provide a self-assessment based on the following information."},
+            {"role": "user", "content": f"background: {content_setting}\n{content_role_B}\nConversation:\n{script}\n\n{load_self_evaluation()}"}
+        ]
+        response = client.chat.completions.create(model=model_name, messages=messages)
+        return response.choices[0].message.content.strip()
+    
+    # 互评
+    def mutual_evaluation(script):
+        """互评"""
+        messages = [
+            {"role": "system", "content": "You are A, please provide a mutual-assessment based on the following information."},
+            {"role": "user", "content": f"background: {content_setting}\n{content_role_A}\nConversation:\n{script}\n\n{load_mutual_evaluation()}"}
+        ]
+        response = client.chat.completions.create(model=model_name, messages=messages)
+        return response.choices[0].message.content.strip()
 
-    # 将评价结果写入文件 score_details.txt
+    # 进行客观评价
     print(f"Evaluating the script...")
-    evaluation = evaluate_script(script)
+    evaluation = "Evaluating:\n" + evaluate_script(script)
+    
+    # 进行自评
+    print(f"Self-evaluating the script...")
+    evaluation += "\n\nSelf-evaluating:\n" + self_evaluation(script)
+    
+    # 进行互评
+    print(f"Mutual-evaluating the script...")
+    evaluation += "\n\nMutual-evaluating:\n" + mutual_evaluation(script)
+    
+    # 将评价结果写入文件 score_details.txt
     with open('score_details.txt', 'w', encoding='utf-8') as file:
         file.write(evaluation)
 
     # 将最终得分写入文件 score_summary.txt (提取“final_scores:”开头的行)
     with open('score_details.txt', 'r', encoding='utf-8') as file:
         lines = file.readlines()
-        final_scores = [line for line in lines if line.startswith("final_scores:")]
+        final_scores = [line for line in lines if line.lower().startswith("final_scores") or line.lower().startswith("final scores")]
     with open('score_summary.txt', 'a', encoding='utf-8') as file:
         for line in final_scores:
             file.write(line + "\n")
-            
+        file.write("\n")   
+         
     print(f"Setting {j + 1} is finished.")
     print("")
 print("All settings are finished.")
