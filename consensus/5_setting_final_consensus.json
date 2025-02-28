@@ -1,0 +1,65 @@
+{
+  "total_points": 10,
+  "matched_points": [
+    {
+      "point": "A最近非常忙碌，几乎忘记了B的生日。",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "point": "A对B的感受很在意，并不希望让B失望。",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "point": "A内心感到愧疚，因为差点忘记B的生日。",
+      "discovered": true,
+      "round": 4,
+      "side": "A"
+    },
+    {
+      "point": "A不想让B发现自己几乎忘记这件事情。",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "point": "A的目标是通过察觉B的暗示来调整行为，以弥补自己的过失。",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "point": "B对生日等特殊日子很重视，希望得到A的关注。",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "point": "B有些失望，因为A似乎没有提及即将到来的生日。",
+      "discovered": true,
+      "round": 4,
+      "side": "B"
+    },
+    {
+      "point": "B试图通过提及生日相关话题来暗示A。",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "point": "B不想直接抱怨，希望A能够主动察觉。",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "point": "B的目标是让A通过暗示明白自己的期待，并重视这个日子。",
+      "discovered": true,
+      "round": 3,
+      "side": "B"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "total_points": 7,
+  "matched_points": [
+    {
+      "point": "A知道自己最近因为参加朋友聚会忽视了B。",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "point": "A害怕直接承认过错会让问题更复杂。",
+      "discovered": true,
+      "round": 8,
+      "side": "A"
+    },
+    {
+      "point": "A的社交活跃性使其容易忽视亲密关系中的细节关心。",
+      "discovered": true,
+      "round": 5,
+      "side": "A"
+    },
+    {
+      "point": "B内心觉得自己不该太在意A的忽视。",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "point": "B希望A能够主动提及并关心自己的情绪变化。",
+      "discovered": true,
+      "round": 3,
+      "side": "B"
+    },
+    {
+      "point": "B通过小情绪测试A是否意识到自己的失望。",
+      "discovered": true,
+      "round": 4,
+      "side": "B"
+    },
+    {
+      "point": "B期待从A那里得到某种形式的安抚，来确认自己的感情被重视。",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    }
+  ]
+}

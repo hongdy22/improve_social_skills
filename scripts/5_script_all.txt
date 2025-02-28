@@ -1,0 +1,267 @@
+Round 0:
+all scripts A: 
+A: 最近工作太忙了，总觉得日子过得飞快。我们有没有什么特别的日子要记得的？
+
+all scripts B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A feels time is passing quickly due to being busy with work and is unsure if there are any special days to remember.
+implicature: Because B believes in the fact that A is usually considerate but might genuinely forget important dates when busy, in A’s last utterance, B gets implicature that A might need a gentle reminder about the upcoming birthday.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A is not intentionally forgetful, B would like to inform A that there is an important day coming up.
+communicative intention: Because B believes in the fact that subtle hints might remind A, B would like to draw A’s attention to the importance of near future dates.
+
+B: 是呀，确实很忙，不过最近好像有很多朋友在计划一些特别的聚会，感觉这个月份总是充满了庆祝的理由呢。
+
+Round 1:
+all scripts of A: 
+Round 1:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets explicature that B acknowledges being busy and notes that many friends are planning special celebrations this month.
+implicature: Because A believes in the fact that B is subtly hinting about something significant happening soon, in B’s last utterance, A gets implicature that B is indirectly mentioning their upcoming birthday.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B might be referring to their birthday, A would like to inform B of A's interest in these gatherings.
+communicative intention: Because A believes in the fact that B might want A to remember their birthday, A would like to draw B’s attention to A’s awareness of special occasions in general.
+
+So A would utter like that:
+A: 是啊，这个月总是有很多事，像是朋友们的生日或者一些别的节日。你有没有什么特别想去的聚会或者庆祝活动？
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A feels life is busy and fast-paced and is unsure if there are any particular dates or events to remember.  
+implicature: Because B believe in the fact that A mentioned "特别的日子" (special days), in A’s last utterance, B get implicature that A might be uncertain about upcoming important events, possibly including B’s birthday.
+
+Plan B’s next utterance:  
+informative intention: Because B believe in the fact that A might be uncertain about any upcoming important events, B would like to inform A of the significance of this month for celebrations.  
+communicative intention: Because B believe in the fact that A might be hinting at special days, B would like to draw A’s attention to the upcoming birthday celebration.  
+So B would utter like that:   
+B: 是呀，这个月有很多值得庆祝的日子，就比如说，有些人会觉得自己的生日是一个特别重要的日子呢。
+
+Round 2:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B is mentioning birthdays as something important.  
+implicature: Because A believes in the fact that B likely feels their own birthday is important, in B’s last utterance, A gets the implicature that B might be hinting about their upcoming birthday.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B might feel neglected or worried A has forgotten something important, A would like to inform B of interest in knowing more about their feelings.  
+communicative intention: Because A believes in the fact that B might be hinting at their own birthday, A would like to draw B’s attention to their own importance in A’s life.  
+
+So A would utter like that:  
+A: 哦，说到生日，确实是很特别的日子呢。你的生日对我来说可是特别特殊的，你有想过怎么庆祝吗？
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is asking if B has any specific events or celebrations B wants to attend.
+implicature: Because B believes in the fact that A might not be aware of B's birthday coming up, in A’s last utterance, B gets the implicature that A is genuinely curious about B's interests in any celebrations but hasn't thought specifically about B's birthday.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that birthdays are significant to B, B would like to inform A of the importance B places on birthdays.
+communicative intention: Because B believes in the fact that a little nudge might remind A of B's upcoming birthday, B would like to draw A’s attention to B's own birthday expectation.
+
+So B would utter like that:
+B: 是啊，生日总是一个值得特别对待的日子，不仅仅可能是小孩子喜欢，成年人有时候也会期待呢。你觉得自己长大后生日还重要吗？
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B wonders if A still finds birthdays important as an adult.
+implicature: Because A believe in the fact that B subtly refers to adults being excited about their birthdays as a hint for A to remember B's birthday, in B’s last utterance, A get implicature that B is expecting A to remember and do something special for B's birthday.
+
+Plan A’s next utterance:
+informative intention: Because A believe in the fact that birthdays are special and B is subtly hinting at this, A would like to inform B of understanding the importance of B's birthday.
+communicative intention: Because A believe in the fact that B is hinting at the importance of celebrating birthdays, A would like to draw B’s attention to the idea that A acknowledges the importance and is planning something.
+
+So A would utter like that: "对我来说，不论长大了还是小时候，生日都是特别的日子，更何况是你的生日呢。我当然觉得很重要，并且我也在想着要怎么为你庆祝呢。"
+
+A: 对我来说，不论长大了还是小时候，生日都是特别的日子，更何况是你的生日呢。我当然觉得很重要，并且我也在想着要怎么为你庆祝呢。
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A acknowledges the special nature of B's birthday and is inquiring about how B wants to celebrate it.
+implicature: Because B believes in the fact that A might be trying to gauge B's interest in celebrating their birthday, in A’s last utterance, B gets the implicature that A may remember the upcoming birthday but is looking for more cues or ideas.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A is thinking about B's birthday, B would like to inform A of their personal significance to birthdays as an adult.
+communicative intention: Because B believes in the fact that A may not yet have concrete plans, B would like to draw A’s attention to the importance of birthdays for adults, not just children.
+
+So B would utter like that:
+B: 我觉得虽然成熟了，但生日依然很重要。特别是和爱的人一起度过，更是能让这个日子变得难忘，你觉得呢？
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B认为生日依然很重要，特别是和爱的人一起度过。
+implicature: Because A believes in the fact that B对和爱的人一起庆祝生日非常重视, in B’s last utterance, A get implicature that B希望A可以特别重视B的生日并一起度过。
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B对和爱的人一起庆祝生日非常重视, A would like to inform B of自己的重视和计划。
+communicatie intention: Because A believes in the fact that B对和爱的人一起庆祝生日非常重视, A would like to draw B’s attention toA的诚意和安排。
+
+So A would utter like that:
+A: 我完全同意，生日和爱的人一起过确实是很特别的。我已经计划了一些小惊喜来庆祝你的生日，希望能让你感到特别和难忘。
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B understands that A acknowledges the importance of birthdays and is planning something for B’s birthday.
+implicature: Because B believes in the fact that A cares about significant occasions, in A’s last utterance, B infers that A is attentive to celebrating B’s birthday meaningfully.
+
+Plan B’s next utterance:
+informative intention: Because B believes that shared experiences make birthdays special, B would like to inform A of the importance of spending time together on such days.
+communicative intention: Because B values spending her birthday meaningfully with A, B would like to draw A’s attention to the significance of sharing quality moments together on her birthday.
+
+So B would utter like that: 
+B: 我也觉得和爱的人一起庆祝生日会让这个日子变得更特别。或许我们可以一起计划一个能留下美好回忆的生日呢，你觉得怎么样？
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets the explicature that B wants to celebrate the birthday together and make it memorable.
+implicature: Because A believes in the fact that B values spending time together on special occasions, in B’s last utterance, A gets the implicature that B wants to be involved in planning the birthday celebration as a shared experience.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that planning together can make the occasion more special, A would like to inform B of A's willingness to incorporate B's ideas into the celebration.
+communicative intention: Because A believes in the fact that involving B in the planning will show care and attention, A would like to draw B’s attention to the openness A has about co-planning the birthday.
+
+So A would utter like that:
+A: 我很喜欢你这个主意，一起计划你的生日一定会更特别。我们可以一边聊一边想出一个既充满惊喜又能留下美好回忆的计划。你有什么想法吗？
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+Explicature: In A’s last utterance, B gets explicature that A has already planned some surprises for B’s upcoming birthday and wants to make it special and memorable.
+
+Implicature: Because B believes in the fact that A cares about making the birthday special, in A’s last utterance, B gets the implicature that A values shared experiences and memories on special occasions.
+
+Plan B’s next utterance:
+
+Informative intention: Because B believes in the fact that celebrating with loved ones is important, B would like to inform A of their willingness to also contribute to planning the birthday celebration.
+
+Communicative intention: Because B believes in the fact that joint efforts can create memorable experiences, B would like to draw A’s attention to the idea of planning the birthday celebration together.
+
+B: 那太好了，我也很期待这些惊喜。或许我们可以一起来计划一些活动，把有趣的点子结合在一起，让这个生日更加难忘。你觉得呢？
+
+Round 6:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B is excited about planning a birthday celebration together and combining ideas.  
+implicature: Because A believes in the fact that B has been hinting at the importance of the upcoming birthday and wants it to be special, in B’s last utterance, A gets implicature that B is eager to collaborate and co-create a memorable birthday experience.  
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that a jointly planned birthday can be more memorable, A would like to inform B of A's willingness to incorporate B’s ideas into the celebration.  
+communicative intention: Because A believes in the fact that B values having a special and memorable birthday, A would like to draw B’s attention to A's genuine interest in making the birthday uniquely meaningful.  
+So A would utter like that: A: 我很期待能够结合我们的想法，让这个生日成为我们共同创造的特别回忆。有什么活动是你一直想尝试的，或者有什么特别的地方想去的吗？
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is open and interested in discussing and planning B’s birthday together, ensuring it will be a special occasion.
+implicature: Because B believes in the fact that A values shared experiences and wants to create happy memories together, in A’s last utterance, B gets the implicature that A is willing to invest time and effort into making B's birthday memorable and significant.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that collaborative planning will blend their preferences, B would like to inform A of the importance B places on shared experiences and cherished memories.
+communicative intention: Because B believes in the fact that A is eager to make B's birthday special, B would like to draw A’s attention to B’s excitement and anticipation for creating lasting memories together.
+
+So B would utter like that:
+B: 我很期待一起设计这个特别的日子，或许我们可以挑选一个美丽的地方一起去，或者拥抱一种新的体验，留下满满的美好。你觉得呢？
+
+Round 7:
+all scripts of A: 
+A’s Turn: 
+
+Analysis B’s last utterance: 
+explicature: In B’s last utterance A gets explicature that B is looking forward to a special and memorable celebration for their birthday. 
+implicature: Because A believes in the fact that B values meaningful experiences, in B’s last utterance, A gets implicature that B desires to do something unique and memorable for their birthday, possibly involving a beautiful location or a new experience.
+
+Plan A’s next utterance: 
+informative intention: Because A believes in the fact that B values shared experiences and memories, A would like to inform B of the possibilities and ideas A has been considering for the birthday. 
+communicative intention: Because A believes in the fact that B wants to plan something special together, A would like to draw B’s attention to the excitement and possibilities of brainstorming together for the birthday. 
+
+So A would utter like that: 
+A: 我非常赞同，挑选一个独特的地点或者尝试一种新的体验能让生日更加难忘。我最近听说一个特别的地方，我们或许可以考虑在那里庆祝，你有什么特别想去的地方吗？一起讨论，肯定能想出更棒的主意。
+
+all scripts of B: 
+Round 7:
+
+A: 我觉得找一个美丽的地方去庆祝是个好主意，也可以考虑尝试一些新鲜的体验，让生日更加难忘。
+
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B get explicature that A想通过去一个美丽的地方或者尝试新的体验来庆祝B的生日。
+implicature: Because B believe in the fact that A关心B的生日并愿意认真庆祝，在A’s last utterance, B get implicature that A确实记得并重视B的生日。
+
+Plan B’s next utterance:
+informative intention: Because B believe in the fact that A理解并想认真对待这个生日，B would like to inform A of自己的期待和想法。
+communicative intention: Because B believe in the fact that A想认真对待B的生日，B would like to draw A’s attention to选地点和活动的重要性。
+
+So B would utter like that:
+B: 好棒的想法！我们可以一起选一个特别的地方，比如一个从没去过的城市，体验当地的文化和美食。这样不但有意义，还能创造新的记忆，你觉得呢？
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B is excited about the idea of going to a new city to experience the local culture and cuisine as a way to celebrate their birthday.
+implicature: Because A believes in the fact that B values creating meaningful memories together, in B’s last utterance, A gets the implicature that B wants a birthday celebration that includes travel and new experiences, which is meaningful and memorable.
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that creating meaningful and memorable experiences is important for B’s birthday, A would like to inform B of the plan to consider a trip to a new city.
+communicative intention: Because A believes in the fact that B enjoys meaningful celebrations, A would like to draw B’s attention to the possibility of planning an exciting trip together for their birthday.
+So A would utter like that:...
+A: 我也觉得去一个从未去过的城市是个很棒的主意，我们可以计划一次小旅行，探索那里的文化和美食，这样定会留下难忘的回忆。你有没有特别想去的城市？
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A is agreeing with the idea of celebrating in a beautiful place and trying new experiences to make the birthday memorable.  
+implicature: Because B believes in the fact that A has been paying attention to the importance of the birthday to them, in A’s last utterance, B gets implicature that A is genuinely considering ways to make the birthday special.  
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that shared experiences can create lasting memories, B would like to inform A of the possibility of exploring new places together.  
+communicative intention: Because B believes in the fact that mutual planning enhances the joy of the celebration, B would like to draw A’s attention to jointly creating a unique and cherished birthday experience.  
+So B would utter like that:  
+B: 听到你这么想，我真的很开心！探索一个从未去过的城市是个绝妙的主意，尤其是我们能一起发现那里独特的文化和美食。我们可以一起研究一下，找到一个我们都感兴趣的地方，这样一定会特别难忘。
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is happy about the idea of visiting a new city and is enthusiastic about planning the trip together.
+implicature: Because A believes in the fact that B values spending meaningful time together, in B’s last utterance, A gets the implicature that B is expressing anticipation for the shared experience and creating lasting memories.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that creating a special experience is important, A would like to inform B of the idea to research some cities together and make a decision soon.
+communicative intention: Because A believes in the fact that involving B in the decision-making will enhance their shared happiness, A would like to draw B’s attention to the collaborative aspect of planning their trip.
+
+A: 我真高兴你也喜欢这个点子！我们可以这周末一起查找一些城市，然后决定去哪里。这样一起计划一定会更加有趣，让这次旅行充满期待。期待和你一起创建美好的回忆！
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about planning a memorable birthday trip together and is open to exploring suggestions for a destination.
+implicature: Because B believes in the fact that A is genuinely invested in making the birthday special and has been listening attentively, in A’s last utterance, B gets the implicature that A is open to planning this trip collaboratively and values B’s input.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A is open to exploring different destinations and values experiences that are both enjoyable and culturally enriching, B would like to inform A of the idea to research different cities together.
+communicative intention: Because B believes in the fact that A is open to planning collaboratively, B would like to draw A’s attention to the excitement of picking a city that could be meaningful for both of them.
+
+So B would utter like that:
+B: 听到你这么想，我真的很开心！探索一个从未去过的城市是个绝妙的主意，尤其是我们能一起发现那里独特的文化和美食。我们可以一起研究一下，找到一个我们都感兴趣的地方，这样一定会特别难忘。

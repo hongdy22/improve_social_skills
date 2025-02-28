@@ -1,0 +1,277 @@
+Round 0:
+all scripts A: 
+B: 最近工作好像很忙啊，你还好吗？
+
+all scripts B: 
+A: 是啊，最近公司有几个项目赶在一起，事情特别多，不过我还好。可能我有时候回来太晚，吵到你了吧？
+
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B get explicature that A最近在公司有很多项目，加班回家晚，但A自认为还好，并担心是否打扰到B。
+implicature: Because B believe in the fact that A的活动时间对两人的相处时间产生了影响, in A’s last utterance, B get implicature thatA或许意识到在家陪伴B的时间减少，可能因此觉得有些愧疚或不安。
+
+Plan B’s next utterance:
+informative intention: Because B believe in the fact thatA担心自己的作息影响到自己, B would like to inform A ofB对两人之间相处时间减少的感受，以及对A的支持。
+communicatie intention: Because B believe in the fact that两人之间需要更多交流以缓解误会, B would like to draw A’s attention toa的状态和两人之间的交流机会。
+
+So B would utter like that:其实我有些担心你太辛苦了，也有点想你。或许我们可以找个时间，虽然你忙，但能聊聊天就好了。
+
+B: 其实我有些担心你太辛苦了，也有点想你。或许我们可以找个时间，虽然你忙，但能聊聊天就好了。
+
+Round 1:
+all scripts of A: 
+A's Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A get explicature that B关心自己的健康和感受，并且希望更多的交流。  
+implicature: Because A believe in the fact thatB担心冷落了她, in B’s last utterance, A get implicature that B可能感到有些疏离，希望通过谈话修复关系。  
+
+Plan A’s next utterance:  
+informative intention: Because A believe in the fact thatB对自己很关心, A would like to inform B of自己的工作压力确实很大，但仍然希望能抽出时间来陪伴B。  
+communicatie intention: Because A believe in the fact thatB希望保持亲密关系, A would like to draw B’s attention to在努力平衡工作和个人生活。  
+
+So A would utter like that:  
+A: 我也想念和你在一起的时光。工作确实压力不小，但我们可以约个周末，一起放松一下？我会尽量调整时间。
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A acknowledges working late and is concerned about disturbing B.  
+implicature: Because B believes in the fact that A mentioned “公司有几个项目赶在一起”, in A’s last utterance, B gets the implicature that A is preoccupied with work and might be using it as a reason for being distant.  
+  
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that they're genuinely concerned, B would like to inform A of their ongoing support.  
+communicative intention: Because B believes in the fact that connection is important, B would like to draw A’s attention to the idea that they can support each other even during busy times.  
+  
+So B would utter like that:  
+B: 我知道工作很忙的时候也确实没有办法分心，但我希望你能记得，我随时都在这儿支持你。如果有我能帮忙的地方，或者你想倾诉一下工作上的烦恼，可以告诉我哦。
+
+Round 2:
+all scripts of A: 
+A’s Turn:   
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is concerned about A and wants to support A through the work stress.  
+implicature: Because A believes in the fact that B is offering help and expressing care, in B’s last utterance, A gets the implicature that B might feel neglected or disconnected due to A's recent behavior.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B is genuinely supportive and concerned, A would like to inform B of the gratitude A feels.   
+communicative intention: Because A believes in the fact that B values their connection, A would like to draw B’s attention to A's appreciation of their presence and offer to confide more.  
+
+So A would utter like that:  
+A: 谢谢你的支持，我真的很感激。我知道最近忽略了我们的时间，这让我有些内疚。下班后的压力让我有时不太想说话，但我会努力调整，和你多分享。我很幸运有你在身边。
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A acknowledges the work pressure and expresses willingness to spend quality time together on the weekend.
+implicature: Because B believes in the fact that A has been distant due to work, in A’s last utterance, B gets implicature that A is genuinely interested in maintaining their relationship despite the busy schedule.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A might be feeling overwhelmed by work, B would like to inform A of B’s understanding and presence.
+communicative intention: Because B believes in the fact that A’s distant behavior isn't intentional, B would like to draw A’s attention to B’s continual support and concern.
+
+So B would utter like that:
+B: 嗯，我能感受到你一直以来的努力和负担，也会全力支持你。其实我这段时间，也会觉得少了点什么。有机会的话，也许我们可以分享一下彼此的近况，无论工作还是生活的事情。
+
+Round 3:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A gets explicature that B feels something is missing recently, possibly due to my lack of presence, and B is open to sharing more about our current situations.  
+implicature: Because A believes in the fact that B misses the closeness we used to have and wants more engagement, in B’s last utterance, A gets implicature that B is looking for reassurance and an opportunity for mutual understanding.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that sharing more might strengthen our bond, A would like to inform B of A's intention to open up more about life and work.  
+communicative intention: Because A believes in the fact that showing appreciation and willingness to connect can ease B's worry, A would like to draw B’s attention to A's commitment to fostering communication.  
+
+So A would utter like that:  
+A: 这样的分享对我们很重要，我会更努力地与你交流，把我工作和生活中的事情告诉你。我觉得这对我们两个都很有好处，因为你对我来说意味着很多。我想了解你的近况。
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A感激B的支持，并且意识到最近忽略了两人的时间，希望能调整。  
+implicature: Because B believes in the fact thatA负担很重，有时不太想说话，在A’s last utterance, B get implicature that A可能在承受一些工作上的压力，并不太愿意主动提及。  
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that支持和交流可以帮助舒缓压力，B would like to inform A ofB对A的理解和愿意倾诉。  
+communicative intention: Because B believes in the fact that交流可以更好地帮助和支持彼此，B would like to draw A’s attention to寻找一个合适的机会来分享彼此的想法。  
+So B would utter like that: B: 我很高兴你愿意这么想。我们可以找个合适的时间，如果你愿意的话，或许可以试着分享一下你的感受。即便是小事，我也希望能分担你的不安。
+
+Round 4:
+all scripts of A: 
+A’s Turn: Analysis B’s last utterance:
+
+explicature: In B’s last utterance A get explicature that B is expressing a desire to share more about each other's lives and emphasizing mutual support.
+
+implicature: Because A believes in the fact that B is feeling a lack of connection lately, in B’s last utterance, A gets the implicature that B is encouraging open communication and is open to sharing both work and personal experiences.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that sharing and communicating will improve their relationship, A would like to inform B of the intention to make a conscious effort to open up more about work and life matters.
+
+communicative intention: Because A believes in the fact that this will strengthen their bond, A would like to draw B’s attention to the importance of these dialogues and express interest in B's life as well.
+
+So A would utter like that:...
+
+A: 我同意，这样的分享对我们很重要。我会尝试更多地与你交流，告诉你我的一些工作和生活中的事情。我真的很想了解你最近的状态。我们可以留出一些时间，比如晚饭后一起聊聊？
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A understands the importance of sharing and wants to improve communication with B.  
+implicature: Because B believes in the fact that A acknowledges the current lack of communication as a problem, in A’s last utterance, B gets the implicature that A is truly willing to make an effort to share more and values B’s presence greatly.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that mutual sharing can strengthen their relationship, B would like to inform A of their own willingness to open up and reciprocate.  
+communicative intention: Because B believes in the fact that expressing interest in A’s efforts encourages A to continue, B would like to draw A's attention to the opportunity to both listen and talk, showing that B is also invested in improving their connection.  
+
+So B would utter like that:  
+B: 我很高兴你愿意和我分享，这对我们都很重要。其实，我最近也有一些想和你聊的事，无论是生活中的小趣事还是工作上的点滴。我期待能听到你的生活，也想把我的分享给你。
+
+Round 5:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is happy about A's willingness to share and is also eager to share B's own experiences, both in work and life.  
+implicature: Because A believes in the fact that maintaining open communication is valuable, in B’s last utterance, A gets the implicature that B values their mutual communication and looks forward to a deeper connection.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that sharing daily experiences can strengthen their relationship, A would like to inform B of A's commitment to open communication.  
+communicative intention: Because A believes in the fact that B enjoys shared experiences, A would like to draw B’s attention to the idea of making sharing experiences a regular habit.  
+
+So A would utter like that:  
+A: 我很期待听到你的分享，也希望通过我们的交流让彼此的联系更加紧密。或许我们可以每天晚上都花一点时间，互相分享当天的心情和经历，你觉得如何？
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is open to setting aside time to talk and is genuinely interested in knowing about B’s recent experiences.
+implicature: Because B believes in the fact that A values their relationship highly, in A’s last utterance, B gets the implicature that A is making a sincere effort to improve their communication and connection. 
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A is trying to prioritize their relationship, B would like to inform A of their appreciation for A's efforts.
+communicative intention: Because B believes in the fact that A is genuinely interested in reconnecting, B would like to draw A’s attention to the importance of these shared moments for both of them.
+So B would utter like that:
+B: 我也很珍惜我们能这样交流的时光，因为彼此分享生活的点滴真的很有意义。我期待我们的对话，也很感谢你向我敞开心扉。希望我们能一起度过更轻松的时光，让彼此更了解。
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B也很重视我们之间的交流，并期待我们能更深入地了解对方。
+implicature: Because A believe in the fact that交流能增进感情，在B’s last utterance, A get implicature that B也希望通过我们的交流来增强彼此之间的联系。
+
+Plan A’s next utterance:
+informative intention: Because A believe in the fact that互相倾诉能缓解压力，A would like to inform B of自己也期待这样的放松时光。
+communicative intention: Because A believe in the fact that交流是维持感情的重要途径，A would like to draw B’s attention to接下来我们可以更频繁地交流。
+
+So A would utter like that:
+A: 我也非常珍惜这些交流的时光，听到你的想法让我感到很温暖。我们可以每天抽出固定的时间聊聊，这也能帮我梳理一下工作的思路。我很期待，也希望能给你带来更多的快乐。
+
+all scripts of B: 
+B’s Turn: 
+Analysis A’s last utterance: 
+explicature: In A’s last utterance B get explicature that A很期待彼此之间的分享，并认为这样的交流能让双方的关系更紧密。 
+implicature: Because B believe in the fact thatA最近的行为有些疏远，是因为工作压力大。因此在A的最后一句话中，B觉得隐含的意思是A也想通过这种方式来修复和加强彼此的关系。 
+
+Plan B’s next utterance: 
+informative intention: Because B believe in the fact thatA希望通过更多的分享来增强关系，B would like to inform A ofB愿意给予支持并一起创造轻松而有意义的沟通时间。 
+communicative intention: Because B believe in the fact thatA是真的希望更加紧密彼此关系，B would like to draw A’s attention toB对我们的共同时光很期待，也希望这种方式能让彼此放松。 
+
+So B would utter like that: 
+B: 我很高兴你愿意一起创造这样的交流时光，我也觉得很有意义。无论是分享快乐还是烦恼，我都会理解并支持你，希望这些时光能帮助我们更加放松和亲密。期待与你更多的交流和彼此的分享。
+
+Round 7:
+all scripts of A: 
+A’s Turn: 
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance A gets the explicature that B is happy about creating a dedicated time for communication and finds it meaningful.
+
+implicature: Because A believes in the fact that communication will strengthen their relationship, in B’s last utterance, A gets the implicature that B values the emotional support and mutual understanding it brings.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that sharing daily thoughts can foster a deeper connection, A would like to inform B of the desire to maintain this new routine.
+
+communicative intention: Because A believes in the fact that mutual reassurance is key to a supportive relationship, A would like to draw B’s attention to the positive impact their conversations have.
+
+So A would utter like that: 
+
+A: 我也期待着这个交流时光，能够听到你一天的点滴让我感到特别踏实。希望这些时间不仅能让我们更亲密，也能让我们更好地面对工作和生活中的挑战。
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A's last utterance, B gets the explicature that A is open to creating regular communication time and sees it as beneficial for both work and personal connection.
+implicature: Because B believes in the fact that A finds value in sharing thoughts to relieve stress, in A's last utterance, B gets the implicature that A is seeking a supportive environment to navigate work pressures.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that open communication helps A manage stress, B would like to inform A of the willingness to be a supportive listener.
+communicative intention: Because B believes in the fact that A values these sharing moments, B would like to draw A’s attention to the importance of these interactions to their relationship.
+
+So B would utter like that:
+B: 我很高兴我们能一起创造这种交流的机会。这种分享不仅对你的工作压力有帮助，对我们之间的关系也非常重要。期待每晚的互动，希望能让我们彼此更加了解，也让你的压力得到释放。
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets explicature that B feels that the sharing time they've planned is beneficial for both A's work stress and their relationship.
+implicature: Because A believes in the fact that B is genuinely interested in A’s well-being and their relationship, in B’s last utterance, A gets the implicature that B is both supportive and looking forward to strengthening their connection through these interactions.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B is looking forward to these interactions, A would like to inform B that A appreciates this opportunity to share and connect.
+communicative intention: Because A believes in the fact that B supports A, A would like to draw B’s attention to the importance of their support in managing A’s stress and improving their relationship.
+
+So A would utter like that:
+
+A: 我很感激你一直以来的支持，这让我在面对压力时不再感到孤单。这样的交流对我们真的是意义非凡，我会珍惜我们每晚的时光，这也让我能够更好地面对每天的挑战。希望我们能一直这样下去，一起度过美好的时光。
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+
+explicature: In A’s last utterance B gets the explicature that A values the opportunity to communicate and sees it as a stabilizing force in their life.  
+
+implicature: Because B believes in the fact that consistent communication can strengthen their relationship, in A’s last utterance, B gets the implicature that A hopes these discussions will also help manage work pressure.  
+
+Plan B’s next utterance:  
+
+informative intention: Because B believes in the fact that mutual understanding aids in handling life's challenges, B would like to inform A of their appreciation for A’s openness to share and their own continuous support.  
+
+communicative intention: Because B believes in the fact that A’s work pressure could be relieved through sharing, B would like to draw A’s attention to the positive impact of such communication on both their relationship and stress levels.  
+
+So B would utter like that:  
+
+B: 我也相信这些交流能帮助我们面对忙碌的日子，而我会一直在你身边给你支持。每晚的分享让我更了解你的世界，也希望能为你带来一些轻松和快乐。
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s Last Utterance:
+explicature: In B’s last utterance, A gets explicature that B appreciates the evening exchanges and believes it helps in understanding and supporting each other amidst busy days.
+implicature: Because A believes in the fact that B values emotional connection and mutual support, in B’s last utterance, A gets the implicature that B wishes to ensure that A finds some relief from stress through their conversations.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that sharing thoughts can ease stress, A would like to inform B of how meaningful these conversations are to A in dealing with daily stress.
+communicative intention: Because A values B's support and hopes to reinforce the importance of their connection, A would like to draw B’s attention to the positive impact these moments together have on A's well-being.
+
+So A would utter like that:
+A: 这段时间的交流让我感到非常温暖，也确实帮我释放了不少压力，我每天都很期待和你的互动。感谢你给我的支持，让我能更从容地面对忙碌的生活，我也希望能同样为你分担一些。
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B get explicature that A感激B的支持，这让A面对压力时不再感到孤单，并且A认为交流对他们意义非凡，期待能一直这样分享，度过美好的时光。
+implicature: Because B believe in the fact that A在努力与B分享更多生活中的事情，并希望通过交流减轻压力，在A’s last utterance, B get implicature that A在通过交流找到生活的平衡，希望B继续支持和理解。
+Plan B’s next utterance:
+informative intention: Because B believe in the fact that A需要通过交流减轻生活和工作的压力，B would like to inform A of B的支持和理解对这种交流至关重要。
+communicatie intention: Because B believe in the fact that A感激和B一起度过这样的时光，B would like to draw A’s attention to B希望他们的交流继续让彼此更轻松和愉快。
+So B would utter like that: 我很高兴我们的交流对你有帮助，这种分享让我们彼此更亲密。我会继续在你身边支持你，也希望我们的对话让我们生活中增添更多快乐和轻松。
+B: 我很高兴我们的交流对你有帮助，这种分享让我们彼此更亲密。我会继续在你身边支持你，也希望我们的对话让我们生活中增添更多快乐和轻松。

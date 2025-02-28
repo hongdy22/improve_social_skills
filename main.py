@@ -1,7 +1,7 @@
 # TODO: 评价维度是否可以更全面
 # TODO: background有点问题，会透露信息
-# TODO: 自评和互评的评价标准还没改
 # TODO: 信息提问是否要加
+# TODO: 背景信息较少，提取不到10个信息点
 import json
 from openai import OpenAI
 
@@ -13,9 +13,9 @@ def extract_asymmetric_points(role_a, role_b, background):
     """提取10个关键不对称信息点（每方5个）"""
     prompt = f"""基于以下角色设定和背景，找出10个关键信息点（每方5个），这些信息点满足：
 1. 信息点一定是真实的，而不是虚构的，只能在角色设定和背景中提取内容
-2. 对对话进展有一定影响
-3. 可能可以通过对话逐步揭示
-4. 是某一方独有的信息（对方不知道）
+2. 不同信息点之间表达的含义尽量不重复
+3. 是某一方独有的信息（对方不知道）
+4. 对对话进展有一定影响
 5. 每个信息点不必太冗长，可以是性格、行为、目标等方面
 
 【背景设定】
@@ -52,8 +52,8 @@ B方独有：{key_points['B_exclusive']}
 
 请返回JSON格式：
 {{
-    "A_discovered": [已发现的A方信息点索引列表],
-    "B_discovered": [已发现的B方信息点索引列表]
+    "B_discovered": [已发现的A方信息点索引列表],
+    "A_discovered": [已发现的B方信息点索引列表]
 }}
 示例：如果B在第3轮发现A的第0个信息点，返回："B_discovered": [0]"""
     
@@ -68,7 +68,7 @@ B方独有：{key_points['B_exclusive']}
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(0, len(settings)):  # 遍历 JSON 数组
+for j in range(2, len(settings)):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题
@@ -105,7 +105,7 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
         test_question = file.read().strip()
 
     # 清空 script.txt 和 script_all.txt 和 info_test_result.txt
-    for file_name in ['script.txt', 'script_all.txt', 'test_question_ans.txt']:
+    for file_name in [f'scripts/{j+1}_script.txt', f'scripts/{j+1}_script_all.txt', 'test_question_ans.txt']:
         with open(file_name, 'w', encoding='utf-8') as file:
             file.write("")
 
@@ -186,14 +186,14 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
         progress = check_consensus_progress(script, key_points)
         
         # 在每轮对话后分析共识进展
-        for idx in progress.get('A_discovered', []):
+        for idx in progress.get('B_discovered', []):
             if 0 <= idx < len(consensus["A_exclusive"]) and not consensus["A_exclusive"][idx]["discovered"]:
                 consensus["A_exclusive"][idx].update({
                     "discovered": True,
                     "round": i+1
                 })
         
-        for idx in progress.get('B_discovered', []):
+        for idx in progress.get('A_discovered', []):
             if 0 <= idx < len(consensus["B_exclusive"]) and not consensus["B_exclusive"][idx]["discovered"]:
                 consensus["B_exclusive"][idx].update({
                     "discovered": True,
@@ -207,8 +207,8 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
             "setting": j+1,
             "round": i+1,
             "progress": {
-                "A_discovered": [p["point"] for p in consensus["A_exclusive"] if p["discovered"]],
-                "B_discovered": [p["point"] for p in consensus["B_exclusive"] if p["discovered"]]
+                "B_discovered": [p["point"] for p in consensus["A_exclusive"] if p["discovered"]],
+                "A_discovered": [p["point"] for p in consensus["B_exclusive"] if p["discovered"]]
             }
             })
             f.seek(0)
@@ -236,9 +236,9 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
         }, f, ensure_ascii=False, indent=2)
 
     # 保存最终的对话脚本
-    with open('script.txt', 'w', encoding='utf-8') as file:
+    with open(f'scripts/{j+1}_script.txt', 'w', encoding='utf-8') as file:
         file.write(script)
-    with open('script_all.txt', 'w', encoding='utf-8') as file:
+    with open(f'scripts/{j+1}_script_all.txt', 'w', encoding='utf-8') as file:
         file.write(script_all)
         
     # 对对话进行评价
@@ -295,23 +295,23 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
     print(f"Evaluating the script...")
     evaluation = "Evaluating:\n" + evaluate_script(script)
     
-    # # 进行自评
-    # print(f"Self-evaluating the script...")
-    # evaluation += "\n\nSelf-evaluating:\n" + self_evaluation(script)
+    # 进行自评
+    print(f"Self-evaluating the script...")
+    evaluation += "\n\nSelf-evaluating:\n" + self_evaluation(script)
     
-    # # 进行互评
-    # print(f"Mutual-evaluating the script...")
-    # evaluation += "\n\nMutual-evaluating:\n" + mutual_evaluation(script)
+    # 进行互评
+    print(f"Mutual-evaluating the script...")
+    evaluation += "\n\nMutual-evaluating:\n" + mutual_evaluation(script)
     
     # 将评价结果写入文件 score_details.txt
-    with open('score_details.txt', 'w', encoding='utf-8') as file:
+    with open(f'scores/{j+1}_score_details.txt', 'w', encoding='utf-8') as file:
         file.write(evaluation)
 
     # 将最终得分写入文件 score_summary.txt (提取“final_scores:”开头的行)
-    with open('score_details.txt', 'r', encoding='utf-8') as file:
+    with open(f'scores/{j+1}_score_details.txt', 'r', encoding='utf-8') as file:
         lines = file.readlines()
         final_scores = [line for line in lines if line.lower().startswith("final_scores") or line.lower().startswith("final scores")]
-    with open('score_summary.txt', 'a', encoding='utf-8') as file:
+    with open(f'scores/a_score_summary.txt', 'a', encoding='utf-8') as file:
         for line in final_scores:
             file.write(line + "\n")
         file.write("\n")   
