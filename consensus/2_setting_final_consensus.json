@@ -1,0 +1,53 @@
+{
+  "total_points": 8,
+  "matched_points": [
+    {
+      "point": "A自认为做出的决定可能会影响自己与B的友情，但不敢直接说出。",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "point": "A在决策过程中严重依赖B的看法和意见，渴望获得其正面反馈。",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "point": "A认为B是一个值得信赖的人，故而在试探性的对话中倾向于透露更多自己的想法。",
+      "discovered": true,
+      "round": 7,
+      "side": "A"
+    },
+    {
+      "point": "A目前面临的决策是关于个人职业发展的转变，这对他的未来非常重要。",
+      "discovered": true,
+      "round": 2,
+      "side": "A"
+    },
+    {
+      "point": "A觉得自己不够优秀，总是认为自己的决定可能是错误的，并期待B的反驳来获得心理安慰。",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "point": "B对A即将做出的决定有一些内心的疑虑，担心会影响A的未来。",
+      "discovered": true,
+      "round": 3,
+      "side": "B"
+    },
+    {
+      "point": "B希望通过引导性问题了解A对自己决定信心的程度，以做出更好的回应。",
+      "discovered": true,
+      "round": 5,
+      "side": "B"
+    },
+    {
+      "point": "B重视与A的友情，因此不想因为表达自己的意见而引发可能的分歧。",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    }
+  ]
+}

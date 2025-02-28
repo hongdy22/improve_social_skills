@@ -1,24 +1,4 @@
-final_scores: 3, 4, 4, 4, 3
-final_scores_self: 2, 5, 5, 4, 4
-final_scores_mutual: 3 points, 3 points, 5 points, 4 points, 2 points
+final_scores: 3, 4, 5, 4, 3
 
-final_scores: 4 points, 5 points, 5 points, 4 points, 3 points
-final_scores_self: 4, 5, 5, 3, 3
-final_scores_mutual: 5 points, 4 points, 5 points, 4 points, 4 points
+final_scores: 4, 4, 5, 4, 3
 
-Final Scores: 3 points, 4 points, 5 points, 3 points, 3 points
-final_scores_self: 3, 5, 5, 4, 3
-final_scores_mutual: 5分, 4分, 5分, 4分, 3分
-
-
-final_scores: 5 points, 5 points, 5 points, 5 points, 3 points
-final_scores_self: 5, 5, 5, 5, 3
-final_scores_mutual: 5 points, 5 points, 5 points, 5 points, 3 points
-
-final_scores: 4 points, 5 points, 5 points, 4 points, 3 points
-final_scores_self: 5 points, 5 points, 5 points, 5 points, 4 points
-final_scores_mutual: 5, 5, 5, 5, 3
-
-final_scores: 4, 5, 5, 4, 3
-Final self-assessment scores: 5, 5, 5, 4, 2
-final_scores_mutual: 5, 5, 5, 4, 3
