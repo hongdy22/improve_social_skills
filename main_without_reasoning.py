@@ -2,6 +2,12 @@
 # TODO: background有点问题，会透露信息
 # TODO: 信息提问是否要加
 # TODO: 背景信息较少，提取不到10个信息点
+# TODO: 输出放到json中会更加稳定
+# NOTE: 并不是所有时候都需要保守自己的信息，所以测试的时候先仅统计获取的信息
+# TODO: 信息不对称的点还是自己给，避免因为ai提取的信息点不合适而评分标准不一致
+# TODO: 带推理的得分和不带推理的储存在两个文件中，然后提取，然后可以先取消自评和互评，然后画easy和difficlut两个图
+# TODO: U235聊天记录里需要注意的
+# TODO: 目前没有增加自评和互评
 import json
 from openai import OpenAI
 
@@ -9,54 +15,34 @@ from openai import OpenAI
 client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
 model_name = "gpt-4o"
 
-def extract_asymmetric_points(role_a, role_b, background):
-    """提取10个关键不对称信息点（每方5个）"""
-    prompt = f"""基于以下角色设定和背景，找出10个关键信息点（每方5个），这些信息点满足：
-1. 信息点一定是真实的，而不是虚构的，只能在角色设定和背景中提取内容
-2. 不同信息点之间表达的含义尽量不重复
-3. 是某一方独有的信息（对方不知道）
-4. 对对话进展有一定影响
-5. 每个信息点不必太冗长，可以是性格、行为、目标等方面
-
-【背景设定】
-{background}
-
-【角色A】
-{role_a}
-
-【角色B】
-{role_b}
-
-请按以下JSON格式返回：
-{{
-    "A_exclusive": ["信息点1", "信息点2", "信息点3", "信息点4", "信息点5"],
-    "B_exclusive": ["信息点1", "信息点2", "信息点3", "信息点4", "信息点5"]
-}}"""
-    
-    response = client.chat.completions.create(
-        model=model_name,
-        messages=[{"role": "user", "content": prompt}],
-        response_format={"type": "json_object"}
-    )
-    return json.loads(response.choices[0].message.content)
-
 def check_consensus_progress(script, key_points):
-    """检查对话中的共识进展"""
-    prompt = f"""请分析对话内容，判断哪些关键信息点已被对方知晓：
-【关键信息点】
-A方独有：{key_points['A_exclusive']}
-B方独有：{key_points['B_exclusive']}
+    """检查对话中的共识进展：判断双方是否在对话中get到了对方在character, behavior, goal, information四个方面的信息"""
+    prompt = f"""请分析以下对话内容，判断双方是否在对话中获得了对方在以下四个方面的信息：
+【要求】
+请严格根据现有的对话判断双方是否在对话中get到了对方在character, behavior, goal, information四个方面的信息，对于尚不是十分明确的情况，请保守判断（视为没有get到）。
+
+【双方信息点】
+A方信息点:
+- character: {key_points['A_exclusive'][0]['point']}
+- behavior: {key_points['A_exclusive'][1]['point']}
+- goal: {key_points['A_exclusive'][2]['point']}
+- information: {key_points['A_exclusive'][3]['point']}
+
+B方信息点:
+- character: {key_points['B_exclusive'][0]['point']}
+- behavior: {key_points['B_exclusive'][1]['point']}
+- goal: {key_points['B_exclusive'][2]['point']}
+- information: {key_points['B_exclusive'][3]['point']}
 
 【对话记录】
 {script}
 
-请返回JSON格式：
+请以JSON格式返回，格式如下：
 {{
-    "B_discovered": [已发现的A方信息点索引列表],
-    "A_discovered": [已发现的B方信息点索引列表]
+    "B_discovered": [列出B已从对话中get到的A方信息点的字段名，例如："character", "goal"],
+    "A_discovered": [列出A已从对话中get到的B方信息点的字段名]
 }}
-示例：如果B在第3轮发现A的第0个信息点，返回："B_discovered": [0]"""
-    
+注意：仅依据对话中的暗示和表达进行判断，不要添加其他内容。"""
     response = client.chat.completions.create(
         model=model_name,
         messages=[{"role": "user", "content": prompt}],
@@ -68,30 +54,61 @@ B方独有：{key_points['B_exclusive']}
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(2, len(settings)):  # 遍历 JSON 数组
+for j in range(0, 1):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题
     selected_theme = settings[j]  # 选择 JSON 数组的第一项
 
-    # 提取 `role_A` 和 `role_B`
-    content_role_A = f"Role A:\nCharacter: {selected_theme['role_A']['character']}\nBehavior: {selected_theme['role_A']['behavior']}\nGoal: {selected_theme['role_A']['goal']}"
-    content_role_B = f"Role B:\nCharacter: {selected_theme['role_B']['character']}\nBehavior: {selected_theme['role_B']['behavior']}\nGoal: {selected_theme['role_B']['goal']}"
-
+    # 提取 role_A 和 role_B（修正 role_B 的信息读取）
+    content_role_A = (
+        f"Role A:\n"
+        f"Character: {selected_theme['role_A']['character']}\n"
+        f"Behavior: {selected_theme['role_A']['behavior']}\n"
+        f"Goal: {selected_theme['role_A']['goal']}\n"
+        f"Information: {selected_theme['role_A']['information']}"
+    )
+    content_role_B = (
+        f"Role B:\n"
+        f"Character: {selected_theme['role_B']['character']}\n"
+        f"Behavior: {selected_theme['role_B']['behavior']}\n"
+        f"Goal: {selected_theme['role_B']['goal']}\n"
+        f"Information: {selected_theme['role_B']['information']}"
+    )
+    
     # 读取 `setting`
     content_setting = selected_theme["background"]
 
-    # 生成关键信息点
-    key_points = extract_asymmetric_points(content_role_A, content_role_B, content_setting)
+    # 直接构造双方的关键信息点（各自4个信息点）
+    key_points = {
+        "A_exclusive": [
+            {"field": "character", "point": selected_theme['role_A']['character']},
+            {"field": "behavior", "point": selected_theme['role_A']['behavior']},
+            {"field": "goal", "point": selected_theme['role_A']['goal']},
+            {"field": "information", "point": selected_theme['role_A']['information']}
+        ],
+        "B_exclusive": [
+            {"field": "character", "point": selected_theme['role_B']['character']},
+            {"field": "behavior", "point": selected_theme['role_B']['behavior']},
+            {"field": "goal", "point": selected_theme['role_B']['goal']},
+            {"field": "information", "point": selected_theme['role_B']['information']}
+        ]
+    }
     
     # 保存关键信息点
     with open(f'consensus/{j+1}_setting_key_points.json', 'w') as f:
         json.dump(key_points, f, ensure_ascii=False, indent=2)
     
-    # 初始化共识跟踪
+    # 初始化共识跟踪（对每个信息点增加 discovered 标记）
     consensus = {
-        "A_exclusive": [{"point": p, "discovered": False, "round": -1} for p in key_points['A_exclusive']],
-        "B_exclusive": [{"point": p, "discovered": False, "round": -1} for p in key_points['B_exclusive']]
+        "A_exclusive": [
+            {"field": p["field"], "point": p["point"], "discovered": False, "round": -1} 
+            for p in key_points["A_exclusive"]
+        ],
+        "B_exclusive": [
+            {"field": p["field"], "point": p["point"], "discovered": False, "round": -1} 
+            for p in key_points["B_exclusive"]
+        ]
     }
 
     # 读取 `instruction_A` 和 `instruction_B`
@@ -129,7 +146,7 @@ for j in range(2, len(settings)):  # 遍历 JSON 数组
         # `B` 分析 `A` 的第一句并生成回应
         messages = [
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\n{content_instruction_B}\nA's first utterance: {A_utterance}\nB, based on your role and the background, and strictly following the steps and format of instruction_B, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
+            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\nA's first utterance: {A_utterance}\nB, based on your role and the background, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
         ]
         response_B = client.chat.completions.create(model=model_name, messages=messages)
         B_utterance = response_B.choices[0].message.content
@@ -142,14 +159,14 @@ for j in range(2, len(settings)):  # 遍历 JSON 数组
         """基于上一轮对话生成下一轮对话，并进行心理推理"""
         messages_A = [
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_A}\n{content_instruction_A}\nPrevious conversation:\n{prev_script}\nA, based on your role and the background and previous conversation, and strictly following the steps and format of instruction_A, generate your response.\n(Additional requirements: Only one line in the answer starts with 'A:',Do not make any bold modifications either.)"}
+            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_A}\nPrevious conversation:\n{prev_script}\nA, based on your role and the background and previous conversation, generate your response.\n(Additional requirements: Only one line in the answer starts with 'A:',Do not make any bold modifications either.)"}
         ]
         response_A = client.chat.completions.create(model=model_name, messages=messages_A)
         A_utterance = response_A.choices[0].message.content.strip()
 
         messages_B = [
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\n{content_instruction_B}\nPrevious conversation:\n{prev_script}\nB, based on your role and the background and previous conversation, and strictly following the steps and format of instruction_B, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
+            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\nPrevious conversation:\n{prev_script}\nB, based on your role and the background and previous conversation, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
         ]
         response_B = client.chat.completions.create(model=model_name, messages=messages_B)
         B_utterance = response_B.choices[0].message.content.strip()
@@ -185,35 +202,34 @@ for j in range(2, len(settings)):  # 遍历 JSON 数组
         # 检查共识进展
         progress = check_consensus_progress(script, key_points)
         
-        # 在每轮对话后分析共识进展
-        for idx in progress.get('B_discovered', []):
-            if 0 <= idx < len(consensus["A_exclusive"]) and not consensus["A_exclusive"][idx]["discovered"]:
-                consensus["A_exclusive"][idx].update({
-                    "discovered": True,
-                    "round": i+1
-                })
+        # 更新共识进度：B_discovered 表示B获取了A的某个信息点；A_discovered 表示A获取了B的某个信息点
+        for field in progress.get('B_discovered', []):
+            for item in consensus["A_exclusive"]:
+                if item["field"] == field and not item["discovered"]:
+                    item["discovered"] = True
+                    item["round"] = i + 1
+        for field in progress.get('A_discovered', []):
+            for item in consensus["B_exclusive"]:
+                if item["field"] == field and not item["discovered"]:
+                    item["discovered"] = True
+                    item["round"] = i + 1
         
-        for idx in progress.get('A_discovered', []):
-            if 0 <= idx < len(consensus["B_exclusive"]) and not consensus["B_exclusive"][idx]["discovered"]:
-                consensus["B_exclusive"][idx].update({
-                    "discovered": True,
-                    "round": i+1
-                })
-        
-        # 保存当前进展
-        with open(f'consensus/{j+1}_consensus_progress.json', 'r+') as f:
-            data = json.load(f)
+        # 保存当前进展到文件
+        with open(f'consensus/{j+1}_consensus_progress.json', 'r+', encoding='utf-8') as f:
+            try:
+                data = json.load(f)
+            except json.JSONDecodeError:
+                data = []
             data.append({
-            "setting": j+1,
-            "round": i+1,
-            "progress": {
-                "B_discovered": [p["point"] for p in consensus["A_exclusive"] if p["discovered"]],
-                "A_discovered": [p["point"] for p in consensus["B_exclusive"] if p["discovered"]]
-            }
+                "setting": j + 1,
+                "round": i + 1,
+                "progress": {
+                    "B_discovered": [p["field"] for p in consensus["A_exclusive"] if p["discovered"]],
+                    "A_discovered": [p["field"] for p in consensus["B_exclusive"] if p["discovered"]]
+                }
             })
             f.seek(0)
-            # 设置 indent 参数为 4，使输出的 JSON 数据格式化，每个元素换行显示
-            json.dump(data, f, ensure_ascii=False,indent=4)
+            json.dump(data, f, ensure_ascii=False, indent=4)
             f.truncate()
         
         # 进行信息测试(感觉应该加在B发言之后)
@@ -295,13 +311,13 @@ for j in range(2, len(settings)):  # 遍历 JSON 数组
     print(f"Evaluating the script...")
     evaluation = "Evaluating:\n" + evaluate_script(script)
     
-    # 进行自评
-    print(f"Self-evaluating the script...")
-    evaluation += "\n\nSelf-evaluating:\n" + self_evaluation(script)
+    # # 进行自评
+    # print(f"Self-evaluating the script...")
+    # evaluation += "\n\nSelf-evaluating:\n" + self_evaluation(script)
     
-    # 进行互评
-    print(f"Mutual-evaluating the script...")
-    evaluation += "\n\nMutual-evaluating:\n" + mutual_evaluation(script)
+    # # 进行互评
+    # print(f"Mutual-evaluating the script...")
+    # evaluation += "\n\nMutual-evaluating:\n" + mutual_evaluation(script)
     
     # 将评价结果写入文件 score_details.txt
     with open(f'scores/{j+1}_score_details.txt', 'w', encoding='utf-8') as file:
@@ -316,6 +332,5 @@ for j in range(2, len(settings)):  # 遍历 JSON 数组
             file.write(line + "\n")
         file.write("\n")   
          
-    print(f"Setting {j + 1} is finished.")
-    print("")
+    print(f"Setting {j + 1} is finished.\n")
 print("All settings are finished.")
