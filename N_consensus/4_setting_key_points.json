@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Gentle and caring, but has become somewhat silent recently due to work changes."
+    },
+    {
+      "field": "behavior",
+      "point": "Occasionally explains late arrivals by citing busyness, with a hint of mild fatigue in the tone."
+    },
+    {
+      "field": "goal",
+      "point": "Hopes to ease the tension between them with brief responses while maintaining personal privacy."
+    },
+    {
+      "field": "information",
+      "point": "A has just received a work transfer notice and the sudden increase in work pressure has resulted in reduced daily communication."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Sensitive and perceptive, with strong empathy and a yearning for more companionship."
+    },
+    {
+      "field": "behavior",
+      "point": "Expresses concern through gentle questions and subtle hints, trying to prompt A to explain more about the situation."
+    },
+    {
+      "field": "goal",
+      "point": "Hopes to receive more emotional feedback from A to bridge the growing communication gap."
+    },
+    {
+      "field": "information",
+      "point": "B has noticed A's low mood after consecutive overtimes and objectively believes that the work changes might be the cause."
+    }
+  ]
+}

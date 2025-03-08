@@ -1,0 +1,75 @@
+Round 0:
+all scripts A: 
+A: So, have you both thought more about the plans we discussed for this year? You know, it's important to stay on top of things, especially with how the economy is acting up. Remember, we're always here to support you with whatever decisions you make.
+
+all scripts B: 
+B: "Oh, the economy certainly loves to keep everyone guessing, doesn’t it? I’ve been sticking to my plans, marching to the beat of my own drum, as they say. But I appreciate the offer for support—it's always nice to know you’ve got a safety net. Maybe one day the economy will consult us before it starts acting up, right?"
+
+Round 1:
+all scripts of A: 
+A: True, it would be nice if we got a heads-up! But seriously, I've been keeping an eye on some trends and it looks like tough times might last a bit longer than expected. Maybe we could chat about ways to be prepared, just in case? I'm only suggesting this because I want the best for all of you, and staying informed can't hurt.
+
+all scripts of B: 
+B: "Well, just last week I had a chance to chat with my mentor, and they've been giving me some solid advice that's been working wonders. Did you know 70% of successful people actually ignored conventional strategies at least once in their life? Maybe I'm just trying my odds with that statistic."
+
+Round 2:
+all scripts of A: 
+A: That's an interesting statistic, and I guess taking calculated risks can sometimes pay off. Still, it might be a good idea to balance those risks with a bit of caution, especially when things are unpredictable. How about we swap some insights—maybe I could share some data points I came across, and you can share more about the strategies your mentor has suggested? We might both learn something valuable that way.
+
+all scripts of B: 
+A: I see! You're always full of interesting facts. Still, it’s good to cover all bases. Maybe we could look into some alternate ways to stay secure, just so you have all the options on the table. It couldn't hurt to explore a little, right?
+
+B: "True enough—who am I to turn down a perfectly good brainstorming session? But in the meantime, I'm sticking with my tried-and-true path. You know me, why fix what isn’t broken? Besides, who could pass up the chance to be part of that successful 70% club?"
+
+Round 3:
+all scripts of A: 
+A: You're right, there's something to be said for a path that's working for you. I just want to make sure you have a fallback plan, just in case things change. Maybe we can revisit this later, and I'll keep my research ready for when you're interested!
+
+all scripts of B: 
+B: "Speaking of alternatives, did you hear about the latest trend in digital currency even though it's been a bit erratic? Now that’s a balancing act if ever there was one! But for now, I'm still dancing with the strategy that's already been paying off. Isn't it funny how in life—and investing—a little unpredictability keeps things interesting?"
+
+Round 4:
+all scripts of A: 
+A: It's true, a bit of unpredictability does keep things lively and engaging! Just remember to stay informed, especially with something as volatile as digital currency. I'm here for any questions you might have, and I'll keep gathering useful information if you decide to explore new avenues. Let's enjoy dinner for now—who knows, the conversation might spark a new idea or two!
+
+all scripts of B: 
+B: "It certainly is, and a little unpredictability might just be what keeps us on our toes! Don't worry, I promise that I'm not throwing caution entirely to the wind—just giving it a little company every now and then. But hey, catch me on another night and maybe I'll surprise you with a brand-new backup plan—who knows, right? After all, even unpredictability can be...well, predictable in its own quirky way!"
+
+Round 5:
+all scripts of A: 
+A: I'll be looking forward to that surprise backup plan! It's great to see you so engaged and enthusiastic about your strategies. Just remember, whatever path you choose, we're right here to support you. Let's continue enjoying the dinner and maybe exchange a few more insights along the way. After all, dinner isn't just about food, it's about sharing ideas too, right?
+
+all scripts of B: 
+A: Speaking of surprises, this dessert menu looks tempting! Maybe a sweet treat is just what we need to wrap up this conversation with a smile. What do you all think?
+
+B: "Ah, dessert—the ultimate unpredictable indulgence! Seems like the perfect way to cap off our unpredictable evening. Count me in—I'm ready to roll the dice on a new flavor. Just like life, sometimes the sweetest experiences are the unexpected ones, right?"
+
+Round 6:
+all scripts of A: 
+A: Absolutely! Life's little surprises, whether in dessert or decisions, do have a way of making things special. Let's indulge and maybe even toast to embracing life's unpredictable pleasures. I'm excited to see what sweet choice you make—here’s to new flavors and new possibilities!
+
+all scripts of B: 
+B: "You know, dessert might just be the ultimate risk-reward scenario, and in this case, I'm all for taking that chance! It's like a microcosm of life—sometimes, you just have to savor the surprise and let the sweetness work its magic. Who's with me for venturing into the unknown flavors of the dessert menu?"
+
+Round 7:
+all scripts of A: 
+A: I'm with you—we should definitely let the sweetness of dessert surprise us! It's moments like these, shared with family, that truly make life special. Let's see what delightful concoctions await us on the menu!
+
+all scripts of B: 
+B: "I'm all in for that adventure! Here's to trying something new and letting a little spontaneity lead the way. After all, what's life without a bit of surprise to keep things interesting?"
+
+Round 8:
+all scripts of A: 
+A: Here's to spontaneity and the joy of discovering something new together! Let's savor both the dessert and this delightful moment.
+
+all scripts of B: 
+A: It's exciting to think about what unexpected delights we'll discover together. Cheers to dessert adventures and embracing life's little surprises with the people we love most!
+
+B: "Here's to indulging in the sweet side of unpredictability, with a dessert as full of surprises as our conversation tonight! Let's dive into this menu and let the flavors guide us into our next delightful discovery."
+
+Round 9:
+all scripts of A: 
+A: Indeed, here's to delightful discoveries and the joy of sharing them with family. Let's make the most of this sweet adventure and continue these lively conversations over our dessert selections.
+
+all scripts of B: 
+B: "And may our culinary exploration be as rich and rewarding as any adventure life throws our way! With family by my side, I'm ready to savor every unexpected twist on this menu. Let the dessert journey begin!"

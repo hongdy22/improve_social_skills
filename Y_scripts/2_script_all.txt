@@ -1,0 +1,290 @@
+Round 0:
+all scripts A: 
+A: It's amazing how this café hasn't changed much, isn’t it, even after all these years? I can still remember the times we spent here, talking about our dreams and plans. Speaking of changes, life's been a bit of an adventure lately, taking paths I didn't quite expect. How about you?
+
+all scripts B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets explicit information that A finds it remarkable that the café has remained mostly unchanged over the years and is reflecting on past memories and life’s unpredictable journey.
+
+implicature: Because B believes in the fact that A may be going through some significant changes, in A’s last utterance, B gets the implicature that A might be looking to share or discuss recent life developments.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that reminiscing brings comfort and connection to past shared experiences, B would like to inform A of B’s own stable and ongoing life in recent years.
+
+communicative intention: Because B believes in the fact that mutual updates can strengthen their friendship, B would like to draw A’s attention to the continuity and stability in both their lives as a comforting topic.
+
+So B would utter like that:...
+
+B: It’s incredible, isn’t it? Some places just hold their charm forever. As for me, life has been relatively calm, just continuing the routine I’ve settled into. It's always reassuring to have some constants along with the changes. How's your adventure shaping up?
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B finds comfort in stability and routine while acknowledging that change is a natural part of life.
+
+implicature: Because A believes in the fact that B appreciates stability and allows for changes, in B’s last utterance, A gets the implicature that B might find A’s current life stage both intriguing and potentially unsettling, but anticipates hearing more about it.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that B is interested in understanding more about A’s life changes, A would like to inform B of a particular significant life event that recently occurred, yet do so in a humble, understated way.
+
+communicative intention: Because A believes in the fact that B values the stability they have, A would like to draw B’s attention to the idea that changes, though unexpected, can enrich one's life in unexpected ways.
+
+So A would utter like that: "Well, my adventure took quite an unexpected turn recently. I’ve decided to start a small side project—I’ve always had an interest in photography, so I’m exploring that a bit more. It’s been quite fulfilling in ways I didn’t anticipate. Do you ever think about pursuing something out of your routine?"
+
+A: Well, my adventure took quite an unexpected turn recently. I’ve decided to start a small side project—I’ve always had an interest in photography, so I’m exploring that a bit more. It’s been quite fulfilling in ways I didn’t anticipate. Do you ever think about pursuing something out of your routine?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets the explicature that A finds the café nostalgically unchanged and is reflecting on unexpected life changes and experiences.
+
+implicature: Because B believes in the fact that A appreciates stability and is reflecting on their life's unpredictability, in A’s last utterance, B gets the implicature that A might be seeking a sense of connection or understanding in the discussion about life's changes.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that A is considering life’s unpredictability, B would like to inform A of the importance of having a balanced mix of change and stability. 
+
+communicative intention: Because B believes in the fact that A appreciates shared memories and discussions, B would like to draw A’s attention to the value of those constants amidst change.
+
+So B would utter like that:
+B: Your life sounds quite fascinating and a bit like an adventure novel. It’s interesting how the tapestry of our experiences weaves in unexpected colors and patterns, isn’t it? But amidst all that, having some reliable anchors, like this café and our enduring friendship, provides a comforting balance, don't you think?
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B finds A's life interesting and values stability and friendship as balancing factors amidst change.  
+implicature: Because A believes in the fact that stability can be comforting, in B’s last utterance, A gets the implicature that B might appreciate hearing about how A finds comfort amidst changes.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that sharing how to balance change and stability might resonate with B, A would like to inform B of finding a similar comforting balance through photography.  
+communicative intention: Because A believes in the fact that emphasizing shared values can foster support, A would like to draw B’s attention to the joy that the small constants bring amidst life’s changes.
+
+So A would utter like that:
+A: Absolutely, the constants, like this café and our friendship, really do offer a sense of stability. It’s like my photography; capturing familiar faces and places amidst the ever-changing scenes feels like holding onto something real and comforting. It’s another way I’ve found balance in the midst of the adventure. Do you ever find comfort in the familiar while welcoming new experiences?
+
+all scripts of B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance B get explicature that A has embarked on a small side project exploring photography, which has provided unexpected fulfillment.
+implicature: Because B believe in the fact that A values new experiences and growth while finding meaning in exploration, in A’s last utterance, B get implicature that A might be searching for balance or fulfillment beyond the routine aspects of life.
+
+Plan B’s next utterance:
+informative intention: Because B believe in the fact that A is currently enthusiastic about their new venture, B would like to inform A of their admiration for A's willingness to step into new experiences.
+communicative intention: Because B believe in the fact that such endeavors can lead to personal growth and satisfaction, B would like to draw A's attention to the positive aspects of engaging with one's interests wholeheartedly.
+
+So B would utter like that:
+B: It's truly inspiring to hear you’re following your interest in photography. Embracing these creative outlets often leads us to unexpected personal growth, and it's commendable that you're exploring this part of you. Have you found any favorite subjects or themes in your photography thus far?
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B is genuinely interested in A's photography and sees it as a meaningful pursuit.
+
+implicature: Because A believes in the fact that B values creative exploration and personal growth, in B’s last utterance, A interprets the implicature that B appreciates the efforts A is making and might see similar potential in their own interests.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that B is interested in creative outlets, A would like to inform B of the specific aspects of photography that have been particularly meaningful.
+
+communicative intention: Because A believes in the fact that B values personal growth and new experiences, A would like to draw B’s attention to the idea that exploring such interests can lead to fulfilling discoveries.
+
+So A would utter like that:
+
+A: Thank you—I’ve actually found a special interest in capturing candid moments and the emotions within them. It’s been incredibly rewarding to see how photography captures the essence of a fleeting moment. You might find joy in exploring a creative outlet too, even if just as a hobby. Have you ever thought about something you might like to try on a personal level?
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A finds comfort in familiar constants while embracing new experiences, particularly through the lens of photography.  
+implicature: Because B believes in the fact that A is finding balance through exploring photography, in A’s last utterance, B gets the implicature that A values capturing and holding onto moments that offer stability amidst change.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that photography is providing a grounding experience for A, B would like to inform A of B's appreciation for how art can reflect one's personal journey.  
+communicative intention: Because B believes in the fact that A is using photography as a means to capture stability, B would like to draw A’s attention to the idea that familiar subjects can also reveal new insights over time.  
+
+B: It's wonderful how art, like your photography, can reflect our personal journeys and offer a sense of stability. Often, the familiar faces and places we capture can reveal new insights about ourselves and our experiences over time. Have you noticed any unexpected things through your lens lately?
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B sees photography as not only a reflection of personal journeys but also as a means to gain insights into oneself and life experiences.  
+implicature: Because A believes in the fact that meaningful art can lead to self-discovery, in B’s last utterance, A gets the implicature that B values photography for its potential to reveal deeper insights and make connections.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that photography has revealed unexpected insights, A would like to inform B of a specific instance where photography led to a personal realization.  
+communicative intention: Because A values the reflective nature of art, A would like to draw B’s attention to the significant impact these realizations have on personal growth.
+
+So A would utter like that:  
+A: Actually, yes, quite recently I noticed how people’s expressions in candid shots unveil layers of stories I never anticipated, sometimes making me reflect more on my own life. It’s intriguing how an image can evoke such powerful thoughts. I wonder if similar reflections might arise for you by diving into something new. Have you contemplated exploring a new perspective or medium that might offer you such insights?
+
+all scripts of B: 
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A finds joy in capturing candid moments and is suggesting that B consider trying something new on a personal level.  
+implicature: Because B believes in the fact that A is inviting B to share in the joy of exploration, in A’s last utterance, B gets the implicature that A is encouraging B to open up about potential personal interests outside routine.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that new experiences can enrich life, B would like to inform A of the appreciation for capturing the unexpected through photography.  
+communicative intention: Because B believes in the importance of long-standing friendship, B would like to draw A’s attention to how capturing these moments can deepen connections.  
+
+B: It's amazing how photography can capture those fleeting, yet poignant moments, offering a new perspective on life's familiar rhythm. I've often admired how it can shed light on emotions and connections we might overlook in everyday life. Perhaps exploring a similar path with writing could be intriguing for me. It might be a way to reflect on and articulate the interesting layers of connections, much like our enduring friendship.
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B admires how photography can provide insights into emotions and connections, and sees the idea of exploring a similar creative path through writing as intriguing.
+implicature: Because A believes in the fact that B values exploring new experiences and appreciates introspection, in B’s last utterance, A gets implicature that B is open to discovering new perspectives and might be seeking reassurance about starting something new.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B has an interest in introspection and reflection, A would like to inform B of how rewarding it is to pursue creative outlets purely for personal growth and reflection.
+communicative intention: Because A believes in the fact that B might be seeking reassurance or encouragement, A would like to draw B’s attention to the supportive nature of exploring new interests, no matter how daunting they may seem at first.
+
+So A would utter like that:
+A: That sounds like a wonderful idea—writing could indeed unravel layers of insight and reflection, much like photography does for me. Often, pursuing these creative endeavors can be profoundly rewarding, offering new perspectives and personal growth along the way. I’m sure whatever path you choose to explore will bring its own unique sense of fulfillment. If you ever decide to try it, I’d love to hear about your journey!
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is noticing deeper stories and reflections through candid photography, which makes A think more about their own life and experiences.  
+implicature: Because B believes in the fact that photography can lead to unexpected reflections and introspections about both self and others, A’s last utterance implies that A is encouraging B to explore something similarly introspective.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that writing can offer introspective insights, B would like to inform A of their interest in exploring writing as a creative and reflective outlet.  
+communicative intention: Because B believes in the fact that there are enriching perspectives to be gained from different creative activities, B would like to draw A’s attention to the potential similarities between photography and writing in terms of personal insights.  
+
+So B would utter like that:  
+B: Reflecting on what you've shared, I have indeed contemplated exploring writing as a form of expression, allowing me to delve into the intricacies of the connections and emotions we often miss. Perhaps, like your photography, it could offer me those unexpected insights and revelations that come from capturing life's narratives in words.
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is genuinely interested in exploring writing as a creative outlet and is considering how it might bring insights and revelations similar to those A experiences with photography.
+implicature: Because A believes in the fact that genuine artistic exploration can lead to meaningful personal insights, in B’s last utterance, A gets the implicature that B is seeking encouragement and validation for this new creative exploration.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that creative pursuits are important for personal development, A would like to inform B of the personal growth and satisfaction that comes from diving into a new form of creative expression.
+communicative intention: Because A believes in the fact that mutual support can strengthen creative endeavors, A would like to draw B’s attention to the potential for writing to be a rewarding and insightful journey, much like A's own experience with photography, and to encourage B to embark on this path.
+
+So A would utter like that:
+A: I'm truly excited for you to explore writing; it could definitely be a transformative journey, much like photography has been for me. It’s fascinating how these creative processes can uncover hidden depths within us, revealing stories we’ve yet to tell. I believe you’ll discover something quite profound in the world of words. Let me know if there’s ever anything I can do to support you along the way!
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A sees writing as a new path for B that could offer similar rewards to those A finds in photography.  
+implicature: Because B believes in the fact that A values personal growth through creative pursuits, in A’s last utterance, B gets the implicature that A is supportive and encouraging about B exploring writing.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that exploring creative outlets fosters personal growth and insights, B would like to inform A of B’s interest in writing as a creative pursuit for personal insight.  
+communicative intention: Because B believes in the fact that creative endeavors can lead to unexpected insights and connections, B would like to draw A’s attention to the common ground of personal discovery through creativity.  
+
+So B would utter like that:  
+B: It’s encouraging to hear your enthusiasm for my potential exploration of writing. Like your photography, discovering new layers of meaning in seemingly ordinary experiences could indeed bring a profound sense of fulfillment. I’m grateful for your encouragement, and I look forward to sharing any reflections this journey might bring. Thanks for inspiring this contemplation.
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B finds value in exploring writing as a new form of expression and appreciates A's inspiration and support.
+implicature: Because A believes in the fact that encouragement and shared experiences strengthen friendships, in B’s last utterance, A gets the implicature that B values the camaraderie and mutual inspiration between them.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that creative journeys often benefit from shared experiences and encouragement, A would like to inform B of the enjoyment found in mutual support during these explorations.
+communicative intention: Because A believes in the fact that their friendship and shared interest can be a source of support and growth, A would like to draw B’s attention to the idea of collaborating or exchanging insights as they both explore their creative paths.
+
+So A would utter like that:
+A: Collaboration and sharing insights during our respective creative journeys might be a delightful way to enrich this experience, don’t you think? I'm sure exchanging thoughts and reflections on photography and writing will bring us closer and provide even more inspiration.
+
+all scripts of B: 
+B’s Turn: 
+
+Analysis A’s last utterance: 
+
+explicature: In A’s last utterance, B gets the explicature that A is sincerely enthusiastic and supportive about B exploring writing as a creative outlet. 
+
+implicature: Because B believes in the fact that creative pursuits can lead to personal growth and unexpected insights, in A’s last utterance, B gets the implicature that A values the transformative nature of artistic expression and genuinely desires to support B’s journey.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that pursuing new creative activities often leads to profound insights, B would like to inform A of the potential fulfilling nature of writing.
+
+communicative intention: Because B appreciates A’s supportive nature and enthusiasm, B would like to draw A’s attention to the mutual inspiration and encouragement that their friendship provides.
+
+So B would utter like that:
+
+B: I truly value your supportive stance and the shared encouragement that embodies our friendship. It’s remarkable how much we can inspire each other to explore and grow. Writing, much like your adventure with photography, might uncover layers of emotion and depth I haven’t yet perceived. Your support is cherished, and I look forward to sharing this creative exploration with you.
+
+Round 8:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A perceives that B values the supportive dynamic of their friendship and sees potential for personal growth through creative endeavors.  
+implicature: Because A believes in the fact that mutual encouragement strengthens their bond and fosters growth, in B’s last utterance, A interprets that B appreciates the idea of sharing in these creative processes.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that sharing creative pursuits deepens their connection and growth, A would like to inform B of the possibility of jointly organizing a small creative project, such as an exhibit or reading session.  
+communicative intention: Because A believes in the importance of mutual inspiration, A would like to draw B’s attention to how collaborating publicly might enhance their creative expressions and connections with others.
+
+So A would utter like that:  
+A: Perhaps, as we both delve deeper into photography and writing, we could consider organizing a small exhibit or reading session, showcasing our work. It might be a wonderful opportunity to share our insights and creativity with others, enriching not only our journey but also the community around us. What do you think?
+
+all scripts of B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A views collaboration and exchanging insights as a valuable way to enhance their creative journeys and strengthen their friendship.
+implicature: Because B believes in the fact that collaborative exchange can indeed provide inspiration, in A’s last utterance, B gets the implicature that A is inviting and open to sharing their creative experiences with B.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that collaborative exchange can provide inspiration, B would like to inform A of B’s openness to sharing thoughts and reflections with A throughout their creative journeys.
+communicative intention: Because B believes in the fact that collaborative exchange can provide inspiration, B would like to draw A’s attention to the enriching potential of sharing and the supportive nature of their friendship.
+
+So B would utter like that:
+B: I completely agree; sharing our insights and experiences could enrich both of our creative endeavors, offering new perspectives and inspiration. Our friendship’s enduring support and encouragement create a wonderful foundation for such collaborative exploration. I’m excited about the potential for growth that this sharing could bring to both our journeys.
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets that B is enthusiastic about the idea of sharing creative work and values the supportive aspect of their friendship as a foundation for joint exploration.
+implicature: Because A believes in the fact that their friendship and mutual support are important elements for both personal and collaborative growth, in B’s last utterance, A gets the implicature that B is genuinely open to engaging in this collaborative experience, finding value and excitement in the potential for growth it holds.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that collaborative efforts can lead to greater personal and shared creativity, A would like to inform B of the potential positive impact such a project could have on others in their community.
+communicative intention: Because A believes in the fact that B is genuinely interested in pursuing this collaborative venture, A would like to draw B’s attention to the idea of setting a simple goal to start this endeavor.
+
+So A would utter like that:
+A: It warms my heart to see how much you value our friendship and the potential of this creative journey together. Perhaps we could start by setting a small goal—maybe a theme or a specific topic to explore in our works—that could guide us as we develop our ideas further. This could be a promising first step in making our creative visions a reality, don’t you think?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is proposing a collaborative creative event involving their photography and writing to engage more deeply and share with others.  
+implicature: Because B believes in the fact that shared creative projects can deepen connections and foster community, in A’s last utterance, B gets implicature that A desires a shared experience that enhances both personal and communal engagement.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that collaborative endeavors can offer unique insights and extend the impact of individual creative work, B would like to inform A of the enthusiasm B feels toward the idea of a joint initiative.  
+communicative intention: Because B believes in the fact that shared creative ventures can solidify and enrich friendships, B would like to draw A’s attention to the potential impact of their collaboration on both their personal growth and wider community engagement.
+
+So B would utter like that:  
+B: That’s a wonderful idea! A joint exhibit or reading session could truly broaden our horizons and connect us with others in meaningful ways. It could become a testament to how creativity and friendship intertwine so harmoniously, offering inspiration not just to us but to everyone involved.

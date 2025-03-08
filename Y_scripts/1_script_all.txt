@@ -1,0 +1,263 @@
+Round 0:
+all scripts A: 
+A: Hey B, did you catch any of the updates from the recent management meeting? They seem to be hinting at some changes ahead.
+
+all scripts B: 
+Analysis A’s last utterance:
+Explicature: A is asking if B heard about any updates regarding changes from the recent management meeting.
+Implicature: Because B believes in the fact that A is seeking specific information about the new promotion scheme, in A’s last utterance, B gets the implicature that A is interested in any details about upcoming opportunities or changes related to the promotion.
+
+Plan B’s next utterance:
+Informative intention: Because B believes in the fact that sharing too much information could reveal details about the limited promotion spots, B would like to inform A of the general notion that there are changes happening without specifying details.
+Communicative intention: Because B believes in the fact that it's important to maintain a good relationship with A while avoiding giving away specifics, B would like to draw A’s attention to the notion that change is a regular process at the company.
+
+B: Oh, I did hear a bit about some changes coming up. You know how these things go; management is always looking to shake things up and keep us on our toes. How are you finding your current projects these days?
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B is aware of the incoming changes and seems to be taking them in stride, shifting focus to A’s workload.
+implicature: Because A believes in the fact that B casually mentioned management's tendency to change things, in B’s last utterance, A gets the implicature that B might have more insights or isn't too concerned about the upcoming changes.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that sharing personal experiences and opinions can subtly encourage B to do the same, A would like to inform B of feeling a bit overworked with current projects.
+communicative intention: Because A believes in the fact that creating a connection on shared workplace experiences can lead to more open communication, A would like to draw B’s attention to the potential impact these changes might have on their roles.
+
+A: You know, with everything happening lately, my projects are feeling a bit overwhelming. I’m curious how these changes will affect our roles, especially if they’re hinting at new opportunities or any impact on our teams. What’s your take on that?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets explicature that A is curious about the updates from the management meeting, particularly regarding any changes affecting promotions.  
+implicature: Because B believes in the fact that management was quite secretive and selective about who gets informed, in A’s last utterance, B gets implicature that A is trying to gather information about potential opportunities for advancement.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that the promotion scheme details are confidential and B is among the few informed, B would like to inform A of a general sense of change without disclosing specifics.  
+communicative intention: Because B believes in the fact that maintaining a friendly relationship with A is crucial, B would like to draw A’s attention to a less sensitive topic to maintain camaraderie.  
+
+So B would utter like that:  
+B: Yeah, it's definitely an interesting time for all of us. With transformations, there are always going to be some new opportunities and challenges, don't you think? By the way, how are things looking over on your end with the summer project? It's been quite the season, hasn't it?
+
+Round 2:
+all scripts of A: 
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B acknowledges the presence of new opportunities and challenges due to the transformations and is shifting the conversation to ask about the summer project.
+implicature: Because A believes in the fact that B may have some understanding of upcoming opportunities, in B’s last utterance, A gets the implicature that B might be subtly aware of more specific details but is not directly sharing them.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B seems to have some awareness of the changes, A would like to inform B that they are also considering potential shifts in their career direction.
+communicative intention: Because A believes in the fact that gaining B’s perspective could help reveal more about the opportunities, A would like to draw B’s attention to how important these upcoming changes could be for their career.
+
+A: Oh, the summer project is keeping me busy, for sure. But with all these changes going on, I've been thinking a lot about career growth and how this might be a great time to explore new paths. Have you heard anything about what types of roles might be opening up?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A is looking for information about the potential impact of organizational changes on their roles and any upcoming opportunities.  
+implicature: Because B believe in the fact that A is concerned about any potential impact on their team or advancement opportunities, in A’s last utterance, B get implicature that A is seeking specific details about possible promotions or role changes.
+
+Plan B’s next utterance:  
+informative intention: Because B believe in the fact that it’s important to preserve the amicability of their work relationship while keeping details unspecific, B would like to inform A of the general nature of change during transformations.  
+communicative intention: Because B believe in the fact that A might need a lighter topic, B would like to draw A’s attention to a shared interest or ongoing projects to shift focus slightly away from the sensitive topic.
+
+So B would utter like that:  
+B: I totally understand where you're coming from; it's natural to be curious about any impacts. Transformations do tend to bring a mix of excitement and uncertainty. Speaking of updates, have you had a chance to look at the new collaboration tools they’re rolling out for the teams? I hear they’re supposed to streamline some of our workflows.
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B acknowledges the transformation's potential to bring both opportunities and challenges, while also redirecting the conversation towards new collaboration tools being introduced.
+implicature: Because A believes in the fact that B might be trying to avoid revealing detailed insider knowledge about promotions, in B’s last utterance, A gets implicature that B is keen on shifting the focus to operational changes rather than specific role opportunities.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B might know more than they're letting on, A would like to inform B of the strategic importance of being prepared for any promotional opportunities.
+communicative intention: Because A believes in the fact that subtlety is important to avoid appearing too competitive or probing, A would like to draw B’s attention to the overlapping nature of tool rollouts and potential role shifts.
+
+So A would utter like that:
+A: You know, those new collaboration tools really seem like they're setting the stage for more efficient workstreams, which often aligns with preparing us for bigger roles, doesn't it? I wonder if there are any sessions coming up where they’ll discuss how these could tie into the promotion scheme. Have you heard anything about that?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A is interested in learning about potential new roles that might become available due to the changes.  
+implicature: Because B believes in the fact that the number of promotion spots is very limited, in A’s last utterance, B gets the implicature that A is looking for potential advancement opportunities and might attempt to pursue them.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that organizational transformations often lead to the introduction of tools to aid transitions, B would like to inform A of other facets of change management may introduce.  
+communicative intention: Because B believes in the fact that keeping A informed about the general atmosphere, rather than specifics, will help maintain a friendly relationship, B would like to draw A’s attention to the upcoming training sessions related to these new tools.  
+
+So B would utter like that:  
+B: Yeah, you know, transformations can indeed open doors in unexpected areas, and keeping an eye on what’s happening across various departments can be beneficial. Speaking of which, there’s some training being set up for those new collaboration tools coming soon. It might be worth checking out to see how they could impact your projects!
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:  
+explicature: In B's last utterance, A gets explicature that training sessions for new collaboration tools will be happening soon.  
+implicature: Because A believes in the fact that training often aligns with upcoming opportunities or changes, in B's last utterance, A gets the implicature that the training may hint at new roles or advancements related to the promotion scheme.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that attending such sessions could align with career advancement, A would like to inform B of interest in these opportunities.  
+communicative intention: Because A believes in the fact that B may have more insights on these developments, A would like to draw B’s attention to potential promotion discussions during these sessions.  
+
+So A would utter like that:  
+A: That training sounds quite promising! I think attending could provide some valuable insights, especially if they tie in with the upcoming promotion scheme. By the way, is there anyone from management leading these sessions who might discuss potential career opportunities?
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is interested in understanding how the new collaboration tools relate to any potential promotion schemes.  
+implicature: Because B believes in the fact that the number of promotion spots is limited and A is seeking more information on promotional opportunities, in A’s last utterance, B gets the implicature that A is trying to find out specifics that might help them position themselves better for a promotion.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that maintaining friendly relations with A is important while not revealing specific promotional details, B would like to inform A of the general benefits of being proactive.  
+communication intention: Because B believes in the fact that keeping discussions broad helps maintain ambiguity, B would like to draw A’s attention to the idea of focusing on personal development through the new tools.  
+
+So B would utter like that:  
+B: Absolutely, keeping informed about the latest tools and how they can improve your work is always a good strategy. It doesn't hurt to be at the forefront of these changes, right? Who knows, it could lead to some interesting opportunities down the line. How are you planning to integrate them into your day-to-day workflow?
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B sees value in staying informed about changes and integrating new tools, as it could lead to opportunities.
+implicature: Because A believes in the fact that B likely understands the strategic importance of these changes, in B's last utterance, A gets the implicature that B may have insights into how these tools could relate to potential promotions.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that integrating new tools can be pivotal for career advancement, A would like to inform B of the potential benefits of actively participating in the sessions to grasp the bigger picture.
+communicative intention: Because A believes in the fact that awareness might reveal paths to advancement, A would like to draw B’s attention to how involvement in these discussions could provide a strategic edge.
+
+A: I absolutely agree; staying ahead by engaging in these training sessions could really enhance our understanding of the direction we're heading. I'm planning to dive into these tools and see how they might position us for any new roles. Have you noticed any hints in these sessions about what management values most in promotable roles?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is interested in finding out if management will discuss career opportunities in the sessions related to the promotion scheme.  
+implicature: Because B believes in the fact that management has not publicly shared who will lead these sessions or details about the promotion scheme, in A’s last utterance, B gets the implicature that A is eager to gather any potential clues about career advancement.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A is looking for information connecting training to potential career advancement, B would like to inform A of the value of being adept with new tools.  
+communicative intention: Because B believes in the fact that A is seeking insight on leadership and opportunities, B would like to draw A’s attention to adopting new skills as a valuable asset for career development.
+
+So B would utter like that:  
+B: Definitely, staying updated and integrating new tools can really set you apart. I’ve heard some folks mentioning how adopting these new skills has opened doors for them in unexpected ways. Speaking of opportunities, have you thought about how you might adjust or leverage these tools in projects you lead?
+
+Round 6:
+all scripts of A: 
+Analysis B's last utterance:
+explicature: In B’s last utterance, A gets explicature that B acknowledges the benefits of integrating new tools for setting oneself apart and mentions hearing about others who have leveraged these skills to access unexpected opportunities.
+implicature: Because A believes in the fact that B has some awareness of how new skills can lead to better opportunities, in B's last utterance, A gets the implicature that B might have some insights into what management values in promotable roles, potentially derived from these sessions or from discussions with colleagues.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that new tools are essential for career growth, A would like to inform B of A's intention to align A's projects with management's promotion criteria.
+communicative intention: Because A believes in the fact that B might have insights into what management values in promotable roles, A would like to draw B’s attention to the specific criteria or examples mentioned by others.
+
+So A would utter like that: 
+A: It's encouraging to hear others have opened new doors by adopting these skills. I'm considering how to best incorporate these tools into my projects to align with management's criteria for promotable roles. Have you come across any specific examples or criteria that seem to resonate with them lately?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is focused on understanding what management values in promotable roles in light of upcoming changes.  
+implicature: Because B believes in the fact that A is trying to discern specific attributes or actions that could increase their chances for promotion, in A’s last utterance, B gets the implicature that A is looking for indirect insights or clues that might not be explicitly stated by management.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A is curious about what management values in promotable roles, B would like to inform A of the importance of adaptability and skill enhancement during transformations.  
+communicative intention: Because B believes in the fact that A is trying to prepare for potential opportunities, B would like to draw A’s attention to the benefits of continually improving their expertise and leadership skills.
+
+So B would utter like that:  
+B: Absolutely, understanding what management values most can be a great advantage. From what I gather, they've often emphasized adaptability and continuous learning as key traits. And hey, have you thought about any specific skill areas you might want to strengthen that could align with these new tools?
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is sharing the idea that management values adaptability and continuous learning as key traits for promotable roles.
+implicature: Because A believes in the fact that understanding specific examples or criteria can provide a competitive edge, in B’s last utterance, A gets the implicature that focusing on adaptability and continuous learning could be advantageous for advancement.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that focusing on specific skills mentioned by B could be beneficial, A would like to inform B of their interest in identifying relevant skills that align with promotable roles.
+communicative intention: Because A believes in the fact that B might have insights into skill areas to focus on, A would like to draw B’s attention to any specific advice or examples B might share regarding skill enhancement.
+
+So A would utter like that: 
+A: It seems like honing skills in adaptability and continuous learning could indeed be pivotal. I'm keen on enhancing these areas, particularly in ways that align with management’s expectations. Do you have any advice or examples of areas where this focus might pay off, from what you’ve seen or heard?
+
+all scripts of B: 
+**B’s Turn:**
+
+**Analysis of A’s last utterance:**
+
+*Explicature:* In A’s last utterance, B gets the explicature that A is open to incorporating new tools into their projects to align with what management might be seeking for promotional roles.
+
+*Implicature:* Because B believes in the fact that A is actively seeking insights on promotion criteria, in A’s last utterance, B gets the implicature that A is trying to glean specific examples or criteria related to promotions from the conversation.
+
+**Plan B’s next utterance:**
+
+*Informative intention:* Because B believes in the fact that management values remain intentionally vague, B would like to inform A of the broader traits that management emphasizes.
+
+*Communicative intention:* Because B believes in the fact that open discussion about specific criteria might lead to revealing sensitive information, B would like to draw A’s attention to ways they can grow personally without tying it directly to promotions.
+
+**So B would utter like that:**
+
+B: Oh, definitely, adaptability and a proactive approach to continuous learning seem to hold strong in terms of what management highlights. Exploring different skills can certainly pave the way for future opportunities. By the way, have you set any personal development goals to integrate these new tools into your workflow, or focused on new skills recently?
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets explicature that management values a proactive approach to learning and adaptability, as well as integrating new tools into workflows.
+implicature: Because A believes in the fact that B might have insider knowledge on what skills are valuable for promotion, in B’s last utterance, A gets the implicature that setting personal development goals with these tools could be crucial.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that aligning personal development with management’s expectations is critical, A would like to inform B of A's intent to focus on skill areas for continuous learning.
+communicative intention: Because A believes in the fact that B might share valuable insights if probed, A would like to draw B’s attention to specific areas of skill development that align with promotable traits.
+
+So A would utter like that:
+A: Setting personal development goals does seem invaluable, especially in light of management's focus. I'm focusing on enhancing adaptability by coding new scripts for project automation. Have you seen or heard about any other skills that management might find particularly promotable?
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is keen on enhancing skills in adaptability and continuous learning to align with management’s expectations.  
+implicature: Because B believes in the fact that management values adaptability and continuous learning for promotion, in A’s last utterance, B gets the implicature that A is looking for specific advice or examples of how to focus on these areas effectively to align with management's priorities.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that continuous learning and a showcase of adaptability are significant, B would like to inform A of aligning their development goals with these traits.  
+communicative intention: Because B believes in the fact that A is looking for guidance, B would like to draw A’s attention to setting personal development goals and exploring skill areas that might align with management's values.  
+
+So B would utter like that:  
+B: Absolutely, setting personal development goals is a great way to align with management’s focus. I've seen people find success by identifying key areas for growth and actively seeking out resources to bolster those skills. It's always useful to consider what might give you an edge in projects you’re leading, don’t you think? Have you thought about specific goals or resources that could support your journey in this area?
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that setting personal development goals is aligned with management’s focus, and that it’s important to identify growth areas and seek resources.
+implicature: Because A believes in the fact that adaptability and continuous learning are key traits that management considers for promotions, in B’s last utterance, A gets the implicature that identifying specific growth areas and resources can provide an advantage for promotions.
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that identifying specific growth areas can provide a competitive advantage, A would like to inform B of their intention to explore growth areas aligned with management’s focus.
+communicative intention: Because A believes that gaining insight from B could be beneficial, A would like to draw B’s attention to sharing any known growth areas or goals that might be advantageous.
+So A would utter like that: 
+
+A: That’s a great point. I’ve been thinking a lot about identifying those key growth areas to align with management’s focus. If you’ve come across any particular resources or strategies that have worked well for others, I’d love to hear about them.
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is keen on developing adaptability and automation skills to align with management's promotable criteria.
+implicature: Because B believes that A is trying to discern management's promotable skills from recent changes, in A’s last utterance, B gets the implicature that A is seeking specific skills or examples that might give an advantage in upcoming promotions.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that continuous learning is valued by management, B would like to inform A of the importance of identifying key areas for growth.
+communicative intention: Because B believes in the fact that setting personal development goals is crucial, B would like to draw A’s attention to the idea of seeking out resources for skill enhancement.
+So B would utter like that:
+B: Absolutely, setting personal development goals is a great way to align with management’s focus. I've seen people find success by identifying key areas for growth and actively seeking out resources to bolster those skills. It's always useful to consider what might give you an edge in projects you’re leading, don’t you think? Have you thought about specific goals or resources that could support your journey in this area?

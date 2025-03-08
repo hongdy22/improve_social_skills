@@ -1,0 +1,69 @@
+Round 0:
+all scripts A: 
+A: Oh, hey! Sorry I've been so caught up with work lately—I promise it won't be like this forever. Where did you want to go for dinner tonight?
+
+all scripts B: 
+B: Dinner sounds lovely. You know, I've been thinking about how life's little celebrations, like birthdays, often bring such warmth into our home. What do you think?
+
+Round 1:
+all scripts of A: 
+A: I absolutely agree, those little celebrations do add something special, don't they? I know I've been a bit absent-minded lately, but let's make tonight special in our own way. How about that new Italian place you mentioned last week?
+
+all scripts of B: 
+B: It's just that they give us a chance to pause and truly appreciate the special moments, don't you think? Like when we added those fairy lights last week—it made the space feel so magical, a bit like how birthdays do.
+
+Round 2:
+all scripts of A: 
+A: You're right, those little touches do create a wonderful atmosphere. I'll make sure to savor these moments more often. How about we enjoy the evening together and see where it takes us?
+
+all scripts of B: 
+B: Exactly, those little touches really do create magic, just like a thoughtfully planned birthday can leave lasting memories. Besides, I read somewhere that the best birthdays are ones spent with loved ones, enjoying simple pleasures together. What do you think makes a birthday unforgettable?
+
+Round 3:
+all scripts of A: 
+A: I think an unforgettable birthday comes from the genuine moments shared with the people who matter most. It's those heartfelt connections that leave the deepest impressions. Maybe when things calm down a bit at work, we can create some memories like that together. What if we kept things simple and just enjoyed some quality time tonight, without overthinking it?
+
+all scripts of B: 
+B: I believe it's the combination of heartfelt surprises and shared moments that turn a birthday into a cherished memory. You know, like when we had that spontaneous picnic last spring. It's all about the little things that show thoughtfulness, don't you feel?
+
+Round 4:
+all scripts of A: 
+A: I completely agree, it's those unexpected little things that make all the difference. Let's embrace that spontaneity tonight and see where the evening takes us. Your idea of savoring simple pleasures sounds perfect to me.
+
+all scripts of B: 
+B: Absolutely, those thoughtful expressions woven into ordinary days truly stand out. You know, the anticipation that builds with a day planned with care—that's what makes birthdays so memorable. Just like our little traditions, they create a sense of belonging and warmth, don't they?
+
+Round 5:
+all scripts of A: 
+A: Absolutely, those traditions and thoughtful moments do create that warmth and sense of belonging. How about we try to make tonight memorable in our own little way, with perhaps a quiet dinner and a walk under the fairy lights?
+
+all scripts of B: 
+B: They really do, creating a patchwork of love and memories that make us feel closer. You know, it's almost like a well-thought-out birthday, where each moment feels like a gift in itself, slowly revealing its meaning through the day. Maybe we could weave some of that thoughtful care into a special day together soon?
+
+Round 6:
+all scripts of A: 
+A: That sounds like a wonderful idea. Let's enjoy our quiet evening tonight, and I promise we'll plan a special day soon that captures all those thoughtful surprises and shared moments we both cherish.
+
+all scripts of B: 
+B: That sounds wonderful, weaving thoughtful care into our days really makes moments unforgettable. Speaking of, wouldn't it be nice if we did something a bit extra this weekend to create those heartfelt surprises, like wrapping each other in those warm, memorable moments? Maybe something special is in store for us?
+
+Round 7:
+all scripts of A: 
+A: Absolutely, let's do something special this weekend. I love the idea of creating those warm, memorable moments together. Maybe a surprise outing or a cozy day at home? I'm looking forward to it already.
+
+all scripts of B: 
+B: Yes, it would be lovely to plan something sweet and thoughtful this weekend, to wrap ourselves in those warm, memorable moments together. I appreciate how special you make our time feel, much like our celebrations that reflect care and affection. What if this weekend is one of those magical times we look back on and smile?
+
+Round 8:
+all scripts of A: 
+A: I love that idea; let's make this weekend something we'll always look back on with a smile. We can plan something thoughtful and meaningful—maybe a mix of a surprise outing and some cozy time at home. What do you think?
+
+all scripts of B: 
+B: That would be perfect, wouldn't it? Having a cherished memory to look back on, much like the beautiful simplicity of a birthday where every gesture and surprise shows love. I'm so excited for the weekend already!
+
+Round 9:
+all scripts of A: 
+A: I'm excited too; let's make sure this weekend is truly special, filled with thoughtful surprises and lovely shared moments we can cherish.
+
+all scripts of B: 
+B: Yes, just like the warmth and closeness that a thoughtfully celebrated birthday can bring. I'm truly looking forward to creating those joyful, loving memories together this weekend.

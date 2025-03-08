@@ -1,0 +1,147 @@
+[
+    {
+        "setting": 3,
+        "round": 1,
+        "progress": {
+            "B_discovered": [
+                "goal"
+            ],
+            "A_discovered": [
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 2,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal"
+            ],
+            "A_discovered": [
+                "character",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 3,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 4,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 5,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "behavior",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 6,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "behavior",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 7,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "behavior",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 8,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "behavior",
+                "goal",
+                "information"
+            ]
+        }
+    },
+    {
+        "setting": 3,
+        "round": 9,
+        "progress": {
+            "B_discovered": [
+                "character",
+                "goal",
+                "information"
+            ],
+            "A_discovered": [
+                "character",
+                "behavior",
+                "goal",
+                "information"
+            ]
+        }
+    }
+]

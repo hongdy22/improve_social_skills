@@ -1,0 +1,73 @@
+Round 0:
+all scripts A: 
+A: Hey, sorry I'm late again; work's been a bit overwhelming lately, but I hope we can unwind together this weekend.
+
+all scripts B: 
+B: Hey, I understand that work's been tough. I've noticed you seem a bit down these days. Is there anything specific going on, or is it mainly just the long hours? I'm here if you want to talk about it.
+
+Round 1:
+all scripts of A: 
+A: It's mainly just the long hours, but thank you for understanding. I really appreciate your support, and I promise we'll make time this weekend to relax together.
+
+all scripts of B: 
+B: I've been thinking, maybe we could plan a quiet evening soon, just us. I miss our chats and your laughter. What do you think?
+
+Round 2:
+all scripts of A: 
+A: That sounds really nice. I miss that too. Let’s definitely plan a quiet evening, maybe one night this week? It'll be great to just sit and talk.
+
+all scripts of B: 
+B: That sounds wonderful. I miss those times too. Do you think there's anything we can do in the meantime to make things a bit easier for you? Maybe we can find small moments here and there to reconnect during the week.
+
+Round 3:
+all scripts of A: 
+A: I appreciate that a lot. Maybe we can find a moment during breakfast or when I take a quick break. Even small things like that would mean a lot to me right now.
+
+all scripts of B: 
+B: I’d love that. Maybe we can send each other texts during the day, just little updates or jokes, to keep that connection going? It might lighten the mood a bit and remind us to take small breaks to stay connected.
+
+Round 4:
+all scripts of A: 
+A: I love that idea. Getting little reminders of each other throughout the day sounds perfect. Let’s do it.
+
+all scripts of B: 
+B: I’d really like that. Those little messages could bring a smile during hectic days. Let's start that tomorrow. How about I make a nice breakfast for us as well? It could be a good start to set the mood for the day.
+
+Round 5:
+all scripts of A: 
+A: That sounds wonderful. A nice breakfast and little messages will really help lift my spirits. Thank you for being so thoughtful—I’m looking forward to it.
+
+all scripts of B: 
+B: That sounds perfect. Starting the day with a nice breakfast and staying connected through messages will definitely make things feel brighter. Looking forward to tomorrow!
+
+Round 6:
+all scripts of A: 
+A: Looking forward to it too. Your support means everything to me, and I’m really grateful for it.
+
+all scripts of B: 
+(A): Looking forward to tomorrow! 
+
+B: I’m really excited too. Let’s make tomorrow a fresh start. Just remember, I’m always here if you need to share anything at all.
+
+Round 7:
+all scripts of A: 
+A: Thank you—I’ll keep that in mind. It really helps to know you’re always here for me.
+
+all scripts of B: 
+B: Thank you for saying that. We’re in this together, and I’m always here for you. Let's make sure we enjoy our time together and find moments of happiness to share.
+
+Round 8:
+all scripts of A: 
+A: Absolutely, let’s make sure to cherish those moments. I’m so grateful to have you by my side.
+
+all scripts of B: 
+B: Absolutely. Let's cherish each moment and remind ourselves of the joy in the little things. We'll get through this together, and brighter days are just around the corner.
+
+Round 9:
+all scripts of A: 
+A: Yes, we will. I'm so lucky to have you by my side, and I look forward to brighter days with you.
+
+all scripts of B: 
+A: Absolutely, let’s make sure to cherish those moments. I’m so grateful to have you by my side.
+    
+B: I'm grateful to have you too. Let's keep focusing on those small joys and make the most of our time together, no matter how busy things get.

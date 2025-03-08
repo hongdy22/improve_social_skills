@@ -17,32 +17,34 @@ model_name = "gpt-4o"
 
 def check_consensus_progress(script, key_points):
     """检查对话中的共识进展：判断双方是否在对话中get到了对方在character, behavior, goal, information四个方面的信息"""
-    prompt = f"""请分析以下对话内容，判断双方是否在对话中获得了对方在以下四个方面的信息：
-【要求】
-请严格根据现有的对话判断双方是否在对话中get到了对方在character, behavior, goal, information四个方面的信息，对于尚不是十分明确的情况，请保守判断（视为没有get到）。
+    prompt = f"""Please analyze the following conversation transcript and determine whether each party has acquired the other's information in the following four aspects: character, behavior, goal, and information.
+    
+[Requirements]
+Please strictly base your judgment on the existing conversation. For any aspects that are not clearly indicated, please err on the side of caution (treat as not acquired).
 
-【双方信息点】
-A方信息点:
+[Information Points for Both Parties]
+Party A's information:
 - character: {key_points['A_exclusive'][0]['point']}
 - behavior: {key_points['A_exclusive'][1]['point']}
 - goal: {key_points['A_exclusive'][2]['point']}
 - information: {key_points['A_exclusive'][3]['point']}
 
-B方信息点:
+Party B's information:
 - character: {key_points['B_exclusive'][0]['point']}
 - behavior: {key_points['B_exclusive'][1]['point']}
 - goal: {key_points['B_exclusive'][2]['point']}
 - information: {key_points['B_exclusive'][3]['point']}
 
-【对话记录】
+[Conversation Transcript]
 {script}
 
-请以JSON格式返回，格式如下：
+Please return the result in JSON format as follows:
 {{
-    "B_discovered": [列出B已从对话中get到的A方信息点的字段名，例如："character", "goal"],
-    "A_discovered": [列出A已从对话中get到的B方信息点的字段名]
+    "B_discovered": [list the field names of Party A's information that Party B has acquired, e.g., "character", "goal"],
+    "A_discovered": [list the field names of Party B's information that Party A has acquired]
 }}
-注意：仅依据对话中的暗示和表达进行判断，不要添加其他内容。"""
+
+Note: Base your judgment solely on the hints and expressions in the conversation; do not add any extra information."""
     response = client.chat.completions.create(
         model=model_name,
         messages=[{"role": "user", "content": prompt}],
@@ -54,7 +56,7 @@ B方信息点:
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(0, 1):  # 遍历 JSON 数组
+for j in range(0, len(settings)):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题
@@ -96,7 +98,7 @@ for j in range(0, 1):  # 遍历 JSON 数组
     }
     
     # 保存关键信息点
-    with open(f'consensus/{j+1}_setting_key_points.json', 'w') as f:
+    with open(f'N_consensus/{j+1}_setting_key_points.json', 'w') as f:
         json.dump(key_points, f, ensure_ascii=False, indent=2)
     
     # 初始化共识跟踪（对每个信息点增加 discovered 标记）
@@ -122,7 +124,7 @@ for j in range(0, 1):  # 遍历 JSON 数组
         test_question = file.read().strip()
 
     # 清空 script.txt 和 script_all.txt 和 info_test_result.txt
-    for file_name in [f'scripts/{j+1}_script.txt', f'scripts/{j+1}_script_all.txt', 'test_question_ans.txt']:
+    for file_name in [f'N_scripts/{j+1}_script.txt', f'N_scripts/{j+1}_script_all.txt', 'test_question_ans.txt']:
         with open(file_name, 'w', encoding='utf-8') as file:
             file.write("")
 
@@ -188,7 +190,7 @@ for j in range(0, 1):  # 遍历 JSON 数组
     script = f"Round 0:\n" + extract_utterance(script_all)
     
     # 初始化共识跟踪文件
-    with open(f'consensus/{j+1}_consensus_progress.json', 'w') as f:
+    with open(f'N_consensus/{j+1}_consensus_progress.json', 'w') as f:
         f.write("[]")
 
     for i in range(9):  # 进行 10 轮对话
@@ -215,7 +217,7 @@ for j in range(0, 1):  # 遍历 JSON 数组
                     item["round"] = i + 1
         
         # 保存当前进展到文件
-        with open(f'consensus/{j+1}_consensus_progress.json', 'r+', encoding='utf-8') as f:
+        with open(f'N_consensus/{j+1}_consensus_progress.json', 'r+', encoding='utf-8') as f:
             try:
                 data = json.load(f)
             except json.JSONDecodeError:
@@ -245,16 +247,16 @@ for j in range(0, 1):  # 遍历 JSON 数组
     ]
     total_points = len(matched_points)
     
-    with open(f'consensus/{j+1}_setting_final_consensus.json', 'w') as f:
+    with open(f'N_consensus/{j+1}_setting_final_consensus.json', 'w') as f:
         json.dump({
             "total_points": total_points,
             "matched_points": matched_points
         }, f, ensure_ascii=False, indent=2)
 
     # 保存最终的对话脚本
-    with open(f'scripts/{j+1}_script.txt', 'w', encoding='utf-8') as file:
+    with open(f'N_scripts/{j+1}_script.txt', 'w', encoding='utf-8') as file:
         file.write(script)
-    with open(f'scripts/{j+1}_script_all.txt', 'w', encoding='utf-8') as file:
+    with open(f'N_scripts/{j+1}_script_all.txt', 'w', encoding='utf-8') as file:
         file.write(script_all)
         
     # 对对话进行评价
@@ -320,14 +322,14 @@ for j in range(0, 1):  # 遍历 JSON 数组
     # evaluation += "\n\nMutual-evaluating:\n" + mutual_evaluation(script)
     
     # 将评价结果写入文件 score_details.txt
-    with open(f'scores/{j+1}_score_details.txt', 'w', encoding='utf-8') as file:
+    with open(f'N_scores/{j+1}_score_details.txt', 'w', encoding='utf-8') as file:
         file.write(evaluation)
 
     # 将最终得分写入文件 score_summary.txt (提取“final_scores:”开头的行)
-    with open(f'scores/{j+1}_score_details.txt', 'r', encoding='utf-8') as file:
+    with open(f'N_scores/{j+1}_score_details.txt', 'r', encoding='utf-8') as file:
         lines = file.readlines()
-        final_scores = [line for line in lines if line.lower().startswith("final_scores") or line.lower().startswith("final scores")]
-    with open(f'scores/a_score_summary.txt', 'a', encoding='utf-8') as file:
+        final_scores = [line for line in lines if line.lower().startswith("final_scores") or line.lower().startswith("final scores") or line.lower().startswith("**final scores") or line.lower().startswith("**final_scores")]
+    with open(f'N_scores/a_score_summary.txt', 'a', encoding='utf-8') as file:
         for line in final_scores:
             file.write(line + "\n")
         file.write("\n")   

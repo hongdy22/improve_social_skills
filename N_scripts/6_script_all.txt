@@ -1,0 +1,71 @@
+Round 0:
+all scripts A: 
+A: "Hey B, you'll never guess how lively the gathering was, I completely lost track of time. How about we plan something extra special together this weekend to make it up to you?"
+
+all scripts B: 
+B: "I'm glad you had a good time, A. The place was quite peaceful without you, though. Maybe we can think of something that lets us enjoy some time together at home, too?"
+
+Round 1:
+all scripts of A: 
+A: "You know I love our time at home just as much as being out; maybe we can have an evening in with those movie tickets and some homemade dinner?"
+
+all scripts of B: 
+B: "That sounds lovely, A. It was a bit lonely here on my own, but we can turn that into an opportunity for a cozy evening. What do you think about using those movie tickets at home for a quiet night in?"
+
+Round 2:
+all scripts of A: 
+A: "Absolutely, B! Let’s create our own little cinema at home and I’ll whip up something delicious for dinner. We can pick a movie and make it a special night just for us."
+
+all scripts of B: 
+B: "I think a quiet night in with you sounds perfect. I did miss our plans, though. Do you ever feel like those small moments at home together are special in their own way?"
+
+Round 3:
+all scripts of A: 
+A: "I really do, B. It's those little moments at home that mean the most, and I want to make sure we have more of them together."
+
+all scripts of B: 
+B: "I believe those small moments can be truly meaningful, A. There's something comforting about knowing we're both choosing to be present for them, don't you think?"
+
+Round 4:
+all scripts of A: 
+A: "Absolutely, B. Being present together in those moments is what adds depth to our relationship, and I cherish that."
+
+all scripts of B: 
+A: "I couldn't agree more, B. It's important to cherish those moments, and I'm really looking forward to our evening."
+
+B: "Thank you, A. I really hope we can create many more of those meaningful moments. It feels good knowing we're both invested in making our time together truly special."
+
+Round 5:
+all scripts of A: 
+A: "Looking forward to many more special moments with you, B. Let's make tonight just the beginning of something extraordinary."
+
+all scripts of B: 
+B: "I appreciate you recognizing how meaningful those shared moments are, A. Let's make sure we continue to embrace them and create memories that last."
+
+Round 6:
+all scripts of A: 
+A: "Absolutely, B. Let's treasure tonight and every moment thereafter, making each one count as we create lasting memories together."
+
+all scripts of B: 
+B: "Absolutely, A. It’s heartening to know we’re both focused on creating those lasting memories. I’m eager to experience more of these cherished moments together."
+
+Round 7:
+all scripts of A: 
+A: "I'm so grateful for our time together, B. Here's to tonight and many more special evenings in the future."
+
+all scripts of B: 
+B: "I’m looking forward to it, A. Together, we can create a tapestry of cherished moments that add warmth and depth to our relationship."
+
+Round 8:
+all scripts of A: 
+A: "Our journey together is what I truly treasure, B. Let's continue to fill it with moments that are uniquely ours and celebrate the beauty of simply being with each other."
+
+all scripts of B: 
+B: "Here’s to our journey of creating those beautiful moments, A. Each adds a unique thread to the tapestry of our shared experiences."
+
+Round 9:
+all scripts of A: 
+A: "And each thread strengthens the bond we share. I'm truly excited to see where our journey takes us, B."
+
+all scripts of B: 
+B: "To weaving each thread with care, A, making every moment a testament to our shared journey and the comfort of simply being together."

@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Somewhat introverted and sensitive, valuing friendship and self-worth."
+    },
+    {
+      "field": "behavior",
+      "point": "Carefully mentions recent life changes during conversation with a gentle and understated tone, striving to gain the other’s approval."
+    },
+    {
+      "field": "goal",
+      "point": "Hopes to obtain recognition and support through subtle hints while remaining low-key."
+    },
+    {
+      "field": "information",
+      "point": "A is at an important turning point in life, urgently needing external inspiration but unwilling to overly expose personal confusion."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Mature and composed, good at listening and maintaining a calm demeanor."
+    },
+    {
+      "field": "behavior",
+      "point": "Responds to A’s topics in a calm and understated manner, expressing concern while keeping an appropriate distance."
+    },
+    {
+      "field": "goal",
+      "point": "To preserve a warm and stable long-term friendship without interfering in A's decisions."
+    },
+    {
+      "field": "information",
+      "point": "B is aware of some of A's past experiences and current situation, having a good grasp of A’s circumstances, but chooses to communicate in an objective and neutral manner."
+    }
+  ]
+}

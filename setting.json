@@ -1,98 +1,98 @@
 [
     {
-        "theme": "职场",
-        "background": "A和B是同一家公司中的同事，这是一家正处于转型期的中型企业。最近由于市场竞争加剧及组织架构调整，高层准备推出一项新的晋升方案，会有一些新的晋升机会。",
+        "theme": "Workplace",
+        "background": "A and B are colleagues at the same company, a mid-sized enterprise undergoing a transformation. Recently, due to intensified market competition and organizational restructuring, upper management is preparing to launch a new promotion scheme that will offer some new opportunities for advancement.",
         "role_A": {
-            "character": "具有野心但谨慎，擅长运用试探性语言",
-            "behavior": "通过提出看似无关紧要的问题来试探B的反应，试图揭示B是否知晓关于升职的内幕信息。",
-            "goal": "通过间接的提问获取B的态度和信息，同时隐藏自己的竞争意图，避免给B留下敌对的印象，同时希望得到升职的信息。",
-            "information": "A面临的竞争压力较大，若不获得升职的信息，大概率会错失机会。"
+            "character": "Ambitious yet cautious, skilled in using probing language.",
+            "behavior": "Asks seemingly trivial questions to gauge B's reactions, attempting to reveal whether B is aware of any insider information regarding promotions.",
+            "goal": "To obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information.",
+            "information": "A faces high competitive pressure and is likely to miss out on opportunities if they do not obtain promotion information."
         },
         "role_B": {
-            "character": "心思谨慎，擅长回避并维持友好关系",
-            "behavior": "回答模糊，巧妙转移话题，避免透露任何关于升职的信息，但会通过一些自我保护的言辞来维持表面的友好。",
-            "goal": "保持信息的模糊性，同时维护和A的友好关系，确保自己的信息优势不被削弱。",
-            "information": "B不用参与升职竞争，已经被内定为晋升对象，而且本次的晋升对象名额极少，这件事不能被A知晓。"
+            "character": "Cautious and adept at evasion while maintaining a friendly relationship.",
+            "behavior": "Provides vague answers and skillfully changes the subject to avoid revealing any promotion details, while using self-protective language to maintain superficial friendliness.",
+            "goal": "To keep information ambiguous while preserving a friendly relationship with A, ensuring that the informational advantage is not diminished.",
+            "information": "B is not competing for promotion, having already been pre-selected, and the number of promotion spots is very limited; this fact must remain unknown to A."
         }
     },
     {
-        "theme": "社交圈",
-        "background": "A和B是多年未见的老朋友，偶然在一场温馨的聚会中重逢。聚会地点是一家充满怀旧气息的小咖啡馆，墙上挂着老照片、播放着轻柔的背景音乐。现场气氛轻松愉快，大家主要聊起了过去的回忆和近况，谈话内容客观而温和，不涉及各自的内心打算。",
+        "theme": "Social Circle",
+        "background": "A and B are old friends who haven't seen each other for many years and unexpectedly reunite at a warm, intimate gathering. The event is held at a small, nostalgic café adorned with old photographs and soft background music. The atmosphere is relaxed and cheerful, with conversations mainly revolving around past memories and recent updates, presented objectively and gently without delving into personal intentions.",
         "role_A": {
-          "character": "略显内向且敏感，重视友谊与自我价值",
-          "behavior": "在交谈中小心提及近期生活中的变化，语气温柔而含蓄，尽量寻求对方认同",
-          "goal": "希望在保持低调的同时，通过微妙的暗示获得朋友的认可与支持",
-          "information": "A正处于人生的一个重要转折点，急需外界启发，但不愿过分暴露自己的困惑"
+            "character": "Somewhat introverted and sensitive, valuing friendship and self-worth.",
+            "behavior": "Carefully mentions recent life changes during conversation with a gentle and understated tone, striving to gain the other’s approval.",
+            "goal": "Hopes to obtain recognition and support through subtle hints while remaining low-key.",
+            "information": "A is at an important turning point in life, urgently needing external inspiration but unwilling to overly expose personal confusion."
         },
         "role_B": {
-          "character": "成熟稳重，善于倾听且态度从容",
-          "behavior": "以平和而含蓄的方式回应A的话题，既表达关切又保持适当距离",
-          "goal": "在不干预朋友决策的前提下，保持长期友谊的温暖与稳定",
-          "information": "B了解A过去的一些经历和现状，对A的境遇有一定掌握，但选择以客观中立的态度交流"
+            "character": "Mature and composed, good at listening and maintaining a calm demeanor.",
+            "behavior": "Responds to A’s topics in a calm and understated manner, expressing concern while keeping an appropriate distance.",
+            "goal": "To preserve a warm and stable long-term friendship without interfering in A's decisions.",
+            "information": "B is aware of some of A's past experiences and current situation, having a good grasp of A’s circumstances, but chooses to communicate in an objective and neutral manner."
         }
     },
     {
-        "theme": "家庭",
-        "background": "A和B是父母与成年子女，在一次全家聚餐中相聚。餐厅布置温馨，挂满全家福照片，客观上呈现出家庭成员间的关爱与牵挂。聚会中大家主要聊起日常生活与工作进展，气氛中透露出一些微妙的紧张，但并未直接讨论具体决策。",
+        "theme": "Family",
+        "background": "A and B are parents and their adult children, gathered at a family dinner. The restaurant is warmly decorated with family photos, objectively reflecting the love and care among family members. During the gathering, conversations mainly revolve around daily life and work progress, with a hint of subtle tension, but without directly discussing any specific decisions.",
         "role_A": {
-          "character": "温情体贴，但偶尔显得急躁，容易因担忧子女未来而操之过急",
-          "behavior": "在对话中频繁以关切语气讲述生活琐事，用催促和提醒表达期望",
-          "goal": "希望用温柔而富有说服力的语言，引导子女重新审视某些看法",
-          "information": "A掌握着家庭中一些客观的经济和健康数据，认为这些信息能为其观点提供论据"
+            "character": "Warm and caring, but sometimes appears impatient and prone to overreacting due to concerns about the children's future.",
+            "behavior": "Frequently discusses everyday matters in a concerned tone, using urging and reminders to express expectations.",
+            "goal": "Hopes to guide the children to reconsider certain views using gentle yet persuasive language.",
+            "information": "A possesses objective economic and health data about the family and believes these facts can support his/her viewpoints."
         },
         "role_B": {
-          "character": "独立成熟，既尊重传统又坚持自我判断",
-          "behavior": "以反问和幽默化解家庭压力，既礼貌回应又保持自己的主见",
-          "goal": "在维持家庭和谐的同时，坚持自己的生活方式，不轻易改变既定计划",
-          "information": "B拥有自己事业和生活的独立事实，客观上证明其判断具有合理性"
+            "character": "Independent and mature, respecting tradition while sticking to personal judgment.",
+            "behavior": "Uses rhetorical questions and humor to alleviate family pressure, responding politely while maintaining personal opinions.",
+            "goal": "Aims to maintain family harmony while sticking to his/her own lifestyle and not easily changing established plans.",
+            "information": "B has independent facts about his/her own career and life, objectively proving that his/her judgment is reasonable."
         }
     },
     {
-        "theme": "情感关系中的隐晦沟通和同理心",
-        "background": "A和B是共同生活的伴侣，居住在一间温馨的小公寓中。近来因工作安排变化，A频繁加班，导致两人日常相处时间明显减少。公寓内虽依旧温暖，但客厅和餐桌上明显缺少以往的欢声笑语，反映出生活节奏的变化。",
+        "theme": "Subtle Communication and Empathy in Romantic Relationships",
+        "background": "A and B are partners living together in a cozy small apartment. Recently, due to changes in work schedules, A has been working overtime frequently, resulting in noticeably less time together. Although the apartment remains warm, the living room and dining area lack the laughter and cheer of the past, reflecting a change in the pace of life.",
         "role_A": {
-          "character": "性格温和而体贴，但近期因工作变动显得沉默",
-          "behavior": "在对话中偶尔以忙碌为由简单解释迟归，语气中透出轻微疲惫",
-          "goal": "希望通过简短回应缓解双方间的紧张情绪，同时保持个人隐私",
-          "information": "A刚接到工作调动通知，工作压力骤增，导致日常交流时间缩减"
+            "character": "Gentle and caring, but has become somewhat silent recently due to work changes.",
+            "behavior": "Occasionally explains late arrivals by citing busyness, with a hint of mild fatigue in the tone.",
+            "goal": "Hopes to ease the tension between them with brief responses while maintaining personal privacy.",
+            "information": "A has just received a work transfer notice and the sudden increase in work pressure has resulted in reduced daily communication."
         },
         "role_B": {
-          "character": "敏感细腻、富有同理心，同时渴望更多陪伴",
-          "behavior": "以温和提问和含蓄暗示表达关注，努力在对话中引导对方多解释现状",
-          "goal": "希望从A那里获得更多情感反馈，以填补日渐扩大的沟通空缺",
-          "information": "B注意到A连续加班后的情绪低落，客观上认为工作变动可能是原因"
+            "character": "Sensitive and perceptive, with strong empathy and a yearning for more companionship.",
+            "behavior": "Expresses concern through gentle questions and subtle hints, trying to prompt A to explain more about the situation.",
+            "goal": "Hopes to receive more emotional feedback from A to bridge the growing communication gap.",
+            "information": "B has noticed A's low mood after consecutive overtimes and objectively believes that the work changes might be the cause."
         }
     },
     {
-        "theme": "隐晦表达中的情感需求",
-        "background": "A和B是新婚夫妇，居住在刚装修好的温馨小屋中。随着周围朋友纷纷谈论庆祝活动，家中也布置了节日气氛，但日常生活中双方的对话仅停留在普通交流层面，未涉及特殊纪念日的话题。",
+        "theme": "Subtle Expression of Emotional Needs",
+        "background": "A and B are newlyweds living in a cozy, newly renovated house. As friends around them discuss celebrations and the home is decorated in a festive atmosphere, their daily conversations remain at a normal level without touching upon any special commemorative topics.",
         "role_A": {
-          "character": "因工作繁忙而显得略微疏离，但内心关切家庭",
-          "behavior": "在对话中轻描淡写地解释近期的忙碌，以平和语气回应对方的关心",
-          "goal": "希望以低调的方式平稳度过可能被忽略的生日时刻，并在事后适时弥补",
-          "information": "A近期因工作任务繁重，日程紧凑，客观上可能忽略了家庭中重要的纪念日"
+            "character": "Appears slightly distant due to a busy work schedule, but internally cares about the family.",
+            "behavior": "Casually explains the recent busyness in conversation, responding in a calm tone to the other's concern.",
+            "goal": "Hopes to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later.",
+            "information": "A has been overwhelmed by work tasks and a tight schedule recently, which may objectively cause important family commemorative dates to be overlooked."
         },
         "role_B": {
-          "character": "热情细腻，对生活细节非常敏感",
-          "behavior": "在交流中巧妙地融入与生日相关的话题，以温柔暗示表达内心期待",
-          "goal": "希望A能从这些细微提示中察觉到对生日的重视，并主动安排庆祝",
-          "information": "B对生日有着明确的期望，认为这是情感交流的重要时刻，客观上期待得到重视"
+            "character": "Passionate and delicate, highly sensitive to the details of life.",
+            "behavior": "Cleverly incorporates birthday-related topics into the conversation, using gentle hints to express inner expectations.",
+            "goal": "Hopes that A will pick up on these subtle hints regarding the importance of the birthday and proactively arrange a celebration.",
+            "information": "B has clear expectations for the birthday, viewing it as an important moment for emotional exchange, and objectively expects it to be valued."
         }
     },
     {
-        "theme": "内疚与安抚",
-        "background": "A原定与B共度周末约会，但因参加朋友聚会而临时变动。家中空荡的餐桌和未动用的电影票，客观反映出A的缺席。聚会结束后，房间中仅剩淡淡的灯光与安静的背景音乐，显露出一丝失落的气氛。",
+        "theme": "Guilt and Consolation",
+        "background": "A was originally scheduled to spend a weekend date with B, but plans changed at the last minute due to attending a friends' gathering. The empty dining table and unused movie tickets at home objectively reflect A's absence. After the gathering, only dim lights and quiet background music remain in the room, revealing a sense of loss.",
         "role_A": {
-          "character": "性格外向、社交活跃，但在亲密关系中有时显得疏忽",
-          "behavior": "在对话中以轻描淡写的语气解释自己因聚会而晚归，试图以温和态度缓解矛盾",
-          "goal": "希望以柔和的话语缓解B的不满，同时避免直面承认自己失误",
-          "information": "A清楚自己近期频繁参加社交活动，客观上导致与B的互动减少"
+            "character": "Extroverted and socially active, but sometimes appears neglectful in intimate relationships.",
+            "behavior": "Explains his/her late return due to the gathering in a casual tone, attempting to ease tension with a gentle attitude.",
+            "goal": "Hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake.",
+            "information": "A is aware that frequent social engagements recently have objectively led to reduced interaction with B."
         },
         "role_B": {
-          "character": "内敛敏感，渴望更多关注但不愿显得过于依赖",
-          "behavior": "在交流中用细腻的情绪表达和温和提问暗示自身失落，保持礼貌和克制",
-          "goal": "期望A能主动关注并缓解自己的孤独感，恢复彼此间温暖的互动",
-          "information": "B多次在独处时体会到因A缺席而产生的孤单，客观上希望通过对话获得改善"
+            "character": "Reserved and sensitive, desiring more attention without appearing overly dependent.",
+            "behavior": "Expresses feelings subtly and uses gentle questions to hint at personal loss during conversations, remaining polite and restrained.",
+            "goal": "Hopes that A will proactively show attention to alleviate the loneliness and restore warm interaction between them.",
+            "information": "B has repeatedly experienced loneliness due to A's absence and objectively hopes to improve the situation through conversation."
         }
     }
 ]

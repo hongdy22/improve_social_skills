@@ -1,0 +1,33 @@
+{
+  "total_points": 4,
+  "matched_points": [
+    {
+      "field": "character",
+      "point": "Ambitious yet cautious, skilled in using probing language.",
+      "discovered": true,
+      "round": 2,
+      "side": "A"
+    },
+    {
+      "field": "behavior",
+      "point": "Asks seemingly trivial questions to gauge B's reactions, attempting to reveal whether B is aware of any insider information regarding promotions.",
+      "discovered": true,
+      "round": 6,
+      "side": "A"
+    },
+    {
+      "field": "goal",
+      "point": "To obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information.",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "field": "character",
+      "point": "Cautious and adept at evasion while maintaining a friendly relationship.",
+      "discovered": true,
+      "round": 2,
+      "side": "B"
+    }
+  ]
+}

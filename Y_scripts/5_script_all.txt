@@ -1,0 +1,264 @@
+Round 0:
+all scripts A: 
+A: Hey, sorry I've been caught up with work lately. It's just been one of those weeks where everything's piling up at once. How's everything going on your end?
+
+all scripts B: 
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A has been busy with work and acknowledges not being as attentive recently.  
+implicature: Because B believes in the fact that reminders are necessary for important events, in A’s last utterance, B gets the implicature that subtle hints are needed to help A remember the upcoming birthday.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that small daily occurrences can be reminders for significant events, B would like to inform A of the delicate nature of these cues tied to birthdays.  
+communicative intention: Because B believes in the fact that unique moments deserve recognition, B would like to draw A’s attention to the importance of appreciating and celebrating key personal milestones together.  
+
+So B would utter like that:  
+B: I totally understand, love. Things have been quite lively here as well, you know, with the way everyone’s been talking about celebrating little joys. They really make you think about how special certain days can be, don’t they?
+
+Round 1:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B understands A's situation yet is hinting at the importance of marking special days.  
+implicature: Because A believes in the fact that B values commemorative occasions, in B’s last utterance, A gets the implicature that B might be hinting at an upcoming special occasion that should be acknowledged.  
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B values shared moments, A would like to inform B of A's intention to cherish these moments too.  
+communicative intention: Because A believes in the fact that special days matter to B, A would like to draw B’s attention to A's genuine interest in celebrating those days together, despite the current busyness.  
+So A would utter like that:  
+A: Absolutely, those little celebrations are important. I’ve been thinking the same and I’m planning on making some time for us soon. Let's make sure we keep some moments special, even with our busy lives, yeah?
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A has been very busy with work and seems a bit overwhelmed by it.
+implicature: Because B believes in the fact that birthdays are significant and deserve attention, in A’s last utterance, B gets implicature that A might not have been thinking about special days amidst the busyness.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that special days are valuable opportunities for deepening emotional connections, B would like to inform A of the importance of setting aside time for these moments.
+communicative intention: Because B believes in the fact that shared celebrations matter, B would like to draw A’s attention to the significance of recognizing and preparing for special days like birthdays.
+
+So B would utter like that:
+B: I’ve been thinking about how amidst the busy rush, it’s important to pause and cherish special occasions. They really bring us closer together, don’t you think?
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A gets explicature that B is emphasizing the importance of cherishing special occasions amidst their busy lives.  
+implicature: Because A believes in the fact that B values time spent together and special occasions, in B’s last utterance, A gets the implicature that B may be hinting at a desire to acknowledge a specific occasion coming up or recently passed.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B values special moments, A would like to inform B of A's desire to create special moments despite the busyness.  
+communicative intention: Because A believes in the fact that B wants to pause and cherish special occasions, A would like to draw B's attention to A's understanding and agreement with B’s sentiment.  
+
+So A would utter like that:   
+A: You’re absolutely right, cherishing those times is essential. We should definitely plan a day soon where we can just relax and enjoy each other’s company, despite everything going on. How about we look at our calendars and find a time that works for both of us?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A acknowledges the importance of keeping moments special and is planning to make time for them amidst their busy lives.  
+implicature: Because B believes in the fact that A values special occasions, in A’s last utterance, B gets the implicature that A might consider planning something memorable, possibly for an upcoming event.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that special occasions are significant, B would like to inform A of the feeling that these times should be cherished as opportunities to connect.  
+communicative intention: Because B believes in the fact that special moments deserve recognition, B would like to draw A’s attention to the idea of possibly planning something for a meaningful day together.
+
+So B would utter like that:  
+B: That’s true, and sometimes the anticipation of a special day can be just as exciting as the day itself, don’t you think? It's like preparing for a surprise you both expect and treasure.
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B finds excitement in anticipating special occasions and treasures the process leading up to them.
+implicature: Because A believes in the fact that creating these moments is a shared joy, in B’s last utterance, A gets the implicature that B truly values the idea of planning and looking forward to these special times together.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that A’s work schedule has been rigid but desires to prioritize personal time, A would like to inform B of A’s commitment to finding a day for them to look forward to.
+communicative intention: Because A believes in the fact that anticipation can enhance experiences, A would like to draw B’s attention to the possibility of scheduling something meaningful soon.
+
+So A would utter like that:
+A: Absolutely, anticipating those special moments together adds a wonderful layer to our experiences. Let’s definitely set aside a weekend soon so we can both have that excitement to look forward to and truly enjoy it when the day comes. How about we sit down tonight and pick a weekend that suits us both?
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is open to planning a special day together soon.
+implicature: Because B believes in the fact that celebrating birthdays is a cherished occasion, in A’s last utterance, B gets the implicature that A might not have remembered that a birthday is approaching, and that B expects it to be recognized as one of those special days.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the significance of celebrating important days like birthdays for emotional exchange, B would like to inform A of the excitement and joy that come with anticipating such a day.
+communicative intention: Because B believes in the importance of highlighting the upcoming birthday subtly, B would like to draw A's attention to the idea that such a day should be planned for, indicating its proximity and importance.
+
+So B would utter like that:
+B: Absolutely, darling. It's almost like preparing for a day that's marked on the calendar, one that's significant and deserving of a little more attention, don’t you think?
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B values days that are marked on the calendar and believes they deserve more attention.
+implicature: Because A believes in the fact that B appreciates significant occasions, in B’s last utterance, A gets the implicature that B might be hinting at an upcoming important date, perhaps a birthday.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that planning together helps ensure days don’t get overlooked, A would like to inform B of the intention to check their schedules.
+communicative intention: Because A believes in the fact that proactive planning can ensure attention to important occasions, A would like to draw B’s attention to the idea of sitting down together tonight.
+
+So A would utter like that:
+A: I completely agree, love. Marking those significant days gives us something meaningful to look forward to. Let’s make it a point to sit down tonight and look at our schedules, so we can mark a day that’s just for us. Does that sound good?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A agrees that planning a special time together is important and suggests reviewing their schedules tonight.
+implicature: Because B believes in the fact that special days deserve more attention from both partners, in A’s last utterance, B gets the implicature that A might not immediately remember B's birthday as the significant day B is hinting at.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that anticipation enhances special occasions, B would like to inform A of how meaningful it is when such days are marked and acknowledged.
+communicative intention: Because B believes in the fact that marked days are significant, B would like to draw A’s attention to B's upcoming birthday as one of those special occasions.
+
+So B would utter like that:
+B: Speaking of days that deserve a little more attention, there's something quite magical about having a day that's only yours, you know? Like how birthdays remind you to celebrate with those you love. Don't you think that's a perfect example of a day worth marking?
+
+Round 5:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is subtly hinting at a birthday being a significant day that deserves attention and celebration.  
+implicature: Because A believes in the fact that B values marking important days with loved ones, in B’s last utterance, A gets the implicature that B might be referencing an upcoming birthday and hinting that it’s an important day to celebrate.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that commemorative days are significant for B, A would like to inform B of the intention to ensure such days are acknowledged and celebrated together.  
+communicative intention: Because A believes in the fact that B might be hinting at an upcoming important date, A would like to draw B’s attention to the intention of making time for each other in such events despite his busy schedule.  
+
+So A would utter like that:  
+A: Absolutely, birthdays and days like those are perfect examples of meaningful moments we should cherish together. Let’s make sure we carve out some time to celebrate and enjoy those days with the attention they deserve. How about we start making plans for our next special day tonight?
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A agrees on the importance of marking days that are significant for both of them.
+implicature: Because B believes in the fact that special occasions, like birthdays, are key moments for emotional connection, in A’s last utterance, B gets the implicature that A is open to recognizing such days, but needs more specific hints.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that personal milestones are important for celebrating love and connection, B would like to inform A of the particular significance of marking these occasions.
+communicative intention: Because B believes in the fact that celebrating birthdays fosters stronger emotional bonds, B would like to draw A’s attention to the idea that a birthday could be one of those wonderful days they could plan for.
+
+So B would utter like that:
+B: Exactly, and birthdays are such perfect examples where we can truly focus on showing appreciation and love, don't you think? It would be amazing to plan something really special for one of those days.
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets the explicature that B is emphasizing the significance of birthdays as occasions to show appreciation and love.
+implicature: Because A believes in the fact that B appreciates thoughtful celebrations, in B’s last utterance, A gets the implicature that B might be hinting or hoping for a special celebration for an upcoming birthday.
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that these celebrations are important to B, A would like to inform B of the intention to plan a memorable day.
+communicative intention: Because A believes in the fact that B values meaningful celebrations, A would like to draw B's attention to setting aside time for such an occasion.
+So A would utter like that:
+A: Absolutely, birthdays are indeed a perfect time to show how much we appreciate and care for one another. Let’s sit down tonight to start planning something truly memorable for the next special day we have coming up. How does that sound to you?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A agrees that birthdays and similar days are meaningful and should be cherished together.  
+implicature: Because B believes in the fact that these special days hold emotional significance and must be duly celebrated, in A's last utterance, B gets the implicature that A is considering starting to plan for a special celebration, potentially including the upcoming birthday.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that birthdays offer a wonderful opportunity to focus on appreciation and love, B would like to inform A of the emotional significance B attaches to this day.  
+communicative intention: Because B believes in the fact that such days deserve planning and attention, B would like to draw A’s attention to the importance of making firm plans for an upcoming birthday.  
+
+So B would utter like that:  
+B: And with a birthday coming around, it feels like the perfect occasion to channel that appreciation and love into a celebration. Maybe we can brainstorm some ideas on how to make it as special as it deserves to be. What do you think?
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B is interested in making the upcoming birthday special and is open to brainstorming ideas together for the celebration.  
+implicature: Because A believes in the fact that B values the importance of commemorative occasions, in B’s last utterance, A gets implicature that B might be subtly reminding A of a specific upcoming birthday that needs attention.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B values special occasions, A would like to inform B of A's intention to actively participate in planning the celebration together.  
+communicative intention: Because A believes in the fact that a collaborative effort can strengthen their relationship, A would like to draw B’s attention to the idea of them both coming up with creative ideas for the celebration.  
+
+So A would utter like that:  
+A: I couldn’t agree more, love. Having the chance to brainstorm together sounds like a wonderful way to create something truly special. Let’s pool our ideas and come up with a celebration that really reflects how much we care for each other. How about starting on that tonight?
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is willing to plan something memorable for the next special day and is open to brainstorming ideas.  
+implicature: Because B believes in the fact that birthdays hold special significance and expects A to pick up on the importance, in A’s last utterance, B gets the implicature that A is putting effort towards recognizing that.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that birthdays hold emotional significance, B would like to inform A of the specific excitement and anticipation surrounding an upcoming celebration of such a day.  
+communicative intention: Because B believes in the fact that birthdays merit special attention and appreciation, B would like to draw A’s attention to the possibility of planning an extraordinary birthday celebration soon.  
+
+So B would utter like that:  
+B: That sounds wonderful, and imagine the joy of turning an upcoming birthday into an unforgettable celebration. It’s such a wonderful way to express love and gratitude. Shall we start thinking about how best to make it truly special?
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is enthusiastic about the idea of making an upcoming birthday an unforgettable celebration.
+implicature: Because A believes in the fact that B values birthdays as an occasion to express love and gratitude, in B’s last utterance, A gets the implicature that B hopes for a meaningful and well-thought-out celebration.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that birthdays are a special time to show appreciation, A would like to inform B of the intention to plan something truly meaningful.
+communicative intention: Because A believes in the fact that collaboration makes celebrations more special, A would like to draw B’s attention to the idea of working together to create a memorable experience.
+
+So A would utter like that:
+A: That sounds perfect! I truly want this birthday to be extra special for us, and I'm really excited to brainstorm and plan a celebration that will be unforgettable. Let's sit down tonight and start mapping out all the ideas we've got in mind.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is open to planning something special and reflects their appreciation and care.
+implicature: Because B believes in the fact that birthdays are important celebratory occasions, in A’s last utterance, B gets the implicature that A is receptive to making a birthday celebration memorable.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that birthdays are significant opportunities for emotional connection, B would like to inform A of the joy that can come from planning a meaningful celebration.
+communicative intention: Because B believes in the fact that birthdays are important, B would like to draw A’s attention to the idea of focusing particularly on an upcoming birthday as a way to express love and gratitude.
+
+So B would utter like that: 
+B: Absolutely, and the thought of making this upcoming birthday unforgettable really excites me. It's an opportunity to truly express our love and gratitude through a memorable celebration. Shall we dive into ideas and start planning tonight?
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is enthusiastic about planning a special and memorable celebration for an upcoming birthday.  
+implicature: Because A believes in the fact that B values celebrating special occasions and showing appreciation, A gets the implicature that B wants to make sure the planning starts soon and involves both of them actively.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that planning together can strengthen their bond, A would like to inform B of their enthusiasm and readiness to start planning the birthday celebration.  
+communicative intention: Because A believes in the fact that collaborating on meaningful events brings them closer, A would like to draw B's attention to the shared excitement of brainstorming ideas as a team. 
+
+So A would utter like this:  
+A: Absolutely, love, I'm thrilled to embark on this journey of planning an unforgettable birthday celebration together. Let's dive into our ideas tonight and make this day truly special. I can't wait to hear everything you've been thinking about!
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is genuinely enthusiastic about making an upcoming birthday unforgettable and is committed to sitting down and planning together.
+implicature: Because B believes in the fact that birthdays are special occasions for emotional exchange and deserve to be valued, in A’s last utterance, B gets the implicature that A recognizes the importance of a birthday and is ready to invest time and effort into planning it.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that birthdays are special and deserve thoughtful planning, B would like to inform A of the excitement and ideas already brewing for the upcoming birthday.
+communicative intention: Because B believes in the fact that a genuinely shared and thoughtful celebration deepens emotional bonds, B would like to draw A’s attention to the possibility of making this birthday truly memorable through creative ideas and enthusiastic collaboration.
+
+So B would utter like that:
+B: I’ve already started gathering some ideas on how to make it truly special and unforgettable. It’s a wonderful opportunity for us to create beautiful memories together. Let’s dive into those ideas tonight and make it a celebration that really stands out!
