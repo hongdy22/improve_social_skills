@@ -2,37 +2,37 @@
   "A_exclusive": [
     {
       "field": "character",
-      "point": "Ambitious yet cautious, skilled in using probing language."
+      "point": "Strategic and insightful, skilled in the art of negotiation."
     },
     {
       "field": "behavior",
-      "point": "Asks seemingly trivial questions to gauge B's reactions, attempting to reveal whether B is aware of any insider information regarding promotions."
+      "point": "Engages in subtle inquiries and proposes hypothetical scenarios to understand B's flexibility on the environmental protection agreement without giving away their own country's stance."
     },
     {
       "field": "goal",
-      "point": "To obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information."
+      "point": "To discern B's negotiation boundaries and potential concessions while keeping their own country's limits and priorities concealed to secure a favorable outcome in the agreement."
     },
     {
       "field": "information",
-      "point": "A faces high competitive pressure and is likely to miss out on opportunities if they do not obtain promotion information."
+      "point": "A's country has specific environmental goals but also economic constraints that must be considered in the negotiation, which A is keen to protect."
     }
   ],
   "B_exclusive": [
     {
       "field": "character",
-      "point": "Cautious and adept at evasion while maintaining a friendly relationship."
+      "point": "Astute and evasive, a master of diplomatic language."
     },
     {
       "field": "behavior",
-      "point": "Provides vague answers and skillfully changes the subject to avoid revealing any promotion details, while using self-protective language to maintain superficial friendliness."
+      "point": "Responds with ambiguous statements and counter-proposals that do not commit to specific terms, effectively masking their true negotiation stance and needs."
     },
     {
       "field": "goal",
-      "point": "To keep information ambiguous while preserving a friendly relationship with A, ensuring that the informational advantage is not diminished."
+      "point": "To preserve the negotiation leverage by keeping A guessing about their true intentions and the limits of their concessions, ensuring that their country's interests are maximized."
     },
     {
       "field": "information",
-      "point": "B is not competing for promotion, having already been pre-selected, and the number of promotion spots is very limited; this fact must remain unknown to A."
+      "point": "B's country has a strong environmental commitment but also seeks to ensure that the agreement does not hinder economic growth; B's goal is to secure the best possible terms without compromising these dual objectives."
     }
   ]
 }

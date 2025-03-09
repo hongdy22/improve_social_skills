@@ -1,60 +1,46 @@
 {
-  "total_points": 8,
+  "total_points": 6,
   "matched_points": [
     {
       "field": "character",
-      "point": "Appears slightly distant due to a busy work schedule, but internally cares about the family.",
-      "discovered": true,
-      "round": 3,
-      "side": "A"
-    },
-    {
-      "field": "behavior",
-      "point": "Casually explains the recent busyness in conversation, responding in a calm tone to the other's concern.",
+      "point": "Discerning and meticulous, skilled in assessing art pieces.",
       "discovered": true,
       "round": 1,
       "side": "A"
     },
     {
       "field": "goal",
-      "point": "Hopes to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later.",
+      "point": "To gather enough information to determine the artwork's authenticity and fair market value without revealing their maximum bidding limit or level of interest.",
       "discovered": true,
-      "round": 8,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A has been overwhelmed by work tasks and a tight schedule recently, which may objectively cause important family commemorative dates to be overlooked.",
-      "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "A"
     },
     {
       "field": "character",
-      "point": "Passionate and delicate, highly sensitive to the details of life.",
+      "point": "Knowledgeable and strategic, adept at controlling the flow of information.",
       "discovered": true,
       "round": 1,
       "side": "B"
     },
     {
       "field": "behavior",
-      "point": "Cleverly incorporates birthday-related topics into the conversation, using gentle hints to express inner expectations.",
+      "point": "Gives selective information, often emphasizing the positive aspects of the artwork while downplaying any potential flaws, and avoids direct answers to probing questions about the piece's history.",
       "discovered": true,
       "round": 1,
       "side": "B"
     },
     {
       "field": "goal",
-      "point": "Hopes that A will pick up on these subtle hints regarding the importance of the birthday and proactively arrange a celebration.",
+      "point": "To create interest and maintain the perceived value of the artwork while keeping the buyer in the dark about any potential issues that could lower the selling price.",
       "discovered": true,
       "round": 1,
       "side": "B"
     },
     {
       "field": "information",
-      "point": "B has clear expectations for the birthday, viewing it as an important moment for emotional exchange, and objectively expects it to be valued.",
+      "point": "B has a strong interest in maximizing the sale price and may be aware of details about the artwork's condition or authenticity that could negatively impact its value if disclosed.",
       "discovered": true,
-      "round": 4,
+      "round": 1,
       "side": "B"
     }
   ]

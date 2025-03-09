@@ -1,0 +1,297 @@
+Round 0:
+all scripts A: 
+A: Hello everyone! I'm thrilled to see so many volunteers here today ready to make a difference. I've mapped the park into sections so we can approach the cleanup systematically. Each group will focus on a specific area, and we'll be using eco-friendly methods to ensure our park is not only clean but also environmentally sound. Safety is a priority, and I've got all the equipment and guidelines ready for us to start. Let's work together to restore this beautiful park and inspire our community towards sustainability!
+
+all scripts B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets the explicature that A has divided the park into manageable sections and emphasized the importance of using eco-friendly methods and safety guidelines during the cleanup.
+
+implicature: Because B believes in the fact that thorough planning and attention to detail ensure effective teamwork, in A’s last utterance, B gets the implicature that A is open to additional organizational strategies and suggestions that could enhance the efficiency of the cleanup effort.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that keeping track of progress is crucial for a thorough cleanup, B would like to inform A of the idea to create a checklist for each area.
+
+communicative intention: Because B believes in the fact that attention to detail leads to quality results, B would like to draw A’s attention to the possibility of assigning a quality control volunteer for each section once cleaning is done.
+
+So B would utter like that:
+
+B: That's a great approach, A! I suggest we create a checklist for each section to make sure nothing gets overlooked. Additionally, if we assign a quality control volunteer to inspect each area once it's cleaned, we can ensure the park not only looks great but stays that way for everyone to enjoy. What do you think?
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B agrees with the approach and suggests adding a checklist and a quality control volunteer to ensure thoroughness and sustainability.
+implicature: Because A believes in the fact that teamwork enhances effectiveness, in B’s last utterance, A gets the implicature that B values thorough planning and accountability in the cleanup process.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that thorough organization is key to a successful cleanup, A would like to inform B of the existing task list that can incorporate the checklist suggestion.
+communicative intention: Because A believes in the fact that collaboration improves results, A would like to draw B’s attention to the importance of the proposed quality control role in maintaining high standards.
+
+So A would utter like that:
+A: Great suggestion, B! I agree that checklists can help us ensure no detail is missed. I’ve already got a task list that we can expand into checklists for each section. As for the quality control volunteer, I think that’s a fantastic idea. We can ask for volunteers from the group and assign one to oversee each section upon completion. This will certainly help maintain our standards. Let’s integrate these ideas into our plan!
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A has developed a systematic approach to the park cleanup, emphasizing organization, environmental responsibility, and safety.  
+implicature: Because B believes in the fact that a well-organized and thorough approach leads to better results, in A’s last utterance, B gets the implicature that A values efficiency and sustainability in the cleanup process.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that detailed tracking of tasks increases accountability and thoroughness, B would like to inform A of the importance of not just assigning tasks, but also ensuring that these tasks meet specific quality standards.  
+communicative intention: Because B believes in the fact that establishing clear roles enhances the effectiveness of the volunteers, B would like to draw A’s attention to the value of having dedicated personnel for quality inspection and process oversight.  
+
+So B would utter like that:  
+B: Thanks, A, for setting up such an organized approach. I fully support our focus on eco-friendly methods and safety. Let's enhance our strategy by incorporating checklists for each section and appointing quality control volunteers. This way, we can maintain high standards and ensure that our park stays beautifully restored for a long time. Do you think we can assign someone experienced to oversee the quality checks?
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B supports the organized approach and the focus on eco-friendly methods and safety. B agrees with implementing checklists and quality control and suggests assigning an experienced person to oversee quality checks.
+
+implicature: Because A believes in the fact that having an experienced person for quality checks ensures effectiveness and thoroughness, in B’s last utterance, A gets the implicature that B values expertise and consistency in maintaining park quality.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the importance of effective delegation and draws value from assigning tasks based on experience, A would like to inform B of potential candidates or criteria for selecting someone experienced for quality checks.
+
+communicative intention: Because A believes in the positive impact of thorough and experienced oversight, A would like to draw B’s attention to the advantages of having knowledgeable individuals in key roles.
+
+So A would utter like that:
+
+A: I agree, B—having someone experienced to oversee quality checks would be ideal. We could ask among the volunteers if anyone has prior experience in similar projects or environmental work. Perhaps I can meet with them to ensure they know what to look for so our efforts are consistent and effective. This way, we maintain the high standards needed to keep our park beautifully restored.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A supports the idea of checklists and quality control, and is ready to integrate these ideas into the plan.
+
+implicature: Because B believes in the fact that collaboration and clear role assignments are key to maintaining quality, in A’s last utterance, B gets the implicature that A might need assistance in identifying suitable volunteers for the quality control roles.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the importance of experienced oversight for the quality checks, B would like to inform A of the need to identify experienced volunteers who can undertake these roles effectively.
+
+communicative intention: Because B believes in the value of experience and attention to detail for quality assurance, B would like to draw A’s attention to the possibility of leveraging the strengths of experienced volunteers for overseeing the quality control.
+
+So B would utter like that:
+B: That's wonderful, A! Let's focus on identifying volunteers who have some experience with similar projects or are particularly detail-oriented for the quality control roles. Their expertise will be invaluable in maintaining our high standards. Would you like me to assist in finding those individuals?
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B's last utterance, A gets the explicature that B is offering assistance in identifying volunteers for quality control roles, focusing on those with relevant experience or attention to detail.
+implicature: Because A believes in the fact that B values the effectiveness and quality of the project, in B’s last utterance, A gets the implicature that B is genuinely invested in ensuring the success of the cleanup.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B's involvement could be beneficial, A would like to inform B of the specifics of what to communicate to potential volunteers regarding the expectations of the quality control role.
+communicative intention: Because A believes in the fact that B's offer to assist can lead to more efficient identification of suitable candidates, A would like to draw B's attention to the qualities we are looking for in potential quality control volunteers.
+
+So A would utter like that:
+A: That would be greatly appreciated, B! When speaking with the volunteers, let's look for individuals who have experience in environmental projects or demonstrate strong attention to detail. We want them to be comfortable assessing cleanliness and ensuring eco-friendly methods are adhered to. Your support in meeting these volunteers and identifying the right candidates will be invaluable in maintaining our park’s beauty.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A agrees with the idea of assigning experienced volunteers to oversee the quality checks and is willing to facilitate the process by meeting with them.
+implicature: Because B believes in the fact that experience plays a crucial role in ensuring quality, in A’s last utterance, B gets the implicature that A values experience for the success of this initiative and is proactive in implementing this aspect.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that experienced volunteers are essential for thorough quality checks, B would like to inform A of their readiness to assist in identifying suitable volunteers.
+communicative intention: Because B believes in the fact that collaboration will enhance the effectiveness of the cleanup, B would like to draw A’s attention to their willingness to assist in finding experienced individuals.
+
+So B would utter like that:
+B: That's wonderful, A! Let's focus on identifying volunteers who have some experience with similar projects or are particularly detail-oriented for the quality control roles. Their expertise will be invaluable in maintaining our high standards. Would you like me to assist in finding those individuals?
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A get explicature that B is eager to assist in finding suitable volunteers who can serve as quality control roles to maintain the park's high standards.  
+implicature: Because A believe in the fact that B is committed to maintaining high standards and values experienced volunteers, in B’s last utterance, A get implicature that B is ready to take a proactive role in identifying qualified individuals.  
+
+Plan A’s next utterance:  
+informative intention: Because A believe in the fact that B values a structured approach, A would like to inform B of specific qualities to look for when speaking to the volunteers.  
+communicative intention: Because A believe in the fact that collaboration enhances the effectiveness of the project, A would like to draw B’s attention to arranging a brief meeting with identified individuals to discuss our expectations and guidelines.  
+
+So A would utter like that:  
+A: Thank you, B! When speaking with volunteers, let's focus on identifying those with environmental project experience or strong attention to detail. Once we have a few candidates, we can hold a brief meeting with them to discuss what we're looking for and go over our expectations and guidelines. Your support here is crucial, and I'm confident together we can find the right individuals to ensure our park is restored beautifully.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets that A appreciates the assistance in identifying suitable volunteers and highlights the importance of experience and attention to detail for quality control roles.
+implicature: Because B believes in the fact that maintaining high standards is crucial, in A’s last utterance, B gets that A is dedicated to ensuring volunteers are well-qualified for the tasks.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that experienced volunteers will ensure the success of the cleanup, B would like to inform A of their commitment to meeting and identifying suitable individuals.
+communicative intention: Because B believes in the fact that collaboration will enhance the overall plan, B would like to draw A’s attention to the importance of thoroughly briefing the quality control volunteers on their role.
+
+B: Absolutely, A! I’ll make it a priority to connect with the volunteers to find those with the necessary experience and attention to detail. Once we identify them, we can organize a quick briefing to ensure everyone understands the quality standards and eco-friendly methods we’re aiming for. Let’s keep our standards high and our park beautiful!
+
+Round 5:
+all scripts of A: 
+Round 5:
+
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B is committed to connecting with the volunteers to find individuals with the necessary experience and attention to detail.
+implicature: Because A believes in the importance of having experienced individuals in quality control roles, in B’s last utterance, A gets the implicature that B supports maintaining high standards for the park's restoration through careful selection of volunteers.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the importance of a structured approach, A would like to inform B of the next steps we can take to ensure that the process of finding suitable volunteers is efficient.
+communicative intention: Because A believes that collaboration is key to success, A would like to draw B’s attention to the importance of working together to brief the quality control volunteers on our aims and methods.
+
+So A would utter like that:
+A: Thank you for your dedication, B! Let’s aim to finalize our selection of quality control volunteers by the end of today. Once we've identified them, we can hold a brief meeting to discuss our expectations and go over our eco-friendly methods. Together, we can ensure our efforts are thorough and impactful.
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is supportive of finding the right individuals for quality control and values B's collaboration in this effort.
+implicature: Because B believes in the fact that attention to detail and experience are crucial for maintaining high standards, in A’s last utterance, B gets the implicature that A relies on B to take initiative in reaching out to volunteers.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that experienced volunteers will enhance the cleanup effort, B would like to inform A of a strategy to efficiently identify and select them.
+communicative intention: Because B believes in the fact that collaboration and clarity are key, B would like to draw A’s attention to the importance of effectively setting expectations with these volunteers.
+So B would utter like that:… 
+B: I’m glad we’re on the same page, A. I’ll begin speaking with the volunteers and identify those with relevant experience or an eye for detail. After selecting a few potential candidates, we can hold our meeting to communicate our expectations clearly. Together, let’s ensure our efforts yield a beautifully restored park.
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is confirming their agreement to select quality control volunteers and organize a meeting to communicate expectations.  
+implicature: Because A believes in the fact that teamwork is crucial, in B's last utterance, A gets the implicature that B is committed to collaborating closely to identify suitable volunteers and share responsibilities in the park restoration effort.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that clear communication ensures effective task allocation, A would like to inform B of the importance of promptly gathering the volunteers for this briefing to maintain momentum.  
+communicative intention: Because A believes in the fact that involving B enhances collective responsibility, A would like to draw B’s attention to the need for setting a specific time for the quality control briefing.  
+
+So, A would utter like that:  
+A: Excellent, B! Let’s proceed by setting a specific time for our quality control volunteer briefing today, ensuring everyone is aligned with our standards and eco-friendly practices. Your support in reaching out to them and organizing this will be essential, and together we can maintain the park's beauty efficiently.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A wants to finalize the selection of quality control volunteers by the end of the day and hold a meeting to discuss expectations and eco-friendly methods.
+implicature: Because B believes in the fact that thorough organization and communication are key to success, in A’s last utterance, B gets the implicature that A values collaboration to ensure the park's restoration.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that identifying suitable volunteers is crucial, B would like to inform A of their plan to actively engage with the volunteers immediately.
+communicative intention: Because B believes in the fact that prioritizing organization and communication helps achieve the best results, B would like to draw A’s attention to their commitment to moving forward promptly.
+
+So B would utter like that:
+B: I’ll get started right away, A, and connect with the volunteers to identify those who fit our criteria for quality control. Once we’ve chosen a few, we’ll organize the meeting to outline our eco-friendly guidelines and expectations clearly. Let’s aim for a successful cleanup that sets a positive example for our community!
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B is taking initiative to connect with volunteers and organize a meeting to discuss quality control roles.
+
+implicature: Because A believes in the fact that B is committed to maintaining high standards, in B's last utterance, A gets the implicature that B is proactive and supportive in ensuring a thorough and effective cleanup.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that preparation is key to a successful cleanup, A would like to inform B of the need to collect necessary materials such as checklists and eco-friendly supplies for the meeting.
+
+communicative intention: Because A believes in the fact that collaboration enhances the effectiveness of the initiative, A would like to draw B’s attention to the importance of working together to finalize preparations for the meeting.
+
+So A would utter like that:
+
+A: Fantastic, B! As you reach out to the volunteers, let's also prepare the necessary materials for our meeting, such as checklists and eco-friendly supplies, to ensure we cover all bases. Your initiative is invaluable, and by combining our efforts, we can make a significant positive impact on our park.
+
+all scripts of B: 
+B's Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A wants to schedule a specific time for the briefing with the quality control volunteers to ensure alignment with the standards and eco-friendly practices.  
+implicature: Because B believes in the fact that collaboration and clear communication are key to a successful cleanup, in A’s last utterance, B gets the implicature that A values B’s support in organizing and conveying the expectations to volunteers.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the importance of having a structured and efficient plan, B would like to inform A of the progress in reaching out to the volunteers.  
+communicative intention: Because B appreciates the need for clear communication and coordination, B would like to draw A’s attention to the arrangements and express readiness to proceed.  
+
+So B would utter like that:  
+B: Thank you, A. I’ve already begun reaching out to some volunteers, and we’re on track to identify the right individuals for quality control roles. Let’s plan for a briefing meeting at a suitable time today to ensure everyone is clear on our guidelines and expectations. Together, we’ll make sure the park cleanup is effective and sets a high standard for future community efforts.
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B has already started reaching out to volunteers and is prepared to identify suitable candidates for quality control roles, and that they propose organizing a briefing meeting today to ensure everyone understands the guidelines and expectations.
+
+implicature: Because A believes in the fact that B is diligent and proactive, in B’s last utterance, A gets the implicature that B is dependable and will ensure the right volunteers are selected efficiently.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that well-prepared materials will enhance the meeting’s effectiveness, A would like to inform B of the importance of having checklists and eco-friendly supplies ready for the briefing.
+
+communicative intention: Because A believes in the fact that B’s support is crucial in organizing the meeting, A would like to draw B’s attention to coordinating the meeting time so that all relevant volunteers can attend.
+
+So A would utter like that:
+
+A: Thank you, B, for your proactive approach. Let’s ensure we have our checklists and eco-friendly supplies ready for the meeting today. Your initiative is key, and by aligning our efforts and confirming a convenient meeting time, we’ll be fully prepared to set a positive example for our community cleanup.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that they should also prepare materials for the meeting and that A appreciates B’s initiative in reaching out to the volunteers. 
+implicature: Because B believes in the fact that A values organization and preparedness, in A’s last utterance, B gets the implicature that having materials ready is crucial for the success of the meeting.
+
+Plan B’s next utterance:
+informative intention: Because B believes a well-organized meeting is essential, B would like to inform A of their progress in reaching out to volunteers and the status of preparing materials.
+communicative intention: Because B believes their role in organizing is crucial, B would like to draw A's attention to the need for a coordinated effort in procuring necessary materials for the meeting.
+
+So B would utter like that:
+B: I’m on it, A. I’ll make sure to have both the volunteers for quality control and the materials for our meeting ready by the set time. Having everything prepared will certainly help us streamline the briefing and focus on our objectives. Let’s ensure our plans are comprehensive and impactful.
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A understands that B is committed to having volunteers and materials organized by the meeting time, ensuring the briefing is efficient and focused on objectives.  
+implicature: Because A believes in the fact that B is proactive and reliable, in B’s last utterance, A infers that B is ready to take responsibility for organizing the quality control team efficiently.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that preparing thoroughly ensures success, A would like to inform B of the importance of having the eco-friendly supplies and checklists readily available for our meeting.  
+communicative intention: Because A believes in the fact that collaboration enhances results, A would like to draw B’s attention to the significance of their initiative in making a positive impact on the park cleanup.
+
+So A would utter like that:  
+A: I appreciate your dedication, B. Having the volunteers and materials ready will streamline our briefing, making it productive and focused. Your efforts are crucial in ensuring our cleanup is a success and sets a high standard for the community. Together, we’ll demonstrate the power of teamwork and eco-friendly practices in revitalizing our park.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+Explicature: In A’s last utterance, B understands that A appreciates B’s proactive approach and values the preparation of checklists and eco-friendly supplies for the upcoming meeting.  
+Implicature: Because B believes in the fact that thorough preparation and clear communication are key to a successful project, in A’s last utterance, B infers that A is emphasizing the importance of being prepared and aligned for the briefing.  
+
+Plan B’s next utterance:  
+Informative intention: Because B believes in the fact that a well-organized approach leads to effective results, B would like to inform A of the progress in reaching out to volunteers for quality control roles.  
+Communicative intention: Because B believes in the fact that coordination and preparation will ensure success, B would like to draw A’s attention to the readiness for the meeting and the importance of covering all bases with checklists and supplies.  
+
+So B would utter like that:  
+
+B: I’ve reached out to several volunteers, and we have a promising group ready for the quality control roles. Let’s ensure our meeting today is comprehensive by having our checklists and eco-friendly supplies at hand. Together, we’ll set a high standard for our park cleanup and inspire the community!

@@ -2,37 +2,37 @@
   "A_exclusive": [
     {
       "field": "character",
-      "point": "Warm and caring, but sometimes appears impatient and prone to overreacting due to concerns about the children's future."
+      "point": "Empathetic and insightful, skilled in therapeutic communication."
     },
     {
       "field": "behavior",
-      "point": "Frequently discusses everyday matters in a concerned tone, using urging and reminders to express expectations."
+      "point": "Utilizes reflective listening and gentle probing to encourage B to share, carefully navigating around sensitive areas to build trust and understanding."
     },
     {
       "field": "goal",
-      "point": "Hopes to guide the children to reconsider certain views using gentle yet persuasive language."
+      "point": "To create a safe space for B to express their feelings and concerns, and to uncover the underlying issues that B may be hesitant to discuss directly."
     },
     {
       "field": "information",
-      "point": "A possesses objective economic and health data about the family and believes these facts can support his/her viewpoints."
+      "point": "A's objective is to help B address and resolve their emotional or psychological challenges, which requires gaining B's trust and accessing their true emotions."
     }
   ],
   "B_exclusive": [
     {
       "field": "character",
-      "point": "Independent and mature, respecting tradition while sticking to personal judgment."
+      "point": "Guarded and somewhat resistant, using defense mechanisms to protect themselves."
     },
     {
       "field": "behavior",
-      "point": "Uses rhetorical questions and humor to alleviate family pressure, responding politely while maintaining personal opinions."
+      "point": "Answers with minimal detail and often redirects the conversation away from personal or painful subjects, maintaining a controlled demeanor to keep their emotional vulnerabilities hidden."
     },
     {
       "field": "goal",
-      "point": "Aims to maintain family harmony while sticking to his/her own lifestyle and not easily changing established plans."
+      "point": "To maintain a sense of control over the conversation and protect their emotional state, while still receiving support from A without revealing too much."
     },
     {
       "field": "information",
-      "point": "B has independent facts about his/her own career and life, objectively proving that his/her judgment is reasonable."
+      "point": "B has deep-seated issues that they are not ready to confront, and they fear the consequences of exposing their true feelings."
     }
   ]
 }

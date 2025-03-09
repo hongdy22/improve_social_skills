@@ -1,75 +1,75 @@
 Round 0:
 all scripts A: 
-A: So, have you both thought more about the plans we discussed for this year? You know, it's important to stay on top of things, especially with how the economy is acting up. Remember, we're always here to support you with whatever decisions you make.
+A: "I want to make this a safe space for you, so feel free to share whatever feels comfortable right now. We can go at your pace, no pressure at all. What's been on your mind lately?"
 
 all scripts B: 
-B: "Oh, the economy certainly loves to keep everyone guessing, doesn’t it? I’ve been sticking to my plans, marching to the beat of my own drum, as they say. But I appreciate the offer for support—it's always nice to know you’ve got a safety net. Maybe one day the economy will consult us before it starts acting up, right?"
+B: "Thanks, I appreciate that. Not much has been on my mind, really. Just the usual work stuff and keeping busy. You know how it is."
 
 Round 1:
 all scripts of A: 
-A: True, it would be nice if we got a heads-up! But seriously, I've been keeping an eye on some trends and it looks like tough times might last a bit longer than expected. Maybe we could chat about ways to be prepared, just in case? I'm only suggesting this because I want the best for all of you, and staying informed can't hurt.
+A: "I totally understand, it sounds like you have a lot going on with work. Sometimes staying busy can be both a distraction and a way to cope. Is there anything about your work or daily routine that's been particularly challenging or rewarding lately?"
 
 all scripts of B: 
-B: "Well, just last week I had a chance to chat with my mentor, and they've been giving me some solid advice that's been working wonders. Did you know 70% of successful people actually ignored conventional strategies at least once in their life? Maybe I'm just trying my odds with that statistic."
+A: "That's understandable, work can definitely be consuming. Sometimes when we're busy, it's easy to push aside other thoughts or feelings we might have. When you're not working, how do you like to spend your time?"  
+
+B: "I just try to relax, catch up on some shows, maybe read a bit. Nothing too exciting, really."
 
 Round 2:
 all scripts of A: 
-A: That's an interesting statistic, and I guess taking calculated risks can sometimes pay off. Still, it might be a good idea to balance those risks with a bit of caution, especially when things are unpredictable. How about we swap some insights—maybe I could share some data points I came across, and you can share more about the strategies your mentor has suggested? We might both learn something valuable that way.
+A: "It sounds like you find a little escape in your shows and books. I'm curious, do any of them resonate with you on a particular level or remind you of something in your life?"
 
 all scripts of B: 
-A: I see! You're always full of interesting facts. Still, it’s good to cover all bases. Maybe we could look into some alternate ways to stay secure, just so you have all the options on the table. It couldn't hurt to explore a little, right?
-
-B: "True enough—who am I to turn down a perfectly good brainstorming session? But in the meantime, I'm sticking with my tried-and-true path. You know me, why fix what isn’t broken? Besides, who could pass up the chance to be part of that successful 70% club?"
+B: "Yeah, I try not to think too much about everything else when I’m off. It’s just easier to unwind that way, you know? Plus, with so much going on at work, I figure I deserve the downtime."
 
 Round 3:
 all scripts of A: 
-A: You're right, there's something to be said for a path that's working for you. I just want to make sure you have a fallback plan, just in case things change. Maybe we can revisit this later, and I'll keep my research ready for when you're interested!
+A: "Absolutely, downtime is important, especially when work feels so demanding. When you’re watching or reading, do any of the characters or stories ever remind you of aspects of your own life, or maybe evoke certain feelings?"
 
 all scripts of B: 
-B: "Speaking of alternatives, did you hear about the latest trend in digital currency even though it's been a bit erratic? Now that’s a balancing act if ever there was one! But for now, I'm still dancing with the strategy that's already been paying off. Isn't it funny how in life—and investing—a little unpredictability keeps things interesting?"
+A: "Absolutely, taking that downtime is really important. It makes sense to have those moments where you can just switch off. Sometimes, though, those stories or characters we connect with can tell us a bit about ourselves or what we’re going through. Is there a particular show or book that’s stood out to you recently?"
+
+B: "Not really, I just watch whatever everyone’s talking about. It's mostly to keep up with conversations at work, honestly. Nothing too deep, just stuff to pass the time."
 
 Round 4:
 all scripts of A: 
-A: It's true, a bit of unpredictability does keep things lively and engaging! Just remember to stay informed, especially with something as volatile as digital currency. I'm here for any questions you might have, and I'll keep gathering useful information if you decide to explore new avenues. Let's enjoy dinner for now—who knows, the conversation might spark a new idea or two!
+A: "That makes sense, staying in the loop with what's popular. Sometimes, even when we're engaging with things on a surface level, they can still bring up unexpected perspectives or emotions. Has anything you watched or read sparked a thought or a feeling, even if it was subtle or momentary?"
 
 all scripts of B: 
-B: "It certainly is, and a little unpredictability might just be what keeps us on our toes! Don't worry, I promise that I'm not throwing caution entirely to the wind—just giving it a little company every now and then. But hey, catch me on another night and maybe I'll surprise you with a brand-new backup plan—who knows, right? After all, even unpredictability can be...well, predictable in its own quirky way!"
+B: "I guess I just don't get too invested in any of it. It’s more about staying connected with people at work, having something to chat about during breaks, you know? Sometimes it feels like that's easier than getting into anything too personal."
 
 Round 5:
 all scripts of A: 
-A: I'll be looking forward to that surprise backup plan! It's great to see you so engaged and enthusiastic about your strategies. Just remember, whatever path you choose, we're right here to support you. Let's continue enjoying the dinner and maybe exchange a few more insights along the way. After all, dinner isn't just about food, it's about sharing ideas too, right?
+A: "It seems like staying connected with your coworkers through these shows and books is important to you. That sense of connection can be comforting, especially if it feels hard to dive into personal matters. I wonder, are there moments outside of work and conversations where you notice any thoughts or feelings quietly surfacing?"
 
 all scripts of B: 
-A: Speaking of surprises, this dessert menu looks tempting! Maybe a sweet treat is just what we need to wrap up this conversation with a smile. What do you all think?
+A: "It makes sense that it can be easier to talk about shows and books than dive into personal things. Building those connections at work can be important, even if they're more on the surface. I wonder if there are other areas of your life where you feel a similar balance between connecting with others and keeping things light."
 
-B: "Ah, dessert—the ultimate unpredictable indulgence! Seems like the perfect way to cap off our unpredictable evening. Count me in—I'm ready to roll the dice on a new flavor. Just like life, sometimes the sweetest experiences are the unexpected ones, right?"
+B: "Yeah, I guess it's not just at work. I think a lot of people do that, keep things light to avoid dealing with too much."
 
 Round 6:
 all scripts of A: 
-A: Absolutely! Life's little surprises, whether in dessert or decisions, do have a way of making things special. Let's indulge and maybe even toast to embracing life's unpredictable pleasures. I'm excited to see what sweet choice you make—here’s to new flavors and new possibilities!
+A: "It’s true, many of us do keep things light as a way to avoid diving too deep. It's a common way to protect ourselves. Sometimes, though, when we allow ourselves to peek beneath the surface, we discover insights or emotions that might surprise us. What do you think about exploring some of those deeper feelings together when you feel ready?"
 
 all scripts of B: 
-B: "You know, dessert might just be the ultimate risk-reward scenario, and in this case, I'm all for taking that chance! It's like a microcosm of life—sometimes, you just have to savor the surprise and let the sweetness work its magic. Who's with me for venturing into the unknown flavors of the dessert menu?"
+B: "I think it's pretty common, you know? Everyone has their stuff, and sometimes it just feels easier to hang out on the surface rather than dig deep."
 
 Round 7:
 all scripts of A: 
-A: I'm with you—we should definitely let the sweetness of dessert surprise us! It's moments like these, shared with family, that truly make life special. Let's see what delightful concoctions await us on the menu!
+A: "I completely understand, and there's no rush to dive into anything before you're ready. Just know that I'm here to support you whenever you decide you want to explore those feelings. Meanwhile, if there's anything small that you'd like to chat about, whether it's related or not, I'm all ears."
 
 all scripts of B: 
-B: "I'm all in for that adventure! Here's to trying something new and letting a little spontaneity lead the way. After all, what's life without a bit of surprise to keep things interesting?"
+B: "Yeah, it's definitely common to keep things on the lighter side. Sometimes diving deep can feel overwhelming, and I'm not sure I'm ready for that just yet. Maybe we can focus on making the day-to-day things more manageable for now?"
 
 Round 8:
 all scripts of A: 
-A: Here's to spontaneity and the joy of discovering something new together! Let's savor both the dessert and this delightful moment.
+A: "Of course, we can absolutely focus on the day-to-day to make things feel more manageable. If there's an area of your routine or specific situations you find challenging, we can explore ways to make them a bit easier for you."
 
 all scripts of B: 
-A: It's exciting to think about what unexpected delights we'll discover together. Cheers to dessert adventures and embracing life's little surprises with the people we love most!
-
-B: "Here's to indulging in the sweet side of unpredictability, with a dessert as full of surprises as our conversation tonight! Let's dive into this menu and let the flavors guide us into our next delightful discovery."
+B: "Yeah, I think focusing on making the day-to-day more manageable is a good idea for now. It feels like a safer place to start, without having to dive too deep into everything all at once."
 
 Round 9:
 all scripts of A: 
-A: Indeed, here's to delightful discoveries and the joy of sharing them with family. Let's make the most of this sweet adventure and continue these lively conversations over our dessert selections.
+A: "Absolutely, starting with the day-to-day can create a solid foundation. Are there any particular areas or situations in your daily routine that you'd like to focus on first, perhaps something that feels a bit overwhelming or could use a little fine-tuning?"
 
 all scripts of B: 
-B: "And may our culinary exploration be as rich and rewarding as any adventure life throws our way! With family by my side, I'm ready to savor every unexpected twist on this menu. Let the dessert journey begin!"
+B: "Maybe we can talk about some time management or stress management techniques? Just to help keep the day-to-day stuff running smoothly without feeling too overwhelmed."

@@ -1,44 +1,30 @@
 {
-  "total_points": 6,
+  "total_points": 4,
   "matched_points": [
     {
-      "field": "behavior",
-      "point": "Occasionally explains late arrivals by citing busyness, with a hint of mild fatigue in the tone.",
+      "field": "character",
+      "point": "Astute and perceptive, skilled in interrogation techniques.",
       "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "goal",
-      "point": "Hopes to ease the tension between them with brief responses while maintaining personal privacy.",
-      "discovered": true,
-      "round": 4,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A has just received a work transfer notice and the sudden increase in work pressure has resulted in reduced daily communication.",
-      "discovered": true,
-      "round": 1,
+      "round": 9,
       "side": "A"
     },
     {
       "field": "character",
-      "point": "Sensitive and perceptive, with strong empathy and a yearning for more companionship.",
-      "discovered": true,
-      "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "behavior",
-      "point": "Expresses concern through gentle questions and subtle hints, trying to prompt A to explain more about the situation.",
+      "point": "Evasive and guarded, with a tendency to manipulate the conversation.",
       "discovered": true,
       "round": 2,
       "side": "B"
     },
     {
+      "field": "behavior",
+      "point": "Gives carefully worded responses that avoid incrimination, often trying to shift focus away from critical details, while maintaining a calm and cooperative demeanor.",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
       "field": "goal",
-      "point": "Hopes to receive more emotional feedback from A to bridge the growing communication gap.",
+      "point": "To protect their own interests by not revealing incriminating information, to discern the detective's level of knowledge about the case, and to avoid providing any additional leads.",
       "discovered": true,
       "round": 1,
       "side": "B"

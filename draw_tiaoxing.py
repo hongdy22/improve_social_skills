@@ -33,8 +33,8 @@ def process_file(filename):
     valid_lines = [line.strip() for line in lines if line.strip()]
     
     # 前3行和后3行
-    part1_lines = valid_lines[:3]
-    part2_lines = valid_lines[-3:]
+    part1_lines = valid_lines[:10]
+    part2_lines = valid_lines[-10:]
     
     # 将每一行解析为7个数字
     part1_scores = [parse_score_line(line) for line in part1_lines]
@@ -46,8 +46,8 @@ def process_file(filename):
             raise ValueError(f"Line {idx+1} in {filename} does not contain 7 scores: {scores}")
     
     # 分别计算前3行和后3行的每一项的平均分
-    final_scores_part1 = [sum(scores[i] for scores in part1_scores) / 3 for i in range(7)]
-    final_scores_part2 = [sum(scores[i] for scores in part2_scores) / 3 for i in range(7)]
+    final_scores_part1 = [sum(scores[i] for scores in part1_scores) / 10 for i in range(7)]
+    final_scores_part2 = [sum(scores[i] for scores in part2_scores) / 10 for i in range(7)]
     
     return final_scores_part1, final_scores_part2
 

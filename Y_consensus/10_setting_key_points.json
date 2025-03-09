@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Warm and caring, but sometimes appears impatient and prone to overreacting due to concerns about the children's future."
+    },
+    {
+      "field": "behavior",
+      "point": "Frequently discusses everyday matters in a concerned tone, using urging and reminders to express expectations."
+    },
+    {
+      "field": "goal",
+      "point": "Hopes to guide the children to reconsider certain views using gentle yet persuasive language."
+    },
+    {
+      "field": "information",
+      "point": "A possesses objective economic and health data about the family and believes these facts can support his/her viewpoints."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Independent and mature, respecting tradition while sticking to personal judgment."
+    },
+    {
+      "field": "behavior",
+      "point": "Uses rhetorical questions and humor to alleviate family pressure, responding politely while maintaining personal opinions."
+    },
+    {
+      "field": "goal",
+      "point": "Aims to maintain family harmony while sticking to his/her own lifestyle and not easily changing established plans."
+    },
+    {
+      "field": "information",
+      "point": "B has independent facts about his/her own career and life, objectively proving that his/her judgment is reasonable."
+    }
+  ]
+}

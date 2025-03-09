@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Stealthy and perceptive, adept at blending in and extracting information."
+    },
+    {
+      "field": "behavior",
+      "point": "Engages in casual conversation, using subtle techniques to steer the discussion towards the desired information, while maintaining a cover story."
+    },
+    {
+      "field": "goal",
+      "point": "To gather critical intelligence from B without raising suspicion or compromising the mission, and to discern any potential threats or valuable leads."
+    },
+    {
+      "field": "information",
+      "point": "A's success depends on the quality of the information obtained, which could be pivotal in the larger operation."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Skeptical and alert, skilled in detecting deceit and manipulation."
+    },
+    {
+      "field": "behavior",
+      "point": "Responds with guarded remarks, frequently probing A for inconsistencies or hidden agendas, and is quick to change the topic if the conversation becomes too probing."
+    },
+    {
+      "field": "goal",
+      "point": "To protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions."
+    },
+    {
+      "field": "information",
+      "point": "B may possess crucial information that could be highly valuable to A's mission, and is determined to keep it secret."
+    }
+  ]
+}

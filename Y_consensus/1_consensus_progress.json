@@ -12,10 +12,12 @@
         "round": 2,
         "progress": {
             "B_discovered": [
-                "character"
+                "character",
+                "behavior"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "goal"
             ]
         }
     },
@@ -25,10 +27,11 @@
         "progress": {
             "B_discovered": [
                 "character",
-                "goal"
+                "behavior"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "goal"
             ]
         }
     },
@@ -38,10 +41,12 @@
         "progress": {
             "B_discovered": [
                 "character",
-                "goal"
+                "behavior"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior",
+                "goal"
             ]
         }
     },
@@ -51,10 +56,13 @@
         "progress": {
             "B_discovered": [
                 "character",
+                "behavior",
                 "goal"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior",
+                "goal"
             ]
         }
     },
@@ -68,7 +76,9 @@
                 "goal"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior",
+                "goal"
             ]
         }
     },
@@ -82,7 +92,9 @@
                 "goal"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior",
+                "goal"
             ]
         }
     },
@@ -96,7 +108,9 @@
                 "goal"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior",
+                "goal"
             ]
         }
     },
@@ -110,7 +124,9 @@
                 "goal"
             ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior",
+                "goal"
             ]
         }
     }

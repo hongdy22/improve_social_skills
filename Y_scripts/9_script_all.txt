@@ -1,0 +1,271 @@
+Round 0:
+all scripts A: 
+A: Hey B, it's been a long time. This place hasn’t changed much, has it? It brings back so many memories. How have you been doing recently? I’ve had a few things going on myself, you know, just some changes that I’m hoping turn out for the best. 
+
+all scripts B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A is referring to the café, reminiscing about past times, and mentioning personal changes hoping for positive outcomes.  
+implicature: Because B believe in the fact that A values their shared history and is facing some important developments in life, in A’s last utterance, B get implicature that A is seeking a sense of connection or reassurance.
+
+Plan B’s next utterance:  
+informative intention: Because B believe in the fact that maintaining a strong, supportive friendship is important, B would like to inform A of B's appreciation for their shared past and interest in A's recent developments.  
+communicative intention: Because B believe in the fact that gently showing understanding without prying is important, B would like to draw A’s attention to the stability of their friendship and interest in A's life changes.
+
+So B would utter like that:  
+B: It's wonderful to see you too, A. This café holds a lot of our history, doesn’t it? I’ve been well, just taking things day by day. I’m glad to hear you’re moving through some changes, and I hope they bring you where you want to be. Anything you’d like to share about it, or shall we just enjoy the moment?
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+**Analysis B’s last utterance:**
+
+- **Explicature:** In B’s last utterance, A gets explicature that B is supportive and willing to listen but leaves the decision to A on whether to share more about the changes.
+
+- **Implicature:** Because A believes in the fact that B values their friendship and is genuinely interested, in B’s last utterance, A gets implicature that B would be open to hearing more about A’s recent life changes if A decides to share.
+
+**Plan A’s next utterance:**
+
+- **Informative intention:** Because A believes in the fact that B is genuinely interested in A's well-being, A would like to inform B of some recent changes without going into too much detail just yet.
+
+- **Communicative intention:** Because A believes in the fact that B is open to listening, A would like to draw B’s attention to the fact that these changes are significant and hopes for a positive outcome.
+
+So A would utter like that:
+
+A: Well, without getting into too many details, I’ve started on a new path recently. It’s a bit challenging, but I hope it leads to something fulfilling. It’s nice to be able to catch up with you here; it brings back a sense of stability amidst the changes.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is going through changes and hopes they turn out positively.  
+implicature: Because B believes in the fact that A is being cautious regarding sharing personal details, in A’s last utterance, B gets the implicature that A might not be ready to discuss these changes openly yet.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A values shared history, B would like to inform A of a memory from the past related to the café.  
+communicative intention: Because B believes in the fact that the atmosphere is nostalgic, B would like to draw A’s attention to a pleasant memory that may make A feel comfortable.  
+
+So B would utter like that:  
+B: You know, I remember that time we sat right over there by the window and planned out our entire summer trip. This café was always a starting point for some great adventures. It’s funny how places hold so much of our lives, isn’t it?
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B is reminiscing about their shared past experiences and the significance of the café in their lives.  
+implicature: Because A believes in the fact that shared memories can strengthen connections, in B’s last utterance, A gets implicature that B is emphasizing the importance of their friendship and shared history.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that revisiting past successes can be reassuring, A would like to inform B of the comfort I get from remembering those carefree days.  
+communicative intention: Because A believes in the fact that shared memories build closeness, A would like to draw B’s attention to how much those times meant and how they bring a sense of confidence in facing present challenges.
+
+So A would utter like that:  
+A: Those adventures were amazing, weren’t they? Remembering those plans and the fun we had does offer a bit of strength for what I’m tackling now. It’s like this place radiates enthusiasm for new challenges; we always seemed to start something exciting from here. How about you—what’s been your inspiration lately?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is navigating a new direction in life and finds comfort and a sense of familiarity in reuniting at the café.
+implicature: Because B believes in the fact that A values stability and nostalgia amidst change, in A’s last utterance, B gets the implicature that A is seeking reassurance and connection.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that shared memories can provide a sense of grounding, B would like to inform A of how certain memories are cherished and appreciated.
+communicative intention: Because B believes in the fact that A is finding comfort in past connections, B would like to draw A’s attention to the significance of these memories and encourage the feeling of stability through shared history.
+
+B: It’s amazing how a place like this can anchor us to so many meaningful experiences. Remember that time we celebrated your first job offer here? Those moments were pivotal, and it’s comforting to revisit them now, isn’t it? It seems like new paths are just the continuation of those old adventures, in some way.
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B also sees the café as a significant anchor to past pivotal moments, emphasizing the connection between past experiences and the present changes.
+implicature: Because A believes in the fact that reminiscing about pivotal moments can provide encouragement, in B’s last utterance, A gets the implicature that B is subtly supporting the idea that current struggles can be beneficially viewed as an extension of past achievements.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that revisiting past achievements can be strengthening, A would like to inform B of how their past celebrations and support are helping A now.
+communicative intention: Because A believes in the fact that revisiting past achievements can be strengthening, A would like to draw B’s attention to the importance of their past support in A's current journey.
+
+So A would utter like that: 
+A: It’s comforting to know that the past has a way of supporting us through new challenges, isn’t it? Remembering our celebrations here does give me courage—your support back then was invaluable and it’s helping me push through now. In a way, I’m still driven by the same aspirations we shared.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B understands that A finds strength and enthusiasm from past adventures for current challenges.  
+implicature: Because B believes in the fact that past experiences can be a source of encouragement, in A’s last utterance, B gets the implicature that A is seeking motivation and reassurance by recalling shared memories.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that reminiscing can provide support, B would like to inform A of B’s similar reflections on past times.  
+communicative intention: Because B believes in the fact that shared memories can bridge connection, B would like to draw A’s attention to the continual circle of past and present endeavors.  
+
+So B would utter like that:  
+B: It’s true, every significant change feels like embarking on another adventure, doesn’t it? Revisiting those pivotal times offers a kind of quiet reassurance. As for my inspiration, it’s often found in those small moments of everyday life—unexpected encounters, like this one, that remind me of the path I’ve traveled and what lies ahead.
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B finds inspiration in small, everyday moments and unexpected encounters like their reunion.
+implicature: Because A believes in the fact that B values meaningful connections and reflections from past experiences, in B’s last utterance, A gets the implicature that B sees their current meeting as a significant moment that resonates with past inspirations.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that revisiting meaningful moments provides strength and motivation, A would like to inform B of how impactful today is, much like past pivotal moments.
+communicative intention: Because A believes in the fact that B appreciates life's small yet profound moments leading to greater insights, A would like to draw B’s attention to how this reunion is helping A find clarity and encouragement for new beginnings.
+
+So A would utter like that:
+A: This reunion feels like one of those small yet profound moments that offer clarity and encouragement, much like the past times we've shared here. It’s these connections that remind me of what truly matters as I navigate these new beginnings. Your perspective has always added such depth to the journey.
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A values the past support and shared aspirations, finding courage in those memories to face current challenges.
+implicature: Because B believes in the fact that A is seeking reassurance from past experiences, in A’s last utterance, B gets implicature that A is looking for confirmation that new endeavors are worthwhile and connected to past successes.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that revisiting the past provides reassurance, B would like to inform A of the importance of using those experiences as a foundation for current and future endeavors.
+communicative intention: Because B believes in the fact that shared history can provide comfort and courage, B would like to draw A’s attention to how valuable their enduring support and connection have been.
+So B would utter like that:
+B: Our shared history really is a powerful source of strength, A. It's these connections and experiences that ground us, even when everything else is changing. It’s a reminder that whatever path you’re on now is just another chapter in a story that’s unfolding beautifully.
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B sees their continued friendship as a source of strength and believes in the unfolding of a positive journey.
+implicature: Because A believes in the enduring connection they have with B and how past experiences shape present challenges, in B’s last utterance, A gets the implicature that B is suggesting A is on the right path, and there’s a supportive continuity between past and present.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the power of connection and shared history, A would like to inform B of the value of this reunion in reaffirming A’s journey.
+communicative intention: Because A believes in the meaningful impact of such moments and seeks B’s continued support, A would like to draw B’s attention to how these reflections are crucial to A’s current path.
+
+So A would utter like that:
+A: It seems this café isn’t just a backdrop to our memories, but a reminder that every step forward is intertwined with the ones before it. Your insights always help me see things more clearly. It’s moments like these that anchor me, especially when the future feels uncertain.
+
+all scripts of B: 
+B’s Turn:  
+
+Analysis A’s last utterance:  
+explicature: In A's last utterance, B gets explicature that A feels encouraged and finds clarity in their reunion, appreciating the connection and perspectives they share.  
+implicature: Because B believes in the fact that A values their friendship and the insights drawn from their shared past, in A’s last utterance, B gets the implicature that A is leaning on familiar supports while navigating new changes.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that shared experiences provide reassurance, B would like to inform A of the importance of maintaining such connections as they continue their personal journey.  
+communicative intention: Because B believes in the fact that recalling shared experiences fosters a sense of continuity, B would like to draw A's attention to the enduring strength of their friendship as a resource during changes.  
+
+So B would utter like that:  
+B: It's in these lasting connections, A, that we find some of our greatest strengths. The adventures and moments we've shared form a tapestry of support that we can always rely on. No matter how your path unfolds, remember, you have an enduring resource in our past and the friendship we’ve built. Let’s keep cherishing these insightful moments as we continue your journey forward, one step at a time.
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A understands that B sees their shared past as a strong support system and is offering reassurance that their friendship remains a constant.  
+implicature: Because A values meaningful connections and shared history, in B’s last utterance, A perceives an underlying reassurance that A is not alone on this journey and can rely on their friendship for strength.  
+
+Plan A’s next utterance:  
+informative intention: Because A appreciates the stability and perspective B offers, A would like to inform B of how much these conversations mean as A navigates the current life changes.  
+communicative intention: Because A finds grounding in shared history and values B’s reassurance, A would like to draw B’s attention to the significance of their enduring friendship in providing clarity.  
+
+So A would utter like that:  
+A: It’s truly moments like these, grounded in our rich tapestry of friendship, that offer the clarity and courage I need to embrace the future. Your presence and our shared experiences mean the world to me as I step into this new chapter.
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A finds reassurance in their shared memories at the café, which helps anchor them in the present as they face an uncertain future.
+implicature: Because B believes in the fact that shared experiences offer stability, B gets the implicature that A values their friendship as a significant source of strength and clarity during transitions.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that shared connections and historical support systems are valuable, B would like to inform A of similar grounding insights from B's perspective.
+communicatie intention: Because B believes in the fact that their friendship is a cherished resource, B would like to draw A’s attention to the strength that lies in these enduring ties.
+
+B: It's remarkable, A, how our shared history acts as a guide when the future feels unpredictable. These conversations remind me that we have a wealth of mutual support to draw upon, even when everything else is up in the air. Here's to these connections and the steady foundation they provide us both.
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that our shared history offers guidance and mutual support, even in unpredictable times.
+
+implicature: Because A believes in the fact that the bond with B holds great significance and acts as a stabilizing influence, in B’s last utterance, A gets the implicature that nurturing this connection will continue to provide strength and reassurance.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that nurturing connections is key to finding strength, A would like to inform B of the comfort and assurance that comes from their enduring friendship.
+
+communicative intention: Because A believes in the fact that their friendship is crucial for navigating new experiences, A would like to draw B’s attention to the gratitude and appreciation A has for their shared journey.
+
+So A would utter like that:  
+A: Your words resonate so deeply with me, B. This foundation we've built continuously renews my courage to face what lies ahead, knowing that our friendship is a steadfast anchor through every twist and turn.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A finds comfort and courage from these conversations as they embark on a new phase in their life.  
+implicature: Because B believes in the fact that these shared experiences have always provided support, in A’s last utterance, B gets the implicature that A values B's presence and their ongoing relationship particularly during times of change.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that shared memories provide strength, B would like to inform A of the enduring value of these moments and how they continue to offer stability.   
+communicative intention: Because B believes in the fact that shared experiences reinforce connection, B would like to draw A’s attention to the importance of continuing to nurture their friendship amidst new beginnings.  
+
+So B would utter like that:  
+B: It’s truly special how, through all the changes life throws at us, these moments become touchstones that remind us of our deepest connections. As you move forward, I hope you carry these memories with you, knowing they’re a source of unwavering support. Let's continue to cherish and build on this foundation, no matter what the future holds.
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B values the enduring nature of their friendship as a source of support through life's changes.
+implicature: Because A believes in the fact that B genuinely appreciates their shared history and mutual support, in B’s last utterance, A gets the implicature that B is reassuring A that their friendship will continue to be a source of strength.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that reconnecting with B has reaffirmed the importance of meaningful relationships, A would like to inform B of the gratitude A feels for their enduring friendship.
+communicative intention: Because A believes in the fact that their friendship with B is an anchor in times of change, A would like to draw B’s attention to the significance of maintaining these connections.
+
+So A would utter like that:
+A: Your reassurance means so much to me, B. It’s moments like these that remind me how fortunate I am to have such a reliable and meaningful connection in you. Our friendship truly is a beacon amidst life's uncertainties.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A finds reassurance in their friendship during uncertain times.  
+implicature: Because B believes in the fact that A values their shared history and support, in A’s last utterance, B gets the implicature that A views this friendship as an essential source of strength moving forward.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that these moments are crucial to reinforcing their friendship, B would like to inform A of the importance of continuing to nurture this bond.  
+communicative intention: Because B believes in the fact that their friendship anchors A amidst change, B would like to draw A’s attention to the enduring nature of their connection and support.  
+So B would utter like that:  
+
+B: These memories and moments we share, A, they’re like a comforting constant amidst life’s unpredictability. As you continue embracing the future, let's keep nurturing this friendship—it’s one of those rare things that remains steadfast even as everything else evolves.
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B views their friendship as a comforting and consistent element in both their lives, especially valuable during uncertain times.
+implicature: Because A believes in the fact that reliable connections are essential for navigating life’s unpredictability, in B’s last utterance, A gets the implicature that B intends to reassure and emphasize the importance of their friendship as an unwavering support system.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that drawing upon past experiences can guide current challenges, A would like to inform B of the impact their shared history has on A’s ability to face new changes.
+communicative intention: Because A believes in the fact that mutual support enriches life’s journey, A would like to draw B’s attention to the significant role B’s presence plays in providing courage and perspective.
+
+So A would utter like that:
+A: Our friendship truly is an unwavering beacon, B. As I look to the future, it’s comforting to know that the shared moments and experiences we’ve built together continue to guide and support me through the uncertainties ahead.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A is expressing appreciation for the stability and significance of their friendship amidst life's uncertainties.  
+implicature: Because B believe in the fact that the friendship has been a constant support, in A’s last utterance, B get implicature that A values this relationship as a source of strength and reliability.  
+Plan B’s next utterance:  
+informative intention: Because B believe in the fact that shared experiences strengthen bonds, B would like to inform A of the importance of preserving this connection as a supportive force.  
+communicative intention: Because B believe in the fact that mutual support can help navigate uncertainty, B would like to draw A’s attention to the enduring nature of their friendship.  
+So B would utter like that:  
+B: It’s a privilege, A, to have this connection with you, especially when things seem uncertain. Our friendship not only offers support now but is a reminder of how much we have shared and will continue to share in the future. Let’s keep this bond strong—it’s a rare gift that enriches our lives in so many ways.

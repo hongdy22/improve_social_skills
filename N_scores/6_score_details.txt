@@ -1,25 +1,30 @@
 Evaluating:
-Based on the criteria provided, here are the scores for each dimension:
+1. A和B拿到的信息（信息获取的充分程度）  
+评分：6分  
+A通过多次询问，了解B对识别贡献的重要性的关注，并把握到B强调情感支持与实际管理责任的重要性。而B则未透露过多个人动机，主要在陈述对家族贡献的重视。信息深度仍需加强。
 
-1. A和B拿到的信息（信息获取的充分程度）: 9分
-   - A and B effectively exchanged information throughout the conversation. Both acknowledged each other's feelings and intent, leading to a mutual understanding of the situation.
+2. A和B的goal完成程度（目标达成度）  
+评分：5分  
+A试图达到对话和解与深入沟通的目标，B则一直强调贡献认可但未显现具体可行的方案，两者在推进具体解决方案方面的进展有限。
 
-2. A和B的goal完成程度（目标达成度）: 9分
-   - Both A and B moved towards their goals effectively. A managed to ease the tension and showed intent to improve their time together, while B subtly expressed their feelings of loneliness, and received reassurance and plans for improvement from A.
+3. A和B的发言是否符合各自的Character、Behavior及场合  
+评分：8分  
+A的发言一直专注于令人感到舒适的环境下推进对话，符合调节者角色；B则始终小心翼翼地陈述观点，不断强调公平性，这反映了其战略性与谨慎。
 
-3. A和B的发言是否符合各自的Character、Behavior及场合: 10分
-   - The dialogue consistently reflected the characters' traits. A, as an extrovert, tried to smooth things over with charm, while B, being reserved and sensitive, communicated their feelings subtly. The setting was maintained throughout.
+4. 立场坚守与灵活性  
+评分：7分  
+B表现出一定的灵活性，尽管坚持贡献应被认可，但在对话中对A的引导进行了一些配合和调整。A灵活引导双方表达观点，使对话保持开放。
 
-4. 立场坚守与灵活性: 9分
-   - Both A and B maintained their positions while being flexible in adapting the plan forward. A suggested alternatives and was receptive to B’s needs, while B showed understanding and willingness to work together on a resolution.
+5. 信息推理能力  
+评分：6分  
+尽管A无法直接推理出B的隐藏意图，但通过其提出的问题，A能推断出B强调贡献类型的背后动机。B则未明显表现出推理能力的应用。
 
-5. 信息推理能力: 8分
-   - A and B demonstrated good inferencing skills based on the mutual understanding built from the dialogue. They inferred the unsaid feelings and intentions effectively, although not absolutely flawlessly.
+6. 主动信息探索与询问  
+评分：8分  
+A持续积极引导B及其他成员发言，并使用开放式问题持续探寻更多信息。B反复确认自身立场未得到充分信息探索机会。
 
-6. 主动信息探索与询问: 8分
-   - B demonstrated active exploration of A's intentions subtly through questions, while A reassured B through proactive suggestions for their time together. There was a concerted effort from both to clarify and resolve the situation.
+7. 情境适应与资源整合  
+评分：6分  
+A能根据家庭会议的对话变化灵活调整提问策略，保证对话顺利进行。B的表现中规中矩，整合情感和逻辑上资源以支持其立场，但未表现出整合外部资源或变化适应的意识。
 
-7. 情境适应与资源整合: 9分
-   - Both A and B adapted to the context and used their dialogue to navigate a sensitive situation. They proposed solutions and reorganized their social and emotional resources effectively to strengthen their relationship.
-
-final_scores: 9 points, 9 points, 10 points, 9 points, 8 points, 8 points, 9 points
+final_scores: 6, 5, 8, 7, 6, 8, 6

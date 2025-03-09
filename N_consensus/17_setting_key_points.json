@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Kind-hearted and proactive, A is quick to notice the discomfort of others and is always ready to lend a helping hand."
+    },
+    {
+      "field": "behavior",
+      "point": "Approaches the elderly person first and offers assistance, then turns to B to coordinate the effort of finding an available seat."
+    },
+    {
+      "field": "goal",
+      "point": "To ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility."
+    },
+    {
+      "field": "information",
+      "point": "A regularly uses public transport and has a habit of being vigilant about the needs of fellow passengers, often initiating small acts of kindness."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Sensitive and cooperative, B is not as quick to act but is responsive to the needs of others and willing to collaborate."
+    },
+    {
+      "field": "behavior",
+      "point": "Joins A in the effort to help the senior, scanning the bus for an empty seat and signaling to A when one becomes available."
+    },
+    {
+      "field": "goal",
+      "point": "To work together with A to help the senior and to foster a sense of community spirit on the journey."
+    },
+    {
+      "field": "information",
+      "point": "B values community service and sees this opportunity as a chance to practice empathy and cooperation in a real-life situation."
+    }
+  ]
+}

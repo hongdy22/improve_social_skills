@@ -1,13 +1,40 @@
-final_scores: 5 points, 6 points, 9 points, 9 points, 7 points, 8 points, 8 points
+Final scores: 8, 8, 9, 8, 8, 7, 7
 
-final_scores: 8 points, 8 points, 9 points, 7 points, 7 points, 7 points, 8 points
+Final scores: 5 points, 5 points, 8 points, 7 points, 6 points, 7 points, 7 points
 
-final_scores: 6 points, 7 points, 9 points, 7 points, 5 points, 6 points, 8 points
+final_scores: 9 points, 7 points, 9 points, 8 points, 8 points, 8 points, 7 points
 
-final_scores: 8 points, 8 points, 9 points, 7 points, 8 points, 7 points, 8 points
+final_scores: 7 points, 6 points, 8 points, 8 points, 8 points, 9 points, 8 points
 
+final_scores: 6 points, 6 points, 9 points, 8 points, 7 points, 7 points, 7 points
 
-final_scores: 9, 8, 9, 9, 7, 6, 8
+final_scores: 6, 5, 8, 7, 6, 8, 6
 
-final_scores: 9 points, 9 points, 10 points, 9 points, 8 points, 8 points, 9 points
+final_scores: 6, 5, 9, 7, 8, 7, 8
+
+final_scores: 5 points, 5 points, 8 points, 8 points, 6 points, 7 points, 7 points
+
+final_scores: 8 points, 9 points, 9 points, 8 points, 8 points, 8 points, 8 points
+
+final_scores: 7 points, 7 points, 9 points, 8 points, 7 points, 6 points, 8 points
+
+final_scores: 9 points, 9 points, 9 points, 8 points, 8 points, 8 points, 8 points
+
+final_scores: 8 points, 9 points, 9 points, 8 points, 9 points, 7 points, 8 points
+
+final_scores: 9 points, 9 points, 10 points, 9 points, 8 points, 8 points, 8 points
+
+final_scores: 8 points, 8 points, 9 points, 8 points, 8 points, 9 points, 9 points
+
+final_scores: 8, 9, 9, 9, 8, 8, 8
+
+final_scores: 9 points, 8 points, 9 points, 9 points, 8 points, 7 points, 8 points
+
+final_scores: 9 points, 9 points, 9 points, 8 points, 8 points, 8 points, 8 points
+
+final_scores: 8, 9, 9, 8, 7, 6, 8
+
+final_scores: 9 points, 8 points, 9 points, 8 points, 8 points, 6 points, 8 points
+
+**Final Scores:** 8, 9, 9, 8, 7, 7, 8
 

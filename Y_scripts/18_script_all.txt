@@ -1,0 +1,267 @@
+Round 0:
+all scripts A: 
+A: "Hey there, I'm A. It looks like we're going to be taking turns on the equipment today. Why don't we set up a rotation schedule? That way, we can both get a great workout and avoid any waiting around. What do you think?"
+
+all scripts B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is proposing a shared system of using the fitness equipment to optimize both their workouts without unnecessary delays.  
+implicature: Because B believes in the fact that cooperation and mutual agreement are key to effective gym etiquette, in A’s last utterance, B gets the implicature that A is open to collaboration and seeks a harmonious gym environment.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that a structured plan can prevent conflicts and improve gym efficiency, B would like to inform A of their willingness to participate in the rotation schedule.  
+communicative intention: Because B believes in the fact that consideration for others fosters a positive gym experience, B would like to draw A’s attention to their eagerness to maintain a cooperative atmosphere.
+
+B: "Hi A, nice to meet you! I'm B, and I think setting up a rotation schedule is a great idea. It'll ensure we both get to use the equipment efficiently. Since I'm new here, I'm really happy to go along with whatever works best for both of us. How about we start with the treadmill first?"
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B agrees to the idea of a rotation schedule and is suggesting starting with the treadmill. B is also new and open to guidance.
+
+implicature: Because A believes in the fact that B is new to the gym, in B’s last utterance, A gets the implicature that B is looking for reassurance and guidance on how to proceed with the rotations.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that sharing the equipment efficiently benefits everyone, A would like to inform B of the agreed protocol for using the gym equipment.
+
+communicative intention: Because A believes in the fact that establishing a friendly rapport contributes to a positive atmosphere, A would like to draw B’s attention to the importance of cooperation.
+
+So A would utter like that: 
+
+A: "Great, B! Starting with the treadmill sounds perfect. How about we do 10 minutes on each machine and then move to the next one? That way, we both stay active and make the most of our time here. Let me know if you have any questions or need any tips—I’m happy to help!"
+
+all scripts of B: 
+Round 1:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets the explicature that A is proactive and wants to create a fair and efficient workout routine.
+
+implicature: Because B believes in the fact that maintaining a cooperative atmosphere is essential for a good gym experience, in A’s last utterance, B gets the implicature that A values good communication and teamwork.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that establishing a routine is beneficial for both parties, B would like to inform A of some flexibility in the schedule to accommodate both of their needs.
+
+communicative intention: Because B believes in the fact that flexibility and consideration foster good relationships, B would like to draw A’s attention to B’s willingness to adjust the schedule for mutual benefit.
+
+B: "Starting with the treadmill sounds perfect to me. I'm happy to follow your lead, and if we need to tweak the schedule for any reason, just let me know—I'm very flexible."
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B agrees with starting on the treadmill and is open to adjustments in the schedule.
+implicature: Because A believes in the fact that open communication and flexibility are key to a successful gym experience, in B’s last utterance, A gets the implicature that B is willing to cooperate and values A’s suggestions.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the importance of establishing a cooperative workout environment, A would like to inform B of the plan to adjust the schedule as needed.
+communicative intention: Because A believes in the value of mutual respect and teamwork, A would like to draw B’s attention to the idea that they can optimize their workout by being flexible.
+
+So A would utter like that:
+A: "Sounds good, B. Let's keep communicating as we go, and we'll tweak the plan if we need to. I'm glad we’re both on the same page—it’s going to make our workout even more effective. Let’s hit the treadmill and get this session started!"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is proposing a 10-minute rotation on each machine and is offering help if needed.
+implicature: Because B believes in the fact that A is experienced and willing to assist, in A’s last utterance, B gets the implicature that A is approachable and open to collaboration.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A is experienced and knowledgeable, B would like to inform A of their openness to learning and adapting.
+communicative intention: Because B believes in the fact that collaboration is key to a smooth workout experience, B would like to draw A’s attention to their willingness to adjust and learn from A.
+
+So B would utter like that:
+B: "Thanks, A! I'll definitely take you up on that if I have any questions. I'm eager to learn and improve, so having someone like you to guide me is fantastic. Let's get started with the treadmill."
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is appreciative and values the guidance and support offered.
+implicature: Because A believes in the fact that B is open and eager to learn, in B’s last utterance, A gets the implicature that B is looking for opportunities to gain knowledge and skills in the gym environment.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B is eager to learn, A would like to inform B of the common gym etiquette and tips for a great workout session.
+communicative intention: Because A believes in the fact that a supportive and positive atmosphere enhances the workout experience, A would like to draw B’s attention to the importance of collaboration and encouragement.
+
+So A would utter like that:
+A: "That's awesome to hear, B! One of the best things about gym workouts is the chance to learn and improve continuously. Feel free to ask any questions along the way, and remember, the key to a successful session is not just working hard but also supporting each other. Let’s hit it!"
+
+all scripts of B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is pleased with the plan and emphasizes communication to maximize the workout's effectiveness.
+implicature: Because B believes in the fact that effective communication is crucial for a smooth workout, in A’s last utterance, B gets the implicature that A values teamwork and is open to adjustments if necessary.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that effective communication enhances cooperation and learning, B would like to inform A of their willingness to keep the communication line open and to seek guidance when needed.
+communicative intention: Because B believes in the fact that A values collaboration, B would like to draw A’s attention to the importance of learning through active participation and feedback.
+
+So B would utter like that:
+B: "Absolutely, A. Clear communication is key, and I'm really looking forward to working together. Let’s keep each other motivated and make the most of this session. I'm ready to start, and I'll be sure to reach out if anything comes up."
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B is emphasizing the importance of clear communication and mutual motivation during their workout.
+
+implicature: Because A believes in the fact that fostering a positive workout environment encourages better performance, in B’s last utterance, A gets the implicature that B is responsive and open to collaboration and mutual encouragement.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that encouragement can enhance the workout experience, A would like to inform B of how valuable it is to have a workout partner who communicates well.
+
+communicative intention: Because A believes in the fact that support is reciprocal, A would like to draw B’s attention to A’s willingness to offer motivation as they progress through their session.
+
+So A would utter like that:
+
+A: "I couldn’t agree more, B. It’s great to have such a communicative and supportive workout partner. Let’s push each other and make this session great. Remember, I’m here to cheer you on too!"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets explicature that A is emphasizing continuous learning and improvement during workouts and is open to questions and providing support.  
+implicature: Because B believes in the fact that communication and mutual support are important in a shared environment, in A’s last utterance, B gets implicature that A values teamwork and is approachable for guidance.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that building a cooperative and supportive gym routine is beneficial, B would like to inform A of B’s commitment to their shared goals.  
+communicative intention: Because B believes in the fact that maintaining a positive environment enhances the workout experience, B would like to draw A’s attention to the importance of mutual motivation.  
+
+So B would utter like that:  
+B: "Thanks for reinforcing the importance of support, A. I'm committed to making this a productive session for both of us by staying motivated and communicating openly. Let’s make this workout count!"
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+Analysis of B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is dedicated to maintaining motivation and open communication to ensure a successful workout session.
+implicature: Because A believes in the fact that clear communication facilitates an effective workout environment, in B’s last utterance, A gets the implicature that B values support and encouragement during the session.
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that a positive and encouraging approach enhances performance, A would like to inform B of how important mutual support is in achieving fitness goals.
+communicative intention: Because A believes in the fact that encouragement boosts motivation, A would like to draw B’s attention to the benefits of maintaining this supportive atmosphere together.
+So A would utter like that:
+A: "Absolutely, B! Your commitment is inspiring, and having that supportive atmosphere really boosts our motivation. Let’s keep this energy going and make the most of every minute we spend here today!"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A values clear communication and mutual support during workouts.  
+implicature: Because B believes in the fact that communication leads to productive workouts, in A’s last utterance, B gets the implicature that A appreciates having a supportive workout partner who is willing to push and cheer each other on.  
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that support enhances motivation, B would like to inform A of how grateful B is to have A’s support.  
+communicative intention: Because B believes in the fact that encouragement is key, B would like to draw A’s attention to B’s willingness to reciprocate that encouragement.  
+So B would utter like that:  
+B: "I truly appreciate your support, A. Having a workout partner who's as engaged and motivating as you makes a huge difference. I’m here to cheer you on too, and I’m ready to dive into this workout together!"
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B appreciates A's support and thinks it enhances their workout experience.
+implicature: Because A believes in the fact that mutual encouragement improves performance, in B’s last utterance, A gets the implicature that B values the cooperative nature of their partnership and sees it as motivational.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that a positive partnership can elevate workout results, A would like to inform B of the benefits of their supportive relationship and mutual encouragement.
+communicative intention: Because A believes in the fact that motivation and support are essential in workouts, A would like to draw B’s attention to the importance of maintaining this supportive dynamic throughout their session.
+
+A: "Thanks, B! I’m glad our teamwork is making a positive impact. Let’s keep this motivation and support going—it’s amazing how much a positive vibe can push us to achieve more."
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A values maintaining a positive and motivating environment during their workout session.
+implicature: Because B believes in the fact that a supportive gym partner can enhance the experience, in A’s last utterance, B gets the implicature that A appreciates B’s enthusiasm and considers it beneficial for both.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that mutual support leads to a more rewarding workout, B would like to inform A of their own appreciation for A’s positive attitude.
+communicative intention: Because B believes in the fact that cooperation can lead to a successful gym routine, B would like to draw A’s attention to the importance of their joint effort.
+So B would utter like that:
+B: "Your energy, A, sets a great tone for us. It’s motivating to have someone who shares this enthusiasm. Let’s keep pushing each other and make the most of every second here!"
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B appreciates A’s energy and enthusiasm and is motivated to continue pushing themselves in the workout. 
+implicature: Because A believes in the fact that enthusiasm is contagious and beneficial for workouts, in B’s last utterance, A gets the implicature that B is responding positively to the shared energetic atmosphere and values the mutual motivation.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that a positive environment enhances workout productivity, A would like to inform B of the benefits of maintaining this momentum throughout the session.
+communicative intention: Because A believes in the fact that mutual motivation is vital, A would like to draw B’s attention to how their shared enthusiasm can help reach workout goals.
+
+A: "B, it’s really uplifting to see how our shared enthusiasm is boosting our workout. Keeping this energy up will definitely help us reach our goals quicker, and I’m excited to see our progress. Let’s keep pushing each other with this positive vibe!"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A appreciates the positive effects of their teamwork and wants to maintain the motivation and support in their workout session.
+implicature: Because B believes in the fact that maintaining a positive vibe and mutual encouragement leads to a more effective workout, in A’s last utterance, B gets the implicature that A values the positive atmosphere they are creating together and sees it as a way to achieve their workout goals.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that maintaining this positive energy is crucial, B would like to inform A of their mutual dedication to keeping up this motivation.
+communicative intention: Because B believes in the fact that sustaining the supportive atmosphere benefits both, B would like to draw A’s attention to the mutual effort in maintaining their positive workout experience.
+
+B: "It's fantastic how our mutual enthusiasm is powering our session, A. Let's keep this up and continue to encourage each other throughout. I'm here to support you, and I know we can achieve a lot together today!"
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is pleased with their shared enthusiasm and the supportive dynamic they have established.
+implicature: Because A believes in the fact that collaboration enhances the workout experience, in B’s last utterance, A gets the implicature that B values this partnership and is committed to mutual encouragement.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that maintaining this high level of enthusiasm can lead to greater achievements, A would like to inform B of the importance of sustaining this positive energy.
+communicative intention: Because A believes in the fact that a positive workout atmosphere is crucial, A would like to draw B’s attention to the role both are playing in creating it.
+
+So A would utter like that:
+A: "I couldn't agree more, B! Our mutual support is truly powerful, and I’m thrilled by how our shared enthusiasm is driving us forward. Let’s keep this momentum going and tackle the equipment with all the energy we’ve got!"
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A values the shared enthusiasm and its impact on their workout effectiveness.
+implicature: Because B believes in the fact that positive cooperation can enhance performance, in A’s last utterance, B gets the implicature that maintaining this cooperative dynamic is key to reaching their fitness goals.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that continued motivation will optimize their workout, B would like to inform A of their ongoing commitment to maintaining this enthusiasm.
+communicative intention: Because B believes in the fact that mutual encouragement is crucial for success, B would like to draw A’s attention to the importance of sustaining their shared motivation.
+So B would utter like that: 
+B: "Absolutely, A. Our collaboration and positive energy are really paying off. I'm dedicated to keeping this momentum going and excited to see how much we can achieve together. Let's continue to encourage each other and make the most of our time here!"
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is committed to maintaining the momentum and positive energy they have cultivated in their joint workout sessions.
+implicature: Because A believes in the fact that maintaining a shared positive atmosphere is crucial for effective workouts, in B’s last utterance, A gets the implicature that B is enthusiastic about their shared progress and is intent on sustaining it.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that teamwork and encouragement are essential to a productive gym session, A would like to inform B of how much they appreciate this positive dynamic.
+communicative intention: Because A believes in the fact that mutual encouragement fosters even greater success, A would like to draw B’s attention to the potential for continued achievement in their workouts.
+
+A: "B, your excitement and dedication are truly inspiring, and I’m grateful for the positive dynamic we’ve created. Let’s keep this teamwork and encouragement at the forefront, and I’m confident we’ll continue to achieve great things together!"
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is thrilled about their shared enthusiasm and eager to keep the momentum of their workout going.
+implicature: Because B believes in the fact that shared enthusiasm and mutual support enhance their workout effectiveness, in A’s last utterance, B gets the implicature that A values the positive energy and anticipates reaching their goals swiftly through teamwork.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that continuing this positive collaboration will lead to great results, B would like to inform A of their commitment to maintaining this energy.
+communicative intention: Because B believes in the fact that a supportive workout partner is crucial, B would like to draw A’s attention to the importance of their ongoing mutual encouragement.
+So B would utter like that:
+B: "I'm equally thrilled, A! Our shared excitement and support are truly making a difference. Let's keep this energy alive and tackle each piece of equipment with our best efforts. Together, we can accomplish so much!"

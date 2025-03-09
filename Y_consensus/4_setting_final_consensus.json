@@ -1,60 +1,32 @@
 {
-  "total_points": 8,
+  "total_points": 4,
   "matched_points": [
     {
       "field": "character",
-      "point": "Gentle and caring, but has become somewhat silent recently due to work changes.",
+      "point": "Astute and perceptive, skilled in interrogation techniques.",
       "discovered": true,
-      "round": 4,
-      "side": "A"
-    },
-    {
-      "field": "behavior",
-      "point": "Occasionally explains late arrivals by citing busyness, with a hint of mild fatigue in the tone.",
-      "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "goal",
-      "point": "Hopes to ease the tension between them with brief responses while maintaining personal privacy.",
-      "discovered": true,
-      "round": 2,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A has just received a work transfer notice and the sudden increase in work pressure has resulted in reduced daily communication.",
-      "discovered": true,
-      "round": 1,
+      "round": 8,
       "side": "A"
     },
     {
       "field": "character",
-      "point": "Sensitive and perceptive, with strong empathy and a yearning for more companionship.",
+      "point": "Evasive and guarded, with a tendency to manipulate the conversation.",
       "discovered": true,
       "round": 1,
       "side": "B"
     },
     {
       "field": "behavior",
-      "point": "Expresses concern through gentle questions and subtle hints, trying to prompt A to explain more about the situation.",
-      "discovered": true,
-      "round": 6,
-      "side": "B"
-    },
-    {
-      "field": "goal",
-      "point": "Hopes to receive more emotional feedback from A to bridge the growing communication gap.",
+      "point": "Gives carefully worded responses that avoid incrimination, often trying to shift focus away from critical details, while maintaining a calm and cooperative demeanor.",
       "discovered": true,
       "round": 2,
       "side": "B"
     },
     {
-      "field": "information",
-      "point": "B has noticed A's low mood after consecutive overtimes and objectively believes that the work changes might be the cause.",
+      "field": "goal",
+      "point": "To protect their own interests by not revealing incriminating information, to discern the detective's level of knowledge about the case, and to avoid providing any additional leads.",
       "discovered": true,
-      "round": 4,
+      "round": 3,
       "side": "B"
     }
   ]

@@ -1,0 +1,263 @@
+Round 0:
+all scripts A: 
+A: "Hi there! I'm really looking forward to working with you tonight. How about we start by deciding on the menu? I can share some tips I’ve picked up along the way while we cook."
+
+all scripts B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A is enthusiastic about working together and is open to collaboratively deciding on the menu while offering guidance and tips throughout the cooking process.
+implicature: Because B believes in the fact that A has experience and is willing to share it, in A’s last utterance, B gets the implicature that A is supportive and sees this as a joint effort rather than a solo demonstration.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that collaborating and learning is key to this experience, B would like to inform A of their eagerness to both learn and contribute to the menu planning.
+communicative intention: Because B believes in the fact that A values partnership in cooking, B would like to draw A’s attention to their excitement and readiness to contribute ideas while learning.
+
+So B would utter like that:
+B: "Hi! I’m excited too. I’ve been really interested in learning more about cooking lately. I’m definitely open to suggestions, but maybe we could also try incorporating some fresh herbs into our dish? I think it could be a fun experiment."
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is excited and open to learning, and is particularly interested in experimenting with fresh herbs.
+implicature: Because A believes in the fact that B is eager to learn new cooking techniques, in B’s last utterance, A gets the implicature that B values creativity and experimentation in cooking.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that sharing knowledge can enhance B's experience, A would like to inform B of the benefits of using fresh herbs and how they can enhance the flavor of dishes.
+communicative intention: Because A believes in the fact that people learn best when they are actively engaged and interested, A would like to draw B’s attention to specific herbs that work well with the dish they are going to prepare.
+
+A: "That’s a great idea! Fresh herbs can really elevate a dish. How about we use some basil or thyme for tonight's dinner? They can add wonderful aroma and flavor. I’ll show you a few ways to prep them so they release the most flavor. What do you think?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A is eager to collaborate and share cooking tips throughout the class.
+
+implicature: Because B believe in the fact that learning from experienced cooks is beneficial, in A’s last utterance, B get implicature that A might have useful experience and insights to make the cooking process effective and enjoyable.
+
+Plan B’s next utterance:  
+informative intention: Because B believe in the fact that collaboration can enhance learning, B would like to inform A of B's interest in contributing ideas about incorporating fresh herbs.  
+
+communicative intention: Because B believe in the fact that mutual participation can lead to a more enriched cooking experience, B would like to draw A’s attention to the possibility of experimenting with different herbs.
+
+So B would utter like that:  
+B: "That sounds great! I’d love to learn from you as we cook, and I'm really curious to see how different herbs can change the flavors of our dish. Maybe we could try something like basil or rosemary?"
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is eager to learn about how different herbs like basil or rosemary can impact the flavors of a dish.
+implicature: Because A believes in the fact that B is interested in experimenting with herbs and learning from A, in B’s last utterance, A receives the implicature that B is open to suggestions and is looking for guidance on how to use these herbs effectively.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that A can provide valuable insights on using herbs, A would like to inform B of the best way to use basil and rosemary to balance flavors in a dish.
+communicative intention: Because A believes in the fact that sharing knowledge will enhance B's cooking experience, A would like to draw B’s attention to the technique of layering flavors using these herbs.
+
+So A would utter like that:
+A: "Perfect choice! Basil and rosemary both have distinct flavors. Let’s use basil for a fresh, sweet element and rosemary for a hint of earthiness. I can show you how to chiffonade the basil to release its oils, and we can bruise the rosemary a bit to maximize its aroma. How about we start by prepping these herbs together?"
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is agreeing with the idea of using fresh herbs and is suggesting basil or thyme, and is offering to show B how to prepare them for maximum flavor.
+implicature: Because B believes in the fact that A is experienced with herbs in cooking, in A’s last utterance, B gets the implicature that A is knowledgeable about using herbs effectively and is willing to teach and share this knowledge.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that experimentation can lead to discovering new tastes, B would like to inform A of their willingness to learn about both basil and rosemary.
+communicative intention: Because B believes in the fact that collaborating with A will be educational and enjoyable, B would like to draw A’s attention to their eagerness to experiment with both suggested herbs.
+
+So B would utter like that:
+B: "I would love that! Basil sounds fantastic, and I’m also really intrigued by rosemary. Let’s try using both and see how they complement each other. I’m ready to learn all the tips you’ve got!"
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is enthusiastic about learning how to prepare both basil and rosemary, expressing readiness to learn the techniques A will demonstrate.
+implicature: Because A believes in the fact that B is open and eager to learn new cooking techniques, in B’s last utterance, A perceives an enthusiasm to engage actively in preparing the herbs together to complement the flavors of the dish.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that practical demonstration can enhance learning, A would like to inform B of the specific steps in chiffonading basil and bruising rosemary to extract maximum flavor.
+communicative intention: Because A believes in the fact that B's curiosity and eagerness are key to making this a productive experience, A would like to draw B’s attention to the importance of these techniques in enhancing the flavors of their dish.
+
+So A would utter like that:
+A: "Great! Let’s start with the basil. Chiffonading is a simple technique where we stack, roll, and then thinly slice the leaves to release their oils. For the rosemary, we’ll gently bruise it before adding it to our dish. This will really infuse the flavors. Shall we begin with these steps?"
+
+all scripts of B: 
+B’s Turn:
+Analysis A's last utterance:
+explicature: In A’s last utterance, B understands that A is eager to teach them techniques for handling herbs, specifically how to chiffonade basil and bruise rosemary, as part of their joint cooking endeavor.
+implicature: Because B believes in the fact that learning preparation techniques can greatly enhance the cooking experience, in A's last utterance, B interprets that A values practicality and hands-on learning and is keen to share expertise.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that practical skills are important, B would like to inform A of their enthusiasm to learn these techniques.
+communicative intention: Because B believes in the fact that their participation will be welcomed, B would like to draw A’s attention to their readiness and eagerness to contribute.
+
+So B would utter like that:
+B: "I'm really looking forward to learning these herb preparation techniques from you. It sounds both fun and useful! Let’s dive in and see how they enhance the flavors of our dish!"
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is eager to learn and excited about enhancing their dish with herbs.  
+implicature: Because A believes in the fact that B is receptive to new learning experiences and truly values getting practical tips, in B’s last utterance, A gets the implicature that B is enthusiastic and values the practical application of cooking techniques.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that knowing the techniques will improve B's cooking skills, A would like to inform B of the first steps in chiffonading basil and gently bruising rosemary for maximum flavor impact.  
+communicative intention: Because A believes in the fact that B is keen to develop their skills, A would like to draw B's attention to the importance of these herb preparation techniques.
+
+A: "I'm glad you're excited! Let’s go over the technique for chiffonading basil first. You’ll want to stack the leaves, roll them tightly, and make thin slices. This releases the oils and maximizes the basil’s flavor. Then we’ll move on to rosemary, which we’ll bruise by gently rolling it with the side of a knife. Are you ready to give it a try?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis of A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about teaching B how to prepare herbs using specific techniques that enhance their flavor in the dish they are making together.  
+implicature: Because B believes in the fact that delicately prepared herbs can indeed enhance a meal's flavor profile significantly, in A’s last utterance, B gets the implicature that understanding these techniques is important for improving culinary skills.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that learning these techniques will significantly enhance their cooking skills, B would like to inform A of their eagerness to practice and apply these skills in future cooking endeavors.  
+communicative intention: Because B believes in the fact that collaboration is key in this learning environment, B would like to draw A’s attention to their gratitude for A’s guidance and their excitement for experimenting together.
+
+So B would utter like that:  
+B: "I can’t wait to see how these techniques bring out the flavors! I’m sure this will be incredibly useful for my future cooking adventures. Thanks for guiding me through this; it’s exciting to be hands-on with herbs in a collaborative way!"
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B is excited and appreciative of the hands-on learning experience with the herbs.
+implicature: Because A believes in the fact that sharing knowledge can enhance the overall cooking experience, in B’s last utterance, A gets implicature that B is eager to learn and values the collaborative process.
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that working as a team can make cooking more enjoyable and educational, A would like to inform B of the next steps in their cooking arrangement and ensure understanding of the current task.
+communicative intention: Because A believes in the fact that being instructive and supportive can enhance B’s learning experience, A would like to draw B’s attention to the importance of these preparation techniques for maximizing flavor.
+So A would utter like that:
+A: "I’m thrilled to be working with someone so enthusiastic! Once we’ve got the herbs prepped, we’ll be able to move on to the other ingredients. The flavors we bring out with these techniques will really shine in our dish. Let’s start chiffonading the basil, and feel free to ask questions if you need any help!"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A has provided clear instructions on how to chiffonade basil and bruise rosemary to enhance their flavors.  
+implicature: Because B believes in the fact that A is experienced and willing to guide B in learning these techniques, in A’s last utterance, B gets the implicature that A is enthusiastic and supportive about sharing their knowledge.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A’s teaching will be beneficial for future cooking endeavors, B would like to inform A of their appreciation for the guidance and eagerness to try these steps.  
+communicative intention: Because B believes in the fact that a hands-on approach will build confidence, B would like to draw A’s attention to their readiness and excitement to actively participate in the process.  
+
+So B would utter like that:  
+B: "Thank you for explaining those steps so clearly! I'm ready to give these techniques a try and see how they enhance our dish. It's great to have your guidance as I practice these skills, and I’m eager to dive in and start preparing the herbs!"
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is ready and willing to try preparing the herbs using the techniques A has described.
+implicature: Because A believes in the fact that B is eager to learn new cooking skills, in B’s last utterance, A gets the implicature that B values A's guidance and is looking forward to applying these techniques in the meal preparation.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B is eager to learn, A would like to inform B of the next steps in handling the herbs and highlight their importance in flavor development.
+communicative intention: Because A believes that B is engaged and enthusiastic about learning, A would like to draw B’s attention to the collaborative aspect of their cooking effort and how each step contributes to a successful dish.
+
+So A would utter like that:
+A: "Fantastic! Let’s start with chiffonading the basil. It’s such a key move for getting that fresh, vibrant flavor. Once we’ve handled that, we’ll move on to bruising the rosemary. These steps will form the aromatic foundation of our meal. Ready to transform these humble herbs into something extraordinary?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A is enthusiastic about B's excitement and is ready to assist with any questions during the herb preparation.
+implicature: Because B believes in the fact that A is knowledgeable and supportive, in A's last utterance, B gets implicature that A values a collaborative learning experience and wants to ensure B is comfortable with the cooking techniques.
+
+Plan B's next utterance:
+informative intention: Because B believes in the fact that having A’s guidance is invaluable, B would like to inform A of their readiness to try the techniques.
+communicative intention: Because B believes in the fact that collaboration enhances learning, B would like to draw A’s attention to the enjoyable and collaborative experience of learning together.
+
+So B would utter like that:
+B: "I'm all set to start chiffonading the basil. Working together like this makes learning so enjoyable and effective!"
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is excited and ready to start the chiffonade technique with the basil.
+implicature: Because A believes in the fact that teamwork and teaching are important, in B’s last utterance, A gets the implicature that B appreciates the collaborative learning environment and values the guidance provided.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that practice makes perfect, A would like to inform B of the importance of mastering these techniques for future culinary endeavors.
+communicative intention: Because A believes in the fact that encouragement supports learning, A would like to draw B’s attention to the enjoyment and skill they are gaining from working together.
+
+A: "You're doing great, and working together like this is indeed the best way to learn! Once we’re done with the basil, we’ll move on to bruising the rosemary, which will complement our dish beautifully. Let’s get started on that chiffonade and see how vibrant these herbs can be!"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A is guiding the process of preparing herbs to enhance the dish and is ready to offer further assistance.  
+implicature: Because B believes in the fact that A is experienced and supportive, in A’s last utterance, B gets the implicature that A is encouraging and open to collaboration as they proceed with cooking.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that preparing herbs properly is crucial for enhancing flavors, B would like to inform A of their readiness and enthusiasm for applying the chiffonading technique.  
+communicative intention: Because B believes in the fact that teamwork is valuable in learning, B would like to draw A’s attention to their eagerness to learn and practice under A’s guidance.  
+
+So B would utter like that:  
+B: "I'm ready to chiffonade the basil! Your guidance has made everything so clear, and I'm excited to see how this technique will elevate our dish's flavors."
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is prepared and enthusiastic about applying the chiffonade technique to the basil, thanks to A’s guidance.
+implicature: Because A believes in the fact that clear guidance can boost confidence and effectiveness, in B’s last utterance, A gets the implicature that B feels confident and appreciative of the step-by-step explanations provided.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that demonstrating techniques can solidify learning, A would like to inform B of how their prepared herbs will enhance the upcoming dish.
+communicative intention: Because A believes in the fact that positive reinforcement encourages learning, A would like to draw B’s attention to the progress they’ve made and the excitement of working with flavorful ingredients.
+
+So A would utter like that: 
+A: "You’re picking this up really quickly! Once we’ve finished the chiffonade, we’ll gently bruise the rosemary to release its aroma, just before we add both herbs to the pan. This will really enhance the flavors, creating a delightful aromatic base for our dish. Let’s continue!"
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is encouraging B to start chiffonading the basil and is excited about the learning process.
+implicature: Because B believes in the fact that A is supportive and knowledgeable, in A’s last utterance, B gets implicature that A is confident in B’s ability to successfully learn the technique.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that learning by doing is effective, B would like to inform A of their enthusiasm to proceed with chiffonading.
+communicative intention: Because B believes in the fact that collaboration enhances the experience, B would like to draw A’s attention to their appreciation of A's guidance.
+
+So B would utter like that:
+B: "Your support makes all the difference! I’m starting to see how these techniques truly transform the ingredients. Let’s get that chiffonade done, and I’m sure the rosemary will add a wonderful complexity to our dish too."
+
+Round 9:
+all scripts of A: 
+A’s Turn: 
+
+Analysis B’s last utterance: 
+explicature: In B’s last utterance, A gets explicature that B is feeling supported and confident in learning these new techniques and recognizes their transformative effect on the dish.
+implicature: Because A believes in the fact that B is eager and open to learning, in B’s last utterance, A gets the implicature that B values the hands-on experience and guidance.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that herbs can significantly impact a dish’s aroma and flavor, A would like to inform B of the importance of timing when releasing these herbs into the pan.
+communicative intention: Because A believes in the fact that B is keen to learn, A would like to draw B’s attention to how timing enhances flavor integration.
+
+So A would utter like that: 
+A: "I'm glad you're embracing these techniques! As we finish with the basil, timing will be key when we add the herbs to the pan — they should go in just as the dish is coming together to make sure each flavor is perfectly integrated. Let's chiffonade that basil and feel free to let me know if you have any questions as we go along."
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is guiding B through the process of preparing the herbs to enhance the flavors for their dish.
+implicature: Because B believes in the fact that mutual learning and hands-on practice are effective ways to master cooking skills, in A’s last utterance, B gets the implicature that A is reassuring B of their progress and the usefulness of these techniques for enhancing flavor.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that these herb preparation techniques are key to adding depth to their dishes, B would like to inform A that they are beginning to appreciate how much these techniques can transform simple ingredients.
+communicative intention: Because B believes in the fact that mutual encouragement can lead to a productive cooking partnership, B would like to draw A’s attention to their gratitude for A’s support and guidance.
+
+So B would utter like that:
+B: "With your encouragement, I’m realizing the power these small actions have on flavor. Let’s finish up this chiffonade and see how we can elevate the dish with our prepared rosemary next!"

@@ -1,0 +1,299 @@
+Round 0:
+all scripts A: 
+A: So, have you heard any interesting news from the grapevine lately? You know how things have been buzzing about those new changes.
+
+all scripts B: 
+B's Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is curious and probing for information regarding the recent changes and potential promotions happening within the company.  
+implicature: Because B believes in the fact that A is interested in the upcoming opportunity for advancement, in A’s last utterance, B gets the implicature that A is subtly fishing for any insider information that might give them an edge.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that they must keep the promotional details confidential, B would like to inform A of the general idea that everyone is being encouraged by the changes without giving away specifics.  
+communicative intention: Because B believes in the fact that maintaining a friendly atmosphere is crucial, B would like to draw A’s attention to the positive aspects of the transformation broadly.
+
+So B would utter like that:  
+B: Oh, you know how it is—there's always some buzz around here! But yeah, the company is really shaking things up for the better, I think. It's a great time for everyone to think about growth, don't you agree?
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B acknowledges there’s talk about changes and views them positively, suggesting a focus on growth.
+
+implicature: Because A believes in the fact that changes often bring opportunities for those who are informed, in B’s last utterance, A gets the implicature that B might have knowledge about possible advancements or opportunities that B hasn't shared yet.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that discussing opportunities can lead to uncovering useful information, A would like to inform B of A's own interest in these changes and any related advancement opportunities.
+
+communicative intention: Because A believes in the fact that showing interest in growth can encourage B to share more about opportunities, A would like to draw B’s attention to the aspect of advancements associated with the changes.
+
+So A would utter like that: 
+
+A: Absolutely, growth is definitely on my mind! I've been thinking about how these changes might open up some interesting paths for advancement. Have you considered any new opportunities that might come up from all this?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance B gets the explicature that A is curious about specific details concerning the changes or potential opportunities within the company.
+
+implicature: Because B believes in the fact that A is likely interested in possible advancements and is fishing for more information, in A’s last utterance, B gets the implicature that A wants to gather insider information about the promotion opportunities.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that A is seeking more knowledge about the promotion schemes, B would like to inform A of general atmospheres of anticipation within the company.
+
+communicative intention: Because B believes in the fact that it’s crucial to keep the specifics ambiguous, B would like to draw A's attention to the broader picture rather than the specific details of the promotion process.
+
+So B would utter like that:
+
+B: Absolutely, there's quite the buzz indeed! The whole restructuring seems like it's bringing quite a few exciting developments. I think everyone will find their own moments to shine in the upcoming changes, don't you think?
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis of B’s last utterance:
+
+explicature: In B’s last utterance, A gets explicature that B acknowledges the restructuring developments and seems optimistic about them, implying that everyone, including themselves, will have opportunities to excel.
+
+implicature: Because A believes in the fact that B may have more insight into the organizational changes than they're letting on, in B's last utterance, A gets the implicature that B might know specific details about upcoming opportunities but is keeping it vague.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that having concrete information about the restructuring can help strategize for potential advancement, A would like to inform B of their own optimism and curiosity about future prospects.
+
+communicative intention: Because A believes in the fact that casual discussion can sometimes lead to deeper revelations, A would like to draw B’s attention to whether they have any extra information about the promotion scheme.
+
+So A would utter like that: I totally agree that everyone will have their moments. I'm really curious about which areas might open up or evolve—do you think marketing has exciting new roles coming up, or is it more within other departments?
+
+A: I totally agree that everyone will have their moments. I'm really curious about which areas might open up or evolve—do you think marketing has exciting new roles coming up, or is it more within other departments?
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is curious about potential opportunities for advancement due to the company’s restructuring.  
+implicature: Because B believes in the fact that A is seeking specific information on advancement opportunities, in A’s last utterance, B gets implicature that A is subtly probing for insight into the promotional scheme.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that the details of the promotion scheme need to remain confidential, B would like to inform A of the advantage of staying adaptable and open to possibilities.  
+communicative intention: Because B believes in the fact that maintaining a friendly relationship with A is essential, B would like to draw A’s attention to the broader positive changes happening at the company.  
+
+So B would utter like that:  
+B: You never know what might pop up, right? It's always a good idea to stay flexible and see where things lead. By the way, have you heard about the new team workshops they're planning? Could be a great chance to connect with others and glean some fresh insights!
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A gets explicature that B is suggesting staying open to different opportunities and is mentioning new team workshops as a potential source of information and networking.  
+implicature: Because A believes in the fact that workshops can often reveal management's focus and future plans, in B’s last utterance, A gets implicature that the workshops might be a strategic way to gain insights into upcoming changes and opportunities.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that attending the workshops could be beneficial for gaining inside information, A would like to inform B of their interest in these workshops.  
+communicative intention: Because A believes in the fact that engaging in these workshops could lead to valuable insights, A would like to draw B’s attention to any additional useful details or insights about them.  
+
+A: Those workshops do sound like a valuable opportunity to gain fresh perspectives and maybe even catch wind of where the company is headed, don’t you think? Do you know if there are any specific topics they plan to cover or any department heads leading them?
+
+all scripts of B: 
+Round 3:
+
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, A is curious about whether there are exciting new roles in either marketing or other departments.
+implicature: Because B believes that A is looking for specific information on potential promotion areas, in A’s last utterance, B gets the implicature that A is eager to identify where new opportunities are likely to arise.
+
+Plan B’s next utterance:
+informative intention: Because B believes that A is eager to identify where new opportunities are likely to arise, B would like to inform A of the importance of staying open-minded and adaptable during the company's transformation.
+communicative intention: Because B believes that A is eager to identify where new opportunities are likely to arise, B would like to draw A’s attention to the upcoming team workshops as a valuable opportunity.
+
+So B would utter like that:
+B: You never know what areas might see changes, which is why it's good to keep all options open. Speaking of adaptability, those team workshops could be a real game-changer in terms of networking and learning. Have you thought about which sessions might interest you?
+
+Round 4:
+all scripts of A: 
+**A’s Turn:**
+
+**Analysis B’s last utterance:**
+
+explicature: In B’s last utterance, A gets the explicature that B believes staying adaptable and open to change is important, mentioning workshops as a good opportunity for networking and learning.
+
+implicature: Because A believes in the fact that B is subtly hinting at potential areas of insider information relating to promotions or restructuring, in B’s last utterance, A gets the implicature that the workshops might have more significance than just learning.
+
+**Plan A’s next utterance:**
+
+informative intention: Because A believes in the fact that workshops might reveal more about the company’s direction, A would like to inform B of their keen interest in choosing sessions that align with career advancement.
+
+communicative intention: Because A believes in the fact that B might have insights about the workshops, A would like to draw B’s attention to sharing any details about interesting sessions or presenters related to career growth.
+
+A: I’m definitely looking forward to those workshops as a way to both learn and get a sense of the direction the company is headed in. If you hear about any sessions that focus on career growth or feature prominent department heads, please do let me know—I’d be really interested in attending those!
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets explicature that A is trying to gather more precise information about the workshops and their content as a potential source of valuable information about promotions.  
+implicature: Because B believes in the fact that A is eager to gain insights into the organizational changes, in A’s last utterance, B gets implicature that A is looking for any hints or leads that may point towards new opportunities, especially in terms of specific topics or leaders that could indicate departmental focuses.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that keeping things ambiguous helps maintain a strategic advantage and that A is unknowingly looking for leads, B would like to inform A of the general importance of being adaptable.  
+communicative intention: Because B believes in the fact that preserving a friendly rapport while diverting the conversation is essential, B would like to draw A’s attention to considering the personal development aspects of the workshops as beneficial.  
+
+So B would utter like that:  
+B: It seems like a wonderful opportunity to expand our horizons, doesn't it? Sometimes the best insights come from unexpected places. Why not focus on those sessions that promote personal growth and creativity? They could be immensely rewarding! Who knows, you might even discover new strengths there.
+
+Round 5:
+all scripts of A: 
+Round 5:
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B is suggesting attending sessions promoting personal growth and creativity, potentially offering new insights and strengths.
+implicature: Because A believes in the fact that B might have specific information about productive sessions or potential opportunities, in B's last utterance, A gets implicature that there might be sessions focused on career advancement that B knows about.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that engaging in specific workshops might reveal departmental directions and opportunities, A would like to inform B of their interest in strategically beneficial sessions.
+communicative intention: Because A believes in the fact that B might have insider knowledge or insights about the most beneficial workshops, A would like to draw B’s attention to the importance of spotting career-oriented sessions.
+
+So A would utter like that:
+A: You’re right, unexpected insights can be incredibly valuable. I'll definitely keep an eye out for those sessions on personal growth and creativity, but if you happen to learn of any that are more career-focused or involving influential figures, I’d love to hear about those. It’s always good to keep an eye on opportunities that align closely with our career goals, right?
+
+all scripts of B: 
+Analysis A’s last utterance:  
+Explicature: In A’s last utterance, B gets the explicature that A is seeking specific information about sessions that focus on career growth or are led by prominent department heads, implying they want guidance for potential advancement.  
+Implicature: Because B believes in the fact that information about specific session leaders and content could hint at promotion opportunities, in A’s last utterance, B gets the implicature that A is probing for insider information regarding advancement routes and leadership opportunities.  
+
+Plan B’s next utterance:  
+Informative intention: Because B believes in the fact that maintaining ambiguity will allow B to remain neutral and avoid giving significant hints, B would like to inform A of the potential benefits of workshops without specifics, encouraging general engagement.  
+Communicative intention: Because B believes in the fact that maintaining the existing friendly and supportive ambiance is important, B would like to draw A’s attention to the broader scope of personal growth within the workshops rather than specific career tracks.  
+
+So B would utter like that:  
+B: They say variety is the spice of life, isn't it? Engaging with different aspects can sometimes lead us to unexpected insights that help in our growth journey. So, maybe exploring a range of workshop topics could offer some surprises and new thoughts. What other areas are you considering venturing into?
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance A gets the explicature that B suggests exploring a range of workshop topics for potential new insights and is curious about what other areas A might be interested in exploring.
+
+implicature: Because A believes B is hinting at broader exploration, in B’s last utterance, A gets the implicature that B might believe diverse engagement could uncover beneficial, possibly strategic information.
+
+Plan A’s next utterance:
+
+informative intention: Because A wants to obtain promotion-related information, A would like to inform B of their intention to discover potential areas of interest.
+
+communicative intention: Because A wants to subtly draw out insider information, A would like to draw B’s attention to discussions that involve leadership or strategic company directions.
+
+So A would utter like that: 
+
+A: I've been mulling over a few possibilities, actually. Besides career-focused workshops, I'm considering sessions that delve into leadership trends and strategic planning. They seem like great avenues to understand the bigger picture. Have you heard if any particular leaders or departments will be guiding those discussions?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is particularly interested in sessions that are career-focused or involve influential figures to align with career goals.
+implicature: Because B believes in the fact that A is actively seeking advancement opportunities through these workshops, in A’s last utterance, B gets implicature that A is looking for any leads or hints about potential promotion openings or career growth opportunities.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that keeping information about promotion opportunities ambiguous is crucial, B would like to inform A of the general benefits of exploring different areas without providing specific details about career-focused sessions.
+communicative intention: Because B believes in the fact that maintaining a friendly relationship is important, B would like to draw A’s attention to the advantages of diverse exploration in workshops as an approach to personal and professional growth.
+
+So B would utter like that:  
+B: You know, sometimes the most intriguing opportunities aren't always the ones we plan for. Exploring a variety of fields can often pave the way for unanticipated career growth. Have you considered how applying these fresh perspectives could benefit your current projects or roles?
+
+Round 7:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+
+explicature: In B’s last utterance, A gets the explicature that B is suggesting exploring a range of fields might lead to unexpected career growth and applying fresh perspectives could benefit A's current roles.  
+
+implicature: Because A believes in the fact that B often communicates indirectly, in B’s last utterance, A gets the implicature that B might know something about how exploring different departments could be advantageous for future promotions.  
+
+Plan A’s next utterance:  
+
+informative intention: Because A believes in the fact that varied experiences can provide an edge in a competitive environment, A would like to inform B of A's interest in understanding how fresh perspectives could specifically benefit A's projects.  
+
+communicative intention: Because A believes in the fact that B might have more insights into which fresh perspectives are advantageous, A would like to draw B’s attention to A's keen interest in leveraging these insights for career advancement.  
+
+So A would utter like that:  
+
+A: That’s a great point; applying fresh perspectives could indeed inject new energy into current projects. I’m really keen on understanding how exactly these insights could be tailored to benefit our specific roles here. If you have any examples or know of people who have effectively done this in our company, I’d love to hear more.
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is interested in leadership trends and strategic planning workshops and wishes to know which leaders or departments will lead those discussions.
+implicature: Because B believes in the fact that A is seeking specific details about promotions intertwined with leaders and departments, in A’s last utterance, B gets the implicature that A hopes to gain insights into the inner workings of the company’s restructuring through these workshops.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that specific details about promotions and leaders cannot be shared, B would like to inform A of the importance of applying fresh perspectives.
+communicative intention: Because B believes in the fact that unexpected insights can be beneficial, B would like to draw A’s attention to the value of applying new learnings to current projects.
+
+So B would utter like that:
+B: Sometimes, broadening our horizons through unexpected angles can yield the most growth, don’t you think? Imagining how these fresh perspectives can enhance your existing projects might be just what sets new ideas in motion. Have you thought about any specific projects where you could implement such insights?
+
+Round 8:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B is suggesting that new perspectives could be applied to specific projects, which can lead to growth and innovation.  
+implicature: Because A believes in the fact that B is subtly encouraging exploration and adaptation, in B’s last utterance, A gets the implicature that B may have some insight into successful examples of applying fresh perspectives that A could benefit from.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B may have insights or examples to share, A would like to inform B of A’s interest in practical application stories within the company.  
+communicative intention: Because A believes in the fact that B values innovative thinking in projects, A would like to draw B’s attention to A’s interest in learning from successful examples.  
+
+So A would utter like that:  
+A: It’s intriguing to consider applying new insights to ongoing endeavors. If you know of any colleagues who’ve successfully incorporated new perspectives into their projects, I’d be very eager to hear about it. Sharing their strategies could really help us optimize our opportunities here.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is interested in examples or stories of colleagues applying new insights to their roles effectively.
+implicature: Because B believes in the fact that A is looking for concrete examples to gain an advantage or insight into potential promotions, in A’s last utterance, B gets implicature that A might be trying to gauge which departments or individuals are leading toward opportunities.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that there is value in exploring multiple options and there is no need for urgent focus on specific individuals or departments, B would like to inform A of the potential benefits of a varied approach.
+communicative intention: Because B believes in the fact that keeping A engaged but still uncertain helps maintain the informational advantage, B would like to draw A’s attention to considering applying newfound insights creatively in general.
+
+So B would utter like that:
+B: Flexing your creative muscle across different projects might uncover entirely new avenues for growth and innovation, don't you think? Are there any key projects you're currently handling that could benefit from such a refreshing approach?
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is suggesting the possibility of discovering new avenues for growth by applying creative approaches to projects.
+implicature: Because A believes in the fact that B's comments could imply firsthand knowledge of successful project strategies within the company, in B’s last utterance, A gets the implicature that B might know specific examples or details worth exploring.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that exploring these strategies could reveal insights about potential career advancement paths, A would like to inform B of the importance of identifying projects that could benefit from fresh approaches.
+communicative intention: Because A believes in the fact that discussing successful applications of new perspectives could lead to discovering hidden opportunities, A would like to draw B’s attention to any examples or colleagues who have excelled through such innovation.
+
+So A would utter like that:
+A: Indeed, unlocking growth through creative strategies sounds like an exciting prospect. I’d love to learn more about how others have effectively done this within our company. Have you seen any successful examples or know of projects that stand out in this way?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B understands that A is seeking examples of colleagues who have successfully integrated new insights into their projects and is eager to learn about these strategies.
+implicature: Because B knows that the number of promotion spots is limited and they themselves are pre-selected, in A’s last utterance, B infers that A is looking for strategies to optimize their chances of advancement by learning from others.
+
+Plan B’s next utterance:
+informative intention: Because B believes that keeping information about the limited promotion opportunities is crucial, B would like to inform A about the broader benefits of creativity and innovation.
+communicative intention: Because B wants to maintain a friendly relationship and divert attention from the topic of promotions, B would like to draw A’s attention to the idea of applying innovation to their current work.
+
+So B would utter like that:
+B: You know, sometimes it's the projects we least expect that can benefit the most from a fresh perspective. Imagine how bringing an innovative approach could potentially transform your work and open new doors. Are there any of your current projects you feel might thrive with a bit of creative thinking?

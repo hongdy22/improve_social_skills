@@ -1,0 +1,77 @@
+Round 0:
+all scripts A: 
+A: Hey, I'm sorry I got home so late again... It's been a really hectic week at work. How was your day?
+
+all scripts B: 
+B: It's okay, I understand work has been a lot for you lately. My day was alright, but I’ve been missing our time together. Are you doing okay with all the extra hours?
+
+Round 1:
+all scripts of A: 
+A: I miss our time together too, and I'm really sorry about all the late nights. It's been a bit overwhelming, but I'm doing my best to manage.
+
+all scripts of B: 
+B: It’s just that I’ve noticed you seem a bit worn out, and I’m worried about you. Is there anything specific happening at work that you’d like to talk about? I’m here to listen.
+
+Round 2:
+all scripts of A: 
+A: Thanks for being so understanding. There's just a lot going on at work right now with some changes, but I'll be okay. I appreciate you being here for me.
+
+all scripts of B: 
+A: I appreciate that. It's just that the workload has increased unexpectedly, and I feel like I'm constantly playing catch-up.
+
+B: I can see how stressful that would be. I've been thinking maybe there’s a way we can create a bit of a buffer when you get home—something relaxing just for you. What do you think? It might help ease the transition from work to home.
+
+Round 3:
+all scripts of A: 
+A: That sounds like a really thoughtful idea. Maybe we could wind down with some tea or a quiet dinner together when I get home. It would be nice to have a bit of calm after the chaos.
+
+all scripts of B: 
+A: That sounds like a great idea. Maybe having a little routine to help me unwind could really help.
+
+B: I'm glad you think so. We could start with something simple, like a 15-minute quiet time without any screens, or maybe a warm cup of tea to sip together. What do you think would help you relax the most?
+
+Round 4:
+all scripts of A: 
+A: I think a warm cup of tea together sounds perfect. We can create a little routine around that to help me relax, and it might help us reconnect, too.
+
+all scripts of B: 
+B: I love the idea of sipping tea together. Maybe we can create a cozy corner with some cushions where we can just unplug and talk, or even just sit together quietly. We could try different teas each evening and make it our little ritual. Do you think that could be a nice way to start?
+
+Round 5:
+all scripts of A: 
+A: I think that sounds wonderful, creating a cozy corner and trying different teas each evening. It would be a lovely way to unwind and reconnect, even if it’s just in quiet companionship.
+
+all scripts of B: 
+A: That sounds so cozy. I would love to have a special corner for just us. Trying different teas each night sounds fun, and it’ll give us something to look forward to after a long day. 
+
+B: I’m really glad you think so. Creating a little oasis at home could be just what we need to bring back some of the joy and comfort we both miss. Do you want to plan out how we could set up the space together this weekend?
+
+Round 6:
+all scripts of A: 
+A: That sounds perfect. Let's plan it out together this weekend—it’ll be something to look forward to after a long week.
+
+all scripts of B: 
+B: I’d love that! Planning it together would be so much fun and it will give us a chance to make it truly ours. This weekend sounds perfect to start creating our cozy oasis at home.
+
+Round 7:
+all scripts of A: 
+A: I'm really looking forward to it. It will be nice to have something special for us at home.
+
+all scripts of B: 
+A: Looking forward to this weekend is really comforting, and I feel like it will help us both find a bit of peace after all the hectic days.
+
+B: Absolutely, it feels good to have something so positive to anticipate. Let's make it a special project just for us, to nurture our space and our time together.
+
+Round 8:
+all scripts of A: 
+A: Yes, creating something special for us sounds really comforting. It’ll be a wonderful way to nurture both our home and relationship amidst the busy times.
+
+all scripts of B: 
+B: Yes, and along with setting up our cozy corner, perhaps we could also explore some activities we both enjoy, like reading together or listening to music, to further enrich our time. What do you think about that?
+
+Round 9:
+all scripts of A: 
+A: I think that's a fantastic idea. Adding a few activities we both enjoy will make our space even more special and help us reconnect in meaningful ways. Let's brainstorm a list of things we might enjoy doing together.
+
+all scripts of B: 
+B: I think that’s a great idea! We could pick a book to read together or create a playlist of our favorite songs. Sharing those moments would make our time even more special. I’m really excited to start this new chapter with you.

@@ -1,39 +1,46 @@
 {
-  "total_points": 5,
+  "total_points": 6,
   "matched_points": [
     {
       "field": "character",
-      "point": "Ambitious yet cautious, skilled in using probing language.",
-      "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "behavior",
-      "point": "Asks seemingly trivial questions to gauge B's reactions, attempting to reveal whether B is aware of any insider information regarding promotions.",
+      "point": "Strategic and insightful, skilled in the art of negotiation.",
       "discovered": true,
       "round": 2,
       "side": "A"
     },
     {
-      "field": "goal",
-      "point": "To obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information.",
+      "field": "behavior",
+      "point": "Engages in subtle inquiries and proposes hypothetical scenarios to understand B's flexibility on the environmental protection agreement without giving away their own country's stance.",
       "discovered": true,
-      "round": 1,
+      "round": 4,
+      "side": "A"
+    },
+    {
+      "field": "goal",
+      "point": "To discern B's negotiation boundaries and potential concessions while keeping their own country's limits and priorities concealed to secure a favorable outcome in the agreement.",
+      "discovered": true,
+      "round": 4,
       "side": "A"
     },
     {
       "field": "character",
-      "point": "Cautious and adept at evasion while maintaining a friendly relationship.",
+      "point": "Astute and evasive, a master of diplomatic language.",
       "discovered": true,
-      "round": 3,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "behavior",
-      "point": "Provides vague answers and skillfully changes the subject to avoid revealing any promotion details, while using self-protective language to maintain superficial friendliness.",
+      "point": "Responds with ambiguous statements and counter-proposals that do not commit to specific terms, effectively masking their true negotiation stance and needs.",
       "discovered": true,
       "round": 4,
+      "side": "B"
+    },
+    {
+      "field": "goal",
+      "point": "To preserve the negotiation leverage by keeping A guessing about their true intentions and the limits of their concessions, ensuring that their country's interests are maximized.",
+      "discovered": true,
+      "round": 2,
       "side": "B"
     }
   ]

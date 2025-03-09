@@ -2,37 +2,37 @@
   "A_exclusive": [
     {
       "field": "character",
-      "point": "Extroverted and socially active, but sometimes appears neglectful in intimate relationships."
+      "point": "Patient and empathetic, skilled in conflict resolution techniques."
     },
     {
       "field": "behavior",
-      "point": "Explains his/her late return due to the gathering in a casual tone, attempting to ease tension with a gentle attitude."
+      "point": "Engages in open-ended questioning to understand each family member's perspective, trying to uncover the underlying motivations and interests behind their stated positions."
     },
     {
       "field": "goal",
-      "point": "Hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake."
+      "point": "To facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members."
     },
     {
       "field": "information",
-      "point": "A is aware that frequent social engagements recently have objectively led to reduced interaction with B."
+      "point": "A aims to prevent the dispute from escalating and to help the family maintain or restore their relationships."
     }
   ],
   "B_exclusive": [
     {
       "field": "character",
-      "point": "Reserved and sensitive, desiring more attention without appearing overly dependent."
+      "point": "Guarded and strategic, motivated by personal interests in the dispute."
     },
     {
       "field": "behavior",
-      "point": "Expresses feelings subtly and uses gentle questions to hint at personal loss during conversations, remaining polite and restrained."
+      "point": "Gives carefully worded responses that may not fully reflect their true intentions, often shifting focus to the perceived injustices or needs of others to garner sympathy or support."
     },
     {
       "field": "goal",
-      "point": "Hopes that A will proactively show attention to alleviate the loneliness and restore warm interaction between them."
+      "point": "To protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires."
     },
     {
       "field": "information",
-      "point": "B has repeatedly experienced loneliness due to A's absence and objectively hopes to improve the situation through conversation."
+      "point": "B may have private information or hidden agendas that could significantly impact the mediation process if revealed."
     }
   ]
 }

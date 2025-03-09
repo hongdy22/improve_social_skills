@@ -1,0 +1,71 @@
+Round 0:
+all scripts A: 
+A: "Hey, I'm back! The gathering went a bit longer than I expected, but it was nice to catch up with everyone. How have you been?"
+
+all scripts B: 
+B: "Hi! I'm glad you had a nice time with everyone. It was quite a quiet night here; I ended up doing a bit of reading. How was the gathering?"
+
+Round 1:
+all scripts of A: 
+A: "It was great, we had such a good time sharing stories and laughs. I'm really sorry for not getting back sooner. It must have been peaceful here with all the reading, though – did you get to enjoy a good book?"
+
+all scripts of B: 
+B: "It sounds like it was a lot of fun. Did you miss anything exciting here while you were out?"
+
+Round 2:
+all scripts of A: 
+A: "Well, home is always where the heart is, right? Sounds like you had a nice, calming evening. What book did you get into?"
+
+all scripts of B: 
+B: "I suppose the most exciting thing was waiting for you, wondering when you'd be back. Did you feel like you missed out on anything we had planned?"
+
+Round 3:
+all scripts of A: 
+A: "I did miss you, and I was thinking about our evening, honestly. I hope we can still find time to enjoy those movie tickets together. What do you think?"
+
+all scripts of B: 
+A: "Oh, I'm really sorry about that. I didn't mean to keep you waiting. I guess I got a bit caught up. I hope we can make up for it soon."   
+  
+B: "Thank you for understanding. Maybe we could find another time to use those movie tickets together. I was looking forward to it."
+
+Round 4:
+all scripts of A: 
+A: "Absolutely, I'd love that. How about we plan for a movie night this week? It'll be something to look forward to, and I'll make sure nothing else comes up."
+
+all scripts of B: 
+B: "I would like that. Maybe we can plan something special soon, just the two of us. It would be nice to spend some quality time together."
+
+Round 5:
+all scripts of A: 
+A: "I’m really looking forward to that, and I promise I’ll make it extra special for us. Let's make sure it's a night to remember."
+
+all scripts of B: 
+B: "That sounds wonderful. Let's make it a memorable evening – maybe cook together or try something different before the movie?"
+
+Round 6:
+all scripts of A: 
+A: "I love the idea of cooking together before the movie. We can try out that new recipe we've been talking about, and I'll take care of everything to ensure it's a perfect evening for us."
+
+all scripts of B: 
+B: "I love the idea of trying something new together before the movie. It will be such a nice way to reconnect and enjoy each other's company."
+
+Round 7:
+all scripts of A: 
+A: "That sounds perfect, I can't wait to spend that time with you. We'll make it an evening to cherish together."
+
+all scripts of B: 
+B: "I'm really looking forward to it. It’ll be great to unwind and enjoy some special moments just for us."
+
+Round 8:
+all scripts of A: 
+A: "I'm so glad we're on the same page. I promise it'll be an evening we'll both cherish. Let's make it unforgettable!"
+
+all scripts of B: 
+B: "Me too, it's exactly what we need. Thanks for setting this up—I'm sure it'll bring us closer."
+
+Round 9:
+all scripts of A: 
+A: "We'll make sure it’s just perfect for us. I'm really looking forward to spending this quality time together and making it truly special."
+
+all scripts of B: 
+B: "I'm really grateful for this, and I know it's going to be a lovely evening. It'll be wonderful to reconnect and enjoy some true quality time together."

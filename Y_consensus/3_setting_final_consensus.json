@@ -1,53 +1,25 @@
 {
-  "total_points": 7,
+  "total_points": 3,
   "matched_points": [
     {
       "field": "character",
-      "point": "Warm and caring, but sometimes appears impatient and prone to overreacting due to concerns about the children's future.",
-      "discovered": true,
-      "round": 2,
-      "side": "A"
-    },
-    {
-      "field": "goal",
-      "point": "Hopes to guide the children to reconsider certain views using gentle yet persuasive language.",
-      "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A possesses objective economic and health data about the family and believes these facts can support his/her viewpoints.",
-      "discovered": true,
-      "round": 3,
-      "side": "A"
-    },
-    {
-      "field": "character",
-      "point": "Independent and mature, respecting tradition while sticking to personal judgment.",
+      "point": "Guarded and somewhat resistant, using defense mechanisms to protect themselves.",
       "discovered": true,
       "round": 2,
       "side": "B"
     },
     {
       "field": "behavior",
-      "point": "Uses rhetorical questions and humor to alleviate family pressure, responding politely while maintaining personal opinions.",
+      "point": "Answers with minimal detail and often redirects the conversation away from personal or painful subjects, maintaining a controlled demeanor to keep their emotional vulnerabilities hidden.",
       "discovered": true,
-      "round": 5,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "goal",
-      "point": "Aims to maintain family harmony while sticking to his/her own lifestyle and not easily changing established plans.",
+      "point": "To maintain a sense of control over the conversation and protect their emotional state, while still receiving support from A without revealing too much.",
       "discovered": true,
-      "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "information",
-      "point": "B has independent facts about his/her own career and life, objectively proving that his/her judgment is reasonable.",
-      "discovered": true,
-      "round": 1,
+      "round": 7,
       "side": "B"
     }
   ]

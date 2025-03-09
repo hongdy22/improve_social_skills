@@ -1,0 +1,61 @@
+{
+  "total_points": 8,
+  "matched_points": [
+    {
+      "field": "character",
+      "point": "A is imaginative and outgoing, with a knack for creating festive environments.",
+      "discovered": true,
+      "round": 3,
+      "side": "A"
+    },
+    {
+      "field": "behavior",
+      "point": "Initiates the discussion on the arrangement of tables and chairs, suggesting a layout that encourages mingling and interaction among guests.",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "field": "goal",
+      "point": "To ensure the venue is both visually appealing and functional, fostering a sense of community and celebration.",
+      "discovered": true,
+      "round": 2,
+      "side": "A"
+    },
+    {
+      "field": "information",
+      "point": "A has a history of organizing community events and is known for their ability to bring people together.",
+      "discovered": true,
+      "round": 9,
+      "side": "A"
+    },
+    {
+      "field": "character",
+      "point": "B is meticulous and thoughtful, with an eye for the aesthetic balance in a space.",
+      "discovered": true,
+      "round": 3,
+      "side": "B"
+    },
+    {
+      "field": "behavior",
+      "point": "Contributes by focusing on the finer details of the decorations, ensuring that the color scheme and theme are cohesive throughout the venue.",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "field": "goal",
+      "point": "To complement A's vision with practical suggestions that enhance the overall ambiance and make the space more inviting.",
+      "discovered": true,
+      "round": 2,
+      "side": "B"
+    },
+    {
+      "field": "information",
+      "point": "B is newer to the neighborhood and sees this event as an opportunity to contribute to the community and make new connections.",
+      "discovered": true,
+      "round": 5,
+      "side": "B"
+    }
+  ]
+}

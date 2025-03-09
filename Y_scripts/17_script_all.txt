@@ -1,0 +1,291 @@
+Round 0:
+all scripts A: 
+A: Excuse me, I see that you're having a bit of trouble finding a seat. Can I help? Let's see if we can make some space for you to sit down. *Turns to B* Hey, would you mind helping me out here? Maybe we can encourage someone to offer their seat.
+
+all scripts B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A is asking for assistance in helping the senior citizen find a seat.
+implicature: Because B believes in the fact that community efforts make a significant difference, in A's last utterance, B gets the implicature that this is an opportunity to work together collaboratively for a good cause.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that teamwork amplifies the impact, B would like to inform A of a potential seat that's become available.
+communicative intention: Because B believes in the fact that empathy and cooperation are essential, B would like to draw A’s attention to a seat that might be vacated.
+So B would utter like that:
+B: Sure, I’d be glad to help. I think someone near the front is about to get up. Let's signal to them and see if we can guide the senior over there.
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A understands that B is willing to help by signaling to a passenger near the front who might be vacating their seat soon.
+
+implicature: Because A believes in the importance of teamwork and responsiveness, in B’s last utterance, A infers that B is fully engaged and supportive of assisting the senior citizen.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the value of coordinating efforts to help others, A would like to inform B of the plan to guide the senior to the available seat.
+
+communicative intention: Because A believes in the necessity of acting promptly to address the senior's need, A would like to draw B's attention to act quickly and gently.
+
+So A would utter like that:  
+A: Great, let's do that. I'll guide the senior. If you can kindly signal to that person, we can make sure they have a clear path to the seat. Thank you for helping.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B understands that A is requesting help to find a seat for the senior citizen and is also suggesting cooperation to encourage someone to offer a seat.  
+implicature: Because B believes in the fact that fostering a community spirit involves aiding those in need, in A’s last utterance, B understands that A is not only asking for immediate help but also aiming to create a supportive environment by encouraging others to offer assistance.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that community cooperation can lead to positive outcomes, B would like to inform A of the specific seat that may become available.  
+communicative intention: Because B believes in the fact that every action can inspire others, B would like to draw A’s attention to the opportunity to act quickly and signal to the person who is about to leave.
+
+So B would utter like that:  
+B: Great idea, A. I see someone in the middle of the bus preparing to get up. Let's guide the senior over there and gesture to the person for their seat.
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B has identified another potential seat in the middle of the bus and is suggesting guiding the senior to it.  
+implicature: Because A believes in the fact that B is willing to assist and coordinate efforts, in B’s last utterance, A gets the implicature that B views teamwork as essential in this situation.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that teamwork will facilitate seating the senior citizen more efficiently, A would like to inform B of the plan to proceed towards the middle of the bus.  
+communicative intention: Because A believes in the fact that cooperation highlights community responsibility, A would like to draw B’s attention to the importance of navigating the bus together carefully.
+
+So A would utter like that:  
+A: Thanks for pointing that out, B. Let's carefully guide the senior through the bus together, ensuring they can move safely to that seat. Lead the way, and I'll assist them along the way.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance B gets the explicature that A wants to guide the senior to a newly available seat and is seeking B’s assistance in signaling and coordinating this effort.
+
+implicature: Because B believes in the fact that teamwork can effectively help the senior and enhance the community spirit, in A’s last utterance, B gets the implicature that A values cooperation and looks to B to be an active participant in this small act of kindness.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that cooperation is key to helping the senior, B would like to inform A of the importance of ensuring a smooth process.
+
+communicative intention: Because B believes in the fact that their teamwork is crucial, B would like to draw A’s attention to the importance of coordinating the timing and approach as they guide the senior.
+
+So B would utter like that:
+
+B: I'll make sure to signal in a way that catches their attention politely. Let's move together so we can help the senior get there safely and comfortably.
+
+Round 3:
+all scripts of A: 
+Round 3:  
+Analysis B’s last utterance:  
+explicature: In B's last utterance, A gets the explicature that B is ready to signal to the person getting up, ensuring that they get the person's attention politely and are committed to moving together with A to help the senior citizen.  
+implicature: Because A believes in the fact that B is considerate and cooperative, in B’s last utterance, A gets the implicature that B is willing to take the lead and collaborate effectively in ensuring the senior's comfort.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that teamwork can facilitate a better outcome, A would like to inform B of the importance of coordinating their actions together.  
+communicative intention: Because A believes in the fact that seniors need careful assistance, A would like to draw B’s attention to the importance of ensuring the senior's path is clear and safe.  
+
+A: Alright, B, let's make sure we communicate well as we guide them. It's great that you're taking the lead with the signaling. I'll support the senior along the way and ensure their path remains clear. Let's make sure they feel comfortable and secure throughout the process.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A wants to work together to help the senior find a seat safely and comfortably.
+implicature: Because B believes in the fact that teamwork and cooperation can effectively assist in aiding others, in A’s last utterance, B gets the implicature that A values collaboration to ensure the senior's safety and comfort.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that non-verbal communication can be effective in crowded environments, B would like to inform A of the plan to use a polite signal to alert the person to give up their seat.
+communicative intention: Because B believes in the fact that each step needs to be communicated clearly to ensure a safe outcome, B would like to draw A’s attention to the approach of signaling the person and assisting the senior together.
+
+So B would utter like that:
+B: I'll walk ahead and use a friendly gesture to get their attention while you accompany the senior. This way, we can help them reach the seat with ease and comfort.
+
+Round 4:
+all scripts of A: 
+**Round 4:**
+
+Analysis B’s last utterance:
+
+- **explicature**: In B’s last utterance, A gets the explicature that B is committed to guiding the path and ensuring the senior reaches the seat smoothly.
+- **implicature**: Because A believes in the fact that B is equally considerate and helpful, in B’s last utterance, A gets the implicature that B values teamwork to ensure the senior's comfort.
+
+Plan A’s next utterance:
+
+- **informative intention**: Because A believes in the fact that clear communication is essential, A would like to inform B of the progress as they move together.
+- **communicative intention**: Because A believes in the fact that everyone’s actions contribute to community wellbeing, A would like to draw B’s attention to the importance of their coordinated effort.
+
+So A would utter like that:
+
+A: Excellent plan, B. As we proceed, I'll make sure to reassure the senior citizen so they feel at ease. Your gesture to the person and clear path are crucial. Let’s keep working together so they can sit comfortably and feel supported.
+
+all scripts of B: 
+**B’s Turn:**
+
+**Analysis A’s last utterance:**
+
+*explicature:* In A’s last utterance, B gets the explicature that A appreciates B taking the initiative in signaling and is focused on ensuring the senior citizen's comfort and safety.
+
+*implicature:* Because B believes in the importance of working together to help others, in A’s last utterance, B gets the implicature that A trusts and relies on B’s ability to facilitate communication and coordination in this situation.
+
+**Plan B’s next utterance:**
+
+*informative intention:* Because B believes in the collective effort to assist the senior, B would like to inform A that they are ready and eager to fulfill their role efficiently.
+
+*communicative intention:* Because B values effective teamwork, B would like to draw A’s attention to the readiness to proceed smoothly and ensure the senior’s comfort.
+
+So B would utter like that:
+
+**B:** Let's go ahead and approach the available seat calmly and steadily. Together, we can ensure the senior feels secure and warmly welcomed by our effort.
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets explicature that B will take the lead, walking ahead and using a friendly gesture to grab the person’s attention while A stays with the senior citizen.
+
+implicature: Because A believes in the fact that cooperation makes these acts of kindness more effective, in B’s last utterance, A gets implicature that B is not only willing but also proactive in helping and understands the importance of creating a secure and comfortable environment for the senior.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that reassurance is key to making someone feel safe and secure, A would like to inform B of the importance of providing comfort to the senior as they walk together.
+
+communicative intention: Because A believes in the fact that teamwork enhances the experience, A would like to draw B’s attention to the significance of maintaining clear communication throughout the process.
+
+So A would utter like that:
+
+A: Great, B, let’s keep that clear communication going. I'll talk to the senior, ensuring they feel secure, while you handle the signaling. Together, we’re making a big difference for them.
+
+all scripts of B: 
+## Analysis of A’s Last Utterance ##
+
+**Explicature:** In A's last utterance, B gets the explicature that A supports the plan for helping the senior and appreciates B's role in signaling and clearing the path.
+
+**Implicature:** Because B believes in the fact that teamwork is essential for fostering community spirit, in A’s last utterance, B gets the implicature that A values their cooperation and trusts B to execute the signaling effectively.
+
+## Plan B’s Next Utterance ##
+
+**Informative Intention:** Because B believes in the fact that effective communication enhances collaboration, B would like to inform A of B's readiness to proceed and ensure the senior's comfort.
+
+**Communicative Intention:** Because B believes in the fact that empathy and attentiveness are key to aiding others, B would like to draw A’s attention to their commitment to providing assistance throughout the process.
+
+So B would utter like that:
+
+B: Absolutely, A. I'll make sure my gestures are clear and friendly, and together we'll ensure the senior feels supported every step of the way. Let’s go!
+
+Round 6:
+all scripts of A: 
+Round 6:
+
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is confirming their role in making clear and friendly gestures to ensure the senior feels supported.
+implicature: Because A believes in the fact that clear communication and teamwork enhance the effectiveness of their assistance, in B’s last utterance, A gets the implicature that B is committed to working together to achieve this goal.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that reassuring the senior citizen is crucial, A would like to inform B of the importance of maintaining clear communication and a supportive presence.
+communicative intention: Because A believes in the fact that teamwork is essential, A would like to draw B’s attention to the continued importance of working together to keep the senior comfortable.
+
+A: Fantastic, B. Let's continue to coordinate our efforts as we approach the person getting up. I'll keep conversing with the senior to ensure they feel secure, and with your guiding gestures, we’ll make this transition as smooth as possible. Let’s move ahead, ensuring our actions are in sync.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is focused on ensuring the senior feels secure and sees this as a cooperative effort.
+implicature: Because B believes in the fact that teamwork is essential for community support, in A’s last utterance, B gets the implicature that A values B's role in the collaboration and is committed to making a positive impact together. 
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that gestures can significantly aid communication in crowded spaces, B would like to inform A of the effectiveness of using clear and friendly gestures to make others aware of the situation.
+communicative intention: Because B believes in the fact that maintaining clear communication enhances our ability to help, B would like to draw A’s attention to how well this teamwork is progressing.
+
+So B would utter like that:
+B: I can see how well we’re working together, A. Your reassurance really helps, and using gestures ensures everyone understands and respects the situation. Let’s keep it up and get the senior settled comfortably.
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B acknowledges the effective teamwork between A and B and appreciates A's role in keeping the senior reassured.
+implicature: Because A believes in the importance of teamwork and understanding, in B’s last utterance, A gets the implicature that B feels the collaboration is progressing positively and that A’s verbal reassurances are valuable in maintaining the senior's comfort.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the importance of constant communication, A would like to inform B of the positive impact their synchronized efforts have on the senior’s comfort.
+communicative intention: Because A understands that encouragement reinforces teamwork, A would like to draw B’s attention to the effectiveness of their combined actions in ensuring the senior feels supported.
+
+So A would utter like that:
+A: I appreciate your precise signaling, B. It's clear our teamwork is making a real difference. Let's stay this coordinated as we navigate these last few steps, ensuring the senior has a seamless seating experience.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets explicature that A appreciates the collaboration and is committed to ensuring the senior feels secure and comfortable throughout the process.
+
+implicature: Because B believes in the importance of teamwork and effective communication, in A’s last utterance, B gets implicature that A values the coordination and is encouraging B to maintain their helpful gestures to aid the senior seamlessly.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the importance of making a positive impact within the community, B would like to inform A of their commitment to ensuring the senior's comfort through clear and friendly signaling.
+
+communicative intention: Because B believes in the significance of empathy and collaboration, B would like to draw A’s attention to their shared success in smoothly guiding the senior to a seat.
+
+So B would utter like that: 
+
+B: I appreciate the teamwork, A. It's rewarding to see how our combined efforts are making a difference for the senior. Let’s continue to communicate effectively and ensure they feel truly supported until they're comfortably seated.
+
+Round 8:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B appreciates the teamwork and is committed to ensuring the senior feels supported throughout the process.  
+implicature: Because A believes in the fact that effective communication enhances coordination, in B’s last utterance, A gets the implicature that B values communication and wants to maintain it to achieve a successful outcome.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that clear communication and reassurance are key to making the senior feel comfortable, A would like to inform B of the importance of maintaining this approach as they finalize seating the senior.  
+communicative intention: Because A believes in the fact that teamwork is critical in such situations, A would like to draw B’s attention to the positive impact of their coordinated effort on the senior's comfort and security.
+
+So A would utter like that:  
+A: It's wonderful to see our efforts making a positive impact, B. Let's continue with this level of communication and teamwork as we guide the senior to their seat. I'm grateful for your help in making sure they feel supported and comfortable.
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A appreciates B’s signaling and sees the positive impact their teamwork is having on helping the senior.
+implicature: Because B believes in the fact that effective teamwork fosters community spirit, in A’s last utterance, B gets the implicature that A values their collaboration and aims to maintain effective communication.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that recognition of efforts enhances cooperation, B would like to inform A of the positive impact their cooperation is having on the bus atmosphere.
+communicative intention: Because B believes in the fact that encouraging words foster stronger teamwork, B would like to draw A’s attention to the harmonious way they are working together.
+So B would utter like that:
+B: It's wonderful how our teamwork has not only helped the senior but also set a positive example for everyone around us. Let’s continue to make these last steps smooth for them.
+
+Round 9:
+all scripts of A: 
+Explicature: In B’s last utterance, A gets the explicature that B is expressing appreciation for their teamwork and recognizing the positive example they’re setting for others.
+
+Implicature: Because A believes in the fact that demonstrating kindness and teamwork can inspire others, in B’s last utterance, A gets the implicature that B acknowledges the impact of their actions beyond just helping the senior.
+
+Informative intention: Because A believes in the fact that continued effort in communicating and aligning actions is important, A would like to inform B of their ongoing commitment to ensuring the senior's comfort.
+
+Communicative intention: Because A believes in the fact that multiple small acts of kindness contribute to a more caring community, A would like to draw B’s attention to how their efforts may influence fellow passengers.
+
+A: Absolutely, B. It’s encouraging to see our actions inspiring others around us. Let’s maintain this communication and coordination to ensure the senior’s journey ends comfortably, and perhaps our teamwork will motivate others to do the same.
+
+all scripts of B: 
+B’s Turn:  
+Analysis A's last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A appreciates their ongoing cooperation and communication in helping the senior to their seat.  
+implicature: Because B believes in the fact that community spirit is important, in A’s last utterance, B gets the implicature that A values this shared effort and the positive impact it has on the atmosphere of the bus.  
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that cooperative actions foster positive experiences, B would like to inform A of the positive influence their teamwork is having on the bus environment.  
+communicative intention: Because B believes in the fact that encouraging acts of kindness amplifies community spirit, B would like to draw A’s attention to the way their actions are creating a more considerate atmosphere.  
+So B would utter like that:  
+B: It’s heartening to see how our actions uplift not only the senior but also inspire a sense of kindness among the other passengers. Let’s ensure the senior is comfortably seated—our efforts are truly setting a great example.

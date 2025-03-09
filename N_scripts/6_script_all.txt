@@ -1,71 +1,71 @@
 Round 0:
 all scripts A: 
-A: "Hey B, you'll never guess how lively the gathering was, I completely lost track of time. How about we plan something extra special together this weekend to make it up to you?"
+A: Thank you all for coming today. I want to start by acknowledging how difficult these discussions can be, and I’m here to support all of you in finding a resolution that respects everyone’s concerns. Could we begin by each of you sharing what you hope to achieve from our meeting today?
 
 all scripts B: 
-B: "I'm glad you had a good time, A. The place was quite peaceful without you, though. Maybe we can think of something that lets us enjoy some time together at home, too?"
+B: Thank you for mediating this discussion. I think it's important that we address the needs that everyone has in this situation. Personally, I want to make sure that the distribution is fair and considers everyone's contributions over the years. I realize that we all have different perspectives on what 'fair' might be, so my main goal is to reach a consensus that acknowledges everyone's input and sacrifices.
 
 Round 1:
 all scripts of A: 
-A: "You know I love our time at home just as much as being out; maybe we can have an evening in with those movie tickets and some homemade dinner?"
+A: Thank you for sharing that, B. Your focus on fairness and recognizing contributions is important. Could you elaborate on what 'fair' means to you in this context and how you see everyone's contributions playing a role? This will help us understand your perspective better and how we might develop a solution that respects it. C and D, I would like to hear your thoughts as well, so we can explore everyone's viewpoints together.
 
 all scripts of B: 
-B: "That sounds lovely, A. It was a bit lonely here on my own, but we can turn that into an opportunity for a cozy evening. What do you think about using those movie tickets at home for a quiet night in?"
+A: Thank you, B, for emphasizing the importance of fairness and consensus. It's crucial that everyone feels heard and acknowledged. Could you elaborate on what specific contributions or sacrifices you believe should be considered in this process?
+
+B: Certainly, I think it's vital to recognize those who have played a consistent role in managing affairs, particularly those who have taken on more responsibilities during challenging times. It's not just about financial contributions but also about the emotional and physical support that some have provided, which can often be overlooked.
 
 Round 2:
 all scripts of A: 
-A: "Absolutely, B! Let’s create our own little cinema at home and I’ll whip up something delicious for dinner. We can pick a movie and make it a special night just for us."
+A: Thank you for clarifying, B. It’s important to consider all forms of contribution, including emotional support and responsibility management. C and D, I’d like to hear from you next. Could you share your perspectives on what you hope to achieve from this discussion and how you view the contributions mentioned by B? It’s essential to bring all perspectives to light so we can move toward a resolution that feels fair and inclusive to everyone involved.
 
 all scripts of B: 
-B: "I think a quiet night in with you sounds perfect. I did miss our plans, though. Do you ever feel like those small moments at home together are special in their own way?"
+B: I appreciate the opportunity to clarify. From my perspective, it's essential to consider not only the financial contributions but also the time and energy that have been invested by family members who have had to handle more responsibilities, especially during tough periods. For instance, those who stayed close to home to support our parents while others pursued personal endeavors should be acknowledged. It's about ensuring that the emotional and physical support provided by some isn't overlooked in this process.
 
 Round 3:
 all scripts of A: 
-A: "I really do, B. It's those little moments at home that mean the most, and I want to make sure we have more of them together."
+A: I appreciate the insights you’ve shared, B. It's clear that you value both tangible and intangible contributions. C, I invite you to share your thoughts now. What do you hope to achieve from today’s discussion, and how do you view the different types of contributions mentioned? Your perspective will help us understand how to address everyone’s concerns and work toward a balanced solution.
 
 all scripts of B: 
-B: "I believe those small moments can be truly meaningful, A. There's something comforting about knowing we're both choosing to be present for them, don't you think?"
+B: I agree that understanding the broader context of everyone's contributions is important, and I think it's crucial to highlight the sacrifices made by those who prioritized family needs over personal ambitions. It's not just about financial inputs but also about the ongoing care and presence that some have given, which sometimes seems undervalued. I’m hopeful we can find a resolution that truly appreciates the various ways people have supported our family over time.
 
 Round 4:
 all scripts of A: 
-A: "Absolutely, B. Being present together in those moments is what adds depth to our relationship, and I cherish that."
+A: Thank you, B, for expressing your thoughts so clearly. It’s essential to recognize both the tangible and intangible efforts made by family members. C, as you prepare to share your perspective, I’d like to emphasize that this is a safe space where you can be open about your feelings and expectations. Your input is valuable in helping us form a more complete picture of each person's experiences and contributions.
 
 all scripts of B: 
-A: "I couldn't agree more, B. It's important to cherish those moments, and I'm really looking forward to our evening."
-
-B: "Thank you, A. I really hope we can create many more of those meaningful moments. It feels good knowing we're both invested in making our time together truly special."
+B: Absolutely, and while I hope we can honor everyone's sacrifices, it's equally important to ensure that those who had to put their personal goals on hold are adequately recognized for helping keep the family together. I trust we'll find a comprehensive solution that respects these complexities.
 
 Round 5:
 all scripts of A: 
-A: "Looking forward to many more special moments with you, B. Let's make tonight just the beginning of something extraordinary."
+A: Thank you, B, for highlighting the significance of acknowledging both sacrifices and personal goals. C, I’m looking forward to hearing from you. Please share your thoughts on what you hope to accomplish today and how you perceive the various contributions within the family. Your insights are crucial as we strive to reach an understanding and a resolution that feels equitable to all involved.
 
 all scripts of B: 
-B: "I appreciate you recognizing how meaningful those shared moments are, A. Let's make sure we continue to embrace them and create memories that last."
+B: Thank you, A. It's crucial that we address these subtleties and ensure everyone feels valued, particularly those who may have quietly taken on more for the sake of the family. I hope our discussion leads to an arrangement that truly considers these layers of contribution, and I'm open to hearing how others have perceived these efforts as well.
 
 Round 6:
 all scripts of A: 
-A: "Absolutely, B. Let's treasure tonight and every moment thereafter, making each one count as we create lasting memories together."
+A: Thank you, B, for continuously emphasizing the importance of recognizing different forms of contribution and the nuances involved. C, your perspective on these matters is crucial, and I want to assure you that this is indeed a space where everyone’s views and feelings are valued. What do you hope to achieve through our discussion today, and how do you see the contributions and sacrifices mentioned by B? Understanding what is significant to you will help us work towards a consensus that honors all viewpoints and facilitates a fair resolution for everyone.
 
 all scripts of B: 
-B: "Absolutely, A. It’s heartening to know we’re both focused on creating those lasting memories. I’m eager to experience more of these cherished moments together."
+B: I believe the best way forward is to ensure that emotional and logistical support are equally considered alongside financial contributions. It's essential that everyone's efforts, especially those who had to balance family responsibilities with personal sacrifices, are adequately recognized and appreciated in whatever resolution we reach.
 
 Round 7:
 all scripts of A: 
-A: "I'm so grateful for our time together, B. Here's to tonight and many more special evenings in the future."
+A: C, I appreciate your patience, and I invite you to share your thoughts with us. What are your hopes for today's discussion, and how do you perceive the contributions and sacrifices that have been highlighted? Your insights will be invaluable as we navigate toward a resolution that honors everyone's efforts and needs.
 
 all scripts of B: 
-B: "I’m looking forward to it, A. Together, we can create a tapestry of cherished moments that add warmth and depth to our relationship."
+B: I appreciate the opportunity to express these views, and I hope we can find a resolution that sincerely reflects the diverse contributions everyone has made, including the emotional and logistical support, which are sometimes overshadowed by financial considerations. It's crucial for all of us to feel that our efforts are valued and appropriately acknowledged in the final outcome.
 
 Round 8:
 all scripts of A: 
-A: "Our journey together is what I truly treasure, B. Let's continue to fill it with moments that are uniquely ours and celebrate the beauty of simply being with each other."
+A: Thank you, B, for clearly articulating your hopes. C, your perspective is invaluable to our discussion, so please share what you hope to achieve and how you view the contributions mentioned. Your input is essential for us to create a resolution that feels fair and respectful of everyone's efforts.
 
 all scripts of B: 
-B: "Here’s to our journey of creating those beautiful moments, A. Each adds a unique thread to the tapestry of our shared experiences."
+B: Thank you, A, for this ongoing opportunity to discuss these matters. I hope that as we delve deeper into everyone's perspectives, we maintain a focus on both the tangible and intangible support that has been crucial in keeping our family strong. Recognizing these contributions fully will help us arrive at a resolution that genuinely respects and values the diverse efforts made by each family member.
 
 Round 9:
 all scripts of A: 
-A: "And each thread strengthens the bond we share. I'm truly excited to see where our journey takes us, B."
+A: Thank you, B, for your heartfelt contributions to our dialogue thus far. C, I genuinely encourage you to express your views now. What are your goals for today’s discussion, and how do you perceive the contributions and sacrifices within the family, as mentioned by B? Understanding your unique perspective will be invaluable in reaching a consensus that echoes fairness and respect for everyone's efforts.
 
 all scripts of B: 
-B: "To weaving each thread with care, A, making every moment a testament to our shared journey and the comfort of simply being together."
+B: Thank you, A, for facilitating this dialogue. As we continue, I hope we remain mindful of all contributions and perhaps uncover some shared values and experiences that have strengthened our family. It's important to recognize the different layers of support that have been pivotal in maintaining our family ties, not just financial aspects.

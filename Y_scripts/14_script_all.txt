@@ -1,0 +1,280 @@
+Round 0:
+all scripts A: 
+A: "Hey there! I'm A. It's great to meet you all! Why don't we brainstorm some ideas together for the exercise? I always think teamwork makes any project more fun and efficient!"
+
+all scripts B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A is enthusiastic about collaboration and believes in the value of teamwork.
+implicature: Because B believes in the fact that teamwork can indeed enhance both enjoyment and efficiency in projects, in A’s last utterance, B gets the implicature that A is eager to engage with the team and values their input.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that great ideas often come from diverse perspectives, B would like to inform A of their willingness to contribute by carefully considering the details of the task.
+communicative intention: Because B believes in the fact that thoughtful and organized approaches can greatly benefit group activities, B would like to draw A’s attention to the importance of planning our steps clearly.
+
+So B would utter like that:
+B: "Hi A, nice to meet you too. I agree; teamwork does make things more enjoyable and efficient. Maybe we could start by listing out the goals of the exercise so we can brainstorm with a clear focus?"
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B agrees with the idea of teamwork and suggests starting with defining the exercise goals for clear brainstorming.
+
+implicature: Because A believes in the fact that a well-structured approach enhances team productivity, in B’s last utterance, A gets the implicature that B prefers an organized method to tackle tasks.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that having a clear plan leads to better outcomes, A would like to inform B of the importance of aligning our brainstorming with the defined goals.
+
+communicative intention: Because A believes in the fact that clarity supports efficiency, A would like to draw B’s attention to the benefit of having a structured approach from the beginning.
+
+So A would utter like that: "A structured approach sounds great! Let's list our goals first, and then we can creatively brainstorm around how to achieve each one. That way, we ensure we're on the right track from the start."
+
+A: "A structured approach sounds great! Let's list our goals first, and then we can creatively brainstorm around how to achieve each one. That way, we ensure we're on the right track from the start."
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A is enthusiastic about working together and believes that collaboration is important for the project’s success.  
+implicature: Because B believes in the fact that teamwork is indeed beneficial, in A’s last utterance, B gets the implicature that A is keen on discussing ideas and values input from everyone in the group.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that setting clear goals can guide effective teamwork, B would like to inform A of the importance of defining objectives before proceeding with brainstorming.  
+communicative intention: Because B believes in the fact that effective communication and planning enhance teamwork, B would like to draw A’s attention to starting with a structured approach.
+
+So B would utter like that:  
+B: "I agree, A. Starting with a clear understanding of what we need to achieve will definitely boost our efficiency. Once we've established our goals, we can each suggest ideas that align well with those objectives."
+
+Round 2:
+all scripts of A: 
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B agrees on the importance of having a clear understanding of the goals before brainstorming ideas.
+implicature: Because A believes in the fact that teamwork is essential for achieving success in any project, in B’s last utterance, A gets the implicature that B values collaboration and is on the same page about working together to achieve the objectives.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that a strong beginning can set the stage for successful collaboration, A would like to inform B of their own eagerness to share ideas that align with the objectives.
+communicative intention: Because A believes in the fact that enthusiasm can foster a positive team dynamic, A would like to draw B’s attention to the potential of their collaborative effort.
+
+So A would utter like that: 
+A: "Awesome, B! I'm really excited to hear everyone's ideas once we have our goals set. I think this is going to be a great opportunity for us to showcase our teamwork and creativity. Shall we start listing those goals?"
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about maintaining a structured approach that ensures the team stays on track by first listing goals and then brainstorming creatively.
+implicature: Because B believes in the fact that having a clear structure can maximize productivity and creativity, in A’s last utterance, B gets the implicature that A values organization and effectiveness in team collaboration.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that setting clear goals is crucial for team success, B would like to inform A that they are ready to move forward with defining the specific goals of the exercise.
+communicative intention: Because B believes in the fact that having everyone's input on goals can enhance team alignment, B would like to draw A's attention to the importance of involving everyone in this initial goal-setting process.
+
+So B would utter like that:
+B: "Sounds perfect, A. To kick things off, maybe we could all share what we each understand the main objective of this exercise to be? That way, we can align our individual perspectives and ensure everyone's input is considered as we define our goals."
+
+Round 3:
+all scripts of A: 
+A's Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B wants everyone to share their understanding of the main objective of the exercise to ensure alignment and inclusion of all perspectives.
+implicature: Because A believes in the fact that collaboration enhances understanding and outcomes, in B’s last utterance, A gets the implicature that B values collective input and is seeking a comprehensive group understanding of the task.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that aligning perspectives strengthens teamwork, A would like to inform B and the team of their interpretation of the exercise's main objective.
+communicative intention: Because A believes in the fact that sharing interpretations encourages group cohesion, A would like to draw B’s and the group's attention to their perspective on the exercise's purpose.
+
+So A would utter like that:
+A: "Great idea, B! From what I understand, the main objective is to foster collaboration and communication among us as new team members. By sharing our interpretations, we can come up with goals that reflect a common aim to work well together. What does everyone else think?"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B understands that A is eager to start brainstorming and values teamwork and creativity.  
+implicature: Because B believes in the fact that clear communication is key to effective teamwork, in A’s last utterance, B understands that A is keen on ensuring we're all aligned before proceeding.
+
+Plan B’s next utterance:  
+informative intention: Because B values collaboration, B would like to inform A of the importance of aligning our understanding before setting goals.  
+communicative intention: Because B believes in the importance of clear objectives, B would like to draw A's attention to ensuring everyone's perspectives are considered.
+
+So B would utter like that:  
+B: "Great point, A. Aligning our understanding is crucial. Let's each share what we perceive the main objective to be, and then we can draft a cohesive set of goals based on our combined insights."
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets the explicature that B agrees with the importance of aligning individual understandings to form a cohesive set of goals.
+implicature: Because A believes in the fact that collaboration enhances productivity, in B’s last utterance, A gets the implicature that B values collective input and is encouraging everyone to contribute their perspectives.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that open communication is key to successful collaboration, A would like to inform B and the group of the importance of sharing diverse perspectives to create well-rounded goals.
+communicative intention: Because A believes in the fact that teamwork involves valuing everyone’s input, A would like to draw B’s and the group's attention to the idea of ensuring all voices are heard when finalizing our goals.
+
+A: "Absolutely, B. It's vital we bring everyone's thoughts to the table to develop a set of goals that truly reflect our collective strengths and perspectives. Let's make sure each person's input is included as we list out our objectives. Who would like to start by sharing their understanding?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A agrees on aligning everyone’s interpretations to set cohesive goals for the exercise.
+implicature: Because B believes in the fact that aligning different perspectives can lead to a comprehensive understanding, in A’s last utterance, B gets implicature that A values inclusivity and thoroughness in team discussions.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that a detailed understanding can enhance team effectiveness, B would like to inform A and the team of the importance of hearing each member’s view.
+communicative intention: Because B believes in the fact that clear communication is key to successful teamwork, B would like to draw A’s attention to the potential benefits of integrating diverse perspectives.
+
+So B would utter like that:
+B: "That's an excellent collaborative direction, A. By bringing together everyone’s insights, we create a foundation where our diverse perspectives can enhance our collective output. Let's start with you, A—could you elaborate on the objectives you've identified?"
+
+Round 5:
+all scripts of A: 
+Round 5:
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B wants A to start by elaborating on the objectives A has identified to foster collaboration.
+implicature: Because A believes in the fact that collective input is valuable, in B’s last utterance, A gets the implicature that B is genuinely interested in understanding A's perspective to build a shared set of goals.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that starting with a common understanding is essential, A would like to inform B and the group of A's thought that the objectives are centered around fostering open communication and teamwork.
+communicative intention: Because A believes in the fact that shared insights enhance collaboration, A would like to draw B’s and the group's attention to A's identified objectives to set the tone for our collaborative effort.
+
+A: "Sure! From what I've gathered, the key objectives are to foster open communication between us and to leverage our individual strengths to build a stronger team. I think if we focus on ensuring everyone feels comfortable sharing and contributing, we'll achieve the aim of this exercise effectively. What do you all think?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is encouraging everyone to share their thoughts so they can collectively establish goals based on their diverse perspectives.
+implicature: Because B believes in the fact that collaborative input leads to a well-rounded set of goals, in A’s last utterance, B gets the implicature that A values inclusive participation and is interested in hearing from everyone to ensure that all voices are represented.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that a structured approach provides clarity, B would like to inform A of the potential benefit of starting with A's perspective as an initial framework for the team’s goals.
+communicative intention: Because B believes in the fact that starting with someone’s specific understanding can catalyze the conversation, B would like to draw A’s attention to the utility of beginning with A’s interpretation to guide the discussion.
+
+So B would utter like that:
+
+B: "Thanks for setting that collaborative tone, A. It might be helpful if you could kick things off by sharing your interpretation of the objectives, which can serve as a preliminary framework for us to build upon with everyone's input."
+
+Round 6:
+all scripts of A: 
+Round 6:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets explicature that B is appreciative of A's collaborative approach and wants A to share the objectives as a starting point for further discussion.
+
+implicature: Because A believes in the fact that including everyone’s input early on helps to create a harmonious and productive team environment, in B’s last utterance, A gets the implicature that B values having a preliminary framework provided by A to facilitate collective input.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that open communication is crucial for effective teamwork, A would like to inform B of the specific objectives they've identified based on prior discussions.
+
+communicative intention: Because A believes in the fact that fostering team involvement from the outset leads to better collaboration, A would like to draw B’s attention to how these objectives align with everyone’s strengths and input.
+
+So A would utter like that: "Sure! From our earlier discussion, I've identified fostering open communication as a key objective, where everyone feels valued for their contributions. Another goal is to leverage our unique strengths, creating a team that is greater than the sum of its parts. How does that resonate with everyone else?"
+
+A: "Sure! From our earlier discussion, I've identified fostering open communication as a key objective, where everyone feels valued for their contributions. Another goal is to leverage our unique strengths, creating a team that is greater than the sum of its parts. How does that resonate with everyone else?"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A believes the key objectives of the exercise are fostering open communication and leveraging individual strengths.  
+implicature: Because B believes in the fact that individual contributions are essential, in A’s last utterance, B gets implicature that A values inclusiveness and is looking for collective agreement and contribution.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the importance of clarity and collaboration, B would like to inform A of their understanding of the objectives to align with A’s perspective.  
+communicative intention: Because B values the role of diverse input in forming a comprehensive set of goals, B would like to draw A's attention to ensuring all team members’ contributions are woven into the objective framework.  
+
+So B would utter like that:  
+B: "I completely agree with your objectives, A. Ensuring open communication while leveraging strengths is key. I think we've got a solid starting point, and from here, it would be beneficial for everyone to reflect on how their unique skills can support these objectives, reinforcing our team's collaborative spirit."
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B agrees with the identified objectives and suggests leveraging individual skills to support them.  
+implicature: Because A believes in the fact that team dynamics thrive on mutual contribution, in B’s last utterance, A gets the implicature that B values the idea of integrating unique skills to promote a collaborative spirit.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that recognizing and utilizing each other’s strengths leads to a more unified team, A would like to inform B of their enthusiasm to see how everyone’s skills contribute to our set goals.  
+communicative intention: Because A believes in the fact that deliberate encouragement fosters an inclusive environment, A would like to draw B’s attention to the importance of everyone sharing how their strengths can help achieve our objectives.
+
+So A would utter like that:  
+A: "That's fantastic to hear, B! I truly believe that when we all bring our skills to the table, we can create something remarkable together. Let's take a moment for each of us to share how we believe our unique skills can support these objectives. Who would like to go next?"
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B understands that A is seeking confirmation on whether the identified objectives resonate with the group and is inviting input on leveraging individual strengths to enhance team collaboration.  
+implicature: Because B believes in the fact that everyone has unique strengths to offer, in A’s last utterance, B infers that A is encouraging each member to think about how they can personally contribute to achieving these goals.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that open communication is vital for effective collaboration, B would like to inform A of their agreement with the approach of leveraging strengths while ensuring that everyone can communicate openly.  
+communicative intention: Because B believes in the fact that diversity in skills will enhance the team's performance, B would like to draw A’s attention to the importance of each member identifying how their unique skills contribute to these objectives.  
+
+So B would utter like that:  
+B: "I completely agree with your objectives, A. Ensuring open communication while leveraging strengths is key. I think we've got a solid starting point, and from here, it would be beneficial for everyone to reflect on how their unique skills can support these objectives, reinforcing our team's collaborative spirit."
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B agrees with the importance of open communication and leveraging strengths and suggests taking time for everyone to reflect on their skills.
+implicature: Because A believes in the fact that involving everyone leads to better teamwork, in B’s last utterance, A gets the implicature that B values each team member’s unique contributions as a way to bolster the team.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that reflecting on unique skills enhances teamwork, A would like to inform B of the importance of this process for building a cohesive team.
+communicative intention: Because A believes in the fact that reflecting on unique skills enhances teamwork, A would like to draw B’s attention to the benefits this reflection can bring.
+
+So A would utter like that:
+A: "Absolutely, B. Reflecting on how our individual skills can support the team objectives is an excellent way to harness our diverse talents, and can lead to innovative solutions. Shall we hear from the next person about their unique contributions?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B understands that A is encouraging everyone to share their individual skills and thoughts to reinforce teamwork and achieve the exercise's objectives.
+implicature: Because B believes in the fact that individual contributions lead to stronger collective outcomes, in A’s last utterance, B gets the implicature that A values diverse input and sees the potential for a rich, collaborative effort.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that everyone's skills are important to achieving team success, B would like to inform A of how B's observational skills can help ensure that others’ contributions are recognized.
+communicative intention: Because B believes in the fact that active listening is crucial to fostering communication, B would like to draw A’s attention to B's willingness to support the team by providing feedback and synthesizing input.
+
+So B would utter like that:
+B: "Thanks, A. I'd like to offer my skills in observation and providing feedback to help ensure everyone's ideas are considered. I believe my focus on details can aid in creating an environment where every contribution is genuinely valued and incorporated."
+
+Round 9:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A understands that B is offering their skills in observation and feedback to help ensure everyone's ideas are considered and valued.  
+implicature: Because A believes in the fact that leveraging individual strengths can enhance team effort, in B’s last utterance, A perceives that B is keen to support the team's objectives by using their ability to focus on details.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that individual contributions enhance teamwork, A would like to inform B of the appreciation for their skills and how they align with the team's objectives.  
+communicative intention: Because A believes in the fact that recognizing strengths fosters collaboration, A would like to draw B’s attention to the importance of their role in maintaining a well-rounded team environment.  
+
+So A would utter like that:  
+A: "That's fantastic, B. Your skills in observation and feedback are invaluable to our team effort and are exactly the kind of assets that can make sure everyone feels heard and integrated. Let's use those skills to ensure our objectives of open communication and leveraging strengths are fully realized. Who would like to share next?"
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B understands that A is inviting the team to reflect on their individual skills and how they can support the team objectives, while encouraging the next person to share their thoughts.
+implicature: Because B believes in the fact that reflection on individual skills can significantly enhance team dynamics and foster innovative solutions, in A’s last utterance, B gets the implicature that A values the diverse contributions from the team and is facilitating a space for open sharing.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that observation and detailed feedback can enhance team integration, B would like to inform A of their ability to ensure everyone's ideas are considered.
+communicative intention: Because B believes in the fact that creating an inclusive environment is vital for team success, B would like to draw A’s attention to their focus on details and the value it can add to the team's efforts.
+
+So B would utter like that:
+B: "Thanks, A. I'd like to offer my skills in observation and providing feedback to help ensure everyone's ideas are considered. I believe my focus on details can aid in creating an environment where every contribution is genuinely valued and incorporated."

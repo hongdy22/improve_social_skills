@@ -1,0 +1,271 @@
+Round 0:
+all scripts A: 
+A: So, I've been looking over some numbers and health stats for the family, and I really think we could make some thoughtful changes that could lead to an easier and healthier lifestyle. Have you all considered setting aside a bit more for long-term savings this year? I know it might seem like I'm harping on it, but I just want to make sure we're all set for the future.
+
+all scripts B: 
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A is suggesting the family make changes to their lifestyle and savings habits for a healthier and more financially secure future.  
+implicature: Because B believes in the fact that B has carefully managed personal finances and made thoughtful lifestyle choices independently, in A’s last utterance, B gets the implicature that A might not recognize B's personal judgment and responsibility in handling these aspects.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that B has effectively managed personal finances, B would like to inform A of the stability and success of B's current plan.  
+communicative intention: Because B believes in the fact that B is capable of making sound financial and lifestyle decisions, B would like to draw A’s attention to this independence and reassure them that B's way aligns with long-term goals.  
+
+So B would utter like that:  
+B: Well, it's always good to think ahead, and I promise I've crunched my own numbers too; my savings plan might not be conventional, but it suits my goals and lifestyle perfectly. And hey, isn't there a study that suggests humor's good for the heart? Maybe we should schedule more family dinners—great for health and happiness!
+
+Round 1:
+all scripts of A: 
+Round 1:
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B acknowledges the importance of thinking ahead and balancing it with their own personal goals for savings and lifestyle.
+implicature: Because A believes in the fact that economic stability is crucial for long-term well-being, in B’s last utterance, A gets the implicature that B might be prioritizing immediate lifestyle preferences over future security.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that financial planning is essential for future stability, A would like to inform B of the importance of adjusting their savings approach to protect against unforeseen circumstances.
+communicative intention: Because A believes in the fact that both health and financial stability are important, A would like to draw B’s attention to creating a more balanced approach that doesn’t sacrifice long-term security for short-term enjoyment.
+
+So A would utter like that: 
+A: I completely see where you're coming from, and I love the idea of more family dinners! They're such a joy for all of us. But you know, while humor and happiness keep us going, having a bit more tucked away could really ease some future stresses. Maybe we could look at a plan that balances both approaches? It’s just something to consider so that we’re not caught off guard later on.
+
+all scripts of B: 
+Analysis A’s last utterance:
+Explicature: In A’s last utterance, B gets the explicature that A is concerned about the family's financial and health future and is suggesting more long-term savings as a means to prepare for it.
+Implicature: Because B believes in the fact that B has an adequate savings plan and prioritizes personal lifestyle choices, in A’s last utterance, B gets the implicature that A is subtly suggesting B should reconsider or adjust their financial strategies to align more closely with A's traditional viewpoint on savings.
+
+Plan B’s next utterance:
+Informative intention: Because B believes in the fact that B's current savings plan is effectively aligned with B's lifestyle and future goals, B would like to inform A of B's confidence in their own financial decisions.
+Communicative intention: Because B believes in the fact that humor and happiness contribute to a healthy life, B would like to draw A’s attention to the idea that well-being can also be nurtured through joyful experiences, not just financial precautions.
+
+B: I appreciate the concern, and I can assure you I'm on top of my game with my finances—and my jokes! Have you heard about the latest trend? Apparently, laughter's the new form of savings. Do you think my comedic timing can save us a few bucks on interest rates?
+
+Round 2:
+all scripts of A: 
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B is joking about using laughter as a savings strategy while also implying confidence in their financial management.
+implicature: Because A believes in the fact that having a solid financial plan is important for future security, in B’s last utterance, A gets implicature that B may not be taking the idea of traditional savings and financial planning as seriously as A would like.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that traditional savings are crucial for long-term security, A would like to inform B of the importance of blending humor with pragmatic financial strategies.
+communicative intention: Because A believes in the fact that having a solid financial plan is important for future security, A would like to draw B’s attention to considering a balance between enjoying life and ensuring long-term financial health.
+
+So A would utter like that:
+A: I love your sense of humor, really I do, and laughter is so important to keep us all sane! But, you know, maybe there’s a way to incorporate your creative approach with a bit of more traditional planning. It’s all about balance, right? Maybe we can brainstorm ways to keep things light yet secure?
+
+all scripts of B: 
+Round 2:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A appreciates the idea of family dinners but also emphasizes the importance of financial security and planning for the future.
+implicature: Because B believes in the fact that B is effectively managing his/her own finances and has carefully considered his/her long-term goals, in A’s last utterance, B gets the implicature that A is concerned about potential unforeseen financial issues and seeks assurance that plans are in place to handle them.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that careful planning and personal financial management are key, B would like to inform A of B’s confidence in handling future financial needs without deviating from the current plan.
+communicative intention: Because B believes in the fact that humor and connection are important, B would like to draw A’s attention to the importance of maintaining a balance without undue worry.
+
+B: Absolutely, balancing is important. I promise my planning includes some rainy-day provisions. Perhaps, as a backup, we should consider investing in a good joke book just in case the markets take a turn. What do you say, should we diversify our humor portfolio too?
+
+Round 3:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A gets the explicature that B is acknowledging the importance of balance between humor and practical financial planning.  
+implicature: Because A believes in the fact that securing finances is crucial for future stability, in B’s last utterance, A gets the implicature that B might still benefit from integrating more traditional financial strategies.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that a diversified approach to finances can provide stability, A would like to inform B of the potential long-term benefits.  
+communicative intention: Because A believes in the fact that humor and practical strategies can coexist, A would like to draw B’s attention to creatively merging both for future security.  
+
+So A would utter like that:  
+A: I absolutely adore the idea of a humor portfolio; it's such a creative concept! And, you know, just like with humor, I think there’s value in having a backup plan in place. Maybe we can both look at how laughter and a few well-placed investments can work together harmoniously. What do you think our first move should be—finding that joke book or setting up a time to chat about some promising financial trends?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is suggesting combining B's creative approach with traditional planning methods to find a balanced strategy for financial security.
+implicature: Because B believes in the fact that humor and a personalized financial strategy have been effective so far, in A’s last utterance, B gets the implicature that A is concerned B might not be fully prepared for unexpected future challenges.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that humor and an individualized approach have been working well, B would like to inform A of B's commitment to being prepared for future uncertainties in a way that suits B's lifestyle.
+communicative intention: Because B believes in the fact that personal judgment and creativity can coexist with traditional methods, B would like to draw A’s attention to the idea that there are multiple ways to achieve security and happiness simultaneously.
+
+So B would utter like that: 
+B: Let’s definitely brainstorm together—I’m all for mixing a bit of old and new school planning! Plus, I’m never too far from some good sense when needed; maybe our next family dinner can include a session on how to blend in a few ‘traditional’ jokes with our fiscal strategy.
+
+Round 4:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance A gets explicature that B is open to blending traditional financial strategies with his/her humorous approach.  
+implicature: Because A believes in the fact that having a balanced strategy provides security, in B’s last utterance, A gets the implicature that B acknowledges the value of a structured plan and humor working together for future stability.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that structure and flexibility can yield benefits, A would like to inform B of the importance of taking proactive steps now to ensure a comfortable future.  
+communicative intention: Because A believes in the fact that integrating humor and planning can be advantageous, A would like to draw B’s attention to how merging these approaches can make taking these steps enjoyable and effective.  
+
+So A would utter like that:  
+A: That sounds like a fantastic idea! Mixing the old-school wisdom with new-age humor might be just what we need. Let’s set up a time for that next family dinner and see how we can weave laughter into some practical plans. Creating a future plan while enjoying ourselves could turn into quite an event, don’t you think?
+
+all scripts of B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is suggesting a combined approach to include both humor and financial planning in a balanced way, asking what the next concrete step should be.
+implicature: Because B believes in the fact that humor is a valuable asset, in A’s last utterance, B gets the implicature that A is open to finding an innovative way to combine laughter and traditional planning.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that humor and planning can coexist, B would like to inform A of the importance of maintaining a light-hearted approach while discussing finances.
+communicative intention: Because B believes in the fact that humor and planning can coexist, B would like to draw A’s attention to the possibility of keeping discussions enjoyable and productive.
+
+B: Why not start with a dual approach? We can scout for the latest in financial trends and pair that with researching top-notch joke books. I believe in having a solid backup—whether in jokes or investments. Let's aim for a plan that keeps us both financially and humorously secure!
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is suggesting a dual approach where both financial trends and humor play significant roles in future planning.
+implicature: Because A believes in the fact that a well-rounded strategy can secure the future, in B’s last utterance, A gets the implicature that B is open to exploring both investment options and humor to achieve that balance.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that combining financial savviness with a touch of humor can create a fulfilling and secure future, A would like to inform B of the potential benefits of integrating both approaches.
+communicative intention: Because A believes in the fact that thoughtful planning can ease future stress, A would like to draw B’s attention to the significance of starting this dual approach soon.
+
+So A would utter like that:
+A: I think you’re onto something with this dual approach! By staying informed about financial trends while also nurturing our sense of humor, we can create a well-rounded strategy that serves us well. Let’s make it a priority to start exploring both areas—I’m excited to see how this can benefit us all!
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about combining traditional wisdom with humor and wants to set up a family dinner to plan together.
+implicature: Because B believes in the fact that humor and personal planning can coexist effectively, in A’s last utterance, B gets the implicature that A is suggesting a collaboration that respects both A's and B's styles.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that planning can be both practical and enjoyable, B would like to inform A of the feasibility of a dual approach that includes humor and financial security.
+communicative intention: Because B believes in the fact that balanced planning can be achieved with a mix of humor and tradition, B would like to draw A’s attention to the joy of creating a harmonious plan together.
+
+So B would utter like that:
+B: I think setting the stage for this unique blend of planning could indeed be an event in itself. Let’s find a date and enjoy the process while ensuring our future is bright and filled with laughter. How about we start by compiling everyone’s favorite jokes as a prelude to our financial talks?
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is interested in blending humor with financial planning and suggests starting with compiling favorite jokes as part of that process.
+implicature: Because A believes in the fact that humor brings people together and financial stability is crucial, in B’s last utterance, A gets the implicature that B is open to combining both aspects and making an enjoyable event out of it.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that careful financial planning is essential for long-term security, A would like to inform B of the importance of starting these discussions sooner rather than later.
+communicative intention: Because A believes in the fact that humor contributes to a better quality of life, A would like to draw B’s attention to how combining humor with planning might make the process more enjoyable for everyone.
+
+So A would utter like that:
+A: I love this idea of starting with everyone's favorite jokes—it really sets a positive tone! Let's make sure we pick a date soon so we can start blending humor with our planning discussions. Laughter will make this process much more enjoyable and keep us motivated to secure a bright future.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A is supportive of combining humor with financial planning and is eagerly anticipating the benefit of this approach.  
+implicature: Because B believes in the fact that a balanced approach can lead to well-being and security, the implicature in A’s last utterance is that A values both financial acumen and the joy of laughter in family planning.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that humor and careful planning are both beneficial, B would like to inform A of the intention to move forward with this creative approach.  
+communicative intention: Because B believes in the fact that the family should enjoy the planning process, B would like to draw A’s attention to the idea of beginning with humor to set a positive tone.  
+
+So B would utter like that:  
+B: Fantastic! I agree, starting with everyone’s favorite jokes is a great way to kick off our planning discussions. It’ll set the perfect tone for blending humor and wisdom as we explore new financial strategies together. Let’s make this an ongoing tradition that enriches our lives in more ways than one!
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is eager to incorporate humor into their financial planning and is excited about making this blending of humor and wisdom an ongoing tradition.
+implicature: Because A believes in the fact that a stable financial plan is essential for long-term security, in B’s last utterance, A gets the implicature that B values a more balanced approach to future planning but still sees the importance of maintaining an enjoyable process.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that a structured financial strategy supports family well-being, A would like to inform B of the potential benefits of setting specific goals during their ongoing gatherings.  
+communicative intention: Because A believes in the fact that planning should be both practical and enjoyable, A would like to draw B’s attention to the potential effectiveness of setting clear, actionable steps while keeping the meetings lighthearted.
+
+So A would utter like that:
+A: I’m really thrilled about this ongoing tradition idea! I think we can truly benefit from combining humor with clear, actionable goals during our meetings. Let’s make sure we not only share some laughs but also leave each gathering with a step forward towards our future security. What do you think about setting small, achievable goals at the end of each dinner?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets the explicature that A is proposing to set a positive and engaging tone for future planning discussions by starting with everyone’s favorite jokes and is keen on establishing a tradition that merges humor with financial planning.
+
+implicature: Because B believes in the fact that humor effectively alleviates tension and enhances engagement, in A’s last utterance, B gets the implicature that A is genuinely interested in making planning a collaborative and enjoyable activity.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that humor provides a refreshing perspective, B would like to inform A of the benefit laughter brings in maintaining a positive outlook during planning.
+
+communicatie intention: Because B believes in the fact that humor breaks monotony and adds energy, B would like to draw A’s attention to the effectiveness of integrating humor into serious discussions.
+
+So B would utter like that: 
+
+B: I completely agree—starting with laughter will undoubtedly boost our spirits and creative thinking as we dive into financial strategies. Let's prioritize this joyful tradition and watch it not only enrich our discussions but also strengthen our bonds.
+
+Round 8:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B agrees on the importance of beginning discussions with laughter to foster good spirits and creative thinking as they explore financial strategies.
+implicature: Because A believes in the fact that structured planning leads to security, in B’s last utterance, A interprets that B values the integration of tradition and bonding into their financial discussions.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that structured planning leads to security, A would like to inform B of the potential benefits of setting incremental goals to assess progress.
+communicative intention: Because A believes in the fact that structured planning leads to security, A would like to draw B’s attention to the importance of consistency in achieving desired outcomes.
+
+So A would utter like that:
+A: I’m so glad you’re on board with keeping spirits high as we dive into our strategies. By setting small, achievable goals at each dinner, we’ll not only nurture our tradition but also steadily secure our financial plans and strengthen our family bond along the way.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about combining humor with practical goal-setting during family dinners to move towards future security.
+
+implicature: Because B believes in the fact that balancing humor with practicality leads to better outcomes, in A’s last utterance, B gets the implicature that A also values a structured approach to achieving future goals.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that setting small, achievable goals is effective, B would like to inform A of the importance of maintaining balance in planning sessions.
+
+communicative intention: Because B believes in the fact that humor enhances practical discussions, B would like to draw A’s attention to the joy and unity that these meetings can foster.
+
+So B would utter like that:
+
+B: Absolutely, setting small, achievable goals is a strategic way to ensure progress while having fun—and I fully support integrating laughter into this process. Let’s keep our meetings delightful and productive, cultivating both joy and security as we move forward!
+
+Round 9:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B supports integrating humor and strategy to ensure progress and security while having fun.  
+implicature: Because A believes in the fact that small, achievable goals can lead to steady progress, in B’s last utterance, A gets implicature that B is committed to fostering both joy and security in their meetings.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that setting clear goals can guide progress effectively, A would like to inform B of the potential benefits of this approach.  
+communicative intention: Because A believes in the fact that steady progress is crucial, A would like to draw B’s attention to the importance of maintaining this balance in planning for the future.  
+
+So A would utter like that:  
+A: I’m really encouraged by your enthusiasm for this approach! By keeping the tone light and setting clear goals, we ensure our meetings are both joyful and purposeful. Let’s prioritize this balance so we can confidently work toward a secure and enjoyable future together.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about maintaining the momentum of integrating humor with financial planning while emphasizing the importance of setting achievable goals.
+implicature: Because B believes in the fact that mixing humor with planning creates a balanced approach, in A’s last utterance, B gets the implicature that A values the balance between joy and security.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that small steps lead to meaningful progress, B would like to inform A of the importance of committing to this strategy.
+communicative intention: Because B believes in the fact that integrating humor can ease planning stress, B would like to draw A’s attention to the joy these gatherings can bring.
+
+B: I’m wholeheartedly in favor of combining laughter with these steps forward—it’s amazing how a light-hearted approach can actually pave the way for substantial achievements. Let’s keep our strategy as lively and rewarding as our jokes!

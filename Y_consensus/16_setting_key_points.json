@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Polite and considerate, A is an avid reader and respects the protocol of such events."
+    },
+    {
+      "field": "behavior",
+      "point": "Engages in a calm discussion with B about the best way to approach the author's table in an orderly fashion, ensuring that the event runs smoothly for everyone."
+    },
+    {
+      "field": "goal",
+      "point": "To receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue."
+    },
+    {
+      "field": "information",
+      "point": "A is a regular at literary events and understands the importance of following the event's guidelines to ensure a positive experience for all attendees."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Curious and a bit nervous, B is attending their first book signing and wants to make sure they do everything correctly."
+    },
+    {
+      "field": "behavior",
+      "point": "Listens to A's suggestions and asks questions about the etiquette of book signings, wanting to ensure they do not cause any inconvenience."
+    },
+    {
+      "field": "goal",
+      "point": "To successfully get their book signed without any embarrassment and to learn from A's experience at such events."
+    },
+    {
+      "field": "information",
+      "point": "B is a huge fan of the author and is both excited and anxious about the prospect of meeting them in person."
+    }
+  ]
+}

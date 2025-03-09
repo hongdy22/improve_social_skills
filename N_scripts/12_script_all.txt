@@ -1,0 +1,71 @@
+Round 0:
+all scripts A: 
+A: Hey, I've been swamped with projects at work lately, but I'm hoping things will slow down soon. How's your day going?
+
+all scripts B: 
+B: My day's been pretty good, just getting lost in some thought about how birthdays always seem to sneak up on us, reminding me of cherished memories from last year. Do you remember how we celebrated?
+
+Round 1:
+all scripts of A: 
+A: Yeah, last year's celebration was really nice. I know I've been buried in work recently, but I'm hoping we can find some time to relax and enjoy each other's company soon. What other memories have been on your mind lately?
+
+all scripts of B: 
+A: Oh yes, last year was quite fun. It's crazy how fast time flies, isn't it? What's got you reminiscing today?
+
+B: I've just been enjoying the festive atmosphere of our home and thinking how birthdays have this special way of marking time—it’s like they’re little milestones to cherish, don't you think?
+
+Round 2:
+all scripts of A: 
+A: Absolutely, birthdays do have a special way of marking milestones and creating treasured memories. I really appreciate how you've created such a warm and festive atmosphere in our home. It feels great to come back to after a long day.
+
+all scripts of B: 
+B: They definitely are special milestones. I was just thinking how a birthday is more than just another day—it's like an opportunity to pause and celebrate in meaningful ways. Our place would be perfect for a cozy little get-together or something like that, wouldn't it?
+
+Round 3:
+all scripts of A: 
+A: It definitely would be a great place for a cozy get-together. I love the idea of celebrating in a meaningful way and creating more special memories together, even just the two of us. Let's plan something soon when my schedule lightens up a bit.
+
+all scripts of B: 
+B: Exactly, it would be such a nice way to slow down and capture those moments that mean the most. With the house all festive, it's almost like it's inviting us to create new memories. Plus, that kitchen of ours seems perfectly set for baking something special, don't you think?
+
+Round 4:
+all scripts of A: 
+A: Absolutely, the kitchen is ideal for baking something special together. Once things settle down at work, let's pick a day and make it extra meaningful. I really appreciate how much thought you put into creating a cozy atmosphere—it makes all the difference.
+
+all scripts of B: 
+B: Absolutely, the kitchen does seem perfect for baking something special. You know, there's nothing quite like the smell of a freshly baked cake filling the air to make a day feel celebratory, wouldn't you agree?
+
+Round 5:
+all scripts of A: 
+A: I couldn't agree more, there's something about the scent of a freshly baked cake that makes everything feel special. It sounds perfect—let's find a day soon to make that happen.
+
+all scripts of B: 
+B: Definitely, there's something so delightful about the aroma of a homemade cake wafting through our cozy home. It's like it signals a time for joy and appreciation. I'm really looking forward to creating memories like that with you soon.
+
+Round 6:
+all scripts of A: 
+A: I'm looking forward to it too. It'll be nice to have something to look forward to together. I'll check my schedule and see when we can plan for it, hopefully sooner rather than later.
+
+all scripts of B: 
+B: It sounds wonderful, doesn't it? Just imagining us celebrating with a homemade cake and pausing to appreciate the little moments together makes me feel warm inside. Maybe we could even pick a special day soon to do just that, and really savor the time we spend together.
+
+Round 7:
+all scripts of A: 
+A: That sounds perfect. I'll take a closer look at my schedule tonight and see when we can set aside a special day just for us. It’s going to be great to pause and really enjoy the little moments together.
+
+all scripts of B: 
+B: I love the idea of picking a special day soon. It would be wonderful to carve out time just for us, maybe when the calendar aligns perfectly with a meaningful occasion—perhaps like a birthday. Wouldn't that be a lovely way to celebrate and cherish our time together?
+
+Round 8:
+all scripts of A: 
+A: Absolutely, that sounds like a lovely idea. I’ll make sure to check the calendar closely so we can align it with a meaningful occasion. It's wonderful to have something special to anticipate with you.
+
+all scripts of B: 
+B: It truly would be a lovely coincidence to celebrate on a special occasion like a birthday, blending our memories with the present moment. I'm sure it would make that day even more meaningful to us.
+
+Round 9:
+all scripts of A: 
+A: It would indeed be a lovely coincidence to celebrate on a special occasion like that. I'll make sure to cross-check my schedule so we don't miss it. I'm really looking forward to creating new memories together with you.
+
+all scripts of B: 
+B: Absolutely, weaving our memories with a special occasion like a birthday would definitely make the day even more memorable for us. I just love how those kinds of celebrations bring an extra layer of warmth and connection.

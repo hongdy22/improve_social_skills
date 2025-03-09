@@ -1,0 +1,280 @@
+Round 0:
+all scripts A: 
+*A comes through the door, setting a bag down quietly, noticing the subdued atmosphere.*
+
+A: "Hey, I'm sorry I'm late again—work's been keeping me really busy lately."
+
+all scripts B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is apologizing for being late and attributing it to work being particularly demanding.  
+implicature: Because B believes in the fact that A’s constant overtimes might be affecting A’s mood and our relationship, in A’s last utterance, B gets implicature that A acknowledges there is a problem but isn't directly addressing how it's impacting us personally.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that the work changes might be the cause of A's low mood and this emotional distance, B would like to inform A of B's notice of a change in A's demeanor and our reduced time together.  
+communicative intention: Because B believes in the fact that A’s workload is influencing our relationship dynamics, B would like to draw A’s attention to how these work demands might be weighing on A and on us as a couple.  
+
+So B would utter like that:  
+B: "I’ve noticed you seem a bit down lately, and I miss our time together. Is everything okay at work, or is there something else on your mind?"
+
+Round 1:
+all scripts of A: 
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets explicature that B is concerned about A and has observed a change in A's mood and demeanor.
+implicature: Because A believes in the fact that B genuinely cares about their relationship and well-being, in B’s last utterance, A gets the implicature that B is looking for reassurance or an explanation regarding A's current state of mind and their situation at work.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that clear communication can help maintain harmony, A would like to inform B that work has been indeed stressful but nothing specific beyond that.
+communicative intention: Because A believes in the fact that sharing some basic information can ease B’s worry, A would like to draw B’s attention to A's acknowledgment of the situation.
+
+So A would utter like that:
+A: "Things are just a bit hectic with work right now, but there's nothing else going on. I really appreciate your concern, and I'm hoping it calms down soon."
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is apologetic about being late and attributes it to work demands.  
+implicature: Because B believes in the fact that work commitments have increased, in A’s last utterance, B gets the implicature that A may be feeling overwhelmed or stressed due to work.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that work might be affecting A's mood, B would like to inform A of B's concern about A's well-being.  
+communicative intention: Because B believes in the fact that A might be overwhelmed, B would like to draw A’s attention to how important their shared moments are and how much they're missed.  
+
+So B would utter like that:  
+B: "I can see work is really demanding right now, but I just want to make sure you're not too stressed. I've been missing our usual time together, and I hope we can find a way to bring a little bit of that back."
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets explicature that B is concerned about A's well-being and misses their time together.
+implicature: Because A believes in the fact that B values their shared moments, in B’s last utterance, A gets implicature that B wants reassurance and perhaps a plan to reconnect.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that B wants to feel reassured, A would like to inform B of a possibility for future quality time together.
+communicative intention: Because A believes in the fact that B misses their connection, A would like to draw B’s attention to a potential improvement in their situation soon.
+
+So A would utter like that: 
+A: "I really miss our time together too—I’m thinking maybe we can schedule a day off soon, just for us, to do something fun and reconnect."
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A acknowledges the busy workload and appreciates B's concern but doesn't seem to express any specific issue beyond work.  
+implicature: Because B believes in the fact that A is avoiding sharing deeper feelings, in A’s last utterance, B gets the implicature that A might be downplaying personal stress and might need more encouragement to open up about it.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A might be feeling overwhelmed and is downplaying stress, B would like to inform A of the impact of stress on well-being and the relationship.  
+communicative intention: Because B believes in the fact that A might be feeling overwhelmed, B would like to draw A’s attention to the importance of sharing feelings and finding ways to relieve stress together.  
+
+So B would utter like that:  
+B: "I understand, and I imagine it's really overwhelming for you. Just remember, it's okay to share when it feels too much. Maybe we could plan a relaxing evening this week, just the two of us, to unwind a bit and reconnect?"
+
+Round 3:
+all scripts of A: 
+Analysis B’s last utterance:  
+Explicature: In B’s last utterance, A gets the explicature that B is trying to be supportive and wants to ensure A feels comfortable sharing struggles related to work and maintains their connection.  
+Implicature: Because A believes in the fact that B genuinely cares about their well-being and relationship, in B’s last utterance, A gets the implicature that B is seeking reassurance that they are still close and connected as partners.  
+
+Plan A’s next utterance:  
+Informative intention: Because A believes in the fact that spending dedicated time together can help ease the tension, A would like to inform B of their interest in planning a relaxing evening this week.  
+Communicative intention: Because A believes in the fact that understanding and support can strengthen their bond, A would like to draw B’s attention to their appreciation for B’s support and the idea of sharing concerns.
+
+So A would utter like that:  
+A: "That sounds like a wonderful idea. I really appreciate your understanding and support. Let’s definitely plan a relaxing evening together this week—I think it’ll do us both a lot of good."
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A also misses spending time together and is open to scheduling time for them to reconnect.
+implicature: Because B believes in the fact that A has been working excessively and it's affecting their mood, in A’s last utterance, B gets the implicature that A might be feeling guilty or burdened by the lack of time spent together.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A may be feeling overwhelmed and guilty for not being present, B would like to inform A of the importance of finding balance together.
+communicative intention: Because B believes in the fact that A is open to planning time together, B would like to draw A’s attention to the idea that they can still enjoy the small moments they have during the week.
+
+So B would utter like that:
+B: "I think that's a wonderful idea. In the meantime, let's try to capture some of those moments during the week, even if it's just a quiet dinner or a short walk. It could help to lift your spirits, and I’m always here to listen if you need to talk about how things are going."
+
+Round 4:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B is suggesting they make time for each other during the week with small moments, such as a quiet dinner or a short walk.
+
+implicature: Because A believes in the fact that B is concerned about their well-being and the importance of maintaining their connection, in B’s last utterance, A gets the implicature that B is trying to find ways to support A and keep their relationship strong amidst the changes.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that these small moments could indeed provide relief and keep their connection alive, A would like to inform B of their willingness to participate in these activities.
+
+communicative intention: Because A believes in the fact that maintaining their connection is important and wants to provide reassurance, A would like to draw B’s attention to their commitment to making time for these small moments.
+
+So A would utter like that: 
+
+A: "I really like the idea of sharing those small moments during the week. Let's definitely try to have a quiet dinner or go for a short walk when we can—your support means a lot to me."
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A appreciates B’s understanding and is looking forward to planning a relaxing evening together this week.  
+implicature: Because B believes in the fact that A is affected by work stress at the moment, in A’s last utterance, B gets the implicature that A is seeking a bit of relief and values B’s support in creating moments of relaxation and connection.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A is finding their workload overwhelming, B would like to inform A of the idea that small positive moments during the week can make a difference.  
+communicative intention: Because B believes in the fact that A is affected by work stress, B would like to draw A’s attention to the importance of maintaining little moments of joy amidst their busy schedules.  
+
+So B would utter like that:  
+B: "Absolutely, I’m really looking forward to our relaxing evening too. Let’s try to find joy in the small moments during the week, like maybe cooking together or watching something we both enjoy. It might make our days feel a bit brighter, and I’m always here if you feel like talking more about your day."
+
+Round 5:
+all scripts of A: 
+A's Turn:
+
+Analysis of B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is eager to find ways to enjoy their time together and support A’s well-being amidst the current busy schedule.
+implicature: Because A believes in the fact that B cares deeply about their relationship, in B’s last utterance, A gets the implicature that B is trying to create opportunities for connection and is open to being a supportive partner.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that small activities can strengthen their bond, A would like to inform B of their openness to these suggestions.
+communicative intention: Because A believes in the fact that shared activities can bring them closer, A would like to draw B’s attention to their appreciation for B's ongoing support and willingness to engage in shared activities.
+
+So A would utter like that:
+A: "I really appreciate it, and I’m more than happy to try those small activities with you like cooking or watching something—it’ll definitely make things feel brighter."
+
+all scripts of B: 
+Round 5:  
+B's Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A values the idea of sharing small moments and appreciates B's support.  
+implicature: Because B believes in the fact that A is feeling overwhelmed by work yet desires to reconnect, in A's last utterance, B gets the implicature that A is open to making more effort to share small moments together to uplift their spirits.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that small shared moments can help alleviate some of A's stress, B would like to inform A of how valuable these moments are for their relationship.  
+communicative intention: Because B believes in the fact that creating these small moments can positively impact A’s mood, B would like to draw A’s attention to their potential benefits.  
+
+So B would utter like that:  
+B: "I'm glad you feel that way. Let's cherish those small moments and make them count as much as we can—they can really make a difference and remind us of happier times together."
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B wants to focus on cherishing small moments together, believing they can positively impact their relationship.  
+implicature: Because A believes in the fact that maintaining a strong connection is important even amidst a busy schedule, in B’s last utterance, A gets the implicature that B values these moments and wants to strengthen their relationship.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that these small activities can help mitigate stress and improve their bond, A would like to inform B of their willingness to make an effort in preserving these moments.  
+communicative intention: Because A believes in the fact that emotional support is crucial during busy and demanding times, A would like to draw B’s attention to the importance of these moments and assure B of mutual effort and appreciation.  
+
+So A would utter like that:  
+A: "I completely agree, and I promise to make an effort to cherish those moments with you. Your support truly helps, and I’m hopeful these small joys will strengthen our bond even more."
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is open to trying small activities together like cooking or watching something to make things feel brighter.
+implicature: Because B believes in the fact that shared activities can improve their connection, in A’s last utterance, B gets implicature that A values finding happiness together in simple ways.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that shared small activities can help strengthen their bond, B would like to inform A of the importance of cherishing those moments.
+communicative intention: Because B believes in the fact that their shared connection is crucial, B would like to draw A’s attention to the joy these small moments can bring to their daily lives.
+
+So B would utter like that:
+B: "Yes, those small activities can bring us so much closer. I’m hopeful they can remind us how much we enjoy being in each other's company, even with the little things."
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance A gets the explicature that B values the small activities that bring them closer and is hopeful they will remind both of them how much they enjoy each other's company.
+
+implicature: Because A believes in the fact that B genuinely cherishes their relationship, in B’s last utterance, A gets the implicature that B is looking for reassurance and commitment to making time for each other.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that B values their time together, A would like to inform B of their shared commitment to nurturing their bond through small daily activities.
+
+communicative intention: Because A believes in the fact that B is hopeful about the positive impact of these activities, A would like to draw B’s attention to A’s own willingness to make these moments meaningful.
+
+So A would utter like that: "I’m dedicated to making our daily moments meaningful, and I’m grateful for how much they enhance our connection."
+
+A: "I’m dedicated to making our daily moments meaningful, and I’m grateful for how much they enhance our connection."
+
+all scripts of B: 
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance, B gets explicature that A is committed to cherishing small moments together and values B's support, believing it will strengthen their bond.
+
+implicature: Because B believes in the fact that A is genuinely trying to navigate the stress of work, in A’s last utterance, B gets implicature that A is hopeful and sees potential in the small activities proposed to rekindle their connection.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that small gestures can strengthen their relationship, B would like to inform A of the importance B places on these shared moments.
+
+communicative intention: Because B believes in the fact that these small moments can significantly improve their connection, B would like to draw A’s attention to how meaningful these shared activities are to maintaining their bond and nurturing their happiness.
+
+So B would utter like that:
+
+B: "I'm really happy to hear you feel that way. These small gestures and moments truly do have the power to reinforce our connection and bring us joy amidst everything else. I'm right here with you, and we'll get through this time together, stronger."
+
+Round 8:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B feels reassured by the mutual understanding and values the small gestures and moments that bring joy and strengthen their connection.  
+implicature: Because A believes in the fact that B is committed to their relationship and finding joy in the midst of busyness, in B’s last utterance, A gets implicature that B is optimistic about their shared journey and wants to nurture their relationship as they navigate this busy period together.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that these small gestures and moments can truly reinforce their connection and bring joy, A would like to inform B of their commitment to making their relationship a priority.  
+communicative intention: Because A believes in the fact that moments of joy and connection are essential during busy times, A would like to draw B’s attention to their shared dedication to getting through this time together stronger.  
+
+So A would utter like that:  
+A: "I’m deeply committed to prioritizing our relationship and finding joy in the small moments, just as you are. Having you by my side makes this journey so much easier, and I’m grateful for your optimism and support as we navigate this busy time together."
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+Explicature: In A’s last utterance, B gets the explicature that A is committed to enhancing their connection by valuing the daily moments they share together.  
+Implicature: Because B believes in the fact that A also yearns for companionship and values their relationship, in A’s last utterance, B gets the implicature that A seeks reassurance that their efforts are meaningful and appreciated.  
+
+Plan B’s next utterance:  
+Informative intention: Because B believes in the fact that nurturing their relationship is essential, B would like to inform A of how much these shared moments mean to B and how they help maintain their bond.  
+Communicative intention: Because B believes in the fact that these moments strengthen their relationship, B would like to draw A’s attention to the positive impact their efforts have on their connection.  
+
+So B would utter like that:  
+B: "The effort you’re putting into cherishing these moments with me means a great deal, and they truly have a positive impact on our connection. It’s wonderful to deepen our bond this way, and I’m incredibly grateful for your dedication."
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B values the effort A is putting into cherishing moments together and feels that it positively impacts their connection.  
+implicature: Because A believes in the fact that B is appreciative of the efforts, in B’s last utterance, A gets the implicature that B feels hopeful and optimistic about their relationship growing stronger despite current challenges.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that small moments of togetherness have a significant impact, A would like to inform B of the importance A places on these moments.  
+communicative intention: Because A believes in the fact that expressing gratitude deepens connection, A would like to draw B’s attention to how much B’s appreciation means to A.  
+
+So A would utter like that:  
+A: "I’m truly touched by how much our little moments mean to you, and it makes me even more committed to embracing them. Your appreciation gives me strength and hope for our journey together."
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A is committed to making their relationship a priority and appreciates B's support and optimism during this busy time.
+implicature: Because B believes in the fact that small moments can enhance their connection, in A’s last utterance, B gets the implicature that A values these moments and the effort invested in nurturing their relationship.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that small moments can enhance their relationship, B would like to inform A of how much this commitment means.
+communicative intention: Because B believes in the fact that small moments can enhance their relationship, B would like to draw A’s attention to the joy these efforts bring.
+So B would utter like that:
+B: "Your commitment to finding joy in the small moments means so much to me, and it's evident how much stronger it makes our bond. I truly appreciate us working together like this to prioritize what’s important."

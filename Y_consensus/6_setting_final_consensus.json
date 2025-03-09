@@ -1,60 +1,39 @@
 {
-  "total_points": 8,
+  "total_points": 5,
   "matched_points": [
     {
-      "field": "character",
-      "point": "Extroverted and socially active, but sometimes appears neglectful in intimate relationships.",
-      "discovered": true,
-      "round": 2,
-      "side": "A"
-    },
-    {
       "field": "behavior",
-      "point": "Explains his/her late return due to the gathering in a casual tone, attempting to ease tension with a gentle attitude.",
+      "point": "Engages in open-ended questioning to understand each family member's perspective, trying to uncover the underlying motivations and interests behind their stated positions.",
       "discovered": true,
-      "round": 1,
+      "round": 8,
       "side": "A"
     },
     {
       "field": "goal",
-      "point": "Hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake.",
-      "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A is aware that frequent social engagements recently have objectively led to reduced interaction with B.",
-      "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "character",
-      "point": "Reserved and sensitive, desiring more attention without appearing overly dependent.",
-      "discovered": true,
-      "round": 2,
-      "side": "B"
-    },
-    {
-      "field": "behavior",
-      "point": "Expresses feelings subtly and uses gentle questions to hint at personal loss during conversations, remaining polite and restrained.",
-      "discovered": true,
-      "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "goal",
-      "point": "Hopes that A will proactively show attention to alleviate the loneliness and restore warm interaction between them.",
-      "discovered": true,
-      "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "information",
-      "point": "B has repeatedly experienced loneliness due to A's absence and objectively hopes to improve the situation through conversation.",
+      "point": "To facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members.",
       "discovered": true,
       "round": 3,
+      "side": "A"
+    },
+    {
+      "field": "character",
+      "point": "Guarded and strategic, motivated by personal interests in the dispute.",
+      "discovered": true,
+      "round": 3,
+      "side": "B"
+    },
+    {
+      "field": "behavior",
+      "point": "Gives carefully worded responses that may not fully reflect their true intentions, often shifting focus to the perceived injustices or needs of others to garner sympathy or support.",
+      "discovered": true,
+      "round": 3,
+      "side": "B"
+    },
+    {
+      "field": "goal",
+      "point": "To protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires.",
+      "discovered": true,
+      "round": 1,
       "side": "B"
     }
   ]

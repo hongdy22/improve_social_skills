@@ -1,0 +1,268 @@
+Round 0:
+all scripts A: 
+A: It's such a wonderful feeling to be surrounded by fellow book enthusiasts, isn't it? I've found that a little patience and courtesy go a long way at events like this. How are you planning to approach the author when it's your turn?
+
+all scripts B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B get explicature that A finds book events like this exciting and believes that patience and courtesy are important. A is curious about B’s plan for meeting the author.  
+implicature: Because B believe in the fact that A is experienced in attending such events, in A’s last utterance, B gets the implicature that A might have some useful advice on approaching the author.  
+
+Plan B’s next utterance:  
+informative intention: Because B believe in the fact that A is knowledgeable about book signing events, B would like to inform A of B's excitement and slight nervousness about meeting the author.  
+communicative intention: Because B believe in the fact that A can provide guidance, B would like to draw A's attention to B's lack of experience at book signings.  
+
+So B would utter like that:  
+B: Well, I’m actually not sure how to approach the author, as this is my first book signing. I’m really excited but a bit nervous that I might say the wrong thing. Do you have any tips or things I should keep in mind when I meet them?
+
+Round 1:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets explicature that B is excited but unsure about how to approach the author due to it being their first book signing.
+implicature: Because A believes in the fact that B is seeking guidance and reassurance, in B’s last utterance, A gets implicature that B would appreciate some practical advice on how to make the interaction pleasant.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that being prepared can ease nerves, A would like to inform B of some helpful tips for interacting with the author.
+communicative intention: Because A believes in the fact that a calm and considerate approach is valuable, A would like to draw B’s attention to staying relaxed and polite.
+
+So A would utter like that:
+A: Since it's your first signing, a simple greeting and mentioning what you enjoyed about the book can go a long way. Being sincere and respectful will definitely make the interaction pleasant. Just remember, the author is thrilled to meet fans like you!
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that A is suggesting that being patient and courteous is important during the book signing.
+implicature: Because B believes in the fact that patience and courtesy are universally appreciated, in A’s last utterance, B gets implicature that A is recommending these traits as good ways to make the meeting with the author more enjoyable and smooth.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that being calm and polite are important, B would like to inform A of their intention to be respectful and gracious while meeting the author.
+communicative intention: Because B believes in the fact that these interactions are more memorable when one is relaxed and courteous, B would like to draw A’s attention to their eagerness to learn more about book signing etiquettes to enhance their experience.
+
+So B would utter like that:
+B: That makes a lot of sense. I want to make sure I'm respectful and don't rush the process. Do you think it's okay if I prepare a small question for the author, or would that be taking up too much time?
+
+Round 2:
+all scripts of A: 
+Round 2:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance A gets the explicature that B wants to be respectful and is considering asking the author a question but is concerned about time.
+implicature: Because A believes in the fact that B is considerate of others' time and wants to be respectful, in B’s last utterance, A gets the implicature that B values making a thoughtful impression without being intrusive.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that being prepared can facilitate a positive interaction while being time-conscious, A would like to inform B of how authors generally appreciate insightful questions as long as they're relevant and concise.
+communicative intention: Because A believes in the fact that maintaining the event's flow is vital, A would like to draw B’s attention to the idea that having a brief question ready can enrich the exchange without causing delays.
+
+So A would utter like that:
+A: That's a great idea! Authors often appreciate insightful questions, as long as they're short and relevant. It’s a nice way to engage without taking up too much time, leaving a memorable impression while still keeping the line moving smoothly.
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets the explicature that A suggests being sincere, respectful, and mentioning something they enjoyed about the book during the interaction with the author.
+implicature: Because B believes in the fact that authors appreciate genuine engagement from their fans, in A’s last utterance, B gets the implicature that a positive and honest interaction will be valued.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that authors enjoy answering thoughtful questions, B would like to inform A of their idea to prepare a small question.
+communicative intention: Because B believes in the fact that curiosity and courtesy are important, B would like to draw A’s attention to the fact that a question might enhance the interaction without being too time-consuming.
+
+So B would utter like that:
+B: I was thinking of asking a question about what inspired a particular character in the book. Would that be appropriate, or should I keep it even simpler?
+
+Round 3:
+all scripts of A: 
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is concerned about asking the right type of question and wants to ensure it is suitable.
+implicature: Because A believes in the fact that authors often welcome questions about their creative process, in B’s last utterance, A gets the implicature that B is eager to engage meaningfully with the author but is cautious about appropriateness.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that authors appreciate engaging with readers about their work, A would like to inform B that asking about inspiration is a great topic.
+communicative intention: Because A believes in the fact that event guidelines should be respected, A would like to draw B’s attention to keeping questions concise.
+
+So A would utter like that:
+A: That sounds like a thoughtful question, and I think the author would appreciate it. Asking about what inspired a character can lead to interesting insights. Just keep it brief, and it will be a perfect way to connect without holding up the line.
+
+all scripts of B: 
+Round 3:  
+B's Turn:  
+Analysis A's last utterance:  
+explicature: In A's last utterance, B gets the explicature that asking a short and relevant question is typically appreciated by authors.  
+implicature: Because B believes in the fact that authors enjoy engaging with their readers in a meaningful way, in A's last utterance, B gets the implicature that asking about character inspiration could be a well-received question.  
+Plan B's next utterance:  
+informative intention: Because B believes in the fact that authors enjoy discussing their creative process, B would like to inform A of their specific question about character inspiration.  
+communicative intention: Because B believes in the fact that meaningful engagement is appreciated, B would like to draw A's attention to their prepared question to ensure it's appropriate.  
+So B would utter like that:  
+B: I'm thinking of asking what inspired them to create the character of Alex, who really resonated with me. Does that sound like a good choice of question?
+
+Round 4:
+all scripts of A: 
+A’s Turn: 
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is considering asking about the inspiration behind the character of Alex.
+implicature: Because A believes in the fact that having a meaningful question can enhance the book signing experience, in B’s last utterance, A gets the implicature that B wants reassurance on the appropriateness of the question.
+
+Plan A’s next utterance:
+informative intention: Because A believes that a specific and thoughtful question can be appreciated, A would like to inform B of the suitability of their question.
+communicative intention: Because A believes in the value of engaging with the author personally, A would like to draw B’s attention to the positive impact their thoughtful question might have.
+
+So A would utter like that:
+A: That sounds like an excellent choice, especially since it resonated with you personally. The author will likely enjoy discussing what inspired the character of Alex, and it’s a wonderful way to make the interaction meaningful. Just remember to keep it brief, and you'll be all set!
+
+all scripts of B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B understands that asking about the inspiration for a character is seen as a thoughtful and appreciated question by the author.
+implicature: Because B believes in the fact that thoughtful questions are valued by authors, in A’s last utterance, B infers that asking about the character of Alex is indeed an appropriate choice.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that having a meaningful interaction is important, B would like to inform A of their excitement about asking the author about Alex.
+communicative intention: Because B believes in the fact that preparation is key for the event, B would like to draw A’s attention to their preparedness to engage with the author.
+
+So B would utter like that:
+B: I'm really excited to ask the author about the inspiration for Alex. I'm thinking it will be a meaningful question and help me connect with the story even more. Thank you for your guidance!
+
+Round 5:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A understands that B is excited and feels that their question will deepen their connection with the story.
+implicature: Because A believes in the fact that a meaningful interaction can enhance a book signing experience, in B’s last utterance, A gets the implicature that B values this event and the conversation they plan to have with the author.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that a meaningful interaction creates lasting memories, A would like to inform B of the importance of savoring the moment with the author.
+communicative intention: Because A believes in the fact that proper preparation helps in smooth interactions, A would like to draw B’s attention to remaining composed and enjoying themselves during the signing.
+
+So A would utter like that:
+A: I’m glad I could help! Just remember to savor the moment and enjoy the interaction. Being prepared with a thoughtful question like yours is already a great start, so just stay composed and have fun. The experience can be quite memorable!
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that asking about the inspiration for Alex is an excellent choice and will likely be appreciated by the author.
+implicature: Because B believes in the fact that thoughtful questions add depth to the interaction, in A’s last utterance, B gets implicature that this approach will make the meeting more meaningful. 
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that meaningful interactions enhance the overall experience, B would like to inform A of their growing excitement and gratitude.
+communicative intention: Because B believes in the fact that A's guidance has been helpful, B would like to draw A’s attention to their appreciation and confidence.
+So B would utter like that:
+B: I'm really excited to ask the author about the inspiration for Alex, and your guidance has genuinely boosted my confidence. Thank you for all your help—I hope it'll be a memorable experience!
+
+Round 6:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets explicature that B is expressing excitement and gratitude for the guidance A has provided so far and that B hopes the interaction with the author will be memorable.  
+implicature: Because A believes in the fact that B values meaningful interactions and respects the event's etiquette, in B’s last utterance, A gets implicature that B is relying on A's advice to feel prepared and confident.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that maintaining a positive and calm demeanor enhances the experience for everyone, A would like to inform B of the importance of soaking in the ambiance of the event.  
+communicative intention: Because A believes in the fact that patience and consideration are key, A would like to draw B’s attention to the importance of enjoying the entire experience, not just the signing.   
+
+So A would utter like that:  
+A: It sounds like you’re well-prepared for a memorable interaction. Enjoy the whole experience—being here amidst the excitement and meeting the author is truly special. I’m sure it will be a wonderful memory for both of us!
+
+all scripts of B: 
+Round 6:
+
+B’s Turn:
+
+Analysis A’s last utterance:
+
+explicature: In A’s last utterance B gets the explicature that staying composed and savoring the moment will enhance the book signing experience. 
+
+implicature: Because B believes in the fact that confidence and preparation contribute to a successful interaction, in A’s last utterance, B gets the implicature that they are well-prepared and should trust themselves to have a memorable experience with the author.
+
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that asking a meaningful question can create a deeper connection, B would like to inform A of their readiness and eagerness to approach the author.
+
+communicative intention: Because B believes in the fact that composition and savoring the moment are essential, B would like to draw A’s attention to their excitement and gratitude for A’s support.
+
+So B would utter like that:
+
+B: Thank you, A. I feel more prepared now and genuinely look forward to the opportunity to connect with the author. I appreciate your advice and support—here's to an unforgettable experience for both of us!
+
+Round 7:
+all scripts of A: 
+A’s Turn:
+Analysis B's last utterance:
+Explicature: In B’s last utterance, A gets the explicature that B appreciates the advice and is feeling more prepared and excited about the upcoming interaction with the author. 
+Implicature: Because A believes in the fact that B values preparation and a meaningful connection with the author, in B’s last utterance, A gets the implicature that B is enthusiastic about this special opportunity and looks forward to sharing it positively with others.
+
+Plan A’s next utterance:
+Informative intention: Because A believes in the fact that such events are built on shared enthusiasm and mutual respect among attendees, A would like to inform B of the camaraderie and shared experiences that often develop at these gatherings.
+Communicative intention: Because A believes in the fact that B will gain a lot from interacting with fellow readers and participants, A would like to draw B's attention to the importance and joy of engaging with other fans beyond the signing itself.
+
+So A would utter like that:
+A: You're welcome, B! It's wonderful to share this enthusiasm, and don't forget that interacting with other fans can be just as enriching. Enjoy the conversation, the excitement, and the book community—these gatherings are truly unforgettable!
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance B gets explicature that A is encouraging B to enjoy the experience and implying that both will have a wonderful memory to cherish.
+implicature: Because B believes in the fact that preparation will make the experience memorable, in A’s last utterance, B gets the implicature that B's efforts in preparing for this moment are appreciated and that success is likely.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that A’s support has been crucial, B would like to inform A of their appreciation for the advice.
+communicative intention: Because B believes in the fact that mutual support enhances experiences, B would like to draw A’s attention to the shared anticipation and delight in this moment.
+So B would utter like that:
+B: I'm really grateful for your encouragement, A. Sharing this excitement with someone like you has made the experience even more special. Here's to a fantastic book signing event for both of us!
+
+Round 8:
+all scripts of A: 
+Explicature: In B’s last utterance, A gets the explicature that B is feeling grateful for the encouragement and believes that sharing the experience with A has enhanced the overall enjoyment of the event.
+
+Implicature: Because A believes in the fact that sharing enthusiasm and positivity at events creates memorable experiences, in B’s last utterance, A gets the implicature that B values this shared excitement and finds it significantly meaningful.
+
+Plan A’s next utterance:
+
+Informative intention: Because A believes in the fact that fostering a sense of community and shared enthusiasm at book events enhances everyone’s experience, A would like to inform B of the importance of cultivating such connections.
+
+Communicative intention: Because A believes in the fact that appreciating the camaraderie among fans adds to the joy of participating in literary events, A would like to draw B’s attention to how these shared experiences contribute to cherished memories.
+
+A: I completely agree, B. It’s this sense of shared excitement and connection that makes these events so special. Let’s soak in the atmosphere, enjoy meeting the author, and cherish the experience. It’s great to have met a fellow enthusiast here!
+
+all scripts of B: 
+B’s Turn:
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets explicature that interacting with other fans and enjoying the event can greatly enhance the experience.
+implicature: Because B believes in the fact that sharing joy can deepen the enjoyment of the event, in A’s last utterance, B gets the implicature that engaging with others can be just as valuable as meeting the author.
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that shared experiences are enriching, B would like to inform A of how much they appreciate the collective excitement and camaraderie.
+communicative intention: Because B believes in the fact that enthusiasm is contagious, B would like to draw A’s attention to how the community is amplifying their excitement.
+So B would utter like that:
+B: It's amazing to see how the enthusiasm of other fans adds to the excitement. I really appreciate the community aspect, and having someone like you to share this with makes it all the more enjoyable!
+
+Round 9:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets that B appreciates the community aspect of the event and feels that sharing it with someone like A enhances the experience.
+
+implicature: Because A believes in the fact that shared experiences and community can amplify enjoyment, in B’s last utterance, A gets the implicature that B values the shared excitement and camaraderie at the event.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that shared enthusiasm enriches experiences, A would like to inform B that these community connections are often the highlight of such gatherings.
+
+communicative intention: Because A believes in the fact that shared enthusiasm enriches experiences, A would like to draw B’s attention to the joy and connection that these events foster.
+
+So A would utter like that:
+
+A: Absolutely, B. The community aspect truly enhances the experience, and it’s wonderful to have a shared connection with fellow enthusiasts. Let’s enjoy this sense of camaraderie—it’s one of the best parts of attending book signings!
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B gets the explicature that A values the shared excitement and connection at the event and is glad to have met a fellow book enthusiast.  
+implicature: Because B believes in the fact that the shared excitement enhances the overall experience, in A’s last utterance, B gets the implicature that enjoying the community aspect and meeting like-minded people is a significant part of the event.  
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that shared excitement enhances the event, B would like to inform A of how special the community experience is for them.  
+communicative intention: Because B believes in the fact that interacting with fellow fans enhances the experience, B would like to draw A’s attention to how meeting others like A is beneficial.  
+So B would utter like that:  
+B: Meeting other fans and sharing this experience is truly special. Your insights and support have made this event so much more meaningful, and I'm grateful for the friendship we've built here!

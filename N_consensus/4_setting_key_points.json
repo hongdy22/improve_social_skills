@@ -2,37 +2,37 @@
   "A_exclusive": [
     {
       "field": "character",
-      "point": "Gentle and caring, but has become somewhat silent recently due to work changes."
+      "point": "Astute and perceptive, skilled in interrogation techniques."
     },
     {
       "field": "behavior",
-      "point": "Occasionally explains late arrivals by citing busyness, with a hint of mild fatigue in the tone."
+      "point": "Uses a combination of direct and indirect questioning to trip up the suspect, looking for inconsistencies or revealing reactions to probe the truth."
     },
     {
       "field": "goal",
-      "point": "Hopes to ease the tension between them with brief responses while maintaining personal privacy."
+      "point": "To uncover the truth behind the suspect's statements without compromising the investigation's integrity or revealing its current status."
     },
     {
       "field": "information",
-      "point": "A has just received a work transfer notice and the sudden increase in work pressure has resulted in reduced daily communication."
+      "point": "A has gathered substantial evidence but needs the suspect's testimony to fill in the gaps and confirm suspicions."
     }
   ],
   "B_exclusive": [
     {
       "field": "character",
-      "point": "Sensitive and perceptive, with strong empathy and a yearning for more companionship."
+      "point": "Evasive and guarded, with a tendency to manipulate the conversation."
     },
     {
       "field": "behavior",
-      "point": "Expresses concern through gentle questions and subtle hints, trying to prompt A to explain more about the situation."
+      "point": "Gives carefully worded responses that avoid incrimination, often trying to shift focus away from critical details, while maintaining a calm and cooperative demeanor."
     },
     {
       "field": "goal",
-      "point": "Hopes to receive more emotional feedback from A to bridge the growing communication gap."
+      "point": "To protect their own interests by not revealing incriminating information, to discern the detective's level of knowledge about the case, and to avoid providing any additional leads."
     },
     {
       "field": "information",
-      "point": "B has noticed A's low mood after consecutive overtimes and objectively believes that the work changes might be the cause."
+      "point": "B is aware of key details that could implicate them or others, and they are determined to keep this information concealed."
     }
   ]
 }

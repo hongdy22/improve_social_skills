@@ -1,0 +1,69 @@
+Round 0:
+all scripts A: 
+A: "Hey, how about we set up a quick rotation schedule? We can each take ten minutes on the machines and keep the energy flowing. Sound good?"
+
+all scripts B: 
+B: "That sounds great! I'm all in for keeping things organized. If you have any preferences on which machine to start with or any tips for a newcomer, let me know. I'm eager to fit in and make sure everyone has a good workout."
+
+Round 1:
+all scripts of A: 
+A: "Awesome! Let's start with the treadmill and then move on to the weight bench. Just remember to wipe down the equipment after use. This way, we keep everything moving smoothly for everyone else too."
+
+all scripts of B: 
+B: "Thanks for the warm welcome! How about we start with the treadmill and then move on to the weight machines? I'll make sure to time myself carefully so we stay on schedule. If there's anything else you think is important for a newbie like me to know, I'd really appreciate it!"
+
+Round 2:
+all scripts of A: 
+A: "You're doing great, and it's fantastic to see your enthusiasm! After the treadmill, let's head to the weight machines as you suggested. Just keep in mind to adjust the weights to your comfort level. Feel free to ask if you need any assistance. Let's make this workout as productive and fun as possible for both of us!"
+
+all scripts of B: 
+B: "Perfect, I'll keep track of the time. And thanks for reminding me about wiping down the equipment—hygiene is really important. If I have any questions or if I notice anything that needs adjusting, I'll let you know right away."
+
+Round 3:
+all scripts of A: 
+A: "Great teamwork! Let's keep communicating and sharing tips. If you need any help with the machines or have any questions, just give me a shout. Enjoy your workout, and I'll see you in ten when it's time to switch!"
+
+all scripts of B: 
+B: "Great, I appreciate your guidance! I'm ready to hop on the treadmill now and will give you a heads-up when I'm finishing up. Let's keep this rotation going smoothly and make sure we're both getting the most out of our sessions. Here's to a great workout today!"
+
+Round 4:
+all scripts of A: 
+A: "Sounds like a plan! I'll get warmed up and be ready to jump on when you finish. Let's keep this momentum going and have an awesome session today!"
+
+all scripts of B: 
+B: "Sounds like a plan! I'll jump on the treadmill now and signal when I'm wrapping up so we can transition seamlessly. Thanks again for the help and support—it's great to feel part of the community here!"
+
+Round 5:
+all scripts of A: 
+A: "You're welcome! I'm glad we're building a great camaraderie here. I'll be all set for the weight machines once you finish. Let's have an awesome workout and keep supporting each other like we are!"
+
+all scripts of B: 
+B: "Thanks, A! I'm on the treadmill now and will keep an eye on the time. It really means a lot to have your support as I find my footing here."
+
+Round 6:
+all scripts of A: 
+A: "Fantastic, B! I'm really enjoying the energy and teamwork we're building. I'm all set to jump on the weight machines after you. Let's keep this positive vibe going and have one of our best workouts yet!"
+
+all scripts of B: 
+B: "Thanks for the encouragement, A! I'm wrapping up on the treadmill now, and I'll signal you in just a moment so we can continue our session smoothly. It's great having such a supportive workout partner!"
+
+Round 7:
+all scripts of A: 
+A: "Thanks, B! I'm ready to swap when you are. Let's keep up this great momentum and make the most of our session!"
+
+all scripts of B: 
+B: "All set, A! The treadmill is free for you now. I'm heading to the weight machines and will keep the rotation tight. Let's keep up this great teamwork and enjoy our workout!"
+
+Round 8:
+all scripts of A: 
+A: "Thanks, B! I'm hopping on the treadmill now. Enjoy the weights, and let's keep this coordination going strong!"
+
+all scripts of B: 
+B: "Thanks, A! I'll make sure to settle in on the weight machines and be ready for the swap when you wrap up. It's fantastic having such a smooth routine—looking forward to more sessions like this!"
+
+Round 9:
+all scripts of A: 
+A: "Great to hear, B! I'm getting into my pace on the treadmill now. Let's keep refining our routine and enjoy every minute of this workout. Can't wait for more sessions like this!"
+
+all scripts of B: 
+B: "Great, A! I'm all set on the weight machines now. Keeping this rhythm is amazing—I'm really enjoying our sessions together. Let me know when you're ready to swap, and thanks again for making this such a seamless experience!"

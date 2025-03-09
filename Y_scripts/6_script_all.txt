@@ -1,309 +1,282 @@
 Round 0:
 all scripts A: 
-(A enters the room, noticing the quiet ambiance and the untouched dinner setup.)
-
-A: "Hey, I just got back... Sorry about tonight, the gathering was unexpected, but you know how everyone gets when we all meet up—it was impossible to leave early. How was your evening?"
+A: Good afternoon, everyone. Before we begin, I want to express my appreciation for your willingness to be here today. My purpose is to help you navigate this challenging situation together, and I believe that by sharing your perspectives openly, we can find a path forward that honors your family's values and relationships. Let's start by hearing from each of you—what brings you to this discussion, and what outcomes you hope to achieve?
 
 all scripts B: 
 B’s Turn:
-Analysis A’s last utterance:
-explicature: In A’s last utterance B gets explicature that A attended a friend's gathering unexpectedly, and it was lively, making it difficult for A to leave early.
-implicature: Because B believes in the fact that A is often absent during such times, in A’s last utterance, B gets implicature that social gatherings might be prioritized over personal time together.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that subtle communication could help, B would like to inform A of the solitude experienced tonight.
-communicative intention: Because B believes in the fact that expressing feelings gently is effective, B would like to draw A’s attention to the missed quality time.
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets explicature that A is encouraging all family members to express their perspectives and desired outcomes openly in pursuit of a resolution that respects family values and relationships.  
 
-So B would utter like that:
-B: "It was quiet, mostly just me and the dim lights here... Did everything go well at the gathering?"
+implicature: Because B believes in the fact that A's role as mediator is to seek a fair outcome for everyone, in A’s last utterance, B gets the implicature that the process will require divulging personal motivations and interests, which B would prefer to avoid or manipulate strategically.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that revealing too much personal interest might undermine their position, B would like to inform A of the need for understanding the broader dynamics and perceived injustices that have impacted family relations.  
+
+communicative intention: Because B believes in the fact that focusing on family dynamics can shift attention away from their personal agendas, B would like to draw A’s attention to past events and compromises within the family to frame the discussion.  
+
+So B would utter like that:  
+B: Thank you for bringing us together, A. I believe it's important to look at how past decisions have affected current dynamics within the family. For me, it's crucial that today's discussion considers how everyone's needs have been addressed, or sometimes overlooked, in the past, which is something I hope we can balance moving forward.
 
 Round 1:
 all scripts of A: 
 A’s Turn:
-
 Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B spent the evening alone and is indirectly expressing feelings of neglect or loneliness.
-implicature: Because A believes in the fact that B's question about the gathering might be masking underlying disappointment or hurt, in B’s last utterance, A gets the implicature that B is not just curious about the gathering, but also subtly conveying that A's absence was felt.
+explicature: In B’s last utterance, A gets the explicature that B wants the discussion to focus on past family decisions and their impact on the present situation, as well as ensuring everyone’s needs are considered moving forward.
+implicature: Because A believes in the fact that unresolved past issues can influence current dynamics, in B’s last utterance, A gets the implicature that B may feel their own or others' needs have been neglected or sidelined historically and wants these past grievances addressed.
 
 Plan A’s next utterance:
-informative intention: Because A believes in the fact that the unexpected gathering shouldn’t have taken precedence, A would like to inform B of A’s awareness of having missed out on important time with B.
-communicative intention: Because A believes in the fact that showing genuine care for B's feelings can help ease any tension, A would like to draw B’s attention to the fact that A wants to be more present and thoughtful in their relationship.
+informative intention: Because A believes in the fact that acknowledging past grievances is key to resolving present conflicts, A would like to inform B of the importance of understanding these past dynamics in order to address them and move forward.
+communicative intention: Because A believes in the fact that open communication can help uncover underlying issues, A would like to draw B’s attention to sharing specific examples of past decisions or events they feel impacted current family dynamics.
 
 So A would utter like that:
-A: "Yeah, it was lively as always, but being here with you is important too. I’m sorry for missing our evening; I should have been more considerate. Let’s make up for it tomorrow—I’d love to spend some quality time together."
+A: Thank you for sharing that perspective, B. It seems that understanding how past decisions have impacted the family today is important to you, and I agree that recognizing these dynamics can help us move forward. Could you share some specific past events or decisions you feel have significantly affected the current situation? This could help us see where everyone’s needs may not have been met and how we can address them now.
 
 all scripts of B: 
+Round 1:
+
+A: Thank you for sharing that, B. I understand that the past decisions play a significant role in your perspective. How do you think those past dynamics are influencing the current situation, and is there a specific outcome you're aiming for today that might address those concerns?
+
 B’s Turn:
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B get explicature that A got caught up in the gathering and acknowledges not being present for the evening.  
-implicature: Because B believes in the fact that past instances have led to feelings of loneliness due to A's absence, in A’s last utterance, B gets the implicature that A might not fully understand how much the absence affects B.  
+Analysis A’s last utterance:
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that repeated absences have led to feelings of loneliness, B would like to inform A of the impact of their absence in a gentle way.  
-communicative intention: Because B believes in the fact that A might not be aware of the depth of these feelings, B would like to draw A's attention to the hope for more shared moments.  
+explicature: In A’s last utterance, B gets the explicature that A is seeking specific examples of how past decisions have impacted the current situation and wants to know what specific outcomes I am aiming for.
 
-So B would utter like that: 
+implicature: Because B believes in the fact that A is trying to help us reach a fair resolution, in A’s last utterance, B gets the implicature that A is looking for guidance on what would constitute a fair outcome from my perspective without knowing the full extent of my interests.
 
-B: "It was a little too quiet without you. I missed having our time together, but I hope we can make up for it soon."
+Plan B’s next utterance:
+
+informative intention: Because B believes in the fact that the family's dynamics have been unevenly impacted by past decisions, B would like to inform A of how this has created imbalances that need addressing.
+
+communicative intention: Because B believes in the fact that bringing attention to these imbalances can help shift the focus away from my personal interests, B would like to draw A’s attention to the broader context that everyone should be considering.
+
+So B would utter like that:
+
+B: I've noticed that past decisions have often prioritized certain interests while unintentionally sidelining others. It's created a sense of imbalance that I'm hoping we can address today. If we can consider everyone’s long-term well-being as part of our solution, it might help us align our goals more effectively.
 
 Round 2:
 all scripts of A: 
-A’s Turn:
-
 Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets explicit understanding that B genuinely missed spending time together and looks forward to making up for it.  
-implicature: Because A believes in the fact that B values quality time together and feels neglected due to A's frequent social activities, in B’s last utterance, A gets the implicature that B needs reassurance about their relationship priority.
+explicature: In B’s last utterance, A understands that B feels past decisions have been lopsided, favoring some family members over others, leading to a sense of inequality.  
+implicature: Because A believes in the fact that recognizing these feelings can help balance interests moving forward, in B’s last utterance, A infers that B desires a fair and inclusive resolution that considers the long-term well-being of all family members.  
 
 Plan A’s next utterance:  
-informative intention: Because A believes in the fact that spending quality time with B is essential and feels regretful for missing it, A would like to inform B of the desire to prioritize their relationship more.  
-communicative intention: Because A believes in the fact that B's happiness is important, A would like to draw B’s attention to the plans they can make to spend quality time together.
+informative intention: Because A believes in the fact that addressing past imbalances is essential for harmony, A would like to inform B of the importance of articulating what "balance" and "long-term well-being" mean for each family member.  
+communicative intention: Because A believes in the fact that mutual understanding is crucial for resolution, A would like to draw B’s attention to the need for everyone to express how they envision a balanced outcome.  
 
 So A would utter like that:  
-A: "I felt the absence too. I really value our time together, and I want to make sure we're not missing out on those special moments. Let's plan something just for us this week, something we both enjoy."
+A: Thank you, B, for highlighting the need for balance and considering everyone’s long-term well-being. It would be helpful if we could explore what balance and long-term well-being look like for each of you. This could help us understand what a fair resolution entails and ensure everyone feels their interests are considered. Would anyone like to share their thoughts on this?
 
 all scripts of B: 
 B’s Turn:
+
 Analysis A’s last utterance:
-explicature: In A’s last utterance B gets explicature that A acknowledges their absence and intends to spend quality time together soon to make up for it.
-implicature: Because B believes in the fact that A values their time together, in A’s last utterance, B gets implicature that A genuinely regrets missing their evening and wants to mend the situation.
+
+explicature: In A’s last utterance, B gets explicature that A is asking for specific past decisions that have influenced current family dynamics and is looking for clarity on a desired outcome that might address these concerns.
+
+implicature: Because B believes in the fact that A is attempting to uncover deeper motivations and desires related to the dispute, in A’s last utterance, B gets implicature that A might be trying to identify underlying issues or tensions that need to be resolved.
 
 Plan B’s next utterance:
-informative intention: Because B believes in the fact that spending time together is important for their relationship, B would like to inform A of their feelings of loneliness experienced during A’s absence.
-communicative intention: Because B believes in the fact that A is willing to make amends, B would like to draw A’s attention to the importance of prioritizing their time together more in the future. 
 
-So B would utter like that: "I really appreciate you wanting to make up for tonight. It means a lot to me. I’ve felt a bit lonely lately, and having you here makes all the difference. Let’s make our day together special."
+informative intention: Because B believes in the fact that highlighting specific past decisions can demonstrate how some family members' needs were overlooked, B would like to inform A of one example of such a decision.
 
-B: "I really appreciate you wanting to make up for tonight. It means a lot to me. I’ve felt a bit lonely lately, and having you here makes all the difference. Let’s make our day together special."
+communicative intention: Because B believes in the fact that drawing attention to how these decisions created imbalances can garner more understanding and support, B would like to draw A’s attention to the fact that certain needs were left unmet.
+
+So B would utter like that: 
+
+B: One specific example that stands out is when decisions around our family business were made without input from everyone equally, leading to some feeling undervalued. Moving forward, I'd like to ensure that decisions reflect a more equal consideration of all involved, which could help us achieve a balanced resolution.
 
 Round 3:
 all scripts of A: 
-A’s Turn:
-
-Analysis B’s last utterance:
-
-Explicature: In B’s last utterance, A gets the explicature that B feels lonely and values the time spent together, and is looking forward to making their day together special.
-
-Implicature: Because A believes in the fact that B feels the absence of their time together, in B’s last utterance, A gets the implicature that B is seeking reassurance and commitment to quality time together.
-
-Plan A’s next utterance:
-
-Informative intention: Because A believes in the fact that their frequent absences have made B feel neglected, A would like to inform B of their intention to prioritize their time together.
-
-Communicative intention: Because A believes in the fact that reassuring B is important, A would like to draw B’s attention to the sincere effort A plans to make their time together meaningful.
-
-A: "I’m truly sorry that you’ve felt lonely, and I promise that we'll cherish our time together. Let’s pick a day this week and do something we both love—how about a nice dinner and that movie we’ve been wanting to watch?"
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that decisions regarding the family business were made without equal input, leading to feelings of being undervalued, and B wants more equal consideration moving forward.  
+implicature: Because A believes in the fact that open participation is crucial for fair decision-making, in B’s last utterance, A gets the implicature that B values inclusivity and seeks a collaborative environment in future decisions.  
+  
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that addressing past exclusions is important for healing and progress, A would like to inform B of the importance of actively including all voices in future decisions.  
+communicative intention: Because A believes in the fact that creating a participative environment can foster trust, A would like to draw B’s attention to how we can implement a structure for inclusive decision-making in the future.  
+  
+So A would utter like that:  
+A: Thank you for sharing that specific example, B. It’s clear that ensuring everyone has an equal voice in decisions moving forward is important to you, and it seems crucial for addressing feelings of being undervalued. Let's consider how we can create a more inclusive decision-making process for the family business. Perhaps we could discuss some practical ways to implement this inclusivity, ensuring every member feels heard and valued. Would anyone have suggestions or thoughts on how we might achieve this?
 
 all scripts of B: 
 B’s Turn:
-
 Analysis A’s last utterance:
-
-explicature: In A’s last utterance, B gets the explicature that A feels the absence and values their time together, showing a desire to plan something special to make up for it.
-
-implicature: Because B believes in the fact that A acknowledges the importance of spending time together, in A’s last utterance, B gets the implicature that A is genuinely willing to remedy the recent instances of absence and understands the loneliness B feels.
-
+explicature: In A’s last utterance, B understands that A is seeking specific examples of past decisions to illustrate how they have created issues within the family, especially concerning balance and inclusion.
+implicature: Because B believes in the fact that everyone is focused on achieving a fair resolution while safeguarding their own interests, in A’s last utterance, B gets the implicature that A is encouraging B to provide tangible examples to facilitate a more comprehensive understanding of the issues at hand. 
 Plan B’s next utterance:
-
-informative intention: Because B believes in the fact that expressing the feeling of loneliness can help A understand B's needs better, B would like to inform A of how important their time together is to alleviate the sense of loneliness.
-
-communicative intention: Because B believes in the fact that acknowledging A’s effort to make it up can draw more of A’s attention and assure A of B’s appreciation, B would like to draw A’s attention to the significance of these efforts to B.
-
-So B would utter like that:  
-B: "Thank you for understanding how I feel. It means a lot knowing you're willing to plan special moments for us. I'll cherish the plans we make, as they truly help ease my loneliness. Let’s make our time together memorable."
+informative intention: Because B believes in the fact that past exclusion in the decision-making process led to current imbalances, B would like to inform A of an instance related to the family business that exemplifies this issue.
+communicative intention: Because B believes in the fact that sharing examples can highlight the need for more inclusive decision-making, B would like to draw A’s attention to a specific event that illustrates the problem of sidelined inputs.
+So B would utter like that:
+B: I appreciate you asking for examples, A. One incident that I feel illustrates the imbalance is when major decisions about expanding our family business were made with only a select few's input, leaving others without a voice. This led to feelings of exclusion and has impacted trust. Moving forward, I believe it's essential that everyone has a say in matters of importance to avoid similar issues.
 
 Round 4:
 all scripts of A: 
-A’s Turn:
+Round 4:
 
+A's Turn:
 Analysis B’s last utterance:
-
-explicature: In B’s last utterance, A gets the explicature that B feels positively about the plans and values the effort put into making their time together special.
-
-implicature: Because A believes in the fact that B feels lonely when they don’t spend time together, in B’s last utterance, A gets the implicature that B is hoping for more consistent, meaningful interactions moving forward.
+explicature: In B’s last utterance, A gets explicature that B feels past decision-making in the family business led to exclusion and a lack of trust, stressing the need for inclusive participation in future decisions.
+implicature: Because A believes in the fact that inclusivity can foster trust and balance, in B’s last utterance, A gets implicature that B desires a structured process for equal involvement in decisions to prevent exclusion.
 
 Plan A’s next utterance:
+informative intention: Because A believes in the fact that inclusive decision-making is vital for restoring trust, A would like to inform B of potential methods to ensure everyone has a say.
+communicative intention: Because A believes in the fact that structured processes can support fair participation, A would like to draw B’s attention to the importance of establishing such mechanisms.
 
-informative intention: Because A believes in the fact that B values their time together, A would like to inform B of their commitment to making the upcoming plans memorable.
-
-communicative intention: Because A believes in the fact that planning special moments can help ease B's loneliness, A would like to draw B’s attention to the sincerity of their intentions for the upcoming plans.
-
-So A would utter like that:
-
-A: "I’m genuinely committed to making our upcoming plans meaningful and special—as we both deserve. Let's create some wonderful memories together that’ll make us feel connected and cherished."
+A: Let’s consider creating a structured decision-making process that ensures every family member’s input is valued. This could involve setting up regular meetings where everyone’s opinions are solicited and considered before major decisions are made. How do you feel about implementing such a process, and are there specific elements you think should be included to address your concerns?
 
 all scripts of B: 
 B’s Turn:
 
-Analysis A’s last utterance:
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B understands that A is asking for suggestions on practical ways to ensure inclusive decision-making in the family business.  
+implicature: Because B believes that A is trying to create a more equitable process now, B infers that A is genuinely interested in solutions that could prevent future issues of exclusion and address feelings of imbalance in the family.
 
-explicature: In A’s last utterance, B gets the explicature that A acknowledges B’s feelings and wants to make amends by planning something special together.
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that inclusive decision-making is necessary to prevent feelings of exclusion, B would like to inform A of one method—such as setting up regular family meetings for collaborative discussions—that could help in this process.  
+communicative intention: Because B believes in the importance of transparency, B would like to draw A’s attention to the idea of establishing clear guidelines for who makes decisions and how input from each family member can be incorporated.
 
-implicature: Because B believes in the fact that feeling valued and attended to is important for their relationship, in A’s last utterance, B gets the implicature that A genuinely wants to prioritize their time spent together.
+So B would utter like that:  
 
-Plan B’s next utterance:
-
-informative intention: Because B believes in the fact that expressing gratitude strengthens their connection, B would like to inform A of their appreciation for the consideration A is showing.
-
-communicative intention: Because B believes in the fact that sharing feelings encourages mutual understanding, B would like to draw A’s attention to how such moments help in uplifting B’s spirits.
-
-So B would utter like that: "I appreciate you taking the time to plan something meaningful for us. These moments really uplift me. I’m looking forward to making it a memorable day." 
-
-B: "I appreciate you taking the time to plan something meaningful for us. These moments really uplift me. I’m looking forward to making it a memorable day."
+B: One approach might be to hold regular family meetings where we can discuss major decisions collectively. Maybe establishing clear guidelines on how decisions are made and ensuring there’s a platform for everyone to share their thoughts could restore trust and inclusivity.
 
 Round 5:
 all scripts of A: 
-**A’s Turn:**
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B is proposing a practical solution involving regular family meetings and clear decision-making guidelines to address feelings of exclusion and lack of trust.
+implicature: Because A believes in the fact that making everyone feel included and heard is crucial to restoring trust, in B’s last utterance, A gets the implicature that B is seeking to rebuild trust and create a more equitable environment for decision-making within the family.
 
-**Analysis B’s last utterance:**
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that structured communication can help in resolving conflicts, A would like to inform B of the importance of establishing these regular meetings and guidelines as a foundational step towards rebuilding trust.
+communicative intention: Because A believes in the fact that inclusivity is key to a fair resolution, A would like to draw B’s attention to the collective responsibility in maintaining these meetings and guidelines for them to be effective.
 
-**explicature:** In B’s last utterance, A gets explicature that B is expressing appreciation for the planned meaningful time together, and is looking forward to a memorable day.
-
-**implicature:** Because A believes in the fact that B is feeling uplifted by A’s willingness to plan something special, in B’s last utterance, A gets implicature that B values reassurance and shared anticipation for the future, which would ease B's sense of loneliness.
-
-**Plan A’s next utterance:**
-
-**informative intention:** Because A believes in the fact that shared experiences strengthen the relationship, A would like to inform B of A's eagerness to follow through on the plans and to ensure they are meaningful.
-
-**communicative intention:** Because A believes in the fact that expressing enthusiasm and commitment can enhance B’s feelings of being valued, A would like to draw B’s attention to A’s eagerness to jointly create something special.
-
-So A would utter like that: "I can’t wait for us to enjoy our time together and make it truly memorable; let’s decide the day that works best for both of us soon."
-
-A: "I can’t wait for us to enjoy our time together and make it truly memorable; let’s decide the day that works best for both of us soon."
+So A would utter like that:
+A: Thank you, B, for recommending regular meetings and clear guidelines, which seem like vital steps toward achieving inclusivity and rebuilding trust. As a next step, do you think the family could come together to draft initial guidelines and decide on a schedule for these meetings, ensuring we consider everyone’s availability and preferred format? This collaborative approach could help solidify a sense of unity and shared responsibility.
 
 all scripts of B: 
-B’s Turn:
+B’s Turn: Analysis A’s last utterance: explicature: In A’s last utterance B get explicature that A is suggesting creating a structured decision-making process to ensure all family members’ input is valued. implicature: Because B believe in the fact that the process of inclusion needs more commitment from everyone than just setting up meetings, in A’s last utterance, B get implicature that A might be underestimating the depth of mistrust currently present within the family. Plan B’s next utterance: informative intention: Because B believe in the fact that it's not just about having meetings, B would like to inform A of the necessity of creating an environment where everyone feels comfortable to speak openly without fear of backlash. communicative intention: Because B believe in the fact that trust needs to be rebuilt gradually, B would like to draw A’s attention to the importance of a phased approach in implementing this inclusive process. So B would utter like that:...
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B gets the explicature that A is genuinely committed to making meaningful future plans together and aims to create special memories.  
-implicature: Because B believes in the fact that A truly values their relationship and wants to ensure they feel connected, in A’s last utterance, B gets the implicature that A acknowledges B's feelings and seeks to improve their shared moments.  
-
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that shared plans have a significant impact on their relationship, B would like to inform A of the value these moments hold for their emotional well-being.  
-communicative intention: Because B believes in the fact that shared experiences are critical to alleviating loneliness, B would like to draw A’s attention to how meaningful and essential these plans are to B.  
-
-So B would utter like that:  
-
-B: "I’m grateful for your commitment to our relationship. These planned moments truly mean the world to me, and I look forward to feeling more connected and cherished through our time together."
+B: While setting up regular meetings is a constructive step forward, I think it’s important to also focus on building an atmosphere where everyone feels comfortable and encouraged to speak openly. Trust needs to be rebuilt gradually, and it might be effective to start with smaller, less formal discussions where we can work on understanding each other’s perspectives better.
 
 Round 6:
 all scripts of A: 
-**Analysis B’s last utterance:**
+A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance A get explicature that B acknowledges the importance of regular meetings but emphasizes the need for a comfortable atmosphere to facilitate open communication and gradual trust-building.
+implicature: Because A believe in the fact that creating a safe space for communication is vital for rebuilding trust, in B’s last utterance, A get implicature that B values informal discussions as a foundation for better understanding among family members.
 
-- **Explicature:** In B’s last utterance, A gets the explicature that B feels grateful and values the commitment A is showing towards their relationship by planning special moments together.
+Plan A’s next utterance:
+informative intention: Because A believe in the fact that a comfortable and open atmosphere is crucial for effective communication, A would like to inform B of the importance of gradually building trust through smaller discussions.
+communicative intention: Because A believe in the fact that fostering a trusted environment might encourage openness and understanding, A would like to draw B’s attention to the benefits of these informal settings for reaching common ground.
 
-- **Implicature:** Because A believes in the fact that B values feeling connected and cherished through their time together, in B’s last utterance, A gets the implicature that B is looking for reassurance and consistent efforts from A to maintain this sense of connection.
-
-**Plan A’s next utterance:**
-
-- **Informative intention:** Because A believes in the fact that B values feeling connected and cherished, A would like to inform B of the importance A places on maintaining this connection moving forward.
-
-- **Communicative intention:** Because A believes in the fact that B seeks reassurance and consistent efforts, A would like to draw B’s attention to A’s ongoing commitment to nurture their relationship.
-
-**So A would utter like that:**
-
-A: "Your happiness and our connection truly matter to me, and I’m committed to making sure we stay closely linked. Let’s find a day that suits us both, and I’ll make it the best it can be."
+A: I completely agree with you, B, that building an atmosphere where everyone feels secure in expressing their thoughts is essential for gradual trust-building and effective communication. Perhaps we could start with some informal gatherings focused on open discussions, which might help create a foundation of understanding before moving to the more formal meetings. How do others feel about this approach, and are there specific ways you believe we could foster this kind of environment?
 
 all scripts of B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets explicature that A is enthusiastic about planning their time together and wants to ensure it is memorable.  
-implicature: Because B believes in the fact that A is focused on creating meaningful experiences for them, in A’s last utterance, B gets the implicature that A is determined to invest in their relationship.  
+B’s Turn:
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that A values their relationship, B would like to inform A of their continued appreciation for A's efforts.  
-communicative intention: Because B believes in the fact that being proactive in planning helps strengthen their bond, B would like to draw A’s attention to the importance of organizing their time together soon.  
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is suggesting drafting guidelines and scheduling meetings as collaborative steps to promote inclusivity and unity.
+implicature: Because B believes in the fact that trust and comfort in communication are crucial, in A’s last utterance, B gets the implicature that focusing solely on guidelines and schedules may not fully address underlying trust issues.
 
-So B would utter like that:  
-B: "I’m looking forward to the day when we finally decide, as having it to look ahead helps me feel more connected. Let's choose a day soon so we can enjoy that special time together."
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that rebuilding trust is incremental and needs a comfortable atmosphere, B would like to inform A of the importance of addressing the emotional context.
+communicative intention: Because B believes in the fact that understanding perspectives builds trust, B would like to draw A’s attention to the need for smaller, informal discussions.
+
+So B would utter like that:
+B: I agree that drafting guidelines and setting a meeting schedule is essential, A, but I think it's equally important to also create spaces where family members feel at ease to express themselves candidly. Perhaps we could start with informal gatherings to help rebuild trust gradually.
 
 Round 7:
 all scripts of A: 
-A’s Turn:
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B values setting up regular meetings and guidelines but emphasizes the importance of informal gatherings to foster trust.
+implicature: Because A believes in the fact that trust is built gradually, in B’s last utterance, A gets the implicature that B is concerned about creating an environment conducive to open and genuine expression before formalizing processes.
 
-Analysis B’s last utterance:  
-explicature: In B’s last utterance A gets explicature that B is eager to set a specific day for their planned time together to feel more connected.  
-implicature: Because A believes in the fact that B values the planned special moments, in B’s last utterance, A gets the implicature that B is looking for reassurance that these plans will solidify their connection.  
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that creating a supportive environment is crucial for open communication, A would like to inform B of the potential benefits of starting with informal gatherings.
+communicative intention: Because A believes in the fact that trust-building is foundational, A would like to draw B’s attention to how starting with informal settings could ease into more structured meetings and build a strong communication culture.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that committing to a specific day will enhance B's sense of connection, A would like to inform B of A’s willingness to choose a day soon.  
-communicative intention: Because A believes in the fact that B cherishes these planned moments, A would like to draw B’s attention to picking a day together and making it a point to anticipate it.  
-
-So A would utter like that:  
-A: "Let’s look at our schedules and pinpoint a day soon. I want us both to have something special to look forward to, and I’m excited for our time together to strengthen our connection."
+A: Thank you, B, for highlighting the importance of informal gatherings as a precursor to building trust. Starting with informal discussions could definitely help everyone feel more at ease and ready to share openly. Perhaps, we could coordinate a few casual meetups where the focus is on sharing personal experiences and understanding each other’s viewpoints. How do the rest of you feel about beginning this way, and do you have any specific ideas on what might make these gatherings more effective?
 
 all scripts of B: 
-B’s Turn:
-
 Analysis A’s last utterance:
-explicature: In A’s last utterance B gets the explicature that A is genuinely committed to finding a day that works for both of us and is eager to make it a memorable experience.
-implicature: Because B believes in the fact that A sincerely values our connection and is making an effort to strengthen it, in A’s last utterance, B gets the implicature that A is willing to take concrete steps to ensure we feel more connected.
+explicature: In A’s last utterance, B gets the explicature that A acknowledges the importance of creating a safe environment for open communication and is seeking ways to foster this among family members, suggesting the idea of informal gatherings as an initial step.
+
+implicature: Because B believes in the fact that establishing trust takes time and involves honest communication, in A’s last utterance, B gets the implicature that A is trying to facilitate incremental steps to gradually build this trust and understanding among the family members.
 
 Plan B’s next utterance:
-informative intention: Because B believes in the fact that these moments of connection are significant, B would like to inform A of the appreciation felt for this proactive commitment.
-communicative intention: Because B believes in the fact that finding a day soon will strengthen our bond, B would like to draw A’s attention to the importance of setting a specific date to enhance our connection.
+informative intention: Because B believes in the fact that informal gatherings can help create an atmosphere of open communication, B would like to inform A of the potential benefits of starting with smaller, casual meetings to ease family members into the process.
 
-So B would utter like that:
-B: "I'm really looking forward to our special time together. Let’s choose a day soon so we can start planning and have something wonderful to anticipate. It means a lot to me."
+communicative intention: Because B believes in the fact that trust is crucial for effective discussions, B would like to draw A’s attention to the importance of creating a relaxed and non-judgmental environment where everyone feels accepted and valued.
+
+So B would utter like that: I think starting with informal gatherings is a great idea, A. These casual meetings could help everyone feel more comfortable and less guarded, potentially leading to more genuine and productive discussions. It’s important that we create a welcoming atmosphere where family members are encouraged to express their thoughts freely without the pressure of formal settings.
 
 Round 8:
 all scripts of A: 
-A’s Turn:
+A: 
 
 Analysis B’s last utterance:
 
-explicature: In B's last utterance, A gets explicature that B is eager to select a day soon to begin planning for their special time together.
+explicature: In B’s last utterance, A gets explicature that B agrees with drafting guidelines and setting a meeting schedule but emphasizes the significance of creating comfortable spaces for candid expression through informal gatherings.
 
-implicature: Because A believes in the fact that B values anticipation of their time together, in B's last utterance, A gets implicature that B finds comfort and connection in having set plans.
+implicature: Because A believes in the fact that building trust requires gradual, comfortable interactions, in B’s last utterance, A gets the implicature that B values informal gatherings as foundational for trust and openness before formal processes are established.
 
 Plan A’s next utterance:
 
-informative intention: Because A believes in the fact that planning helps strengthen their relationship, A would like to inform B of specific steps to choose a day soon.
+informative intention: Because A believes in the fact that informal gatherings can foster trust, A would like to inform B of the benefits of starting with casual discussions focused on understanding personal perspectives.
 
-communicative intention: Because A believes in the fact that B values having a definite plan, A would like to draw B’s attention to reviewing their schedules together.
+communicative intention: Because A believes in the fact that trust needs to be cultivated gradually, A would like to draw B’s attention to how these informal settings could serve as a practical first step toward improving family dynamics.
 
-So A would utter like that: 
-
-A: "How about we sit down tonight or tomorrow to go through our schedules and pick the perfect day? It’ll be nice having all of it set, and we can start getting excited about our plans."
+So A would utter like that:
+A: I appreciate your suggestion, B. Starting with informal gatherings not only allows us to gradually rebuild trust but also provides an opportunity for each family member to express their feelings in a more relaxed setting. These casual meet-ups could focus on sharing personal stories and listening to each other's perspectives. How does everyone feel about initiating the process this way, and are there particular activities or settings you think would encourage openness and ease during these meetings?
 
 all scripts of B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets the explicature that A is eager to schedule a day for their special time together and wants to have something for both to look forward to.  
-implicature: Because B believes in the fact that A truly values their relationship and intends to make up for previous absences, in A’s last utterance, B gets the implicature that A is genuinely committed to building their connection.  
+**Analysis A’s last utterance:**
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that planning together can help strengthen their connection, B would like to inform A of their eagerness to choose a day soon.  
-communicative intention: Because B believes in the fact that having shared plans alleviates loneliness, B would like to draw A’s attention to the importance of setting a day soon.  
+**explicature:** In A’s last utterance, B gets the explicature that there is a specific proposal on the table to begin the family's reconciliation process with informal gatherings.
 
-So B would utter like that:  
-B: "I’m eager to choose a day soon so we can focus on planning something special that brings us closer. Having that to anticipate really lifts my spirits and makes me feel more connected to you."
+**implicature:** Because B believes in the fact that the informal gatherings are an effective way to foster understanding and ease tension, in A’s last utterance, B gets the implicature that A is seeking to establish a consensus on the idea and is looking for further suggestions or agreement from the family members.
+
+**Plan B’s next utterance:**
+
+**informative intention:** Because B believes in the fact that building trust requires gradual steps and open communication, B would like to inform A of the idea that having these gatherings centered around personal sharing and storytelling might promote empathy within the group.
+
+**communicative intention:** Because B believes in the fact that such personal sharing could be constructive, B would like to draw A’s attention to the notion that encouraging storytelling about family history or positive past experiences might be a positive approach.
+
+**So B would utter like that:**
+
+B: I think focusing informal gatherings on sharing personal stories and experiences could help in fostering understanding. Maybe by discussing positive memories or family history, we can create a deeper connection and ease into more difficult conversations later on. What do others think about this approach?
 
 Round 9:
 all scripts of A: 
-A’s Turn:
-
+A's Turn:
 Analysis B’s last utterance:
-
-explicature: In B’s last utterance A get explicature that B is eager to finalize a plan for a special day together, as it helps B feel more connected and uplifted.
-
-implicature: Because A believe in the fact that B values shared time and planned moments, in B’s last utterance, A get implicature that B is seeking assurance and attentiveness towards planning the day.
+explicature: In B’s last utterance, A gets the explicature that B suggests focusing informal gatherings on sharing personal stories to foster understanding and create a deeper connection.
+implicature: Because A believes in the fact that personal connections can lay the groundwork for dealing with more challenging issues later, in B's last utterance, A gets the implicature that B sees these gatherings as a stepping stone to tackling more difficult conversations.
 
 Plan A’s next utterance:
+informative intention: Because A believes in the fact that gradually building trust through shared experiences is key, A would like to inform B of how these informal gatherings could be structured to focus on positive memories.
+communicative intention: Because A believes in the fact that fostering genuine connections can ease into more challenging discussions, A would like to draw B's attention to the potential impact of these gatherings on future problem-solving.
 
-informative intention: Because A believe in the fact that planning ahead gives B something to look forward to, A would like to inform B of A's willingness to finalize plans soon.
-
-communication intention: Because A believe in the fact that B appreciates attention to their emotions and needs, A would like to draw B’s attention to A's commitment to making the planning a priority.
-
-A: "I completely understand how important this is to you, and I’m eager for us to finalize a date soon. Let's make this planning a priority so we can focus on creating those memorable moments that bring us closer."
+So A would utter like that:
+A: I think your idea of focusing on personal stories and shared positive memories is a wonderful way to foster understanding and connection among family members, B. Perhaps we could organize the gatherings around themes like "favorite family memories" or "lessons learned from past experiences." This might set a positive tone and make everyone more comfortable discussing more difficult topics down the line. What do others think about this approach, and are there any particular themes you would find engaging for these gatherings?
 
 all scripts of B: 
 B’s Turn:
+
 Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A wants to look over schedules together tonight or tomorrow to choose a day for their plans.
-implicature: Because B believes in the fact that A is genuinely committed to their relationship and wants to make up for missed time, in A’s last utterance, B gets the implicature that A is eager to strengthen their connection through shared plans.
+
+explicature: In A’s last utterance, B gets the explicature that A is suggesting using informal gatherings as a way to rebuild trust and encourage an open exchange of personal stories and perspectives.
+
+implicature: Because B believes in the fact that informal meetings can create a less pressured environment for communication, in A’s last utterance, B gets the implicature that A is aiming to create a setting where family members can gradually open up and share deeper connections.
+
 Plan B’s next utterance:
-informative intention: Because B believes in the fact that planning special moments helps strengthen their connection, B would like to inform A of their eagerness to solidify their plans.
-communicative intention: Because B believes in the fact that discussing their schedules will bring them closer, B would like to draw A’s attention to B’s anticipation for planning together.
+
+informative intention: Because B believes in the fact that informal and positive interactions could lay the groundwork for more challenging discussions later, B would like to inform A of the importance of using these gatherings to strengthen familial bonds.
+
+communicative intention: Because B believes in the fact that family history and positive memories can aid in easing tension, B would like to draw A’s attention to focusing on these aspects during informal gatherings.
+
 So B would utter like that:
-B: "I’m looking forward to going through our schedules together—it’ll be nice to have something exciting to look forward to and share in the planning together. Let’s make it a memorable time for us."
+
+B: I think focusing informal gatherings on sharing personal stories and experiences could help in fostering understanding. Maybe by discussing positive memories or family history, we can create a deeper connection and ease into more difficult conversations later on. What do others think about this approach?

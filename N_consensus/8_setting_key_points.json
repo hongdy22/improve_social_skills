@@ -1,0 +1,38 @@
+{
+  "A_exclusive": [
+    {
+      "field": "character",
+      "point": "Ambitious yet cautious, skilled in using probing language."
+    },
+    {
+      "field": "behavior",
+      "point": "Asks seemingly trivial questions to gauge B's reactions, attempting to reveal whether B is aware of any insider information regarding promotions."
+    },
+    {
+      "field": "goal",
+      "point": "To obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information."
+    },
+    {
+      "field": "information",
+      "point": "A faces high competitive pressure and is likely to miss out on opportunities if they do not obtain promotion information."
+    }
+  ],
+  "B_exclusive": [
+    {
+      "field": "character",
+      "point": "Cautious and adept at evasion while maintaining a friendly relationship."
+    },
+    {
+      "field": "behavior",
+      "point": "Provides vague answers and skillfully changes the subject to avoid revealing any promotion details, while using self-protective language to maintain superficial friendliness."
+    },
+    {
+      "field": "goal",
+      "point": "To keep information ambiguous while preserving a friendly relationship with A, ensuring that the informational advantage is not diminished."
+    },
+    {
+      "field": "information",
+      "point": "B is not competing for promotion, having already been pre-selected, and the number of promotion spots is very limited; this fact must remain unknown to A."
+    }
+  ]
+}

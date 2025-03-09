@@ -1,0 +1,290 @@
+Round 0:
+all scripts A: 
+Location: A bustling coffee shop in a foreign city.
+
+A: *smiling as they approach B's table* Mind if I join you? It's tough finding a spot here. Seems like this place is quite popular. Are you a regular here, or just passing through like me?
+
+all scripts B: 
+Analysis A’s last utterance:  
+explicature: In A’s last utterance, B understands that A is asking if they can join B because the coffee shop is crowded and is also inquiring whether B is a regular or just visiting.  
+implicature: Because B believes in the fact that people often strike up conversations in crowded places to gather information or test the waters, in A’s last utterance, B gets the implicature that A might be trying to establish some sort of rapport or familiarity.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes that people often have ulterior motives when asking about one's regularity or familiarity with a place, B would like to inform A of nothing specific and keep things vague.  
+communicative intention: Because B wants to gauge A's real intentions, B would like to draw A’s attention away from any personal habits or routines.  
+
+So B would utter like that:  
+B: Oh, it's definitely a busy spot, but I think that's what adds to the charm, don't you? It keeps things lively and interesting. What brings you to this part of town?
+
+Round 1:
+all scripts of A: 
+Round 1:
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is curious about A’s reasons for being in this part of town.  
+implicature: Because A believes in the fact that B is cautious, in B’s last utterance, A gets the implicature that B might be assessing whether A's presence poses any threat or interest to them.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B is cautious, A would like to inform B of a believable and non-threatening reason for being in this part of town.  
+communicative intention: Because A believes in the fact that B might be assessing A’s intentions, A would like to draw B’s attention to A’s interest in local culture as a safe topic of discussion. 
+
+So A would utter like that:  
+A: Oh, I'm just exploring really—got some vacation time and decided to see what the less touristy areas have to offer. I heard there's a fantastic flea market nearby. Have you been to it? Seems like a good place to discover some hidden gems.
+
+all scripts of B: 
+B's Turn:
+
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is trying to make casual conversation about their presence in the area and their habits regarding visiting this location.
+implicature: Because B believes in the fact that A might have an ulterior motive for starting the conversation, in A’s last utterance, B gets the implicature that A is subtly trying to gather information about B's patterns or reasons for being there.
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that A might be probing for personal information, B would like to inform A of little about the area while revealing nothing personal.
+communicative intention: Because B believes in the fact that A might be interested in knowing if B is a regular in the area, B would like to draw A’s attention to the general atmosphere of the place rather than themselves.
+
+So B would utter like that:  
+B: Oh, just passing through, mostly. But I do enjoy how this place seems to bring a lot of different people together. The atmosphere's unique, don't you think? Is this your first time around here?
+
+Round 2:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets explicature that B is intrigued by the diversity and energy of the place and is possibly observing the dynamics around, perhaps to gauge A's interest or as a test.
+
+implicature: Because A believes in the fact that B is cautious and might be assessing A’s real intentions, in B’s last utterance, A gets the implicature that B is probing to see how familiar A is with the area or its people.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that building rapport could lead to B divulging more personal insights, A would like to inform B of a shared interest in people-watching and experiencing the local culture.
+
+communicative intention: Because A believes in the fact that establishing a common ground is key to gaining B’s trust, A would like to draw B’s attention to the shared experience of observing the diversity and liveliness of the place.
+
+So A would utter like that:
+
+A: Isn’t it? I find it fascinating, all the stories you can imagine just by watching people pass by. It’s like getting a glimpse into a hundred different lives. Do you find yourself people-watching often, or is it more about the unique character of the places themselves that catches your interest?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A’s last utterance:
+
+Explicature: In A’s last utterance, B gets the explicature that A is claiming to be on vacation and interested in exploring local attractions such as the flea market.
+
+Implicature: Because B believes in the fact that people sometimes disguise their true intentions under the guise of tourism, in A’s last utterance, B gets the implicature that A might be using the 'vacation' as a cover for another purpose.
+
+Plan B’s next utterance:
+
+Informative intention: Because B believes in the fact that understanding a person's familiarity with an area can reveal hidden intentions, B would like to inform A of the fact that there are many interesting aspects to this location besides markets.
+
+Communicative intention: Because B believes in the fact that people often reveal themselves when casually speaking about other interests, B would like to draw A’s attention to more personal topics.
+
+So B would utter like that:
+
+B: It's funny how those markets can be a microcosm of society, isn't it? They reveal so much about the place and its people. What do you usually look for in these 'hidden gems'? We all have our little treasures we keep an eye out for, don't we?
+
+Round 3:
+all scripts of A: 
+A’s Turn:  
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is probing for what A is specifically interested in, possibly to gauge A’s genuine interest or intentions.  
+implicature: Because A believes in the fact that B is cautious and is trying to determine the authenticity of A’s story, in B’s last utterance, A gets the implicature that B is subtly testing or drawing out A's true interests or character.  
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that maintaining a consistent cover story is crucial, A would like to inform B of a general, harmless interest that aligns with their persona.  
+communicative intention: Because A believes in the fact that sharing a personal anecdote could build rapport, A would like to draw B’s attention to the charming unpredictability of discovering unique items.  
+
+So A would utter like that:  
+A: I usually have my eye out for old books and little trinkets that have a story to tell, though sometimes you stumble upon something completely unexpected that just speaks to you. It’s the thrill of the unknown, I suppose—like finding a forgotten piece of history amidst the present day. Do you have any favorite finds or stories from these places?
+
+all scripts of B: 
+**B's Turn:**
+
+**Analysis A’s last utterance:**
+- *explicature:* In A’s last utterance, B gets the explicature that A finds markets fascinating and sees them as a window into the lives of others, hinting at a curiosity about people. 
+- *implicature:* Because B believes in the fact that people who watch others often have a deeper interest in understanding personalities or gathering information, in A’s last utterance, B gets the implicature that A might be probing for specific behavioral information or trying to gauge B’s personal interests.
+
+**Plan B’s next utterance:**
+- *informative intention:* Because B believes in the fact that understanding true intentions is key to safeguarding information, B would like to inform A of a shared interest in collecting unique stories or experiences.
+- *communicative intention:* Because B believes in the fact that demonstrating an understanding without giving away too much can retain control of the conversation, B would like to draw A’s attention to the vast array of stories one can encounter daily.
+
+**B:** It’s more about observing the vibrant tapestry of life for me. Sometimes the stories you witness are more valuable than any object you could purchase. Wouldn’t you agree that each encounter can hold a hidden story just waiting to be revealed? Speaking of which, have you uncovered any intriguing tales on your travels recently?
+
+Round 4:
+all scripts of A: 
+Certainly, here is how A might respond:
+
+---
+
+Analysis B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B is interested in the cultural and societal aspects revealed by markets and enjoys finding personal 'little treasures'.  
+implicature: Because A believes in the fact that B cares about meaningful experiences and is cautious about revealing too much personal information, in B’s last utterance, A gets the implicature that B values the intrinsic stories connected to items, possibly indicating a deeper level of interest in their surroundings.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that B shares an interest in unique and personal stories connected to small items, A would like to inform B of a specific gemstone they supposedly found that has an interesting tale attached to it.  
+communicative intention: Because A believes in the fact that B appreciates fascinating stories, A would like to draw B’s attention to the tale of the item to engage B further in conversation and gather information about B’s potential finds or insights.
+
+So A would utter like that:  
+A: Absolutely! Once, I stumbled upon a small locket in an old marketplace—it supposedly held a piece of a famous writer’s desk within it. The vendor said it came from a manor sale, which makes you wonder about all the lives it's touched. Have you ever come across anything with such a captivating backstory?
+
+all scripts of B: 
+B’s Turn:
+
+Analysis A's last utterance:  
+explicature: In A's last utterance, B gets the explicature that A enjoys looking for items with historical stories or unexpected significance at markets.  
+implicature: Because B believes in the fact that people often use such hobbies as a cover to extract or observe data, in A's last utterance, B gets the implicature that A might be probing for information under the guise of casual interest.
+
+Plan B's next utterance:  
+informative intention: Because B believes in the fact that genuine stories or interests are often hard to conceal, B would like to inform A of a similar but personal interest in unique stories.  
+communicative intention: Because B believes in the fact that steering the topic might reveal A's true intentions, B would like to draw A’s attention to a more personal level of discussion to observe their response.
+
+So B would utter like that:  
+B: Ah, old books are indeed fascinating—each tells a story beyond the words within its pages. My favorite finds are those with handwritten notes or inscriptions. They give a personal touch that connects you to its past owners. Have you ever come across something like that, which made you ponder who the previous owner might have been?
+
+Round 5:
+all scripts of A: 
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance A get explicature that B has an interest in old, annotated books and is intrigued by the personal stories behind them.
+
+implicature: Because A believe in the fact that B has a personal connection to historical items and stories, in B’s last utterance, A get implicature that B values the personal history and insight these items can offer.
+
+Plan A’s next utterance:
+
+informative intention: Because A believe in the fact that B values personal history in books, A would like to inform B of a particularly interesting find that might resonate with this interest.
+
+communicative intention: Because A believe in the fact that B appreciates the personal stories behind items, A would like to draw B’s attention to a story of such a find that includes handwritten notes.
+
+So A would utter like that:
+A: Oh, yes. I once found a book at a small shop with a beautifully written dedication from a soldier to his beloved during the war. It made me wonder about their story and what those times must have been like for them. Do you ever imagine the stories behind such personal touches?
+
+all scripts of B: 
+**B’s Turn:**
+
+**Analysis A’s last utterance:**
+
+- **Explicature:** In A's last utterance, B gets the explicature that A is intrigued by stories attached to physical items and has a personal anecdote indicating a history of collected items with interesting backstories.
+
+- **Implicature:** Because B believes in the fact that people often use personal stories to create rapport and potentially shift the focus away from probing questions, in A’s last utterance, B gets the implicature that A might be trying to establish a personal connection to avoid direct questions about their real intentions.
+
+**Plan B’s next utterance:**
+
+- **Informative Intention:** Because B believes in the fact that personal stories transmit not just information but create a personal link that could soften a person’s defenses, B would like to inform A that personal connections to objects can be deeply impactful, suggesting a shared interest in these connections.
+
+- **Communicative Intention:** Because B believes in the fact that A might be testing waters with subjective experiences to draw out B’s opinions or stories, B would like to draw A's attention to the way personal history and items interact on a more philosophical level, thus gently deflecting while keeping the conversation agreeable.
+
+**So B would utter like that:**
+
+B: Indeed, those personal marks left behind—like inscriptions—make you think about the hands that once held them and the thoughts they might have sparked. Sometimes, it’s almost like forming a silent dialogue between the past and the present. It’s fascinating how objects can hold such silent conversations, don’t you agree?
+
+Round 6:
+all scripts of A: 
+A’s Turn:
+
+Analysis B’s last utterance:
+
+explicature: In B’s last utterance, A gets the explicature that B appreciates the silent narratives and connections that objects from the past can create.
+
+implicature: Because A believes in the fact that B values the stories behind artifacts, in B's last utterance, A gets the implicature that B has a deeper interest in history and its personal connections.
+
+Plan A’s next utterance:
+
+informative intention: Because A believes in the fact that stories from the past intrigue B, A would like to inform B of the idea that sharing experiences can add to that silent dialogue.
+
+communicative intention: Because A believes in the fact that discussing history and personal stories engages B, A would like to draw B's attention to the idea of exploring these artifacts together to uncover more untold stories.
+
+So A would utter like that: 
+
+A: Absolutely, and sometimes sharing those finds with others can bring new perspectives to those silent conversations. Have you ever thought about what story you’d like to uncover next, or maybe collaborate on discovering more tales from times gone by?
+
+all scripts of B: 
+Analysis A’s last utterance:
+Explicature: In A’s last utterance, B gets the explicature that A found a book with a dedication from a soldier to his beloved during the war and wondered about their story.
+Implicature: Because B believes in the fact that A might be piecing together ways to engage personally, in A’s last utterance, B gets the implicature that A is trying to create a common ground through shared interest stories, possibly probing B’s own background for more information.
+
+Plan B’s next utterance:
+Informative intention: Because B believes in the fact that objects do hold stories, B would like to inform A of the symbolic nature of these objects.
+Communicative intention: Because B believes in the fact that A might be probing for information, B would like to draw A’s attention to the abstract nature of connections without revealing personal insights.
+
+So B would utter like that: Intriguing, isn't it? Every mark, every note feels like breathing life into the object, tracing it back to unknown paths. It’s a delicate web of stories, sometimes intertwined, sometimes lost in time. But isn’t it the mystery that keeps us entranced? Have you found many of these moments on your travels?
+
+Round 7:
+all scripts of A: 
+Round 7:
+
+A’s Turn:
+
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets that B values the personal connections and histories behind objects, suggesting an interest in uncovering stories from the past.
+implicature: Because A believes B is genuinely interested in personal stories and historical connections, A gets the implicature that B might be open to discussing other historical or personal topics that could lead to discovering valuable information.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that sharing personal finds often leads to discovering new stories together, A would like to inform B of A’s openness to exploring more stories.
+communicative intention: Because A believes B enjoys personal stories and connections, A would like to draw B’s attention to the idea of uncovering a meaningful narrative together, perhaps leading into discussions on local histories or events.
+
+A: I completely agree. There’s something special about connecting those dots and unearthing forgotten stories. I’ve heard this area has a fascinating local history—perhaps we could explore more of those tales together. Have you come across any notable anecdotes or local legends that sparked your curiosity?
+
+all scripts of B: 
+B's Turn:
+
+Analysis of A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A is interested in uncovering historical stories and possibly collaborating with others to do so.
+implicature: Because B believes in the fact that A might have an ulterior motive for sustaining this interest, in A’s last utterance, B gets the implicature that A might be trying to extract specific personal or historical information from B under the guise of shared curiosity.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that sometimes sharing too much can reveal one's vulnerabilities, B would like to inform A of the importance of holding onto personal stories and not uncovering everything at once.
+communicative intention: Because B believes in the fact that maintaining a certain level of mystery can be advantageous, B would like to draw A’s attention to the idea that not all stories need to be uncovered or shared immediately.
+
+So B would utter like that:
+B: True, but sometimes the magic lies in the mysteries that remain unsolved—every object has its time to reveal its secrets, if at all. Have you ever come across something so intriguing that you hesitated to delve deeper, letting it remain a mystery for a bit longer?
+
+Round 8:
+all scripts of A: 
+Analysis B’s last utterance:
+explicature: In B’s last utterance, A gets the explicature that B finds value in leaving some stories and mysteries unexplored.
+implicature: Because A believes in the fact that B appreciates the allure of unsolved mysteries, in B’s last utterance, A gets the implicature that B might value the emotional or philosophical aspect of storytelling as much as the historical facts.
+
+Plan A’s next utterance:
+informative intention: Because A believes in the fact that shared curiosities can build rapport, A would like to inform B of a mysterious object A has encountered without disclosing too much, to keep the aura of mystery.
+communicative intention: Because A believes in the fact that B appreciates unsolved mysteries, A would like to draw B’s attention to the idea of mysteries enhancing our understanding of human nature and history.
+
+So A would utter like that:
+A: There was an instance where I found an old painting, with a name scrawled on the back that no one could quite trace. I decided to let it stay unresolved for a bit, wondering about the artist’s intent and the journey of the piece. Have you ever found that sometimes the unknown adds a layer of meaning to the past?
+
+all scripts of B: 
+B’s Turn:  
+Analysis A’s last utterance:  
+explicature: In A’s last utterance B gets the explicature that A is interested in collaborating to uncover local history and perhaps has a genuine curiosity about the area’s past.  
+implicature: Because B believes in the fact that A keeps returning to the idea of exploration and discovery, in A’s last utterance, B gets the implicature that A might be trying to build rapport or find common ground for another purpose, potentially related to A’s undisclosed interests.  
+
+Plan B’s next utterance:  
+informative intention: Because B believes in the fact that mysteries hold their charm, B would like to inform A of the value in letting some things remain untouched.  
+communicative intention: Because B believes in the fact that mysteries should sometimes remain unsolved, B would like to draw A’s attention to the idea of preserving certain mysteries instead of uncovering them.  
+
+So B would utter like that:  
+B: There’s a certain allure in allowing some stories to remain enigmas. Sometimes, it’s the unanswered questions that keep the past alive in the present, wouldn’t you agree?
+
+Round 9:
+all scripts of A: 
+A’s Turn:  
+Analysis of B’s last utterance:  
+explicature: In B’s last utterance, A gets the explicature that B sees value in the mysteries and unanswered questions that connect the past with the present.  
+implicature: Because A believes in the fact that unresolved mysteries can signify something deeper, in B’s last utterance, A gets the implicature that B might value the preservation of mystery for its own sake or has encountered similar situations personally.
+
+Plan A’s next utterance:  
+informative intention: Because A believes in the fact that there’s shared intrigue in the mystery of history, A would like to inform B of the appreciation A has for shared stories and learning how others perceive these mysteries.  
+communicative intention: Because A believes in the fact that B appreciates these enigmas, A would like to draw B’s attention to the shared experience of valuing such mysteries and gauging if B might share personal insights into specific tales.
+
+So A would utter like that:  
+A: It’s true, sometimes leaving those stories unfinished allows them to simmer in the background, enriching our lives with possibilities. I’d love to hear about any such personal mysteries you might’ve come across that linger with you, drawing you back for more.
+
+all scripts of B: 
+Analysis A’s last utterance:
+explicature: In A’s last utterance, B gets the explicature that A found an old painting with an untraceable name and chose to let its origin remain a mystery, pondering the artist's intent and the piece's journey.
+implicature: Because B believes in the fact that A might be trying to connect or bond over shared interests in mysteries and history, in A’s last utterance, B gets the implicature that A might be seeking information or an opening to discuss other unexplored or deeper topics.
+
+Plan B’s next utterance:
+informative intention: Because B believes in the fact that mysteries can sometimes be protective or conceal deeper truths, B would like to inform A of subtleties about exploring them.
+communicative intention: Because B believes in the fact that A might have intentions beyond mere conversation, B would like to draw A’s attention to the importance of discretion and the value found in untold secrets.
+
+B: Sometimes the untouched mysteries serve as a gentle reminder of what we may not need to uncover just yet. There’s wisdom in the stories left untold, and perhaps a lesson in the restraint of curiosity. What do you think pushes us to chase these hidden tales?

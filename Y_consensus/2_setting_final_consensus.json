@@ -1,60 +1,53 @@
 {
-  "total_points": 8,
+  "total_points": 7,
   "matched_points": [
     {
       "field": "character",
-      "point": "Somewhat introverted and sensitive, valuing friendship and self-worth.",
+      "point": "Perceptive and empathetic, skilled in diagnostic techniques.",
       "discovered": true,
-      "round": 1,
+      "round": 4,
       "side": "A"
     },
     {
       "field": "behavior",
-      "point": "Carefully mentions recent life changes during conversation with a gentle and understated tone, striving to gain the other’s approval.",
+      "point": "Engages in open-ended questions and careful observation to gather clues about B's condition, trying to uncover symptoms and health history without causing discomfort or appearing intrusive.",
       "discovered": true,
-      "round": 2,
+      "round": 3,
       "side": "A"
     },
     {
       "field": "goal",
-      "point": "Hopes to obtain recognition and support through subtle hints while remaining low-key.",
+      "point": "To obtain an accurate diagnosis by piecing together fragmented information while maintaining a trusting doctor-patient relationship, ensuring that B feels comfortable and respected.",
       "discovered": true,
-      "round": 1,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A is at an important turning point in life, urgently needing external inspiration but unwilling to overly expose personal confusion.",
-      "discovered": true,
-      "round": 1,
+      "round": 3,
       "side": "A"
     },
     {
       "field": "character",
-      "point": "Mature and composed, good at listening and maintaining a calm demeanor.",
-      "discovered": true,
-      "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "behavior",
-      "point": "Responds to A’s topics in a calm and understated manner, expressing concern while keeping an appropriate distance.",
-      "discovered": true,
-      "round": 2,
-      "side": "B"
-    },
-    {
-      "field": "goal",
-      "point": "To preserve a warm and stable long-term friendship without interfering in A's decisions.",
+      "point": "Protective of personal privacy, potentially withholding critical health details.",
       "discovered": true,
       "round": 3,
       "side": "B"
     },
     {
-      "field": "information",
-      "point": "B is aware of some of A's past experiences and current situation, having a good grasp of A’s circumstances, but chooses to communicate in an objective and neutral manner.",
+      "field": "behavior",
+      "point": "Gives partial answers and sometimes evades questions, trying to reveal only what they feel comfortable sharing, while maintaining a cooperative demeanor to avoid suspicion.",
       "discovered": true,
       "round": 1,
+      "side": "B"
+    },
+    {
+      "field": "goal",
+      "point": "To protect personal privacy and control the flow of sensitive health information, while still receiving effective medical care and advice from A.",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "field": "information",
+      "point": "B has a personal issue or past experience that makes them hesitant to disclose certain health details, which could be crucial for an accurate diagnosis.",
+      "discovered": true,
+      "round": 8,
       "side": "B"
     }
   ]

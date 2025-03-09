@@ -1,0 +1,61 @@
+{
+  "total_points": 8,
+  "matched_points": [
+    {
+      "field": "character",
+      "point": "Adept in the kitchen and enjoys sharing culinary knowledge, but can sometimes be overly controlling in a team setting.",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "field": "behavior",
+      "point": "Takes the lead in discussing the menu and suggests the most efficient way to divide the ingredients and cooking tasks.",
+      "discovered": true,
+      "round": 5,
+      "side": "A"
+    },
+    {
+      "field": "goal",
+      "point": "To ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way.",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "field": "information",
+      "point": "A has a passion for cooking and is excited about the chance to mentor someone new in the kitchen.",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "field": "character",
+      "point": "Novice in cooking but eager to learn and participate, B is open to guidance but also wants to contribute their own ideas.",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "field": "behavior",
+      "point": "Listens attentively to A’s suggestions and occasionally proposes alternative methods or ingredients, aiming for a collaborative effort.",
+      "discovered": true,
+      "round": 9,
+      "side": "B"
+    },
+    {
+      "field": "goal",
+      "point": "To actively participate in the cooking process and to learn as much as possible from A while also feeling valued as a team member.",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    },
+    {
+      "field": "information",
+      "point": "B has recently developed an interest in cooking and sees this class as a stepping stone to becoming more self-sufficient in the kitchen.",
+      "discovered": true,
+      "round": 1,
+      "side": "B"
+    }
+  ]
+}

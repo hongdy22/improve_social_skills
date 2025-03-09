@@ -2,37 +2,37 @@
   "A_exclusive": [
     {
       "field": "character",
-      "point": "Somewhat introverted and sensitive, valuing friendship and self-worth."
+      "point": "Perceptive and empathetic, skilled in diagnostic techniques."
     },
     {
       "field": "behavior",
-      "point": "Carefully mentions recent life changes during conversation with a gentle and understated tone, striving to gain the other’s approval."
+      "point": "Engages in open-ended questions and careful observation to gather clues about B's condition, trying to uncover symptoms and health history without causing discomfort or appearing intrusive."
     },
     {
       "field": "goal",
-      "point": "Hopes to obtain recognition and support through subtle hints while remaining low-key."
+      "point": "To obtain an accurate diagnosis by piecing together fragmented information while maintaining a trusting doctor-patient relationship, ensuring that B feels comfortable and respected."
     },
     {
       "field": "information",
-      "point": "A is at an important turning point in life, urgently needing external inspiration but unwilling to overly expose personal confusion."
+      "point": "A understands the importance of patient privacy and the challenges it presents in diagnosis, and is aware that missing information could lead to an incorrect or delayed diagnosis."
     }
   ],
   "B_exclusive": [
     {
       "field": "character",
-      "point": "Mature and composed, good at listening and maintaining a calm demeanor."
+      "point": "Protective of personal privacy, potentially withholding critical health details."
     },
     {
       "field": "behavior",
-      "point": "Responds to A’s topics in a calm and understated manner, expressing concern while keeping an appropriate distance."
+      "point": "Gives partial answers and sometimes evades questions, trying to reveal only what they feel comfortable sharing, while maintaining a cooperative demeanor to avoid suspicion."
     },
     {
       "field": "goal",
-      "point": "To preserve a warm and stable long-term friendship without interfering in A's decisions."
+      "point": "To protect personal privacy and control the flow of sensitive health information, while still receiving effective medical care and advice from A."
     },
     {
       "field": "information",
-      "point": "B is aware of some of A's past experiences and current situation, having a good grasp of A’s circumstances, but chooses to communicate in an objective and neutral manner."
+      "point": "B has a personal issue or past experience that makes them hesitant to disclose certain health details, which could be crucial for an accurate diagnosis."
     }
   ]
 }

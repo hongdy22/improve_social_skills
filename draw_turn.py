@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 ### 处理带推理的数据
 data_summary = {}
-for i in range(0, 6):
+for i in range(0, 20):
     file_path = f'Y_consensus/{i+1}_consensus_progress.json'
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -28,18 +28,18 @@ for key, value in data_summary.items():
 # 将前3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_1 = []
 for i in range(9):
-    average_data_1.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 4)]) / 3)
+    average_data_1.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 11)]) / 10)
 print(f"average_data = {average_data_1}")
 
 # 将后3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_2 = []
 for i in range(9):
-    average_data_2.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(4, 7)]) / 3)
+    average_data_2.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(11, 21)]) / 10)
 print(f"average_data = {average_data_2}")
 
 ### 处理不带推理的数据
 data_summary = {}
-for i in range(0, 6):
+for i in range(0, 20):
     file_path = f'N_consensus/{i+1}_consensus_progress.json'
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -64,13 +64,13 @@ for key, value in data_summary.items():
 # 将前3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_3 = []
 for i in range(9):
-    average_data_3.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 4)]) / 3)
+    average_data_3.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 11)]) / 10)
 print(f"average_data = {average_data_3}")
 
 # 将后3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_4 = []
 for i in range(9):
-    average_data_4.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(4, 7)]) / 3)
+    average_data_4.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(11, 21)]) / 10)
 print(f"average_data = {average_data_4}")
 
 # 绘制折线图
