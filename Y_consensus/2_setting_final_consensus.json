@@ -1,39 +1,32 @@
 {
-  "total_points": 7,
+  "total_points": 5,
   "matched_points": [
-    {
-      "field": "character",
-      "point": "Perceptive and empathetic, skilled in diagnostic techniques.",
-      "discovered": true,
-      "round": 4,
-      "side": "A"
-    },
     {
       "field": "behavior",
       "point": "Engages in open-ended questions and careful observation to gather clues about B's condition, trying to uncover symptoms and health history without causing discomfort or appearing intrusive.",
       "discovered": true,
-      "round": 3,
+      "round": 9,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To obtain an accurate diagnosis by piecing together fragmented information while maintaining a trusting doctor-patient relationship, ensuring that B feels comfortable and respected.",
       "discovered": true,
-      "round": 3,
+      "round": 9,
       "side": "A"
     },
     {
       "field": "character",
       "point": "Protective of personal privacy, potentially withholding critical health details.",
       "discovered": true,
-      "round": 3,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Gives partial answers and sometimes evades questions, trying to reveal only what they feel comfortable sharing, while maintaining a cooperative demeanor to avoid suspicion.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {
@@ -41,13 +34,6 @@
       "point": "To protect personal privacy and control the flow of sensitive health information, while still receiving effective medical care and advice from A.",
       "discovered": true,
       "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "information",
-      "point": "B has a personal issue or past experience that makes them hesitant to disclose certain health details, which could be crucial for an accurate diagnosis.",
-      "discovered": true,
-      "round": 8,
       "side": "B"
     }
   ]

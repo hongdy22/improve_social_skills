@@ -1,11 +1,18 @@
 {
-  "total_points": 3,
+  "total_points": 4,
   "matched_points": [
+    {
+      "field": "character",
+      "point": "Empathetic and insightful, skilled in therapeutic communication.",
+      "discovered": true,
+      "round": 2,
+      "side": "A"
+    },
     {
       "field": "character",
       "point": "Guarded and somewhat resistant, using defense mechanisms to protect themselves.",
       "discovered": true,
-      "round": 2,
+      "round": 3,
       "side": "B"
     },
     {
@@ -19,7 +26,7 @@
       "field": "goal",
       "point": "To maintain a sense of control over the conversation and protect their emotional state, while still receiving support from A without revealing too much.",
       "discovered": true,
-      "round": 7,
+      "round": 4,
       "side": "B"
     }
   ]

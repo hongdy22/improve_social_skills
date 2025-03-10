@@ -1,2 +1,18 @@
 Evaluating:
-final_scores: 7 points, 6 points, 9 points, 7 points, 8 points, 9 points, 8 points
+Final scores:
+
+1. 信息获取的充分程度: 4 points. The conversation reveals limited sharing of explicit details regarding provenance and conservation, despite multiple inquiries for specifics.
+
+2. 目标达成度: 3 points. Both parties seem to have made efforts to adhere to their goals, but substantive progress towards A's objective of verifying authenticity and value through documentation or third-party experts is limited.
+
+3. 发言符合角色,行为模式及场合: 9 points. The responses are in line with the characters' motivations and roles. A is persistent and meticulous, seeking detailed information, while B is strategic, offering ambiguous information to protect interests.
+
+4. 立场坚守与灵活性: 7 points. Both A and B maintain their positions effectively, with A continuously pressing for details and B adeptly avoiding giving explicit answers, demonstrating a fair balance.
+
+5. 信息推理能力: 7 points. A demonstrates reasonable inference skills by redirecting the conversation towards verifying authenticity through other means despite limited direct information.
+
+6. 主动信息探索与询问: 9 points. A consistently pursues detailed information through a range of questions addressing provenance, restoration, and expert verification, displaying a proactive approach.
+
+7. 情境适应与资源整合: 7 points. A shows adaptability by trying to explore indirect methods for authenticity verification, though B's lack of details limits the scope for resource integration.
+
+Final scores: 4 points, 3 points, 9 points, 7 points, 7 points, 9 points, 7 points

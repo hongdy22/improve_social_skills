@@ -1,290 +1,451 @@
 Round 0:
 all scripts A: 
-Location: A bustling coffee shop in a foreign city.
-
-A: *smiling as they approach B's table* Mind if I join you? It's tough finding a spot here. Seems like this place is quite popular. Are you a regular here, or just passing through like me?
+A: "Hey there, have you tried the new cafe around the corner? I heard it's becoming quite the gathering place for people sharing interesting stories."
 
 all scripts B: 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B understands that A is asking if they can join B because the coffee shop is crowded and is also inquiring whether B is a regular or just visiting.  
-implicature: Because B believes in the fact that people often strike up conversations in crowded places to gather information or test the waters, in A’s last utterance, B gets the implicature that A might be trying to establish some sort of rapport or familiarity.  
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is inquiring about B's familiarity with a new cafe and its role as a social hub.
 
-Plan B’s next utterance:  
-informative intention: Because B believes that people often have ulterior motives when asking about one's regularity or familiarity with a place, B would like to inform A of nothing specific and keep things vague.  
-communicative intention: Because B wants to gauge A's real intentions, B would like to draw A’s attention away from any personal habits or routines.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is inquiring about a cafe and its role as a social hub, combined with B's believed fact that casual mentions of social hubs can be a strategy to extract information about one's social network, B can infer implicature that A is attempting to gauge B's social connections and possibly their information-seeking tendencies.
 
-So B would utter like that:  
-B: Oh, it's definitely a busy spot, but I think that's what adds to the charm, don't you? It keeps things lively and interesting. What brings you to this part of town?
+3. Conclude fact received from this round:
+B get explicature that A is inquiring about a cafe and its role as a social hub and implicature that A is attempting to gauge B's social connections, B can conclude the fact that A is subtly probing for information about B's social activities.
+
+4. Evaluate the contrbution of the received fact to the goal:
+B's goal is that to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A is subtly probing for information about B's social activities makes a contribution to the goal that B should be cautious and continue to assess A's intentions further before divulging any personal information.
+
+5. Refine new goal depend on the contrbution:
+Because of the contrbution that B should be cautious and continue to assess A's intentions further before divulging any personal information, B can refine new goal that to continue engaging with A in a manner that avoids revealing any significant personal details while further evaluating A’s intent.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that to continue engaging with A in a manner that avoids revealing any significant personal details while further evaluating A’s intent. To achieve the goal, B has informative intention that to share non-specific and neutral information about the cafe, and communicative intention to steer the conversation away from personal activities and observe A’s reaction.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that to share non-specific and neutral information about the cafe, which means information in B's utterance will mainly focus on that. B's communicative intention is that to steer the conversation away from personal activities and observe A’s reaction, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: "Oh, I've walked past it a couple of times. Seems like a nice spot for a coffee. Do you often find yourself drawn to busy places like that?"
 
 Round 1:
 all scripts of A: 
-Round 1:
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets the explicature that B is curious about A’s reasons for being in this part of town.  
-implicature: Because A believes in the fact that B is cautious, in B’s last utterance, A gets the implicature that B might be assessing whether A's presence poses any threat or interest to them.
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B has noticed the cafe but hasn't visited it yet and is inquiring about A's preference for busy places.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that B is cautious, A would like to inform B of a believable and non-threatening reason for being in this part of town.  
-communicative intention: Because A believes in the fact that B might be assessing A’s intentions, A would like to draw B’s attention to A’s interest in local culture as a safe topic of discussion. 
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B has noticed the cafe but hasn't visited it yet, combined with A's believed fact that B is cautious and tests others, A can infer implicature that B is probing to understand A's habits and intentions regarding social settings.
 
-So A would utter like that:  
-A: Oh, I'm just exploring really—got some vacation time and decided to see what the less touristy areas have to offer. I heard there's a fantastic flea market nearby. Have you been to it? Seems like a good place to discover some hidden gems.
+3. Conclude fact received from this round:
+A get explicature that B has noticed the cafe but hasn't visited it yet and implicature that B is probing to understand A's habits and intentions, A can conclude the fact that B is showing interest in A’s social behavior possibly as a test.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion or compromising the mission. The received fact that B is showing interest in A’s social behavior possibly as a test makes contribution to the goal that A can better navigate conversations with B by being aware of and addressing B's cautious nature.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A can better navigate conversations with B by being aware of and addressing B's cautious nature, A can refine new goal that is to subtly reassure B to reduce suspicion while gently steering the conversation towards obtaining the target information.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to subtly reassure B to reduce suspicion while gently steering the conversation towards obtaining the target information. To achieve the goal, A has informative intention that sharing a bit about personal preferences in social settings and communicative intention that put B at ease in this topic.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that sharing a bit about personal preferences in social settings, which means information in A's utterance will mainly focus on that. A's communicative intention is that put B at ease in this topic, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "I do enjoy the occasional bustling spot—it’s a great way to feel the pulse of the city. But I also value quieter places to unwind. How about you, do you prefer the buzz or the serenity?"
 
 all scripts of B: 
-B's Turn:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A is interested in the new cafe and the type of people who gather there.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A is trying to make casual conversation about their presence in the area and their habits regarding visiting this location.
-implicature: Because B believes in the fact that A might have an ulterior motive for starting the conversation, in A’s last utterance, B gets the implicature that A is subtly trying to gather information about B's patterns or reasons for being there.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is interested in the new cafe and the type of people who gather there, combined with B's believed fact that intelligence officers often frequent popular gathering spots to gather information, B can infer implicature that A might be interested in more than just coffee and stories.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that A might be probing for personal information, B would like to inform A of little about the area while revealing nothing personal.
-communicative intention: Because B believes in the fact that A might be interested in knowing if B is a regular in the area, B would like to draw A’s attention to the general atmosphere of the place rather than themselves.
+3. Conclude fact received from this round:  
+B get explicature that A is interested in the new cafe and the type of people who gather there and implicature that A might be interested in more than just coffee and stories, B can conclude the fact that A could be probing for more information about the gathering at the cafe.
 
-So B would utter like that:  
-B: Oh, just passing through, mostly. But I do enjoy how this place seems to bring a lot of different people together. The atmosphere's unique, don't you think? Is this your first time around here?
+4. Evaluate the contrbution of the received fact to the goal:  
+B's goal is that to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A could be probing for more information about the gathering at the cafe makes a contribution to the goal that B needs to be cautious about what they disclose.
+
+5. Refine new goal depend on the contrbution:  
+Because of the contrbution that B needs to be cautious about what they disclose, B can refine new goal that to further probe A’s intentions without giving away any new information.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is that to further probe A’s intentions without giving away any new information. To achieve the goal, B has informative intention that to subtly test A’s interest while keeping vague details and communicative intention that to lead A into revealing more about their purpose.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is that to subtly test A’s interest while keeping vague details, which means information in B's utterance will mainly focus on that. B's communicative intention is that to lead A into revealing more about their purpose, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: "It's interesting you mention interesting stories. Have you heard anything specific about the kind of stories people share there?"
 
 Round 2:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is curious about specific stories or information shared at the cafe.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is curious about specific stories or information shared at the cafe, combined with A's believed fact that B is cautious and tests people’s intentions, A can infer implicature that B is testing to see if A has information or a reason to visit the cafe frequently.
 
-explicature: In B’s last utterance, A gets explicature that B is intrigued by the diversity and energy of the place and is possibly observing the dynamics around, perhaps to gauge A's interest or as a test.
+3. Conclude fact received from this round:
+A get explicature that B is curious about specific stories or information shared, and implicature that B is testing to see if A has a specific purpose for frequenting the cafe. A can conclude the fact that B is interested in information exchange or gathering at the cafe.
 
-implicature: Because A believes in the fact that B is cautious and might be assessing A’s real intentions, in B’s last utterance, A gets the implicature that B is probing to see how familiar A is with the area or its people.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion. The received fact that B is interested in information exchange or gathering at the cafe contributes to the goal by indicating that the cafe might be a significant location for intelligence gatherings, and B might have a role there.
 
-Plan A’s next utterance:
+5. Refine new goal depending on the contribution:
+Because of the contribution that the cafe might be significant for information exchange, A can refine new goal that is to explore the significance of the cafe further and B's potential role in it.
 
-informative intention: Because A believes in the fact that building rapport could lead to B divulging more personal insights, A would like to inform B of a shared interest in people-watching and experiencing the local culture.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to explore the significance of the cafe further and B's potential role in it. To achieve the goal, A has informative intention to subtly gather more information about the cafe and its relevance to B, and communicative intention to engage B in sharing more about the types of gatherings.
 
-communicative intention: Because A believes in the fact that establishing a common ground is key to gaining B’s trust, A would like to draw B’s attention to the shared experience of observing the diversity and liveliness of the place.
-
-So A would utter like that:
-
-A: Isn’t it? I find it fascinating, all the stories you can imagine just by watching people pass by. It’s like getting a glimpse into a hundred different lives. Do you find yourself people-watching often, or is it more about the unique character of the places themselves that catches your interest?
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to subtly gather more information about the cafe, which means information in A's utterance will mainly focus on that. A's communicative intention is to engage B in sharing more about the types of gatherings, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "I overheard people talking about some intriguing discussions happening there—seems like folks gather for more than just coffee. Do you know if it’s become a hub for any particular groups or interests?"
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A enjoys both bustling and quieter places and is curious about B's preference.
 
-Analysis A’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A enjoys both bustling and quieter places and is curious about B's preference, combined with B's believed fact that people who mix social environments may be looking to blend in or gather intelligence, B can infer implicature that A might be trying to adapt to various social settings for a hidden purpose.
 
-Explicature: In A’s last utterance, B gets the explicature that A is claiming to be on vacation and interested in exploring local attractions such as the flea market.
+3. Conclude fact received from this round:
+B get explicature that A enjoys both bustling and quieter places and is curious about B's preference and implicature that A might be trying to adapt to various social settings for a hidden purpose, B can conclude the fact that A might be assessing social environments strategically.
 
-Implicature: Because B believes in the fact that people sometimes disguise their true intentions under the guise of tourism, in A’s last utterance, B gets the implicature that A might be using the 'vacation' as a cover for another purpose.
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A might be assessing social environments strategically makes a contribution to the goal that it supports the suspicion that A might have hidden motives related to intelligence-gathering.
 
-Plan B’s next utterance:
+5. Refine new goal depending on the contribution:
+Because of the contribution that it supports the suspicion that A might have hidden motives related to intelligence-gathering, B can refine the new goal that is to subtly test A's response to specific topics and assess their reactions without raising suspicion.
 
-Informative intention: Because B believes in the fact that understanding a person's familiarity with an area can reveal hidden intentions, B would like to inform A of the fact that there are many interesting aspects to this location besides markets.
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that to subtly test A's response to specific topics and assess their reactions without raising suspicion. To achieve the goal, B has informative intention that to mention a vague, intriguing story topic and communicative intention that to see how A reacts to potentially sensitive topics.
 
-Communicative intention: Because B believes in the fact that people often reveal themselves when casually speaking about other interests, B would like to draw A’s attention to more personal topics.
-
-So B would utter like that:
-
-B: It's funny how those markets can be a microcosm of society, isn't it? They reveal so much about the place and its people. What do you usually look for in these 'hidden gems'? We all have our little treasures we keep an eye out for, don't we?
+7. Utter depend on B's informative intention and communicative intention:
+B's informative intention is that to mention a vague, intriguing story topic, which means information in B's utterance will mainly focus on that. B's communicative intention is that to see how A reacts to potentially sensitive topics, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: "Well, there was some talk about a rather interesting figure who used to frequent places like that—kind of a mystery, really. Ever heard any fascinating characters in your visits?"
 
 Round 3:
 all scripts of A: 
-A’s Turn:  
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets the explicature that B is probing for what A is specifically interested in, possibly to gauge A’s genuine interest or intentions.  
-implicature: Because A believes in the fact that B is cautious and is trying to determine the authenticity of A’s story, in B’s last utterance, A gets the implicature that B is subtly testing or drawing out A's true interests or character.  
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B has heard about an interesting figure who used to frequent similar cafes and is curious if A has encountered any fascinating characters.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that maintaining a consistent cover story is crucial, A would like to inform B of a general, harmless interest that aligns with their persona.  
-communicative intention: Because A believes in the fact that sharing a personal anecdote could build rapport, A would like to draw B’s attention to the charming unpredictability of discovering unique items.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B has heard about an interesting figure, combined with A's believed fact that interesting figures might have valuable information or leads, A can infer implicature that B might be hinting at an information source or network worth investigating.
 
-So A would utter like that:  
-A: I usually have my eye out for old books and little trinkets that have a story to tell, though sometimes you stumble upon something completely unexpected that just speaks to you. It’s the thrill of the unknown, I suppose—like finding a forgotten piece of history amidst the present day. Do you have any favorite finds or stories from these places?
+3. Conclude fact received from this round:
+A gets explicature that B is aware of a mystery figure associated with similar places and implicature that B may know about networks worth investigating, A can conclude the fact that there is a potentially valuable information source connected to these places.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion. The received fact that there is a potentially valuable information source connected to these places contributes to the goal by indicating a possible lead for further inquiry.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that there is a possible lead for further inquiry, A can refine the new goal to identify more details about the interesting figure or network from B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to identify more details about the interesting figure or network from B. To achieve the goal, A has the informative intention to subtly express interest in unusual characters and the communicative intention to encourage B to share more details about the intriguing figure.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to subtly express interest in unusual characters, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to share more details about the intriguing figure, which means A's utterance will imply B to pay attention to that. So A would utter like this:
+A: "Fascinating figures always have the best stories, don’t they? I once ran into someone rather mysterious myself, at a similar spot. People like that often leave quite an impression—what's the story behind this figure you've heard about?"
 
 all scripts of B: 
-**B's Turn:**
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A overheard discussions implying the cafe is attracting specific groups or interests.
 
-**Analysis A’s last utterance:**
-- *explicature:* In A’s last utterance, B gets the explicature that A finds markets fascinating and sees them as a window into the lives of others, hinting at a curiosity about people. 
-- *implicature:* Because B believes in the fact that people who watch others often have a deeper interest in understanding personalities or gathering information, in A’s last utterance, B gets the implicature that A might be probing for specific behavioral information or trying to gauge B’s personal interests.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A overheard discussions implying the cafe is attracting specific groups or interests, combined with B's believed fact that such places often attract people exchanging not just ordinary chitchat but potentially sensitive information, B can infer implicature that A might be probing to find out if the cafe is a meeting point for any specific or important figures.
 
-**Plan B’s next utterance:**
-- *informative intention:* Because B believes in the fact that understanding true intentions is key to safeguarding information, B would like to inform A of a shared interest in collecting unique stories or experiences.
-- *communicative intention:* Because B believes in the fact that demonstrating an understanding without giving away too much can retain control of the conversation, B would like to draw A’s attention to the vast array of stories one can encounter daily.
+3. Conclude fact received from this round:
+B get explicature that A overheard discussions implying the cafe is attracting specific groups or interests and implicature that A might be probing to find out if the cafe is a meeting point for any specific or important figures, B can conclude the fact that A is keenly interested in learning about any influential or particularly intriguing gatherings taking place at the cafe.
 
-**B:** It’s more about observing the vibrant tapestry of life for me. Sometimes the stories you witness are more valuable than any object you could purchase. Wouldn’t you agree that each encounter can hold a hidden story just waiting to be revealed? Speaking of which, have you uncovered any intriguing tales on your travels recently?
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A is keenly interested in learning about any influential or particularly intriguing gatherings taking place at the cafe makes contribution to the goal that it suggests A may have a deeper agenda in gathering such information.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it suggests A may have a deeper agenda in gathering such information, B can refine new goal that to subtly determine the extent of A's interest without revealing too much.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that to subtly determine the extent of A's interest without revealing too much. To achieve the goal, B has informative intention to give minimal information about the cafe and communicative intention to imply skepticism about A's motives.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is to give minimal information about the cafe, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply skepticism about A's motives, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: "Interesting groups, you say? I haven't really noticed anything out of the ordinary. Why does it pique your interest so much?"
 
 Round 4:
 all scripts of A: 
-Certainly, here is how A might respond:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is feigning ignorance about noticing anything unusual or noteworthy about the gatherings.
 
----
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is feigning ignorance about noticing anything unusual or noteworthy about the gatherings, combined with A's believed fact that B is highly cautious and tends to test others' intentions, A can infer implicature that B might be aware of significant activities but is deliberately withholding that information.
 
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets the explicature that B is interested in the cultural and societal aspects revealed by markets and enjoys finding personal 'little treasures'.  
-implicature: Because A believes in the fact that B cares about meaningful experiences and is cautious about revealing too much personal information, in B’s last utterance, A gets the implicature that B values the intrinsic stories connected to items, possibly indicating a deeper level of interest in their surroundings.
+3. Conclude fact received from this round:
+A get explicature that B is feigning ignorance about noticing anything unusual or noteworthy about the gatherings and implicature that B might be aware of significant activities but is deliberately withholding that information, A can conclude the fact that B is protecting information and testing A's patience and probing skills.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that B shares an interest in unique and personal stories connected to small items, A would like to inform B of a specific gemstone they supposedly found that has an interesting tale attached to it.  
-communicative intention: Because A believes in the fact that B appreciates fascinating stories, A would like to draw B’s attention to the tale of the item to engage B further in conversation and gather information about B’s potential finds or insights.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion or compromising the mission, and to discern any potential threats or valuable leads. The received fact that B is protecting information and testing A's patience and probing skills makes a contribution to the goal that it indicates the need for a more nuanced approach and confirms that valuable intelligence is likely present.
 
-So A would utter like that:  
-A: Absolutely! Once, I stumbled upon a small locket in an old marketplace—it supposedly held a piece of a famous writer’s desk within it. The vendor said it came from a manor sale, which makes you wonder about all the lives it's touched. Have you ever come across anything with such a captivating backstory?
+5. Refine new goal depending on the contribution:
+Because of the contribution that it indicates the need for a more nuanced approach and confirms that valuable intelligence is likely present, A can refine the new goal to subtly encourage B to trust and share more specific information without feeling threatened.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to subtly encourage B to trust and share more specific information without feeling threatened. To achieve the goal, A has the informative intention to imply that A is genuinely curious and harmlessly interested and the communicative intention to establish more rapport and reduce B's guardedness.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to imply that A is genuinely curious and harmlessly interested, which means information in A's utterance will mainly focus on that. A's communicative intention is to establish more rapport and reduce B's guardedness, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Oh, just general curiosity. I find it intriguing how certain places cultivate their own unique atmosphere and stories. It's always a bit of fun to guess what brings people together, like a puzzle. Anything else you've noticed that stands out?"
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A is interested in finding out more about an intriguing figure or group associated with the cafe.  
 
-Analysis A's last utterance:  
-explicature: In A's last utterance, B gets the explicature that A enjoys looking for items with historical stories or unexpected significance at markets.  
-implicature: Because B believes in the fact that people often use such hobbies as a cover to extract or observe data, in A's last utterance, B gets the implicature that A might be probing for information under the guise of casual interest.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is interested in finding out more about an intriguing figure or group associated with the cafe, combined with B's believed fact that people looking for such figures often have hidden motives or agendas, B can infer implicature that A might be searching for information related to something beyond casual interest.  
 
-Plan B's next utterance:  
-informative intention: Because B believes in the fact that genuine stories or interests are often hard to conceal, B would like to inform A of a similar but personal interest in unique stories.  
-communicative intention: Because B believes in the fact that steering the topic might reveal A's true intentions, B would like to draw A’s attention to a more personal level of discussion to observe their response.
+3. Conclude fact received from this round:  
+B get explicature that A is interested in finding out more about an intriguing figure or group associated with the cafe and implicature that A might be searching for information related to something beyond casual interest, B can conclude the fact that A's interest seems to go beyond mere curiosity.  
 
-So B would utter like that:  
-B: Ah, old books are indeed fascinating—each tells a story beyond the words within its pages. My favorite finds are those with handwritten notes or inscriptions. They give a personal touch that connects you to its past owners. Have you ever come across something like that, which made you ponder who the previous owner might have been?
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A's interest seems to go beyond mere curiosity makes a contribution to the goal by providing evidence of potential ulterior motives.  
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that there is evidence of potential ulterior motives, B can refine new goal to subtly uncover A's true intentions without directly confronting them.  
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to subtly uncover A's true intentions without directly confronting them. To achieve the goal, B has an informative intention to share generic or misleading details about the cafe and communicative intention to imply skepticism and prompt A to reveal more.  
+
+7. Utter depend on B's informative intention and communicative intention:  
+B's informative intention is to share generic or misleading details about the cafe, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply skepticism and prompt A to reveal more, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: "I guess people just come and go without much fanfare—small talk over coffee, mundane stuff. What makes you so drawn to the more mysterious side of things?"
 
 Round 5:
 all scripts of A: 
-Analysis B’s last utterance:
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B believes the café is mostly ordinary, with typical interactions occurring there, and is curious about why A is interested in anything mysterious.
 
-explicature: In B’s last utterance A get explicature that B has an interest in old, annotated books and is intrigued by the personal stories behind them.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B believes the café is mostly ordinary, combined with A's believed fact that B is extremely cautious and selective in revealing information, A can infer implicature that B might know more than they admit and is testing A’s reaction to see if A has ulterior motives.
 
-implicature: Because A believe in the fact that B has a personal connection to historical items and stories, in B’s last utterance, A get implicature that B values the personal history and insight these items can offer.
+3. Conclude fact received from this round:
+A gets explicature that the café is mostly ordinary and implicature that B might know more than they admit, A can conclude the fact that B is aware of the potential for interesting occurrences but is measuring A’s intent.
 
-Plan A’s next utterance:
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion or compromising the mission. The received fact that B is aware yet cautious makes contribution to the goal by highlighting that A should proceed more carefully, ensuring B feels comfortable to share more.
 
-informative intention: Because A believe in the fact that B values personal history in books, A would like to inform B of a particularly interesting find that might resonate with this interest.
+5. Refine new goal depend on the contribution:
+Because of the contribution that A should proceed more carefully, A can refine new goal that is to build more trust with B and subtly encourage disclosure of further information.
 
-communicative intention: Because A believe in the fact that B appreciates the personal stories behind items, A would like to draw B’s attention to a story of such a find that includes handwritten notes.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to build more trust with B and subtly encourage disclosure of further information. To achieve the goal, A has informative intention to share non-threatening anecdotes and communicative intention to create a sense of mutual curiosity.
 
-So A would utter like that:
-A: Oh, yes. I once found a book at a small shop with a beautifully written dedication from a soldier to his beloved during the war. It made me wonder about their story and what those times must have been like for them. Do you ever imagine the stories behind such personal touches?
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to share non-threatening anecdotes, which means information in A's utterance will mainly focus on that. A's communicative intention is to create a sense of mutual curiosity, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "I suppose it’s just a personal quirk—I've always been fascinated by the stories people have to tell, whether they seem mundane or extraordinary on the surface. Sometimes, in chatting with others, you discover an unexpected side to what seems ordinary. Have you ever had a coffee shop moment where something seemingly insignificant turned into an interesting exchange?"
 
 all scripts of B: 
-**B’s Turn:**
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is curious about places that cultivate unique atmospheres and stories.
+  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is curious about places that cultivate unique atmospheres and stories, combined with B's believed fact that A might be probing for specific information, B can infer implicature that A is subtly trying to gather details about the people or activities that frequent such places.
 
-**Analysis A’s last utterance:**
+3. Conclude fact received from this round:
+B get explicature that A is curious about places that cultivate unique atmospheres and stories and implicature that A is subtly trying to gather details about the people or activities that frequent such places, B can conclude the fact that A is maneuvering to elicit more information from B about these venues.
 
-- **Explicature:** In A's last utterance, B gets the explicature that A is intrigued by stories attached to physical items and has a personal anecdote indicating a history of collected items with interesting backstories.
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A is maneuvering to elicit more information from B about these venues makes contribution to the goal by confirming that A is attempting to dig deeper, which supports the suspicion of A's motives.
 
-- **Implicature:** Because B believes in the fact that people often use personal stories to create rapport and potentially shift the focus away from probing questions, in A’s last utterance, B gets the implicature that A might be trying to establish a personal connection to avoid direct questions about their real intentions.
+5. Refine new goal depend on the contribution:
+Because of the contribution that it supports the suspicion of A's motives, B can refine a new goal that is to maintain a casual and non-revealing stance while subtly testing A's persistence and intentions further.
 
-**Plan B’s next utterance:**
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that to maintain a casual and non-revealing stance while subtly testing A's persistence and intentions further. To achieve the goal, B has an informative intention that is to imply that there is nothing noteworthy happening, and a communicative intention that is to subtly deflect and observe A's reaction.
 
-- **Informative Intention:** Because B believes in the fact that personal stories transmit not just information but create a personal link that could soften a person’s defenses, B would like to inform A that personal connections to objects can be deeply impactful, suggesting a shared interest in these connections.
-
-- **Communicative Intention:** Because B believes in the fact that A might be testing waters with subjective experiences to draw out B’s opinions or stories, B would like to draw A's attention to the way personal history and items interact on a more philosophical level, thus gently deflecting while keeping the conversation agreeable.
-
-**So B would utter like that:**
-
-B: Indeed, those personal marks left behind—like inscriptions—make you think about the hands that once held them and the thoughts they might have sparked. Sometimes, it’s almost like forming a silent dialogue between the past and the present. It’s fascinating how objects can hold such silent conversations, don’t you agree?
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that to imply that there is nothing noteworthy happening, which means information in B's utterance will mainly focus on that. B's communicative intention is that to subtly deflect and observe A's reaction, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: "It sounds like you enjoy the excitement of the unknown. For me, I think it's more about the simplicity of everyday exchanges that happen over a cup of coffee—like a pause in the routine. What keeps you interested in the hidden stories, though? Do you often delve into them?"
 
 Round 6:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A get explicature that B finds value in simple, everyday exchanges over coffee and is curious about A's interest in hidden stories.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B finds value in simple, everyday exchanges over coffee and is curious about A's interest in hidden stories, combined with A's believed fact that B might know something about intriguing discussions or figures, A can infer implicature that B might be trying to assess A's real motives or potential knowledge about these discussions or figures.
 
-explicature: In B’s last utterance, A gets the explicature that B appreciates the silent narratives and connections that objects from the past can create.
+3. Conclude fact received from this round:  
+A gets explicature that B finds value in simple, everyday exchanges over coffee and is curious about A's interest in hidden stories, and implicature that B might be trying to assess A's real motives or potential knowledge about these discussions or figures. A can conclude the fact that B may suspect A's underlying interest but has not explicitly connected it to anything specific.
 
-implicature: Because A believes in the fact that B values the stories behind artifacts, in B's last utterance, A gets the implicature that B has a deeper interest in history and its personal connections.
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to gather critical intelligence from B without raising suspicion or compromising the mission. The received fact that B may suspect A's underlying interest but has not explicitly connected it to anything specific contributes to the goal by suggesting that B is cautiously assessing A but without definitive conclusions.
 
-Plan A’s next utterance:
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B is cautiously assessing A but without definitive conclusions, A can refine the new goal to subtly steer the conversation towards more specific topics while maintaining B's curiosity without raising suspicion.
 
-informative intention: Because A believes in the fact that stories from the past intrigue B, A would like to inform B of the idea that sharing experiences can add to that silent dialogue.
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to subtly steer the conversation towards more specific topics while maintaining B's curiosity without raising suspicion. To achieve the goal, A has the informative intention to share a relatable anecdote about everyday exchanges turning unexpectedly revealing and a communicative intention to encourage B to share similar experiences.
 
-communicative intention: Because A believes in the fact that discussing history and personal stories engages B, A would like to draw B's attention to the idea of exploring these artifacts together to uncover more untold stories.
-
-So A would utter like that: 
-
-A: Absolutely, and sometimes sharing those finds with others can bring new perspectives to those silent conversations. Have you ever thought about what story you’d like to uncover next, or maybe collaborate on discovering more tales from times gone by?
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to share a relatable anecdote about everyday exchanges turning unexpectedly revealing, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to share similar experiences, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "It's funny you mention that—once, just by chance, I ended up discussing obscure local history with a stranger over coffee, which led me to a fascinating group that shared similar interests. Have you ever found yourself in a situation where a simple chat led to something unexpectedly revealing?"
 
 all scripts of B: 
-Analysis A’s last utterance:
-Explicature: In A’s last utterance, B gets the explicature that A found a book with a dedication from a soldier to his beloved during the war and wondered about their story.
-Implicature: Because B believes in the fact that A might be piecing together ways to engage personally, in A’s last utterance, B gets the implicature that A is trying to create a common ground through shared interest stories, possibly probing B’s own background for more information.
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is fascinated by both mundane and extraordinary stories and enjoys discovering hidden aspects through conversations.
 
-Plan B’s next utterance:
-Informative intention: Because B believes in the fact that objects do hold stories, B would like to inform A of the symbolic nature of these objects.
-Communicative intention: Because B believes in the fact that A might be probing for information, B would like to draw A’s attention to the abstract nature of connections without revealing personal insights.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is fascinated by both mundane and extraordinary stories and enjoys discovering hidden aspects through conversations, combined with B's believed fact that people interested in hidden stories often seek more than just casual conversation, B can infer implicature that A may have a deeper interest in uncovering specific information rather than just enjoying casual exchanges.
 
-So B would utter like that: Intriguing, isn't it? Every mark, every note feels like breathing life into the object, tracing it back to unknown paths. It’s a delicate web of stories, sometimes intertwined, sometimes lost in time. But isn’t it the mystery that keeps us entranced? Have you found many of these moments on your travels?
+3. Conclude fact received from this round:
+B get explicature that A is fascinated by both mundane and extraordinary stories and enjoys discovering hidden aspects through conversations and implicature that A may have a deeper interest in uncovering specific information rather than just enjoying casual exchanges, B can conclude the fact that A's motivations might be aligned with gathering specific intel.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A's motivations might be aligned with gathering specific intel makes a contribution to the goal that it provides a stronger indication of A's possible ulterior motives.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it provides a stronger indication of A's possible ulterior motives, B can refine new goal to subtly probe A further about their interest in the stories to clarify A's true intentions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is to subtly probe A further about their interest in the stories to clarify A's true intentions. To achieve the goal, B has informative intention to share insight into general coffee shop encounters and communicative intention to subtly question A’s depth of interest in such stories.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is to share insight into general coffee shop encounters, which means information in B's utterance will mainly focus on that. B's communicative intention is to subtly question A’s depth of interest in such stories, which means B's utterance will imply A to pay attention to that. So B would utter like this:  
+B: "I suppose in simple coffee shop encounters, you can stumble upon various types of stories, most just passing the time. But I'm curious, do these hidden stories provide you with something beyond just intrigue, or are they just a casual interest?"
 
 Round 7:
 all scripts of A: 
-Round 7:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is curious if the hidden stories provide A with something beyond just intrigue.
 
-A’s Turn:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is curious if the hidden stories provide A with something beyond just intrigue, combined with A's believed fact that B is cautious and might be probing for A's true intentions, A can infer implicature that B suspects A's interest in hidden stories might serve a more significant purpose than mere curiosity.
 
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets that B values the personal connections and histories behind objects, suggesting an interest in uncovering stories from the past.
-implicature: Because A believes B is genuinely interested in personal stories and historical connections, A gets the implicature that B might be open to discussing other historical or personal topics that could lead to discovering valuable information.
+3. Conclude fact received from this round:
+A get explicature that B is curious if the hidden stories provide A with something beyond just intrigue and implicature that B suspects A's interest in hidden stories might serve a more significant purpose than mere curiosity, A can conclude the fact that B is testing A to uncover a deeper motivation behind A's interest.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that sharing personal finds often leads to discovering new stories together, A would like to inform B of A’s openness to exploring more stories.
-communicative intention: Because A believes B enjoys personal stories and connections, A would like to draw B’s attention to the idea of uncovering a meaningful narrative together, perhaps leading into discussions on local histories or events.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion or compromising the mission, and to discern any potential threats or valuable leads. The received fact that B is testing A to uncover a deeper motivation behind A's interest makes a contribution to the goal by revealing B’s current behavioral focus, which helps A navigate the conversation without arousing suspicion.
 
-A: I completely agree. There’s something special about connecting those dots and unearthing forgotten stories. I’ve heard this area has a fascinating local history—perhaps we could explore more of those tales together. Have you come across any notable anecdotes or local legends that sparked your curiosity?
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is testing A to uncover a deeper motivation behind A's interest, A can refine a new goal to further steer the conversation in a manner that reassures B of A's innocent curiosity while subtly gathering more information about interesting groups or figures associated with the cafe.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to further steer the conversation in a manner that reassures B of A's innocent curiosity while subtly gathering more information about interesting groups or figures associated with the cafe. To achieve the goal, A has an informative intention to share relatable personal experiences that reinforce the theme of casual interest and a communicative intention to encourage B to reveal any experiences or stories related to notable figures indirectly.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to share relatable personal experiences that reinforce the theme of casual interest, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to reveal any experiences or stories related to notable figures indirectly, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "I completely understand the draw of simplicity—it's in these small, unplanned interactions that we often find a hint of the unexpected. Like the time when a seemingly ordinary chat led me to learn about a local artist whose work I now admire. Have you stumbled upon any interesting individuals or stories by chance, perhaps someone whose story left a mark on you?"
 
 all scripts of B: 
-B's Turn:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance, B gets explicature that A values interactions where seemingly mundane conversations can lead to discovering fascinating or unexpected stories.
 
-Analysis of A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A is interested in uncovering historical stories and possibly collaborating with others to do so.
-implicature: Because B believes in the fact that A might have an ulterior motive for sustaining this interest, in A’s last utterance, B gets the implicature that A might be trying to extract specific personal or historical information from B under the guise of shared curiosity.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A values interactions where seemingly mundane conversations can lead to unexpected discoveries, combined with B's believed fact that such intrigue often hides deeper motives, B can infer implicature that A might have a specific interest or objective beyond casual conversation.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that sometimes sharing too much can reveal one's vulnerabilities, B would like to inform A of the importance of holding onto personal stories and not uncovering everything at once.
-communicative intention: Because B believes in the fact that maintaining a certain level of mystery can be advantageous, B would like to draw A’s attention to the idea that not all stories need to be uncovered or shared immediately.
+3. Conclude fact received from this round:  
+B gets explicature that A values unexpected discoveries in mundane conversations and implicature that A might have a specific interest or objective. B can conclude the fact that A could be probing for information through seemingly casual interactions.
 
-So B would utter like that:
-B: True, but sometimes the magic lies in the mysteries that remain unsolved—every object has its time to reveal its secrets, if at all. Have you ever come across something so intriguing that you hesitated to delve deeper, letting it remain a mystery for a bit longer?
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions. The received fact that A could be probing for information contributes to the goal by highlighting a potential hidden agenda in A's behavior.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that highlights a potential hidden agenda in A, B can refine the new goal to subtly test A's persistence in uncovering specific details without revealing anything critical.
+
+6. Make informative intention and communicative intention depending on the refined goal:  
+B's goal is to subtly test A's persistence in uncovering specific details without revealing anything critical. To achieve the goal, B has informative intention to provide vague responses that lead nowhere and a communicative intention to gauge A's adaptability and level of interest.
+
+7. Utter depending on B's informative intention and communicative intention:  
+B's informative intention is to provide vague responses, which means information in B's utterance will mainly focus on diverting A from the core topic. B's communicative intention is to gauge A's adaptability, which means B's utterance will imply A to pay attention to how B deflects the discussion. So B would utter like that:  
+B: "Hidden stories can be quite captivating, but I find that they often remain just whispers in the background, don't you think? It's not every day that a casual chat turns into something truly revealing. Have you stumbled upon anything like that often, or is it more of a rare occurrence for you?"
 
 Round 8:
 all scripts of A: 
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B finds value in leaving some stories and mysteries unexplored.
-implicature: Because A believes in the fact that B appreciates the allure of unsolved mysteries, in B’s last utterance, A gets the implicature that B might value the emotional or philosophical aspect of storytelling as much as the historical facts.
+1. Get explicature from B's last utterance:
+In B's last utterance, A gets explicature that B finds hidden stories captivating but believes they often remain whispers in the background.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that shared curiosities can build rapport, A would like to inform B of a mysterious object A has encountered without disclosing too much, to keep the aura of mystery.
-communicative intention: Because A believes in the fact that B appreciates unsolved mysteries, A would like to draw B’s attention to the idea of mysteries enhancing our understanding of human nature and history.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B finds hidden stories captivating but whispers, combined with A's believed fact that B is cautious and tests intentions, A can infer implicature that B is subtly probing A's real interest and intentions regarding hidden stories.
 
-So A would utter like that:
-A: There was an instance where I found an old painting, with a name scrawled on the back that no one could quite trace. I decided to let it stay unresolved for a bit, wondering about the artist’s intent and the journey of the piece. Have you ever found that sometimes the unknown adds a layer of meaning to the past?
+3. Conclude fact received from this round:
+A gets explicature that B finds hidden stories captivating but whispers and implicature that B is subtly probing A's real interest, A can conclude the fact that B is assessing if A's curiosity has deeper motives.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion. The received fact that B is assessing if A's curiosity has deeper motives makes a contribution to the goal that A needs to maintain a careful balance between showing interest and not arousing suspicion.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that A needs to maintain a careful balance between showing interest and not arousing suspicion, A can refine the new goal to demonstrate genuine curiosity while subtly encouraging B to share more.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to demonstrate genuine curiosity while subtly encouraging B to share more. To achieve the goal, A has informative intention to keep the conversation grounded in personal experiences and communicative intention to imply that unexpected stories can be rewarding and worth exploring further.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to keep the conversation grounded in personal experiences, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply that unexpected stories can be rewarding and worth exploring further, which means A's utterance will imply B to pay attention to that. So A would utter like this:
+A: "That's true, many stories do remain as light whispers, blending into the background of daily life. Yet, sometimes these whispers have a way of surfacing into something unexpectedly rich. Like those encounters where a simple chat reveals a unique perspective or a person with a passion that changes how you see something ordinary. Have you had any moments where a passing conversation introduced you to a new idea or interest?"
 
 all scripts of B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets the explicature that A is interested in collaborating to uncover local history and perhaps has a genuine curiosity about the area’s past.  
-implicature: Because B believes in the fact that A keeps returning to the idea of exploration and discovery, in A’s last utterance, B gets the implicature that A might be trying to build rapport or find common ground for another purpose, potentially related to A’s undisclosed interests.  
+1. Get explicature from A’s last utterance:
+In A’s last utterance B gets explicature that A has an interest in uncovering stories from casual interactions and often values those moments where ordinary exchanges lead to discovering something noteworthy, like encountering a local artist.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that mysteries hold their charm, B would like to inform A of the value in letting some things remain untouched.  
-communicative intention: Because B believes in the fact that mysteries should sometimes remain unsolved, B would like to draw A’s attention to the idea of preserving certain mysteries instead of uncovering them.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A values ordinary exchanges that lead to discovering something noteworthy, combined with B's believed fact that people sometimes hide their real intentions under the guise of curiosity, B can infer implicature that A might be using this interest in stories to mask a deeper investigation or ulterior motive.
 
-So B would utter like that:  
-B: There’s a certain allure in allowing some stories to remain enigmas. Sometimes, it’s the unanswered questions that keep the past alive in the present, wouldn’t you agree?
+3. Conclude fact received from this round:
+B gets explicature that A values ordinary exchanges that can lead to discovery and implicature that A might be masking a deeper investigation, B can conclude the fact that A has a pattern of pursuing seemingly innocuous conversations with potentially deeper intent.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to protect sensitive information and personal interests by identifying whether A is an intelligence officer. The received fact that A has a pattern of pursuing seemingly innocuous conversations with potentially deeper intent contributes to the goal by providing additional evidence that A might be probing for information.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that A might be probing for information, B can refine the new goal that to further test A's intentions by leading the conversation towards potentially sensitive topics in a controlled manner to observe their reaction.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that to further test A's intentions. To achieve the goal, B has an informative intention to provide a neutral yet mildly inviting opening to see if A takes the bait and a communicative intention to observe A's response for signs of increased interest or probing questions.
+
+7. Utter depend on B's informative intention and communicative intention:
+B's informative intention is to provide a neutral yet mildly inviting opening, which means information in B's utterance will mainly focus on that. B's communicative intention is to observe A's response for signs of increased interest. So B would utter like that:  
+B: "You know, every now and then, you do hear some surprising tidbits in casual chats. Like at that cafe, there was talk about someone who had quite a story behind their travels abroad. But I suppose most of these tales just fade into the background, unless, of course, you're actively looking for more, right?"
 
 Round 9:
 all scripts of A: 
-A’s Turn:  
-Analysis of B’s last utterance:  
-explicature: In B’s last utterance, A gets the explicature that B sees value in the mysteries and unanswered questions that connect the past with the present.  
-implicature: Because A believes in the fact that unresolved mysteries can signify something deeper, in B’s last utterance, A gets the implicature that B might value the preservation of mystery for its own sake or has encountered similar situations personally.
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B once heard about someone with an interesting travel story during a chat at the café.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that there’s shared intrigue in the mystery of history, A would like to inform B of the appreciation A has for shared stories and learning how others perceive these mysteries.  
-communicative intention: Because A believes in the fact that B appreciates these enigmas, A would like to draw B’s attention to the shared experience of valuing such mysteries and gauging if B might share personal insights into specific tales.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B once heard about someone with an interesting travel story, combined with A's believed fact that significant conversations often happen under the guise of casual ones, A can infer implicature that there may be valuable information associated with travel that could be explored further.
 
-So A would utter like that:  
-A: It’s true, sometimes leaving those stories unfinished allows them to simmer in the background, enriching our lives with possibilities. I’d love to hear about any such personal mysteries you might’ve come across that linger with you, drawing you back for more.
+3. Conclude fact received from this round:
+A get explicature that B once heard about someone with an interesting travel story during a chat at the café and implicature that there may be valuable information associated with travel, A can conclude the fact that the café is a potential place where key interactions related to travel-related stories occur.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to gather critical intelligence from B without raising suspicion. The received fact that the café is a potential place where key interactions related to travel-related stories occur makes a contribution to the goal by identifying a potential source of relevant intelligence.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that this identifies a potential source of relevant intelligence, A can refine the new goal to explore further details about the travel-related stories shared at the café.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to explore further details about the travel-related stories shared at the café. To achieve the goal, A has the informative intention to seek specific details about the travel-related stories and the communicative intention to show genuine curiosity in uncovering interesting anecdotes.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to seek specific details about the travel-related stories, which means information in A's utterance will mainly focus on that. A's communicative intention is to show genuine curiosity in uncovering interesting anecdotes, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Travel stories can be so enlightening, offering a glimpse into different worlds and experiences. That café sounds like a spot where people have some of the most intriguing tales. Was there something particular about this person's journey that stood out to you?"
 
 all scripts of B: 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A found an old painting with an untraceable name and chose to let its origin remain a mystery, pondering the artist's intent and the piece's journey.
-implicature: Because B believes in the fact that A might be trying to connect or bond over shared interests in mysteries and history, in A’s last utterance, B gets the implicature that A might be seeking information or an opening to discuss other unexplored or deeper topics.
+1. Get explicature from A’s last utterance:
+In A’s last utterance B gets explicature that A enjoys finding significance in everyday encounters and learning new perspectives through casual interactions.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that mysteries can sometimes be protective or conceal deeper truths, B would like to inform A of subtleties about exploring them.
-communicative intention: Because B believes in the fact that A might have intentions beyond mere conversation, B would like to draw A’s attention to the importance of discretion and the value found in untold secrets.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A enjoys finding significance in everyday encounters and learning new perspectives through casual interactions, combined with B's believed fact that individuals who seek out hidden stories may have ulterior motives, B can infer implicature that A may be more than just casually interested in stories and perspectives but might be probing for specific information or connections.
 
-B: Sometimes the untouched mysteries serve as a gentle reminder of what we may not need to uncover just yet. There’s wisdom in the stories left untold, and perhaps a lesson in the restraint of curiosity. What do you think pushes us to chase these hidden tales?
+3. Conclude fact received from this round:
+B gets explicature that A enjoys finding significance in everyday encounters and learning new perspectives and implicature that A may be probing for specific information or connections; B can conclude the fact that A's curiosity about stories is deeper than casual interest and may be strategic.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is to protect sensitive information and identify whether A is an intelligence officer. The received fact that A's curiosity about stories is deeper than casual interest and may be strategic contributes to the goal by indicating A's potential ulterior motives.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that indicates A's potential ulterior motives, B can refine the new goal to further test and confirm A's intentions without revealing any sensitive information.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is to further test and confirm A's intentions without revealing any sensitive information. To achieve the goal, B has an informative intention to appear open yet subtly cautious about sharing information and a communicative intention to subtly challenge A's underlying motives.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is to appear open yet subtly cautious about sharing information, which means the information in B's utterance will mainly focus on that. B's communicative intention is to subtly challenge A's underlying motives, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: "Travel stories can be intriguing indeed, but sometimes I wonder if there's more to them than meets the eye. When you're drawn into these unexpected conversations, do you find yourself guided by curiosity or perhaps something more deliberate?"

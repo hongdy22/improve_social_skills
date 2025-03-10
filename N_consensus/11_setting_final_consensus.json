@@ -1,6 +1,13 @@
 {
-  "total_points": 7,
+  "total_points": 8,
   "matched_points": [
+    {
+      "field": "character",
+      "point": "Gentle and caring, but has become somewhat silent recently due to work changes.",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
     {
       "field": "behavior",
       "point": "Occasionally explains late arrivals by citing busyness, with a hint of mild fatigue in the tone.",
@@ -19,7 +26,7 @@
       "field": "information",
       "point": "A has just received a work transfer notice and the sudden increase in work pressure has resulted in reduced daily communication.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "A"
     },
     {
@@ -33,14 +40,14 @@
       "field": "behavior",
       "point": "Expresses concern through gentle questions and subtle hints, trying to prompt A to explain more about the situation.",
       "discovered": true,
-      "round": 3,
+      "round": 6,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "Hopes to receive more emotional feedback from A to bridge the growing communication gap.",
       "discovered": true,
-      "round": 2,
+      "round": 4,
       "side": "B"
     },
     {

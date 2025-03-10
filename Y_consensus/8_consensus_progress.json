@@ -19,16 +19,26 @@
         "setting": 8,
         "round": 3,
         "progress": {
-            "B_discovered": [],
-            "A_discovered": []
+            "B_discovered": [
+                "character",
+                "goal"
+            ],
+            "A_discovered": [
+                "character"
+            ]
         }
     },
     {
         "setting": 8,
         "round": 4,
         "progress": {
-            "B_discovered": [],
-            "A_discovered": []
+            "B_discovered": [
+                "character",
+                "goal"
+            ],
+            "A_discovered": [
+                "character"
+            ]
         }
     },
     {
@@ -36,9 +46,12 @@
         "round": 5,
         "progress": {
             "B_discovered": [
+                "character",
                 "goal"
             ],
-            "A_discovered": []
+            "A_discovered": [
+                "character"
+            ]
         }
     },
     {
@@ -49,7 +62,9 @@
                 "character",
                 "goal"
             ],
-            "A_discovered": []
+            "A_discovered": [
+                "character"
+            ]
         }
     },
     {

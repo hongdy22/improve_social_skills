@@ -4,10 +4,10 @@
         "round": 1,
         "progress": {
             "B_discovered": [
-                "goal"
+                "behavior"
             ],
             "A_discovered": [
-                "goal"
+                "behavior"
             ]
         }
     },
@@ -20,6 +20,7 @@
                 "goal"
             ],
             "A_discovered": [
+                "character",
                 "behavior",
                 "goal"
             ]

@@ -2,10 +2,10 @@
   "total_points": 5,
   "matched_points": [
     {
-      "field": "behavior",
-      "point": "Engages in open-ended questioning to understand each family member's perspective, trying to uncover the underlying motivations and interests behind their stated positions.",
+      "field": "character",
+      "point": "Patient and empathetic, skilled in conflict resolution techniques.",
       "discovered": true,
-      "round": 8,
+      "round": 2,
       "side": "A"
     },
     {
@@ -19,21 +19,21 @@
       "field": "character",
       "point": "Guarded and strategic, motivated by personal interests in the dispute.",
       "discovered": true,
-      "round": 3,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Gives carefully worded responses that may not fully reflect their true intentions, often shifting focus to the perceived injustices or needs of others to garner sympathy or support.",
       "discovered": true,
-      "round": 3,
+      "round": 6,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "To protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires.",
       "discovered": true,
-      "round": 1,
+      "round": 9,
       "side": "B"
     }
   ]

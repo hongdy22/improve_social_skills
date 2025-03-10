@@ -1,13 +1,6 @@
 {
-  "total_points": 4,
+  "total_points": 3,
   "matched_points": [
-    {
-      "field": "character",
-      "point": "Astute and perceptive, skilled in interrogation techniques.",
-      "discovered": true,
-      "round": 9,
-      "side": "A"
-    },
     {
       "field": "character",
       "point": "Evasive and guarded, with a tendency to manipulate the conversation.",
@@ -19,14 +12,14 @@
       "field": "behavior",
       "point": "Gives carefully worded responses that avoid incrimination, often trying to shift focus away from critical details, while maintaining a calm and cooperative demeanor.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "To protect their own interests by not revealing incriminating information, to discern the detective's level of knowledge about the case, and to avoid providing any additional leads.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     }
   ]

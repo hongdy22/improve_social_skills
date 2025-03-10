@@ -1,299 +1,434 @@
 Round 0:
 all scripts A: 
-A: So, have you heard any interesting news from the grapevine lately? You know how things have been buzzing about those new changes.
+A: Hey B, have you heard any interesting tidbits around the water cooler lately? You know how these transformations always bring some unexpected announcements.
 
 all scripts B: 
-B's Turn:
+1. Get explicature from A’s last utterance:   
+In A’s last utterance B gets explicature that A is inquiring about any new, potentially surprising developments related to the company's transformation, particularly interested in announcements that might affect their workplace or promotions.
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets explicature that A is curious and probing for information regarding the recent changes and potential promotions happening within the company.  
-implicature: Because B believes in the fact that A is interested in the upcoming opportunity for advancement, in A’s last utterance, B gets the implicature that A is subtly fishing for any insider information that might give them an edge.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is inquiring about new announcements, combined with B's believed fact that the promotion scheme is not widely known and the number of promotion spots is limited, B can infer implicature that A might be trying to gather information on potential advancement opportunities related to the restructuring.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that they must keep the promotional details confidential, B would like to inform A of the general idea that everyone is being encouraged by the changes without giving away specifics.  
-communicative intention: Because B believes in the fact that maintaining a friendly atmosphere is crucial, B would like to draw A’s attention to the positive aspects of the transformation broadly.
+3. Conclude fact received from this round:  
+B gets explicature that A is curious about announcements and implicature that A might be exploring promotion opportunities, B can conclude the fact that A may be trying to gauge their chances or understand the competitive landscape for potential advancements.
 
-So B would utter like that:  
-B: Oh, you know how it is—there's always some buzz around here! But yeah, the company is really shaking things up for the better, I think. It's a great time for everyone to think about growth, don't you agree?
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to keep information ambiguous while preserving a friendly relationship. The received fact that A may be trying to gauge their chances contributes to the goal by alerting B to A's interest in the promotions, enabling B to be more cautious about what is shared.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that A is interested in potential advancements, B can refine the new goal to subtly guide the conversation away from specific promotion details while maintaining an amiable interaction with A.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to subtly guide the conversation while maintaining a friendly atmosphere. To achieve the goal, B has the informative intention to keep the details about promotions ambiguous and the communicative intention to maintain A's attention on the friendly dynamics of the conversation.
+
+7. Utter depending on B's informative intention and communicative intention:  
+B's informative intention is to keep details about promotions ambiguous, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply A to pay attention to the friendly dynamics, which means B's utterance will imply A should enjoy the conversation. So B would utter like that:  
+B: Oh, you know how it is—there's always something buzzing around! I think there's a lot of chatter, but we'll probably hear more once everything is official. How's everything else going with you lately?
 
 Round 1:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B acknowledges there are rumors about the transformation but is non-committal about having specific information.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B acknowledges there are rumors about the transformation but is non-committal about having specific information, combined with A's believed fact that B is usually well-informed about such matters, A can infer implicature that B might know something but is being cautious about sharing too much.
 
-explicature: In B’s last utterance, A gets the explicature that B acknowledges there’s talk about changes and views them positively, suggesting a focus on growth.
+3. Conclude fact received from this round:
+A get explicature that B acknowledges there are rumors about the transformation but is non-committal about having specific information and implicature that B might know something but is being cautious about sharing too much, A can conclude the fact that B might have insider information but is hesitating to disclose it.
 
-implicature: Because A believes in the fact that changes often bring opportunities for those who are informed, in B’s last utterance, A gets the implicature that B might have knowledge about possible advancements or opportunities that B hasn't shared yet.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression and to secure promotion-related information. The received fact that B might have insider information but is hesitating to disclose it makes a contribution to the goal by indicating that further probing is needed to access potential insider information.
 
-Plan A’s next utterance:
+5. Refine new goal depend on the contribution:
+Because of the contribution that further probing is needed to access potential insider information, A can refine new goal that is to subtly encourage B to share more by expressing mutual interest or concern about the transformation.
 
-informative intention: Because A believes in the fact that discussing opportunities can lead to uncovering useful information, A would like to inform B of A's own interest in these changes and any related advancement opportunities.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to subtly encourage B to share more by expressing mutual interest or concern about the transformation. To achieve the goal, A has informative intention that expressing interest in the potential changes without directly asking for classified information and communicative intention that implying to B that sharing insights would be beneficial for mutual understanding.
 
-communicative intention: Because A believes in the fact that showing interest in growth can encourage B to share more about opportunities, A would like to draw B’s attention to the aspect of advancements associated with the changes.
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that expressing interest in the potential changes without directly asking for classified information, which means information in A's utterance will mainly focus on that. A's communicative intention is that implying to B that sharing insights would be beneficial for mutual understanding, which means A's utterance will imply B to pay attention to that. So A would utter like that:
 
-So A would utter like that: 
-
-A: Absolutely, growth is definitely on my mind! I've been thinking about how these changes might open up some interesting paths for advancement. Have you considered any new opportunities that might come up from all this?
+A: You’re right; the official word will clear things up. But it's hard not to wonder how these changes might shake things up. Do you think this could mean new roles or a shift in responsibilities for some of us?
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:   
+In A’s last utterance B get explicature that A is inquiring about the upcoming announcements related to the company's transformation.
 
-Analysis A’s last utterance:
+2. Infer implicature from explicature combined with believed fact:   
+From the explicature that A is inquiring about the upcoming announcements related to the company's transformation, combined with B's believed fact that B is not competing for promotion, having already been pre-selected, and the number of promotion spots is very limited; this fact must remain unknown to A, B can infer implicature that A is trying to gain insight about the promotion opportunities.
 
-explicature: In A’s last utterance B gets the explicature that A is curious about specific details concerning the changes or potential opportunities within the company.
+3. Conclude fact received from this round:   
+B get explicature that A is inquiring about the upcoming announcements related to the company's transformation and implicature that A is trying to gain insight about the promotion opportunities, B can conclude the fact that A is seeking information possibly to assess their own chances for promotion.
 
-implicature: Because B believes in the fact that A is likely interested in possible advancements and is fishing for more information, in A’s last utterance, B gets the implicature that A wants to gather insider information about the promotion opportunities.
+4. Evaluate the contribution of the received fact to the goal:   
+B's goal is that to keep information ambiguous while preserving a friendly relationship with A, ensuring that the informational advantage is not diminished. The received fact that A is seeking information possibly to assess their own chances for promotion makes contribution to the goal that B remains cautious in the response to avoid revealing sensitive details.
 
-Plan B’s next utterance:
+5. Refine new goal depend on the contribution:   
+Because of the contribution that B remains cautious in the response to avoid revealing sensitive details, B can refine the new goal to gently steer the conversation away while maintaining an amicable tone.
 
-informative intention: Because B believes in the fact that A is seeking more knowledge about the promotion schemes, B would like to inform A of general atmospheres of anticipation within the company.
+6. Make informative intention and communicative intention depend on the refined goal:   
+B's goal is that to gently steer the conversation away while maintaining an amicable tone. To achieve the goal, B have informative intention that engage A in a discussion about other aspects of the company transformation, and communicative intention that subtly deter A’s focus on the promotion specifics.
 
-communicative intention: Because B believes in the fact that it’s crucial to keep the specifics ambiguous, B would like to draw A's attention to the broader picture rather than the specific details of the promotion process.
-
-So B would utter like that:
-
-B: Absolutely, there's quite the buzz indeed! The whole restructuring seems like it's bringing quite a few exciting developments. I think everyone will find their own moments to shine in the upcoming changes, don't you think?
+7. Utter depend on the B's informative intention and communicative intention:   
+B's informative intention is that engage A in a discussion about other aspects of the company transformation, which means information in B's utterance will mainly focus on that. B's communicative intention is that subtly deter A’s focus on the promotion specifics, which means B's utterance will imply A to pay attention to that. So B would utter like that:   
+B: Oh, there's definitely a lot happening with the transformation! Have you noticed how they're planning to revamp some of our processes? It seems like an exciting time for all of us to innovate and contribute. Have you been thinking about how you might approach these upcoming changes?
 
 Round 2:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is aware of the organization's plan to revamp processes and acknowledges the opportunity for innovation and contribution.
 
-Analysis of B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is aware of the organization's plan to revamp processes and acknowledges the opportunity for innovation and contribution, combined with A's believed fact that changes often lead to new opportunities for advancement, A can infer implicature that B might think there's potential for creating or evolving roles through innovation.
 
-explicature: In B’s last utterance, A gets explicature that B acknowledges the restructuring developments and seems optimistic about them, implying that everyone, including themselves, will have opportunities to excel.
+3. Conclude fact received from this round:  
+A get explicature that B is aware of the organization's plan to revamp processes and acknowledges the opportunity for innovation and contribution and implicature that B might think there's potential for creating or evolving roles through innovation, A can conclude the fact that B is optimistic about the organizational changes and sees potential for personal or professional growth through these transformations.
 
-implicature: Because A believes in the fact that B may have more insight into the organizational changes than they're letting on, in B's last utterance, A gets the implicature that B might know specific details about upcoming opportunities but is keeping it vague.
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information. The received fact that B is optimistic about the organizational changes and sees potential for personal or professional growth through these transformations makes a contribution to the goal by suggesting that B might believe opportunities for advancement are on the horizon due to these changes.
 
-Plan A’s next utterance:
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B might believe opportunities for advancement are on the horizon due to these changes, A can refine the new goal to subtly probe B for specific insights on potential new roles or opportunities that might arise from the transformations.
 
-informative intention: Because A believes in the fact that having concrete information about the restructuring can help strategize for potential advancement, A would like to inform B of their own optimism and curiosity about future prospects.
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to subtly probe B for specific insights on potential new roles or opportunities that might arise from the transformations. To achieve the goal, A has informative intention to allude to the importance of positioning oneself advantageously and communicative intention to encourage B to share more specific insights or anticipations regarding changes.
 
-communicative intention: Because A believes in the fact that casual discussion can sometimes lead to deeper revelations, A would like to draw B’s attention to whether they have any extra information about the promotion scheme.
-
-So A would utter like that: I totally agree that everyone will have their moments. I'm really curious about which areas might open up or evolve—do you think marketing has exciting new roles coming up, or is it more within other departments?
-
-A: I totally agree that everyone will have their moments. I'm really curious about which areas might open up or evolve—do you think marketing has exciting new roles coming up, or is it more within other departments?
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to allude to the importance of positioning oneself advantageously, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to share more specific insights or anticipations regarding changes, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It sounds like staying proactive and ready to adapt could really pay off. As we think about innovation, do you see any particular areas where roles might emerge or evolve?
 
 all scripts of B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets explicature that A is curious about potential opportunities for advancement due to the company’s restructuring.  
-implicature: Because B believes in the fact that A is seeking specific information on advancement opportunities, in A’s last utterance, B gets implicature that A is subtly probing for insight into the promotional scheme.  
+1. Get explicature from A’s last utterance:
+In A’s last utterance B gets explicature that A is curious and possibly concerned about potential changes in roles or responsibilities due to the company’s transformation.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that the details of the promotion scheme need to remain confidential, B would like to inform A of the advantage of staying adaptable and open to possibilities.  
-communicative intention: Because B believes in the fact that maintaining a friendly relationship with A is essential, B would like to draw A’s attention to the broader positive changes happening at the company.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is curious and possibly concerned about potential changes in roles or responsibilities, combined with B's believed fact that B has already been pre-selected and that the number of promotion spots is very limited, B can infer implicature that A might be interested in finding out about promotion opportunities and is possibly concerned about their own position in the company.
 
-So B would utter like that:  
-B: You never know what might pop up, right? It's always a good idea to stay flexible and see where things lead. By the way, have you heard about the new team workshops they're planning? Could be a great chance to connect with others and glean some fresh insights!
+3. Conclude fact received from this round:
+B gets explicature that A is curious and possibly concerned and implicature that A might be interested in finding out about promotions, B can conclude the fact that A is fishing for information about promotional opportunities or changes affecting their position.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is to keep information ambiguous while preserving a friendly relationship with A. The received fact that A is fishing for information makes a contribution to the goal by highlighting the need for B to remain cautious in their responses to avoid revealing sensitive details.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A is fishing for information, B can refine the new goal to maintain a friendly, non-informative chat while subtly diverting the focus away from direct inquiries about promotions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is to maintain a friendly, non-informative chat while diverting focus. To achieve the goal, B has the informative intention to speak generally about the ongoing changes and the communicative intention to encourage A to talk about their own thoughts and ideas on innovation.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is to speak generally about the ongoing changes, which means information in B's utterance will mainly focus on that. B's communicative intention is to encourage A to talk about their own thoughts and ideas on innovation, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: Yeah, it’s going to be a period of adjustment, that’s for sure. It's great to see how much energy everyone’s putting into adapting; it's almost like starting fresh. What are some of the ways you think we could bring new ideas or improvements to the table?
 
 Round 3:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B acknowledges the period of adjustment, highlights the collective energy in adapting to changes, and inquires about ways to bring new ideas or improvements.
 
-Analysis B’s last utterance:  
-explicature: In B’s last utterance A gets explicature that B is suggesting staying open to different opportunities and is mentioning new team workshops as a potential source of information and networking.  
-implicature: Because A believes in the fact that workshops can often reveal management's focus and future plans, in B’s last utterance, A gets implicature that the workshops might be a strategic way to gain insights into upcoming changes and opportunities.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B acknowledges the period of adjustment and asks about new ideas or improvements, combined with A's believed fact that the restructuring is likely to introduce new roles and opportunities, A can infer implicature that B might be aware of specific areas where new opportunities could arise but prefers to keep the focus on team collaboration and innovation.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that attending the workshops could be beneficial for gaining inside information, A would like to inform B of their interest in these workshops.  
-communicative intention: Because A believes in the fact that engaging in these workshops could lead to valuable insights, A would like to draw B’s attention to any additional useful details or insights about them.  
+3. Conclude fact received from this round:  
+A gets explicature that B acknowledges the adjustment period and the energy for adaptation, and implicature that B might have some insight into potential opportunities but is focusing on collaboration. A can conclude the fact that B is encouraging discussion about innovation, which might indirectly indicate areas of opportunity.
 
-A: Those workshops do sound like a valuable opportunity to gain fresh perspectives and maybe even catch wind of where the company is headed, don’t you think? Do you know if there are any specific topics they plan to cover or any department heads leading them?
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to obtain promotion-related information while concealing competitive intentions. The received fact that B is encouraging discussion about innovation, possibly indicating areas of opportunity, makes a contribution to the goal by suggesting a direction to explore these opportunities further without arousing suspicion.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that suggests a direction to explore opportunities further, A can refine the new goal to explore specific ideas and innovations that might reveal potential roles or promotions through collaborative discussion.
+
+6. Make informative intention and communicative intention dependent on the refined goal:  
+A's goal is to explore specific ideas and innovations that might reveal potential roles or promotions through collaborative discussion. To achieve the goal, A has an informative intention to focus on potential new areas or innovations that could align with opportunities, and a communicative intention to encourage B to share insights or suggestions in these areas.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to focus on potential new areas or innovations that could align with opportunities, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to share insights or suggestions in these areas. So A would utter like that:  
+A: It's true, bringing fresh ideas could be key in this transition. I've been thinking about areas like digital transformation or new product development—do you think those might be where the most impactful changes are happening? It’d be great to brainstorm some ways to really make a mark there.
 
 all scripts of B: 
-Round 3:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance, B gets explicature that A is curious about potential role changes and emerging opportunities for innovation.
 
-B’s Turn:
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is curious about potential role changes and emerging opportunities, combined with B's believed fact that the number of promotion spots is limited and B has already been pre-selected, B can infer implicature that A is seeking information on advancement opportunities that might apply to them.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, A is curious about whether there are exciting new roles in either marketing or other departments.
-implicature: Because B believes that A is looking for specific information on potential promotion areas, in A’s last utterance, B gets the implicature that A is eager to identify where new opportunities are likely to arise.
+3. Conclude fact received from this round:  
+B gets explicature that A is curious about potential role changes and implicature that A is seeking information on advancement opportunities, B can conclude the fact that A is interested in knowing about new roles and potential promotions.
 
-Plan B’s next utterance:
-informative intention: Because B believes that A is eager to identify where new opportunities are likely to arise, B would like to inform A of the importance of staying open-minded and adaptable during the company's transformation.
-communicative intention: Because B believes that A is eager to identify where new opportunities are likely to arise, B would like to draw A’s attention to the upcoming team workshops as a valuable opportunity.
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to maintain ambiguity while preserving a friendly relationship with A. The received fact that A is interested in knowing about new roles and potential promotions makes a contribution to the goal by indicating the need to provide distracting yet supportive information to avoid revealing knowledge of the limited promotion slots.
 
-So B would utter like that:
-B: You never know what areas might see changes, which is why it's good to keep all options open. Speaking of adaptability, those team workshops could be a real game-changer in terms of networking and learning. Have you thought about which sessions might interest you?
+5. Refine new goal depend on the contribution:  
+Because of the contribution that indicates the need to provide distracting yet supportive information, B can refine new goal that is to keep A engaged in discussing innovation and adaptation without directly addressing the promotion specifics.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to keep A engaged in discussing innovation without addressing promotion specifics. To achieve the goal, B has informative intention that encourages discussion about innovation more generally and communicative intention that suggests involvement in team activities as an exciting aspect of the transformation.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is to encourage discussion about innovation, which means information in B's utterance will mainly focus on that. B's communicative intention is to suggest involvement in team activities as exciting, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: You know, I've been hearing about how different teams are gearing up for innovation projects. It might be a great chance for us to bring in fresh perspectives and ideas. Have you thought about participating in any of those team initiatives or perhaps leading one?
 
 Round 4:
 all scripts of A: 
-**A’s Turn:**
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that different teams are preparing for innovation projects and it might be an opportunity for fresh perspectives and involvement.
 
-**Analysis B’s last utterance:**
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that different teams are preparing for innovation projects and it might be an opportunity for fresh perspectives and involvement, combined with A's believed fact that the upcoming promotion scheme is likely related to these changes, A can infer implicature that participating in or leading these initiatives could be linked to potential promotions.
 
-explicature: In B’s last utterance, A gets the explicature that B believes staying adaptable and open to change is important, mentioning workshops as a good opportunity for networking and learning.
+3. Conclude fact received from this round:
+A get explicature that different teams are preparing for innovation projects and implicature that participating in or leading these initiatives could be linked to potential promotions, A can conclude the fact that involvement in innovation projects might influence promotion opportunities.
 
-implicature: Because A believes in the fact that B is subtly hinting at potential areas of insider information relating to promotions or restructuring, in B’s last utterance, A gets the implicature that the workshops might have more significance than just learning.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to obtain promotion-related information. The received fact that involvement in innovation projects might influence promotion opportunities make contribution to the goal that it provides insight into how participating in innovation projects can be a route to promotions.
 
-**Plan A’s next utterance:**
+5. Refine new goal depend on the contribution:
+Because of the contribution that it provides insight into how participating in innovation projects can be a route to promotions, A can refine new goal that to identify specific innovation initiatives that A could join or lead to enhance promotion prospects.
 
-informative intention: Because A believes in the fact that workshops might reveal more about the company’s direction, A would like to inform B of their keen interest in choosing sessions that align with career advancement.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to identify specific innovation initiatives that A could join or lead to enhance promotion prospects. To achieve the goal, A has informative intention that to find out from B which innovation initiatives have yet to have leaders or are seeking participants and communicative intention that to subtly express interest in participating in such initiatives.
 
-communicative intention: Because A believes in the fact that B might have insights about the workshops, A would like to draw B’s attention to sharing any details about interesting sessions or presenters related to career growth.
-
-A: I’m definitely looking forward to those workshops as a way to both learn and get a sense of the direction the company is headed in. If you hear about any sessions that focus on career growth or feature prominent department heads, please do let me know—I’d be really interested in attending those!
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that to find out from B which innovation initiatives have yet to have leaders or are seeking participants, which means information in A's utterance will mainly focus on that. A's communicative intention is that to subtly express interest in participating in such initiatives, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: That sounds interesting! I’d love to lend a hand, especially in roles that are still forming. Do you know if any of the innovation projects are looking for new leaders or enthusiastic participants?
 
 all scripts of B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B gets explicature that A is trying to gather more precise information about the workshops and their content as a potential source of valuable information about promotions.  
-implicature: Because B believes in the fact that A is eager to gain insights into the organizational changes, in A’s last utterance, B gets implicature that A is looking for any hints or leads that may point towards new opportunities, especially in terms of specific topics or leaders that could indicate departmental focuses.  
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A is interested in areas like digital transformation or new product development as they might be areas for impactful changes.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that keeping things ambiguous helps maintain a strategic advantage and that A is unknowingly looking for leads, B would like to inform A of the general importance of being adaptable.  
-communicative intention: Because B believes in the fact that preserving a friendly rapport while diverting the conversation is essential, B would like to draw A’s attention to considering the personal development aspects of the workshops as beneficial.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is interested in areas like digital transformation or new product development as they might be areas for impactful changes, combined with B's believed fact that the number of promotion spots is very limited and B has been pre-selected, B can infer implicature that A is eager to find potential opportunities for advancement in the transformation areas.
 
-So B would utter like that:  
-B: It seems like a wonderful opportunity to expand our horizons, doesn't it? Sometimes the best insights come from unexpected places. Why not focus on those sessions that promote personal growth and creativity? They could be immensely rewarding! Who knows, you might even discover new strengths there.
+3. Conclude fact received from this round:  
+B get explicature that A is interested in areas like digital transformation or new product development as they might be areas for impactful changes and implicature that A is eager to find potential opportunities for advancement in the transformation areas, B can conclude the fact that A is actively seeking insight into where promotional opportunities might align with innovative areas of the transformation.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to keep information ambiguous while preserving a friendly relationship with A, ensuring that the informational advantage is not diminished. The received fact that A is actively seeking insight into where promotional opportunities might align with innovative areas of the transformation makes a contribution to the goal by indicating that maintaining ambiguity and guiding the conversation away from explicit promotion details is crucial.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that maintaining ambiguity and guiding the conversation away from explicit promotion details is crucial, B can refine new goal that B should continue to steer the conversation towards the general excitement and opportunities in innovation without confirming anything about promotions.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to continue to steer the conversation towards the general excitement and opportunities in innovation without confirming anything about promotions. To achieve the goal, B has informative intention to focus on the positive outlook of innovation projects and collaborative efforts, and communicative intention to imply that A continues to explore general involvement in innovation without expecting direct hints about promotions.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is to focus on the positive outlook of innovation projects and collaborative efforts, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply that A continues to explore general involvement in innovation without expecting direct hints about promotions, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: Absolutely, digital transformation and product development are buzzing with potential right now. Teams are really embracing new ideas and technologies. It definitely seems like a great time to get involved and make meaningful contributions. Maybe considering a role in one of these projects could be an exciting step! Have you thought about collaborating with anyone from our cross-functional teams lately?
 
 Round 5:
 all scripts of A: 
-Round 5:
-A’s Turn:
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets explicature that B is suggesting attending sessions promoting personal growth and creativity, potentially offering new insights and strengths.
-implicature: Because A believes in the fact that B might have specific information about productive sessions or potential opportunities, in B's last utterance, A gets implicature that there might be sessions focused on career advancement that B knows about.
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that digital transformation and product development projects are active and looking promising, and involvement in these projects is encouraged.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that engaging in specific workshops might reveal departmental directions and opportunities, A would like to inform B of their interest in strategically beneficial sessions.
-communicative intention: Because A believes in the fact that B might have insider knowledge or insights about the most beneficial workshops, A would like to draw B’s attention to the importance of spotting career-oriented sessions.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that digital transformation and product development projects are active and looking promising, combined with A's believed fact that securing a leadership role or proactive participation could pave the way for a promotion, A can infer implicature that joining these projects could lead to advancement opportunities.
 
-So A would utter like that:
-A: You’re right, unexpected insights can be incredibly valuable. I'll definitely keep an eye out for those sessions on personal growth and creativity, but if you happen to learn of any that are more career-focused or involving influential figures, I’d love to hear about those. It’s always good to keep an eye on opportunities that align closely with our career goals, right?
+3. Conclude fact received from this round:
+A get explicature that digital transformation and product development projects are active and looking promising, and involvement in these projects is encouraged, and implicature that joining these projects could lead to advancement opportunities, A can conclude the fact that being proactive in these projects could improve chances for promotion.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to obtain promotion-related information. The received fact that being proactive in these projects could improve chances for promotion makes a contribution to the goal that A has identified key areas for potential advancement and a strategy to improve promotion chances.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A has identified key areas for potential advancement and a strategy to improve promotion chances, A can refine new goal that to explore potential leadership roles or significant involvement in digital transformation and product development projects.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to explore potential leadership roles or significant involvement in digital transformation and product development projects. To achieve the goal, A has informative intention that to express interest in these specific projects and gather more insight into opportunities within them and communicative intention that to encourage B to share more specific information or connections related to these projects.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to express interest in these specific projects and gather more insight into opportunities within them, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to share more specific information or connections related to these projects, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It sounds like those areas are really buzzing! I’d be keen to dive into one of those initiatives. Do you happen to know who might be leading those projects or how I could get involved with the right teams?
 
 all scripts of B: 
-Analysis A’s last utterance:  
-Explicature: In A’s last utterance, B gets the explicature that A is seeking specific information about sessions that focus on career growth or are led by prominent department heads, implying they want guidance for potential advancement.  
-Implicature: Because B believes in the fact that information about specific session leaders and content could hint at promotion opportunities, in A’s last utterance, B gets the implicature that A is probing for insider information regarding advancement routes and leadership opportunities.  
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B gets explicature that A is interested in taking a leadership or participant role in emerging innovation projects as part of the transformation.  
 
-Plan B’s next utterance:  
-Informative intention: Because B believes in the fact that maintaining ambiguity will allow B to remain neutral and avoid giving significant hints, B would like to inform A of the potential benefits of workshops without specifics, encouraging general engagement.  
-Communicative intention: Because B believes in the fact that maintaining the existing friendly and supportive ambiance is important, B would like to draw A’s attention to the broader scope of personal growth within the workshops rather than specific career tracks.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is interested in new roles, combined with B's believed fact that B is already pre-selected for promotion and spots are limited, B can infer implicature that A might be trying to understand how to secure one of these limited roles.
 
-So B would utter like that:  
-B: They say variety is the spice of life, isn't it? Engaging with different aspects can sometimes lead us to unexpected insights that help in our growth journey. So, maybe exploring a range of workshop topics could offer some surprises and new thoughts. What other areas are you considering venturing into?
+3. Conclude fact received from this round:  
+B gets explicature that A is interested in new roles and implicature that A might be trying to understand how to secure one of these limited roles, B can conclude the fact that A is actively seeking opportunities to advance within the company.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to keep information ambiguous while preserving a friendly relationship with A. The received fact that A is actively seeking opportunities to advance makes a contribution to the goal that B can maintain the conversation's friendliness without divulging competitive information.
+
+5. Refine new goal depends on the contribution:  
+Because of the contribution that B can maintain the conversation's friendliness without divulging competitive information, B can refine the new goal that B should encourage A's participation without specifying details about leadership roles.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to encourage A's participation without specifying details about leadership roles. To achieve this goal, B has the informative intention that exploring collaborations can be fruitful and the communicative intention that A should focus on team collaborations for growth.
+
+7. Utter depends on B's informative intention and communicative intention:  
+B's informative intention is that exploring collaborations can be fruitful, which means information in B's utterance will mainly focus on that. B's communicative intention is that A should focus on team collaborations for growth, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: Collaborating with someone from our cross-functional teams could really open up new opportunities and perspectives, don’t you think? Engaging with diverse teams is such a great way to expand our skills and networks. Have you reached out to anyone recently to discuss potential collaborations or team initiatives?
 
 Round 6:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B suggests collaboration with cross-functional teams could lead to new opportunities and questions if A has reached out for potential collaborations.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B suggests collaboration with cross-functional teams, combined with A's believed fact that opportunities often arise from networking, A can infer implicature that those who collaborate across teams might have better chances of advancement or involvement in new projects.
 
-explicature: In B’s last utterance A gets the explicature that B suggests exploring a range of workshop topics for potential new insights and is curious about what other areas A might be interested in exploring.
+3. Conclude fact received from this round:
+A gets explicature that B suggests collaboration with cross-functional teams could lead to new opportunities, and implicature that those who collaborate across teams might have better chances of advancement. A concludes the fact that reaching out for collaborations could lead to opportunities for advancement.
 
-implicature: Because A believes B is hinting at broader exploration, in B’s last utterance, A gets the implicature that B might believe diverse engagement could uncover beneficial, possibly strategic information.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to secure promotion-related information. The received fact that reaching out for collaborations could lead to opportunities for advancement makes a contribution to the goal by providing a potential pathway to involvement in high-impact projects that could lead to promotions.
 
-Plan A’s next utterance:
+5. Refine new goal depending on the contribution:
+Because of the contribution that reaching out for collaborations could lead to opportunities, A can refine the new goal to identify specific individuals or teams to collaborate with for potentially accessing advancement opportunities.
 
-informative intention: Because A wants to obtain promotion-related information, A would like to inform B of their intention to discover potential areas of interest.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to identify specific individuals or teams to collaborate with for advancement opportunities. To achieve the goal, A has an informative intention to gather information about who is leading or participating in key projects and a communicative intention to subtly highlight interest in collaborating on high-impact initiatives.
 
-communicative intention: Because A wants to subtly draw out insider information, A would like to draw B’s attention to discussions that involve leadership or strategic company directions.
-
-So A would utter like that: 
-
-A: I've been mulling over a few possibilities, actually. Besides career-focused workshops, I'm considering sessions that delve into leadership trends and strategic planning. They seem like great avenues to understand the bigger picture. Have you heard if any particular leaders or departments will be guiding those discussions?
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to gather information about who is leading or participating in key projects, which means information in A's utterance will mainly focus on identifying key team members. A's communicative intention is to subtly highlight interest in collaborating on high-impact initiatives, which means A's utterance will imply B to pay attention to potential collaborations. So A would utter like that:
+A: I agree, strong collaborations can really unlock new opportunities. Do you know if any specific leaders or teams are driving those digital transformation or product development projects? It’d be great to understand who’s involved, so I could consider reaching out to bring in fresh perspectives.
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is eager to get involved in one of the innovation initiatives and wants to know who is leading those projects or how to engage with the right teams.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets explicature that A is particularly interested in sessions that are career-focused or involve influential figures to align with career goals.
-implicature: Because B believes in the fact that A is actively seeking advancement opportunities through these workshops, in A’s last utterance, B gets implicature that A is looking for any leads or hints about potential promotion openings or career growth opportunities.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is eager to get involved in one of the innovation initiatives and wants to know who is leading those projects or how to engage with the right teams, combined with B's believed fact that the number of promotion spots is very limited, B can infer implicature that A is actively seeking opportunities for advancement and B's information can strategically influence A's involvement.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that keeping information about promotion opportunities ambiguous is crucial, B would like to inform A of the general benefits of exploring different areas without providing specific details about career-focused sessions.
-communicative intention: Because B believes in the fact that maintaining a friendly relationship is important, B would like to draw A’s attention to the advantages of diverse exploration in workshops as an approach to personal and professional growth.
+3. Conclude fact received from this round:
+B get explicature that A is eager to get involved in one of the initiatives and implicature that A is actively seeking opportunities for advancement, B can conclude the fact that A is looking for ways to distinguish oneself and potentially pursue a promotion.
 
-So B would utter like that:  
-B: You know, sometimes the most intriguing opportunities aren't always the ones we plan for. Exploring a variety of fields can often pave the way for unanticipated career growth. Have you considered how applying these fresh perspectives could benefit your current projects or roles?
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to keep information ambiguous while preserving a friendly relationship with A. The received fact that A is looking for ways to distinguish oneself and potentially pursue a promotion make contribution to the goal that B must strategically navigate the conversation to keep A’s intentions aligned with ambiguity while maintaining a friendly rapport.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B must strategically navigate the conversation to keep A’s intentions aligned with ambiguity while maintaining a friendly rapport, B can refine new goal that B will gently guide A into considering general collaboration strategies without disclosing specific pathways to leadership or influence over promotional outcomes.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that B will gently guide A into considering general collaboration strategies without disclosing specific pathways to leadership or influence over promotional outcomes. To achieve the goal, B have informative intention that encourage A to continue exploring networking opportunities without specifying involvement details and communicative intention that subtly reinforce the value of team interactions over individual initiatives.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that encourage A to continue exploring networking opportunities without specifying involvement details, which means information in B's utterance will mainly focus on that. B's communicative intention is that subtly reinforce the value of team interactions over individual initiatives, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: Absolutely, the cross-functional teams are where much of the magic happens in terms of ideas and innovation. You could really expand your network there. I think reaching out and having a few exploratory conversations could open up so many possibilities, both immediately and down the line. Have you found any particular teams or people that captivate your interest in collaborative efforts?
 
 Round 7:
 all scripts of A: 
-A’s Turn:  
-Analysis B’s last utterance:  
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that reaching out to cross-functional teams for exploratory conversations could open up new possibilities for ideas and innovation.
 
-explicature: In B’s last utterance, A gets the explicature that B is suggesting exploring a range of fields might lead to unexpected career growth and applying fresh perspectives could benefit A's current roles.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that reaching out to cross-functional teams could open up new possibilities, combined with A's believed fact that information about leadership in transformative projects can be crucial for advancement, A can infer implicature that making contacts in key teams could lead to insights on leadership and project details.
 
-implicature: Because A believes in the fact that B often communicates indirectly, in B’s last utterance, A gets the implicature that B might know something about how exploring different departments could be advantageous for future promotions.  
+3. Conclude fact received from this round:
+A get explicature that reaching out to cross-functional teams could open up new possibilities, and implicature that making contacts in key teams could lead to insights on leadership and project details, A can conclude the fact that engaging with cross-functional teams might reveal important details on leadership of key innovation projects.
 
-Plan A’s next utterance:  
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to obtain B's opinions and information indirectly regarding promotions. The received fact that engaging with cross-functional teams might reveal important details on leadership of key innovation projects contributes to the goal by suggesting a strategic approach for gaining insights.
 
-informative intention: Because A believes in the fact that varied experiences can provide an edge in a competitive environment, A would like to inform B of A's interest in understanding how fresh perspectives could specifically benefit A's projects.  
+5. Refine new goal depend on the contribution:
+Because of the contribution that engaging with cross-functional teams might reveal important details on leadership, A can refine new goal to identify specific cross-functional team leaders to approach for strategic conversations.
 
-communicative intention: Because A believes in the fact that B might have more insights into which fresh perspectives are advantageous, A would like to draw B’s attention to A's keen interest in leveraging these insights for career advancement.  
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to identify specific cross-functional team leaders to approach for strategic conversations. To achieve the goal, A has informative intention to learn which teams are most influential in upcoming projects and communicative intention to suggest mutual benefits of collaboration with these teams.
 
-So A would utter like that:  
-
-A: That’s a great point; applying fresh perspectives could indeed inject new energy into current projects. I’m really keen on understanding how exactly these insights could be tailored to benefit our specific roles here. If you have any examples or know of people who have effectively done this in our company, I’d love to hear more.
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to learn which teams are most influential in upcoming projects, which means information in A's utterance will mainly focus on that. A's communicative intention is to suggest mutual benefits of collaboration with these teams, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I've been considering collaborating with some cross-functional teams, especially those leading exciting projects. Do you know which teams are at the forefront of these initiatives? It’d be beneficial for us to bring fresh ideas and push boundaries together.
 
 all scripts of B: 
-B’s Turn:
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A is interested in leadership trends and strategic planning workshops and wishes to know which leaders or departments will lead those discussions.
-implicature: Because B believes in the fact that A is seeking specific details about promotions intertwined with leaders and departments, in A’s last utterance, B gets the implicature that A hopes to gain insights into the inner workings of the company’s restructuring through these workshops.
+In A’s last utterance, B gets explicature that A is looking to identify specific leaders or teams driving the digital transformation or product development projects. From the explicature that A is seeking specific contact points for involvement, combined with B's believed fact that these projects are under tight control with limited awareness, B can infer implicature that A is trying to gain insight into leadership dynamics, perhaps for advancement opportunities. B gets explicature that A is seeking specific project leaders and implicature that A is interested in potential opportunities, B can conclude the fact that A might be positioning themselves for advancement or involvement in key projects. B's goal is to keep information ambiguous while preserving a friendly relationship with A, ensuring that the informational advantage is not diminished. The received fact that A might be positioning themselves for advancement makes a contribution to the goal by highlighting the urgency of maintaining ambiguity. Because of the contribution that highlights the urgency of maintaining ambiguity, B can refine the new goal to continue deflecting direct queries about leadership details while encouraging A’s interest. B's goal is to continue deflecting direct queries about leadership details while encouraging A’s interest. To achieve the goal, B has informative intention that reaching out for exploratory conversations would be beneficial, and communicative intention implies A to focus on current networking efforts rather than direct leadership details. B's informative intention is that reaching out for exploratory conversations would be beneficial, which means information in B's utterance will mainly focus on that. B's communicative intention is that implies A to focus on current networking efforts rather than direct leadership details, which means B's utterance will imply A to pay attention to that. So B would utter like that:
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that specific details about promotions and leaders cannot be shared, B would like to inform A of the importance of applying fresh perspectives.
-communicative intention: Because B believes in the fact that unexpected insights can be beneficial, B would like to draw A’s attention to the value of applying new learnings to current projects.
-
-So B would utter like that:
-B: Sometimes, broadening our horizons through unexpected angles can yield the most growth, don’t you think? Imagining how these fresh perspectives can enhance your existing projects might be just what sets new ideas in motion. Have you thought about any specific projects where you could implement such insights?
+B: It's indeed helpful to have those exploratory conversations. They can reveal unexpected insights and connect you with influencers within the organization. If you keep engaging with interesting people and teams, I'm sure the right opportunities will become clear soon.
 
 Round 8:
 all scripts of A: 
-A’s Turn:  
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets explicature that B is suggesting that new perspectives could be applied to specific projects, which can lead to growth and innovation.  
-implicature: Because A believes in the fact that B is subtly encouraging exploration and adaptation, in B’s last utterance, A gets the implicature that B may have some insight into successful examples of applying fresh perspectives that A could benefit from.
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that engaging with interesting people and teams through exploratory conversations can lead to the discovery of opportunities within the organization.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that B may have insights or examples to share, A would like to inform B of A’s interest in practical application stories within the company.  
-communicative intention: Because A believes in the fact that B values innovative thinking in projects, A would like to draw B’s attention to A’s interest in learning from successful examples.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that engaging with interesting people and teams through exploratory conversations can lead to the discovery of opportunities, combined with A's believed fact that successful involvement is key to securing advancement opportunities, A can infer the implicature that taking the initiative to reach out and actively engage is a necessary step towards gaining inside information or securing a position in a new role.
 
-So A would utter like that:  
-A: It’s intriguing to consider applying new insights to ongoing endeavors. If you know of any colleagues who’ve successfully incorporated new perspectives into their projects, I’d be very eager to hear about it. Sharing their strategies could really help us optimize our opportunities here.
+3. Conclude fact received from this round:  
+A gets explicature that engaging with interesting people and teams through exploratory conversations can lead to the discovery of opportunities, and implicature that taking the initiative to reach out is necessary to gain inside information. A can conclude the fact that proactive engagement with others is crucial to learning about and securing new opportunities.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to secure promotion-related information. The received fact that proactive engagement with others is crucial to learning about and securing new opportunities contributes to the goal by indicating a strategy A could employ to access more information and opportunities.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that proactive engagement with others is crucial, A can refine a new goal that involves making a plan to reach out to key people within the organization to engage in these conversations and explore potential opportunities in greater detail.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to make a plan to reach out to key people within the organization. To achieve the goal, A has the informative intention to express interest in engaging with influential teams and people and a communicative intention to imply the need for specific names or contacts who are key to digital transformation and product initiatives.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to express interest in engaging with influential teams, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply the need for specific names or contacts, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It sounds like these conversations could really open doors. Do you think there are particular people or teams I should focus on connecting with to get involved in digital transformation or product development?
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is interested in collaborating with cross-functional teams at the forefront of exciting projects.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets explicature that A is interested in examples or stories of colleagues applying new insights to their roles effectively.
-implicature: Because B believes in the fact that A is looking for concrete examples to gain an advantage or insight into potential promotions, in A’s last utterance, B gets implicature that A might be trying to gauge which departments or individuals are leading toward opportunities.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is interested in collaborating with cross-functional teams, combined with B's believed fact that the promotion spots are very limited and B has already been pre-selected, B can infer implicature that A might be seeking these opportunities to enhance chances for promotion.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that there is value in exploring multiple options and there is no need for urgent focus on specific individuals or departments, B would like to inform A of the potential benefits of a varied approach.
-communicative intention: Because B believes in the fact that keeping A engaged but still uncertain helps maintain the informational advantage, B would like to draw A’s attention to considering applying newfound insights creatively in general.
+3. Conclude fact received from this round:
+B get explicature that A is interested in collaborating with cross-functional teams and implicature that A might be seeking these opportunities for promotion, B can conclude the fact that A is actively exploring paths that could potentially lead to advancement.
 
-So B would utter like that:
-B: Flexing your creative muscle across different projects might uncover entirely new avenues for growth and innovation, don't you think? Are there any key projects you're currently handling that could benefit from such a refreshing approach?
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to keep information ambiguous while preserving a friendly relationship with A. The received fact that A is actively exploring paths that could potentially lead to advancement makes contribution to the goal that B should be cautious in providing specific information about project leads or promotional openings to maintain ambiguity.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B should be cautious in providing specific information, B can refine new goal that maintain a friendly conversation while steering A towards general networking and informational interviews instead of specific project leads.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that maintain a friendly conversation while steering A towards general networking. To achieve the goal, B have informative intention that emphasizing the benefits of general networking and exploration and communicative intention that suggest A to focus on having exploratory conversations without pinpointing specific leads.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that emphasizing the benefits of general networking and exploration, which means information in B's utterance will mainly focus on that. B's communicative intention is that suggest A to focus on having exploratory conversations, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: It's indeed helpful to have those exploratory conversations. They can reveal unexpected insights and connect you with influencers within the organization. If you keep engaging with interesting people and teams, I'm sure the right opportunities will become clear soon. Have you found any particular teams or people that captivate your interest in collaborative efforts?
 
 Round 9:
 all scripts of A: 
-A’s Turn:
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B is suggesting the possibility of discovering new avenues for growth by applying creative approaches to projects.
-implicature: Because A believes in the fact that B's comments could imply firsthand knowledge of successful project strategies within the company, in B’s last utterance, A gets the implicature that B might know specific examples or details worth exploring.
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that exploratory conversations can connect A with influencers within the organization and reveal opportunities over time.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that exploring these strategies could reveal insights about potential career advancement paths, A would like to inform B of the importance of identifying projects that could benefit from fresh approaches.
-communicative intention: Because A believes in the fact that discussing successful applications of new perspectives could lead to discovering hidden opportunities, A would like to draw B’s attention to any examples or colleagues who have excelled through such innovation.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that exploratory conversations can connect A with influencers within the organization, combined with A's believed fact that B might have insider information on promotions, A can infer implicature that there may be key influencers or leaders that B is aware of who could provide insights about promotion opportunities.
 
-So A would utter like that:
-A: Indeed, unlocking growth through creative strategies sounds like an exciting prospect. I’d love to learn more about how others have effectively done this within our company. Have you seen any successful examples or know of projects that stand out in this way?
+3. Conclude fact received from this round:
+A gets explicature that exploratory conversations can connect A with influencers and reveal opportunities, and implicature that there may be key influencers or leaders that B is aware of, A can conclude the fact that B knows there are influential people who could guide A toward promotion opportunities through informal interactions.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to obtain promotion-related information through indirect questioning. The received fact that B knows there are influential people who could guide A toward promotion opportunities contributes significantly to the goal by suggesting a strategy for obtaining such information.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B knows there are influential people, A can refine the new goal to identify and connect with those influencers or leaders to gain insights about promotions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to identify and connect with influential people to gain insights about promotions. To achieve this goal, A has the informative intention to signal readiness for exploratory conversations and the communicative intention to subtly encourage B to mention any specific influential figures or leaders.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to signal readiness for exploratory conversations, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly encourage B to mention any specific influential figures, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Thanks, B. Having those conversations does sound promising. If there are any particular individuals you think could share valuable insights about opportunities during this transformation, I’d love to know.
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A is interested in identifying specific people or teams involved in digital transformation or product development.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B understands that A is seeking examples of colleagues who have successfully integrated new insights into their projects and is eager to learn about these strategies.
-implicature: Because B knows that the number of promotion spots is limited and they themselves are pre-selected, in A’s last utterance, B infers that A is looking for strategies to optimize their chances of advancement by learning from others.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is interested in identifying specific people or teams, combined with B's believed fact that the number of promotion spots is very limited and B has already been pre-selected, B can infer implicature that A is actively seeking opportunities for advancement within projects.
 
-Plan B’s next utterance:
-informative intention: Because B believes that keeping information about the limited promotion opportunities is crucial, B would like to inform A about the broader benefits of creativity and innovation.
-communicative intention: Because B wants to maintain a friendly relationship and divert attention from the topic of promotions, B would like to draw A’s attention to the idea of applying innovation to their current work.
+3. Conclude fact received from this round:  
+B get explicature that A is interested in identifying specific people or teams and implicature that A is actively seeking opportunities for advancement, B can conclude the fact that A is looking for ways to advance within the company.
 
-So B would utter like that:
-B: You know, sometimes it's the projects we least expect that can benefit the most from a fresh perspective. Imagine how bringing an innovative approach could potentially transform your work and open new doors. Are there any of your current projects you feel might thrive with a bit of creative thinking?
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is that B maintains informational advantage while preserving a friendly relationship with A. The received fact that A is looking for ways to advance within the company makes a contribution to the goal that B can gently guide A toward general exploration without revealing specific sensitive information.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B can gently guide A toward general exploration without revealing specific sensitive information, B can refine new goal that B maintains ambiguity about promotion details while encouraging exploration and networking.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is that B maintains ambiguity about promotion details while encouraging exploration and networking. To achieve the goal, B has an informative intention that focuses on the benefits of broad networking and exploration and communicative intention that suggests A should explore existing collaborations and new opportunities without providing specifics on promotions.
+
+7. Utter depend on B's informative intention and communicative intention:  
+B's informative intention is that focus on the benefits of broad networking and exploration, which means information in B's utterance will mainly focus on that. B's communicative intention is that suggests A should explore existing collaborations and new opportunities without providing specifics on promotions, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: I think immersing yourself in discussions with varied teams can really broaden your perspective and show where your skills could be most impactful. Exploring different collaborations might just naturally lead you to those exciting projects. Have you had a chance to discuss your ideas with anyone from those teams yet?

@@ -19,7 +19,7 @@
       "field": "goal",
       "point": "To receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue.",
       "discovered": true,
-      "round": 2,
+      "round": 3,
       "side": "A"
     },
     {
@@ -40,21 +40,21 @@
       "field": "behavior",
       "point": "Listens to A's suggestions and asks questions about the etiquette of book signings, wanting to ensure they do not cause any inconvenience.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "To successfully get their book signed without any embarrassment and to learn from A's experience at such events.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "information",
       "point": "B is a huge fan of the author and is both excited and anxious about the prospect of meeting them in person.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "B"
     }
   ]

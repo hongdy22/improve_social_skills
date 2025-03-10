@@ -12,35 +12,35 @@
       "field": "behavior",
       "point": "Approaches the elderly person first and offers assistance, then turns to B to coordinate the effort of finding an available seat.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "A"
     },
     {
       "field": "character",
       "point": "Sensitive and cooperative, B is not as quick to act but is responsive to the needs of others and willing to collaborate.",
       "discovered": true,
-      "round": 3,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Joins A in the effort to help the senior, scanning the bus for an empty seat and signaling to A when one becomes available.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "To work together with A to help the senior and to foster a sense of community spirit on the journey.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     }
   ]

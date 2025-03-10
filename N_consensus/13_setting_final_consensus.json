@@ -1,18 +1,18 @@
 {
-  "total_points": 7,
+  "total_points": 8,
   "matched_points": [
     {
       "field": "character",
       "point": "A is a natural leader with a passion for environmental conservation. They are known for their ability to coordinate group efforts and inspire others.",
       "discovered": true,
-      "round": 2,
+      "round": 6,
       "side": "A"
     },
     {
       "field": "behavior",
       "point": "A takes charge by mapping out the park into sections and suggesting a systematic approach to cleaning. They propose that each volunteer group focuses on a specific area, ensuring that no part of the park is missed. A also emphasizes the importance of using eco-friendly cleaning methods and proper disposal techniques for the collected trash.",
       "discovered": true,
-      "round": 1,
+      "round": 4,
       "side": "A"
     },
     {
@@ -23,10 +23,17 @@
       "side": "A"
     },
     {
+      "field": "information",
+      "point": "A has a background in environmental science and has previously led similar cleanup projects. They are well-prepared with a list of tasks, equipment needed, and safety guidelines for the volunteers.",
+      "discovered": true,
+      "round": 6,
+      "side": "A"
+    },
+    {
       "field": "character",
       "point": "B is a meticulous individual with a strong sense of community. They are often seen as the person who pays attention to the smallest details and ensures that every task is completed to the highest standard.",
       "discovered": true,
-      "round": 2,
+      "round": 7,
       "side": "B"
     },
     {
@@ -40,7 +47,7 @@
       "field": "goal",
       "point": "B's goal is to ensure that the park cleanup is thorough and that the efforts of the volunteers result in a noticeable and lasting improvement.",
       "discovered": true,
-      "round": 4,
+      "round": 2,
       "side": "B"
     },
     {

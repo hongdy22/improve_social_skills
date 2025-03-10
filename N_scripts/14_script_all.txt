@@ -1,69 +1,70 @@
 Round 0:
 all scripts A: 
-A: Hi there! I'm really excited to work with you on this exercise. My name is A, by the way. How about we start by brainstorming some ideas together? I find a bit of collaboration always sparks the best solutions. What do you think?
+A: Hi, I'm [A's Name]! It's great to meet everyone. I'm really looking forward to this training session. Has anyone got ideas for the team-building exercise, or do you want me to kick things off with a suggestion?
 
 all scripts B: 
-B: Hi A, it's nice to meet you. I'm looking forward to working with you too. I appreciate the idea of starting with a brainstorming session. It's a great way to get a variety of perspectives on the table. I'd be happy to listen to everyone's ideas and help refine them into something practical. We could start by identifying the main goals of the exercise and go from there. Thoughts?
+A: Hi, I'm [A's Name]! It's great to meet everyone. I'm really looking forward to this training session. Has anyone got ideas for the team-building exercise, or do you want me to kick things off with a suggestion?  
+B: Hi, I'm [B's Name]. It's nice to meet you too. I think it would be great if you started with your suggestion. I can help by considering the details and making sure we cover all bases as we go along.
 
 Round 1:
 all scripts of A: 
-A: That sounds like a solid plan, B! Let's first make sure we understand the main goals of the exercise. Once we have those sorted, we can each throw out some ideas and see which ones align best with our objectives. I'll jot down what we discuss, and we can refine it into a cohesive plan. How does that sound to everyone?
+A: Awesome, thanks! How about we start with a quick icebreaker to get to know each other better? Maybe we could each share something unique about ourselves or an interesting fact. From there, we can brainstorm ideas for the task. What do you think?
 
 all scripts of B: 
-B: That's great, A. I think if we begin by clearly defining the objectives of the exercise, we can ensure our ideas align with what's needed for success. Once we have a clear understanding, we can brainstorm more effectively. Does that sound like a good plan to you?
+B: Hi, I'm [B's Name]. It's nice to meet you too. I think it would be great if you started with your suggestion. I can help by considering the details and making sure we cover all bases as we go along. Given my background of working independently, I'm really interested in seeing how we can all bring our strengths together. I'm all ears and ready to get started!
 
 Round 2:
 all scripts of A: 
-A: Absolutely, B. Let's get started by taking a quick look at the instructions and identifying those key objectives. Anyone have any initial thoughts on what the main goals might be? I'll make sure to capture all our ideas so we can keep track.
+A: Great! Let's do a quick round where we each share a unique fact about ourselves. I'll start: I used to play competitive volleyball, which taught me a lot about teamwork and communication. How about you?
 
 all scripts of B: 
-B: Absolutely, I’m in agreement. Let’s break down the exercise to understand what the key objectives are. If we all identify the main targets, I can help ensure that our approach is practical and aligned with those objectives. Perhaps we could start by reviewing any materials or instructions we were given to get a clearer picture?
+B: An icebreaker sounds like a great way to start. I'll go ahead and share something interesting about myself—I've always been passionate about photography, and I love capturing candid moments. I'm excited to hear about everyone else's unique interests too. After that, I can help refine our brainstorming ideas to make sure we have a solid plan for the task.
 
 Round 3:
 all scripts of A: 
-A: Great idea, B. Let's quickly go through the materials we have. From what I see so far, it looks like our main goals include fostering communication, encouraging creativity, and ensuring we work cohesively as a team. Does everyone agree with these as our primary objectives? If so, let's hear some initial ideas on how we can achieve them!
+A: That sounds fantastic, photography is such a creative skill! I bet you'll bring a unique perspective to our project. Anyone else want to share an interesting fact or hobby before we dive into brainstorming our approach to the task?
 
 all scripts of B: 
-B: Good idea, A. Let's take a moment to go over the instructions. From what I recall, our primary objective is to find a solution that demonstrates our ability to collaborate and use our diverse skills to tackle the challenge. If we break down the instructions step by step, we can identify all the specific tasks we need to complete. Does someone have the printed copy or the email with the details? It'll be easier if we can all view them together.
+B: An icebreaker sounds like a great way to start. I'll go ahead and share something interesting about myself—I've always been passionate about photography, and I love capturing candid moments. I'm excited to hear about everyone else's unique interests too. After that, I can help refine our brainstorming ideas to make sure we have a solid plan for the task.
 
 Round 4:
 all scripts of A: 
-A: I have the email with the instructions right here on my phone. Let me pull it up so we can go over it together. I agree, having it in front of us will make it easier to break down step by step. As we review, let's keep in mind our goals of communication, creativity, and teamwork. I'm sure we'll come up with some great ideas once we have all the details!
+A: That sounds fantastic, photography is such a creative skill! I bet you'll bring a unique perspective to our project. Anyone else want to share an interesting fact or hobby before we dive into brainstorming our approach to the task? Perhaps this way, we can identify some complementary skills within our group that could really help us excel at the task.
 
 all scripts of B: 
-B: I have the email pulled up here. The instructions mention demonstrating effective teamwork and creative problem-solving. Maybe we should split into smaller subgroups for each task and then reconvene to put everything together. This way, we can leverage our diverse skills and still ensure everyone’s voice is heard. What do you think?
+B: Thank you! I think photography has taught me a lot about observing details, which should be useful for our project. Let's hear from someone else, and then we can dive into brainstorming. I'm eager to contribute by ensuring we have a clear and practical plan to tackle the task.
 
 Round 5:
 all scripts of A: 
-A: Splitting into subgroups sounds like a smart approach, B! It will give us a chance to dive deeper into specific tasks while using everyone's strengths. Let's decide quickly on the subgroups based on what each person feels comfortable tackling, and then we can report back to see how everything aligns. Should we go around and see which tasks interest each of us?
+A: Absolutely! Let's keep the sharing going. I believe this really helps us understand each other's strengths. Once everyone has shared, we can jump into brainstorming ideas for our task and see how our diverse skills can contribute to a solid plan. Who's next?
 
 all scripts of B: 
-B: That sounds like a smart approach, A. Splitting into smaller subgroups will allow us to focus on each task more thoroughly and make sure we maximize our collective strengths. Once we've tackled our individual tasks, we can come back together to discuss our findings and integrate them into a unified solution. Does anyone have preferences for which parts they'd like to work on?
+B: Thank you! I think photography has taught me a lot about observing details, which should be useful for our project. Let's hear from someone else, and then we can dive into brainstorming. I'm eager to contribute by ensuring we have a clear and practical plan to tackle the task.
 
 Round 6:
 all scripts of A: 
-A: Sounds like a great plan, B. Let's quickly go around the group and mention what tasks or skills we're most comfortable tackling. I can help with any creative brainstorming or ensuring we stay aligned with our communication goals. Anyone else have preferences? We're on a roll, so let's keep the momentum going!
+A: Awesome, let's keep the momentum going! Once everyone shares, we can start pooling our ideas. Who wants to go next? I'm really interested in hearing more about what each person brings to the table—it’s going to make our group dynamic pretty strong as we move forward with this task.
 
 all scripts of B: 
-B: I'm open to tackling any part, but I have a keen interest in analyzing data or problem-solving aspects, given my attention to detail. Does anyone have a preference for roles they’d like to take on?
+B: It sounds like a plan. Once everyone has shared, I can help by suggesting some ways to organize our ideas effectively. This way, we can leverage our unique skills and ensure our approach to the task is efficient and well-rounded. Let's hear from the next person!
 
 Round 7:
 all scripts of A: 
-A: Awesome, B! Your problem-solving skills will be great for handling the analytical tasks. As for everyone else, feel free to chime in with your preferences. Let's ensure we have a nice mix of skills across the subgroups so we can tackle this exercise efficiently. Meanwhile, I'll start organizing our ideas and making notes on our progress. Let's keep the energy up!
+A: Great energy, everyone! I can't wait to see how our different skills come together. Who would like to share next? Our diverse experiences are our strength, and I have a feeling this is going to be a fantastic collaboration for the task ahead.
 
 all scripts of B: 
-B: Great, A. I can focus on the analytical side and help make sure our ideas align strategically with the goals. If anyone else has a specific area they’d prefer, let's figure it out so we can get started efficiently.
+B: It sounds like a plan. Once everyone has shared, I can help by suggesting some ways to organize our ideas effectively. This way, we can leverage our unique skills and ensure our approach to the task is efficient and well-rounded. Let's hear from the next person! As we share our stories, we might discover some exciting ways our backgrounds can intersect to create a strong strategy for the task ahead.
 
 Round 8:
 all scripts of A: 
-A: Fantastic, B. Let's get the subgroups sorted so we can dive into the exercise. Once everyone shares their preferences, we can match tasks with strengths and keep the momentum going. Anyone else ready to jump in?
+A: I love that idea, B! It's all about finding those intersections where our skills complement each other. Alright, who wants to take the next turn and share something interesting about themselves? This is going to help us shape a collaborative and insightful approach to the task, pulling from all our unique backgrounds.
 
 all scripts of B: 
-B: Thanks, A. I'll dive into the analytical work and ensure our solutions align well with the objectives. Let's all stay in close communication as we work through our tasks, and don't hesitate to share if you need help or input. Together, we'll make sure our final plan is comprehensive and cohesive. Does anyone else want to share their preferences?
+B: Absolutely! As we each share our stories and insights, I'll be keeping an eye out for ways we can integrate our talents into a cohesive plan. This collaboration is a great opportunity to learn from each other and create a synergistic approach. Who's up next to share their unique fact or hobby?
 
 Round 9:
 all scripts of A: 
-A: Thanks, B. Your analytical insights will be invaluable. Alright, everyone, let's quickly share what tasks you're interested in, and I'll help coordinate so we can make sure we're playing to everyone's strengths. Remember, we're here to support each other, so don't hesitate to ask for feedback or assistance as needed. Ready to get started, team?
+A: I can see a lot of potential in this group. We've already got teamwork, creativity, and attention to detail. All great traits for approaching the task strategically. Our collaboration will really shine with this diverse mix of skills. So, who's ready to jump in next and add their unique flair to our group's dynamic?
 
 all scripts of B: 
-B: I've got a good grasp on the analytical side, so I'll start there. Let's stay in contact, and if anyone needs assistance or has updates, feel free to reach out. Looking forward to seeing how this all comes together with everyone's input!
+B: I'm really excited to see how we can bring all our diverse talents together. Once everyone has shared, I'll also make sure we have a practical way to implement our ideas and track our progress. Let's hear from the next person to keep the momentum going!

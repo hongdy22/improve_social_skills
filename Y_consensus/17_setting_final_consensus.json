@@ -5,14 +5,14 @@
       "field": "character",
       "point": "Kind-hearted and proactive, A is quick to notice the discomfort of others and is always ready to lend a helping hand.",
       "discovered": true,
-      "round": 3,
+      "round": 1,
       "side": "A"
     },
     {
       "field": "behavior",
       "point": "Approaches the elderly person first and offers assistance, then turns to B to coordinate the effort of finding an available seat.",
       "discovered": true,
-      "round": 1,
+      "round": 3,
       "side": "A"
     },
     {
@@ -26,14 +26,14 @@
       "field": "character",
       "point": "Sensitive and cooperative, B is not as quick to act but is responsive to the needs of others and willing to collaborate.",
       "discovered": true,
-      "round": 3,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Joins A in the effort to help the senior, scanning the bus for an empty seat and signaling to A when one becomes available.",
       "discovered": true,
-      "round": 1,
+      "round": 3,
       "side": "B"
     },
     {

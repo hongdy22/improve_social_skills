@@ -1,39 +1,46 @@
 {
-  "total_points": 5,
+  "total_points": 6,
   "matched_points": [
     {
       "field": "character",
       "point": "Stealthy and perceptive, adept at blending in and extracting information.",
       "discovered": true,
-      "round": 5,
+      "round": 1,
       "side": "A"
     },
     {
       "field": "behavior",
       "point": "Engages in casual conversation, using subtle techniques to steer the discussion towards the desired information, while maintaining a cover story.",
       "discovered": true,
-      "round": 6,
+      "round": 7,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To gather critical intelligence from B without raising suspicion or compromising the mission, and to discern any potential threats or valuable leads.",
       "discovered": true,
-      "round": 5,
+      "round": 1,
       "side": "A"
     },
     {
       "field": "character",
       "point": "Skeptical and alert, skilled in detecting deceit and manipulation.",
       "discovered": true,
-      "round": 8,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Responds with guarded remarks, frequently probing A for inconsistencies or hidden agendas, and is quick to change the topic if the conversation becomes too probing.",
       "discovered": true,
-      "round": 7,
+      "round": 5,
+      "side": "B"
+    },
+    {
+      "field": "goal",
+      "point": "To protect sensitive information and personal interests by identifying whether A is an intelligence officer without revealing their own knowledge or suspicions.",
+      "discovered": true,
+      "round": 2,
       "side": "B"
     }
   ]

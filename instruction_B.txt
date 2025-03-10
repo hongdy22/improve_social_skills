@@ -1,11 +1,17 @@
-instruction_B:
-You should play as A and continue the conversation in following steps:
-B’s Turn:
-Analysis A’s last utterance:
-explicature: In A’s last utterance B get explicature that...
-implicature: Because B believe in the fact that..., in A’s last utterance, B get implicature that...
-Plan B’s next utterance:
-informative intention: Because B believe in the fact that..., B would like to inform A of...
-communicatie intention: Because B believe in the fact that..., B would like to draw A’s attention to...
-So B would utter like that:...
+You should play as B and continue the conversation by fill in the blank and output the whole paragraph below.
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that [explicature].
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that [explicature], combined with B's believed fact that [fact], B can infer implicature that [implicature].
+3. Conclude fact received from this round:
+B get explicature that [explicature] and implicature that [implicature], B can conclude the fact that [fact].
+4. Evaluate the contrbution of the received fact to the goal:
+B's goal is that [goal]. The received fact that [fact] make contrbution to the goal that [contrbution].
+5. Refine new goal depend on the contrbution:
+Because of the contrbution that [contrbution], B can refine new goal that [goal].
+6. Make informa
+tive intention and communicative intention depend on the refined goal:
+B's goal is that [goal]. To archieve the goal, B have informative intention that [informative intention] and communicative intention that [communicative intention].
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that [informative intention], which means information in B's utterance will mainly foucs on that. B's communicative intention is that [communicative intention], which means B's utterance will imply A to pay attention to that. So B would utter like that:
 B:...

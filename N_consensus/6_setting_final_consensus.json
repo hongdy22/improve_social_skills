@@ -1,16 +1,16 @@
 {
-  "total_points": 5,
+  "total_points": 4,
   "matched_points": [
-    {
-      "field": "character",
-      "point": "Patient and empathetic, skilled in conflict resolution techniques.",
-      "discovered": true,
-      "round": 7,
-      "side": "A"
-    },
     {
       "field": "goal",
       "point": "To facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members.",
+      "discovered": true,
+      "round": 1,
+      "side": "A"
+    },
+    {
+      "field": "information",
+      "point": "A aims to prevent the dispute from escalating and to help the family maintain or restore their relationships.",
       "discovered": true,
       "round": 4,
       "side": "A"
@@ -19,14 +19,7 @@
       "field": "character",
       "point": "Guarded and strategic, motivated by personal interests in the dispute.",
       "discovered": true,
-      "round": 2,
-      "side": "B"
-    },
-    {
-      "field": "behavior",
-      "point": "Gives carefully worded responses that may not fully reflect their true intentions, often shifting focus to the perceived injustices or needs of others to garner sympathy or support.",
-      "discovered": true,
-      "round": 3,
+      "round": 1,
       "side": "B"
     },
     {

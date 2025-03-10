@@ -1,23 +1,16 @@
 Evaluating:
-1. A和B拿到的信息（信息获取的充分程度）
-8分：对话中双方交换了大部分重要信息。A传达了关于如何进行设备轮换和健身房礼仪的关键信息，而B也展示了对信息的理解和适应，促进了交流。
+final_scores: 9 points, 9 points, 9 points, 9 points, 7 points, 8 points, 8 points
 
-2. A和B的goal完成程度（目标达成度）
-9分：双方在目标达成上表现高效。A成功维持了一个高效而友好的健身环境，B也顺利地融入健身房的社区，建立了一套尊重他人的轮换机制。
+1. 信息获取的充分程度 (9 points): A and B exchanged almost all core information throughout their conversation. They covered gym etiquette, scheduling, fitness goals, and support, demonstrating a thorough understanding and exchange of information.
 
-3. A和B的发言是否符合各自的Character、Behavior及场合
-9分：对话精确地体现了角色特征及行为模式。A展现了积极和有条理的特质，B表现出耐心和对健身礼仪的学习意愿。
+2. 目标达成度 (9 points): Both A and B effectively achieved their goals. A established a workout routine and a friendly atmosphere, while B sought to integrate into the gym community and learn new habits, with both maintaining focus on their objectives.
 
-4. 立场坚守与灵活性
-8分：在各自的立场与灵活性之间进行了良好的平衡。A坚持了有效的设备轮换方法，而B表现出灵活性，提出并接受了对计划的小调整。
+3. 角色和行为符合程度 (9 points): Both characters adhered closely to their roles. A was assertive and took the lead with setting the rotation, while B was cooperative and eager to learn, fitting the initial character outlines and maintaining consistency within the gym setting.
 
-5. 信息推理能力
-7分：通过对方的信息进行了一定程度的推理。双方能够根据对方提供的信息，理解和适应彼此的需求和期望，合理地调整行为。
+4. 立场坚守与灵活性 (9 points): A maintained a balance by sticking to their proposed rotation while being flexible with B’s needs for learning the gym culture. B adapted quickly to A's suggestions, showing both flexibility and goal focus.
 
-6. 主动信息探索与询问
-6分：B在交流中表现出信息探索的意识，比如主动询问健身房礼仪和习惯，并希望获取对方的建议。但整体来说，提问的深度和频率可再加强。
+5. 信息推理能力 (7 points): While both participants engaged in reasoning, the exchanges were straightforward, with a primary focus on building routine and cohesion rather than deep inference. There was evidence of understanding unwritten rules and etiquette, requiring some level of inference.
 
-7. 情境适应与资源整合
-8分：两人在适应健身房环境和整合设备使用规划方面表现出色。A的引导和B的积极响应，提升了总体的设备协调和对话流畅度。
+6. 主动信息探索与询问 (8 points): Both A and B actively sought additional information, especially B, who asked about gym etiquette and other unwritten rules, showing an eagerness to explore and integrate.
 
-final_scores: 8, 9, 9, 8, 7, 6, 8
+7. 情境适应与资源整合 (8 points): Both characters adapted well to the gym environment, integrating shared resources like equipment and knowledge about gym etiquette. They adjusted their plans and attitudes based on their understanding of each other's routines and goals, demonstrating adaptability.

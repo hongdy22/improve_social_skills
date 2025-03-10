@@ -1,280 +1,451 @@
 Round 0:
 all scripts A: 
-A: "Hey B, I'm back—sorry the gathering went on a bit longer than I expected, but I did catch up with some old friends I hadn't seen in ages; how was your evening?"
+A: Hey, sorry about being late; the gathering just had so many people to catch up with. I brought back some stories, though!
 
 all scripts B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B understands that A prioritizes catching up with old friends and the gathering over their weekend plans.  
-implicature: Because B believes in the fact that A often chooses social events over their time together, in A’s last utterance, B gets the implicature that A might not fully recognize the importance of their time alone together.  
+1. Get explicature from A’s last utterance:
+In A’s last utterance B gets explicature that A is acknowledging their lateness due to the gathering and is offering stories in return.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that weekend plans were overlooked, B would like to inform A of the significance of those moments and the feelings of loneliness that arise from their absence.  
-communicative intention: Because B believes in the fact that patterns of absence can cause emotional distancing, B would like to draw A’s attention to the emotional impact of missing out on their planned time together.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is acknowledging their lateness due to the gathering and is offering stories in return, combined with B's believed fact that B often feels neglected when A is absent, B can infer implicature that A thinks sharing stories is enough to compensate for the absence.
 
-So B would utter like that:  
-B: "Hi A, I’m glad you had a good time seeing your friends—it was rather quiet here, which made me realize how much I look forward to our little traditions."
+3. Conclude fact received from this round:
+B gets explicature that A is acknowledging their lateness due to the gathering and is offering stories in return, and implicature that A thinks sharing stories is enough to compensate for the absence, B can conclude the fact that A might not fully understand how B feels about their absences.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A might not fully understand how B feels about their absences makes a contribution to the goal by highlighting the need for clearer communication about B's feelings.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that highlights the need for clearer communication about B's feelings, B can refine a new goal to gently communicate their feelings about the impact of A's absences.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that to gently communicate their feelings about the impact of A's absences. To achieve the goal, B has the informative intention to express subtle hints of sadness when A is absent and the communicative intention to encourage A to understand and acknowledge B's feelings more deeply.
+
+7. Utter depend on B's informative intention and communicative intention:
+B's informative intention is to express subtle hints of sadness when A is absent, which means information in B's utterance will mainly focus on that. B's communicative intention is to encourage A to understand and acknowledge B's feelings more deeply, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: It sounds like you had a good time at the gathering. I guess I missed out on some stories and the dinner we had planned... I just hope we can still share those moments together somehow.
 
 Round 1:
 all scripts of A: 
-A’s Turn:  
-Analysis of B’s last utterance:  
-Explicature: In B’s last utterance, A gets the explicature that B appreciates the time they usually spend together and felt the absence of that shared experience.  
-Implicature: Because A believes in the fact that B values their time together, in B’s last utterance, A gets the implicature that B might be feeling neglected or unimportant due to A's recent absences.  
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B feels left out and disappointed about missing the dinner and stories.
 
-Plan A’s next utterance:  
-Informative intention: Because A believes in the fact that B values their time together, A would like to inform B of his/her recognition of the importance of their shared experiences and the intent to prioritize them.  
-Communicative intention: Because A believes in the fact that B values their time together, A would like to draw B’s attention to the fact that their relationship is important to A too, and that A cherishes their time together.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B feels left out and disappointed about missing the dinner and stories, combined with A's believed fact that A's frequent social engagements have led to reduced interaction with B, A can infer implicature that B is feeling neglected.
 
-So A would utter like that:  
-A: "I completely understand, B, our time together means a lot to me as well. I’ve missed our movie nights and dinners, and I want to make sure we don’t lose those special moments. Let's plan something just for us soon, okay?"
+3. Conclude fact received from this round:  
+A gets explicature that B feels left out and disappointed about missing the dinner and stories and implicature that B is feeling neglected, A can conclude the fact that B desires more attention and shared moments with A.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B desires more attention and shared moments with A makes a contribution to the goal by highlighting the specific area (attention and shared moments) A can focus on to ease the tension.
+
+5. Refine new goal dependent on the contribution:  
+Because of the contribution that B desires more attention and shared moments with A, A can refine the new goal that A aims to make B feel valued by suggesting immediate plans to share stories and moments.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to make B feel valued by suggesting immediate plans to share stories and moments. To achieve the goal, A has informative intention to indicate willingness to spend quality time together now and communicative intention to imply openness to making up for the missed dinner and stories.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to indicate willingness to spend quality time together now, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply openness to making up for the missed dinner and stories, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I really missed our dinner plan too, and I’d love nothing more than to spend the rest of the evening making up for it. How about we still have that dinner and I share all the stories with you now?
 
 all scripts of B: 
-B’s Turn:
+In A’s last utterance B get explicature that A is sorry for being late because the gathering was engaging and had many people to converse with.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance B get explicature that A had an unexpectedly long but pleasant time catching up with friends.
-implicature: Because B believe in the fact that the gathering was unplanned, in A’s last utterance, B get implicature that A might not have fully considered how their absence would affect B.
+From the explicature that A is sorry for being late because the gathering was engaging and had many people to converse with, combined with B's believed fact that A has missed several planned moments together due to similar past events, B can infer implicature that A might not fully realize how much B values their planned time together.
 
-Plan B’s next utterance:
-informative intention: Because B believe in the fact that the quietness represented a missed opportunity for shared moments, B would like to inform A of feeling the absence.
-communicative intention: Because B believe in the fact that mutual understanding is important, B would like to draw A’s attention to the value of their shared time.
+B get explicature that A is sorry for being late because the gathering was engaging and had many people to converse with and implicature that A might not fully realize how much B values their planned time together, B can conclude the fact that A is often unaware of B’s feelings when plans change suddenly.
 
-So B would utter like that:
-B: "I spent some time preparing for our usual dinner and set the table. It just felt different without you, and I missed having you here—a reminder of how these moments mean a lot to me."
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is often unaware of B’s feelings when plans change suddenly make contrbution to the goal that A needs to be reminded about the importance of their shared moments.
+
+Because of the contrbution that A needs to be reminded about the importance of their shared moments, B can refine new goal that B wants to gently communicate the importance of their shared moments to A without sounding demanding.
+
+B's goal is that B wants to gently communicate the importance of their shared moments to A without sounding demanding. To achieve the goal, B have informative intention that B’s feelings of missing out on shared moments are significant and communicative intention that A should think about making more consistent time for their plans.
+
+B's informative intention is that B’s feelings of missing out on shared moments are significant, which means information in B's utterance will mainly focus on that. B's communicative intention is that A should think about making more consistent time for their plans, which means B's utterance will imply A to pay attention to that.
+
+B: I know gatherings can be fun and it’s great you enjoyed it, but I really value our time together and sometimes it feels like we keep missing out on moments we planned for. Do you think we could try setting aside a more consistent time for just us?
 
 Round 2:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that B values their time together and feels their planned moments are often missed.
 
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B prepared the usual dinner and set the table, and it felt different without A, signifying how much these moments together mean to B.
-implicature: Because A believes in the fact that B values their time together, in B’s last utterance, A gets the implicature that B feels disappointed and possibly neglected due to A's absence, emphasizing the importance of their shared experiences.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B values their time together and feels their planned moments are often missed, combined with A's believed fact that frequent social engagements recently have led to reduced interaction with B, A can infer the implicature that B feels neglected and wants more dedicated time from A.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that B values their traditions and experiences together, A would like to inform B of their appreciation for B’s effort and acknowledge the importance of these moments.
-communicative intention: Because A believes in the fact that B’s feelings need to be addressed, A would like to draw B’s attention to A’s willingness to prioritize their time together in the future.
+3. Conclude fact received from this round:
+A gets explicature that B values their time together and feels their planned moments are often missed, and implicature that B feels neglected and wants more dedicated time from A. A can conclude the fact that B desires more consistent quality time with A.
 
-A: "B, I truly appreciate all the effort you put into our dinner tonight—your dedication to our traditions is something I cherish deeply. I realize my absence must have felt disheartening, and I want you to know I’m committed to making up for it. How about we create a new plan together right now for this weekend?"
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B desires more consistent quality time with A makes a contribution to the goal by highlighting the importance of addressing B's feelings and desires for the relationship.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that addressing B's feelings and desires is crucial, A can refine the new goal to propose a specific plan for spending consistent quality time together and show genuine intent to prioritize B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to propose a specific plan for spending consistent quality time together and show genuine intent to prioritize B. To achieve the goal, A has the informative intention to suggest a regular time dedicated to them and the communicative intention to reassure B about A’s commitment to the relationship.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to suggest a regular time dedicated to them, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B about A's commitment to the relationship, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I understand that it's important for us to have our own time without other distractions. How about we set aside every Saturday evening just for us? We can plan something special each week and make sure it’s our time together.
 
 all scripts of B: 
-B's Turn:
+Round 2:
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B gets the explicature that A acknowledges the importance of their shared moments and expresses a desire to prioritize them in the future.  
-implicature: Because B believes in the fact that A’s absence has been a recurring issue, in A’s last utterance, B gets the implicature that A might not be fully aware of how deeply the absences affect B emotionally.
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A admits missing the planned dinner and is proposing to make up for it by having dinner now and sharing stories.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that these moments are essential to their relationship, B would like to inform A of the emotional impact of their absence beyond just missing the activities themselves.  
-communicative intention: Because B believes in the fact that proactive steps are needed to mend the recurring feeling of loneliness, B would like to draw A’s attention to the importance of their efforts to be present and attentive.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A admits missing the planned dinner and is proposing to make up for it, combined with B's believed fact that B wants A to prioritize their time together more consistently, B can infer implicature that A might be open to prioritizing their relationship but needs a subtle nudge to understand its importance.
 
-So B would utter like that:  
-B: "Thank you for wanting to plan something special—I'd really appreciate us being intentional about our time together, as it sometimes feels a bit lonely when we miss out on those moments."
+3. Conclude fact received from this round:
+B get explicature that A admits missing the planned dinner and is proposing to make up for it and implicature that A might be open to prioritizing their relationship but needs a subtle nudge, B can conclude the fact that A is willing to make an effort but might not fully realize the emotional impact of the absence.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is willing to make an effort but might not fully realize the emotional impact of the absence makes a contribution to the goal that it opens a way for B to gently communicate the emotional importance of their time together.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it opens a way for B to gently communicate the emotional importance of their time together, B can refine new goal that A will understand and appreciate the value B places on their planned time together, leading to more proactive efforts.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that A will understand and appreciate the value B places on their planned time together, leading to more proactive efforts. To achieve the goal, B has informative intention that the moments they plan together are deeply valued by B and need prioritization, and communicative intention that B desires A's understanding and proactive commitment.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that the moments they plan together are deeply valued by B and need prioritization, which means information in B's utterance will mainly focus on that. B's communicative intention is that B desires A's understanding and proactive commitment, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: I look forward to hearing all your stories, but what truly matters to me is that we prioritize these moments together. It would mean a lot if we could find ways to make this time a consistent part of our lives.
 
 Round 3:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B values prioritizing and making consistent time together a part of their lives.
 
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that B feels lonely when they miss out on special moments together and appreciates the intention to plan more time together.
-implicature: Because A believes in the fact that B values their time spent together and feels the absence keenly, in B’s last utterance, A gets the implicature that B is expressing a desire for reassurance and a commitment to shared experiences.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B values prioritizing and making consistent time together a part of their lives, combined with A's believed fact that frequent social engagements recently have led to reduced interaction with B, A can infer implicature that B feels neglected and desires a change to ensure regular quality time together.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that replenishing emotional connection is important, A would like to inform B of the genuine willingness to make amends.
-communicative intention: Because A believes in the fact that intentional planning can bring them closer, A would like to draw B’s attention to the possibility of creating new memorable experiences.
+3. Conclude fact received from this round:
+A get explicature that B values prioritizing and making consistent time together a part of their lives and implicature that B feels neglected and desires a change to ensure regular quality time together, A can conclude the fact that B is seeking reassurance and commitment to a more balanced relationship.
 
-A: "I hear you, B, and I want to make sure we create more of those memorable experiences together. How about we brainstorm a list of things we love doing and make a mini bucket-list for us this month? Your presence means the world to me and I want to cherish it."
+4. Evaluate the contrbution of the received fact to the goal:
+A's goal is that A hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B is seeking reassurance and commitment to a more balanced relationship makes a contribution to the goal by highlighting the need for A to provide reassurance and suggest practical commitments.
+
+5. Refine new goal depend on the contrbution:
+Because of the contribution that highlighting the need for A to provide reassurance and suggest practical commitments, A can refine new goal that A will offer reassurance about their relationship and propose a clear plan to balance social life and time with B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A will offer reassurance about their relationship and propose a clear plan to balance social life and time with B. To achieve the goal, A has an informative intention that A wants to assure B of commitment and propose a practical routine for their time together, and a communicative intention that A wants B to feel valued and hopeful about the future of their relationship.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A wants to assure B of commitment and propose a practical routine for their time together, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants B to feel valued and hopeful about the future of their relationship, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I really want you to know how much I value our time together, and I am fully committed to making this work. Let's start by dedicating every Saturday evening just for us, and we can make adjustments to suit both our needs as we move forward. Your happiness and our time are truly important to me.
 
 all scripts of B: 
-B’s Turn:  
-**Analysis A’s last utterance:**  
-*explicature:* In A’s last utterance, B gets the explicature that A is acknowledging the effort B puts into their shared time and is suggesting creating new plans for the upcoming weekend to strengthen their bond.  
-*implicature:* Because B believes in the fact that A values their relationship and traditions, in A’s last utterance, B gets the implicature that A genuinely wants to address the feelings of loneliness B might experience when their plans fall through.  
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A is proposing to set aside every Saturday evening for just the two of them to plan something special and have distraction-free time together.
 
-**Plan B’s next utterance:**  
-*informative intention:* Because B believes in the fact that communicating openly is important for their relationship, B would like to inform A of the importance of planning and being present, which helps in alleviating feelings of loneliness.  
-*communicative intention:* Because B believes in the fact that A is receptive to direct yet gentle communication, B would like to draw A’s attention to how much their efforts mean to B and encourage more frequent meaningful connections.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is proposing to set aside every Saturday evening, combined with B's believed fact that consistency and attention have been lacking, B can infer implicature that A genuinely wants to address the issue and make a committed effort to strengthen their relationship.
 
-So B would utter like that:  
-B: "I really value that, A—knowing you want to be intentional means a lot. I think if we plan and even create some new traditions, it will help keep our connection strong and those feelings of loneliness at bay."
+3. Conclude fact received from this round:  
+B get explicature that A is proposing consistent Saturday evenings together and implicature that A genuinely wants to address the issue and make a committed effort. B can conclude the fact that A is motivated to prioritize their relationship and make changes.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is motivated to prioritize their relationship and make changes contributes to the goal by signaling A’s intention to actively improve their connection.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that A’s intention to actively improve their connection, B can refine new goal that A consistently follows through with the plan and that their relationship becomes stronger and more fulfilling.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is that A consistently follows through with the plan and that their relationship becomes stronger and more fulfilling. To achieve the goal, B have informative intention that B appreciates A's proposal and sees it as a positive step, and communicative intention that B hopes A will indeed follow through on this plan.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is that B appreciates A's proposal and sees it as a positive step, which means information in B's utterance will mainly focus on that. B's communicative intention is that B hopes A will indeed follow through on this plan, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: I'm really glad to hear that you want to set aside Saturdays for us; it means a lot that you're committed to this. Let's make sure we really cherish this time and keep it as a steady part of our routine.
 
 Round 4:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B appreciates the commitment to spending Saturdays together and values it as an important part of their routine. 
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B appreciates the commitment to spending Saturdays together, combined with A's believed fact that frequent social engagements have led to reduced interaction, A can infer implicature that B feels reassured by the effort to make their time a priority. 
 
-explicature: In B’s last utterance, A gets explicature that B values intentionality in their relationship and is hopeful about strengthening their connection through shared experiences and new traditions.
+3. Conclude fact received from this round:  
+A gets explicature that B appreciates the commitment and values the time together and implicature that B feels reassured by the effort, A can conclude the fact that B is positively responding to the initiative to prioritize their relationship.
 
-implicature: Because A believes in the fact that B feels lonely when they're not spending quality time together, in B’s last utterance, A gets the implicature that B seeks reassurance that A is committed to their relationship.
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B is positively responding to the initiative makes a contribution to the goal by showing that B is becoming more satisfied and assured about their relationship being a priority.
 
-Plan A’s next utterance:
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B is becoming more satisfied, A can refine the new goal to solidify the positive feelings and ensure B feels secure in the prioritization of their relationship.
 
-informative intention: Because A believes in the fact that planning together can foster connection, A would like to inform B of genuine ideas for new traditions and activities.
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to solidify the positive feelings and ensure B feels secure in the prioritization of their relationship. To achieve the goal, A has informative intention to confirm the plan and communicative intention to emphasize commitment and the importance of their shared time.
 
-communicative intention: Because A believes in the fact that creating new traditions can solidify their bond, A would like to draw B’s attention to how exciting and meaningful these new traditions can be.
-
-So A would utter like that:
-
-A: "That sounds perfect, B. I’m all in for creating some new traditions with you! How about we start a monthly date night where we try something we’ve never done before or revisit some of our favorite spots? I’m really looking forward to this, and I want to make sure we’re both having the best time together."
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to confirm the plan for Saturdays, which means information in A's utterance will mainly focus on affirming this schedule. A's communicative intention is to emphasize commitment and the importance of their shared time, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I'm so glad we're on the same page, and I’m excited about making Saturdays our special time. Let's make the most of it and really enjoy our moments together, just you and me.
 
 all scripts of B: 
-B’s Turn: 
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is fully committed to making their time together work by dedicating every Saturday evening just for them and open to making adjustments to suit both their needs.
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets the explicature that A is expressing a genuine desire to strengthen their connection by creating shared experiences.  
-implicature: Because B believes in the fact that A is committed to improving their shared time, in A’s last utterance, B gets the implicature that A values their relationship and is open to actively nurturing it.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is fully committed to making their time together work by dedicating every Saturday evening just for them and open to making adjustments to suit both their needs, combined with B's believed fact that A often misses planned moments due to other distractions, B can infer implicature that A acknowledges the issue and is willing to proactively create a stable routine to address it.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that creating new traditions can reinforce their bond, B would like to inform A of their excitement about collaborating on a mini bucket-list.  
-communicative intention: Because B believes in the fact that mutual planning will alleviate loneliness, B would like to draw A’s attention to their appreciation for A’s willingness to be proactive.  
+3. Conclude fact received from this round:
+B get explicature that A is fully committed to making their time together work by dedicating every Saturday evening just for them and open to making adjustments to suit both their needs and implicature that A acknowledges the issue and is willing to proactively create a stable routine to address it, B can conclude the fact that A genuinely wants to prioritize their relationship and is making active plans to improve it.
 
-So B would utter like this:  
-B: "I’m excited about the idea of creating a mini bucket-list together. It sounds like a wonderful way for us to reconnect and make memories. I appreciate you wanting to be proactive in planning—it really does mean a lot to me."
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A genuinely wants to prioritize their relationship and is making active plans to improve it makes a contribution to the goal that A's actions indicate an intention to improve their relationship and B can feel reassured about A's commitment.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A's actions indicate an intention to improve their relationship and B can feel reassured about A's commitment, B can refine new goal that B wants to ensure this newly established routine becomes a consistent and cherished part of their relationship.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that B wants to ensure this newly established routine becomes a consistent and cherished part of their relationship. To achieve the goal, B has informative intention that emphasizing the importance of maintaining this commitment will strengthen the relationship, and communicative intention that expressing gratitude and optimism will encourage A to continue being committed.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that emphasizing the importance of maintaining this commitment will strengthen the relationship, which means information in B's utterance will mainly focus on that. B's communicative intention is that expressing gratitude and optimism will encourage A to continue being committed, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: Thank you for being committed to setting aside Saturdays just for us. It really means a lot to me, and I believe that keeping this commitment will make our bond even stronger. I'm really looking forward to it.
 
 Round 5:
 all scripts of A: 
-A’s Turn:  
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets explicature that B is optimistic about the idea of creating a mini bucket-list and values the proactivity in planning as a way to reconnect and create new memories.  
-implicature: Because A believes in the fact that being intentional about spending time together is important for maintaining their relationship, in B’s last utterance, A gets the implicature that B appreciates efforts to strengthen the connection and is open to collaborative planning.  
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B appreciates A's commitment to setting aside Saturdays and believes it will strengthen their bond.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that shared experiences will help fortify their bond, A would like to inform B of his/her enthusiasm to start crafting the bucket-list and suggest starting as soon as possible.  
-communicative intention: Because A believes in the fact that showing initiative is a positive step in mending their relationship and strengthening connection, A would like to draw B’s attention to the excitement of starting this new journey together.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's commitment to setting aside Saturdays, combined with A's believed fact that frequent social engagements have reduced interaction with B, A can infer implicature that B feels reassured by the promise of dedicated time which reduces the impact of past neglect.
 
-So A would utter like that:  
-A: "I’m thrilled that we’re on the same page about this, B. How about we start jotting down our ideas for the bucket-list this evening and maybe plan our first adventure together this weekend? I’m really excited to see where this takes us and to spend quality time with you."
+3. Conclude fact received from this round:
+A gets explicature that B appreciates A's commitment and implicature that B feels reassured, A can conclude the fact that dedicated time has positively affected B's view of their relationship's attention needs.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that A hopes to alleviate B's dissatisfaction. The received fact that dedicated time has positively affected B's view makes a contribution to the goal by confirming that the promise of regular, uninterrupted time together alleviates some of B's dissatisfaction.
+
+5. Refine new goal based on the contribution:
+Because of the contribution that the promise of regular time together alleviates dissatisfaction, A can refine a new goal that focuses on laying out clear ideas for upcoming Saturdays to enhance reassurance and build anticipation.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A wants to enhance reassurance and build anticipation for their Saturdays together. To achieve the goal, A has an informative intention that ideas for upcoming Saturdays are interesting and engaging and a communicative intention that B acknowledges the efforts to create quality time.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that ideas for upcoming Saturdays are interesting and engaging, which means information in A's utterance will mainly focus on that. A's communicative intention is that B acknowledges the efforts to create quality time, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I've been thinking about our Saturdays, and I have some fun ideas we could try—cooking new recipes together, exploring places nearby, or even having a movie marathon at home. I want each of our evenings to be something special to look forward to. What do you think?
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:
+In A’s last utterance, B gets explicature that A is committed to making Saturdays their special time together and is looking forward to enjoying those moments with B.
 
-Analysis A’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is committed to making Saturdays their special time together, combined with B's believed fact that A has been absent during previous planned times, B can infer implicature that A acknowledges the previous lack of prioritization and is making an effort to rectify it.
 
-explicature: In A’s last utterance, B gets the explicature that A is genuinely willing to take proactive steps to nurture our relationship by creating new traditions and experiences together.
+3. Conclude fact received from this round:
+B gets explicature that A is committed to making Saturdays their special time together and implicature that A acknowledges the previous lack of prioritization and is making an effort to rectify it. B can conclude the fact that A is earnest in improving the situation and values their time together.
 
-implicature: Because B believes in the fact that A is sincere in wanting to address the loneliness B has felt, in A’s last utterance, B gets the implicature that A truly values our time together and wants to strengthen our bond.
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is earnest in improving the situation and values their time together makes a significant contribution to the goal, as it suggests A's willingness to change and be more attentive.
 
-Plan B’s next utterance:
+5. Refine new goal depending on the contribution:
+Because of the contribution that A's willingness to change and be more attentive advances the goal of restoring warm interaction, B can refine the new goal to ensure that the commitment becomes a consistent and cherished part of their routine, thereby strengthening their connection.
 
-informative intention: Because B believes in the fact that A is committed to addressing the situation, B would like to inform A of how much this initiative represents to B.
+6. Make informative intention and communicative intention depending on the refined goal:
+B's goal is that the commitment becomes a consistent and cherished part of their routine, thereby strengthening their connection. To achieve the goal, B has an informative intention to express gratitude and anticipation for their time together and a communicative intention to reinforce the importance of maintaining this new routine.
 
-communicative intention: Because B believes in the fact that A is genuinely concerned, B would like to draw A’s attention to how reassured and hopeful B feels about their shared future.
-
-So B would utter like that:
-
-B: "This proactive planning really makes me feel hopeful about us, A. Let’s go ahead and start working on that list—I’m looking forward to discovering new things with you and revisiting our favorite spots."
+7. Utter depending on B's informative intention and communicative intention:
+B's informative intention is to express gratitude and anticipation, which means information in B's utterance will mainly focus on appreciation and positive outlook. B's communicative intention is to reinforce the importance of maintaining this new routine, which means B's utterance will imply A to pay attention to that. So B would utter like this:
+B: Thank you for this commitment; it truly makes me happy knowing we have something special to look forward to every week. Let's make sure to keep this a treasured habit that strengthens us.
 
 Round 6:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance: 
+In B’s last utterance A get explicature that B is happy about having a special time to look forward to each week with A and values it as a treasured practice that strengthens the relationship.
 
-Analysis B’s last utterance:  
-Explicature: In B’s last utterance, A gets the explicature that B feels optimistic and is looking forward to engaging in new activities together, while also revisiting cherished experiences.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is happy about having a special time to look forward to each week with A and values it as a treasured practice that strengthens the relationship, combined with A's believed fact that frequent social engagements have reduced interaction with B, A can infer implicature that B needs reassurance and consistent commitment from A to feel secure and valued in the relationship.
 
-Implicature: Because A believes in the fact that intentional planning has a positive effect on their relationship, in B’s last utterance, A gets the implicature that B values this effort and sees it as a way to strengthen their bond.  
+3. Conclude fact received from this round:
+A get explicature that B is happy about having a special time to look forward to each week with A and values it as a treasured practice that strengthens the relationship and implicature that B needs reassurance and consistent commitment from A to feel secure and valued in the relationship, A can conclude the fact that B appreciates the commitment and sees it as a way to enhance the emotional strength of the relationship.
 
-Plan A’s next utterance:  
-Informative intention: Because A believes in the fact that collaborative planning can enhance their connection, A would like to inform B of how eager A is to kick-start this process and express excitement for upcoming adventures together.  
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B appreciates the commitment and sees it as a way to enhance the emotional strength of the relationship contributes to the goal by providing a positive foundation to move forward without dwelling on past neglect.
 
-Communicative intention: Because A believes in the fact that proactive engagement shows commitment, A would like to draw B’s attention to A’s enthusiasm for crafting memorable experiences.  
+5. Refine new goal depend on the contribution:
+Because of the contribution that B appreciates the commitment and sees it as a way to enhance the emotional strength of the relationship, A can refine a new goal that aims to strengthen the relationship by focusing on consistent attention and shared activities.
 
-So A would utter like that:  
-A: "I’m really glad to hear that, B. Let’s grab a notebook, make a cozy spot for ourselves tonight, and jot down all the ideas that come to mind. I can’t wait to dive into this adventure with you and make some amazing memories together!"
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that aims to strengthen the relationship by focusing on consistent attention and shared activities. To achieve the goal, A has informative intention that expresses excitement for future plans and shares ideas to make them enjoyable and communicative intention that conveys enthusiasm and a genuine desire for shared experiences, encouraging B's engagement.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that expresses excitement for future plans and shares ideas to make them enjoyable, which means information in A's utterance will mainly focus on that. A's communicative intention is that conveys enthusiasm and a genuine desire for shared experiences, encouraging B's engagement, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm really thrilled that we're planning these Saturdays and I'm looking forward to all the fun things we can do together. Let’s continue to brainstorm more activities that excite us and make our time truly memorable. I'm eager to hear any thoughts you have!
 
 all scripts of B: 
-B’s Turn:
-Analysis A’s last utterance:
-explicature: In A’s last utterance B gets the explicature that A is eager and genuinely committed to spending more quality time together by planning new adventures.
-implicature: Because B believes in the fact that A is sincere and genuinely looking to improve their relationship, in A’s last utterance, B gets the implicature that A values their relationship greatly and wants to prevent feelings of loneliness from recurring.
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A has been thinking about their planned Saturdays together, and they have some ideas for fun activities to try, aiming to make each evening special.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that being proactive about their plans strengthens their bond, B would like to inform A of their excitement and willingness to start making the bucket list.
-communicative intention: Because B believes in the fact that A’s proactive attitude is reassuring, B would like to draw A’s attention to the significance of these efforts in reinforcing their connection.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A has been thinking about their planned Saturdays together with some ideas for fun activities, combined with B's believed fact that B desires more attention and consistency in their plans, B can infer implicature that A is making an effort to prioritize their time together and has a genuine interest in improving their relationship dynamics.
 
-So B would utter like that:
-B: "This sounds like a perfect start, A—I can’t wait to jot down our ideas and plan our first adventure. It’s reassuring to know we’re both invested in strengthening our bond and creating beautiful memories together."
+3. Conclude fact received from this round:
+B get explicature that A has been thinking about their planned Saturdays together, and they have some ideas for fun activities to try, and implicature that A is making an effort to prioritize their time together and has a genuine interest in improving their relationship dynamics, B can conclude the fact that A is actively engaging in making their shared time enjoyable and meaningful.
+
+4. Evaluate the contrbution of the received fact to the goal:
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is actively engaging in making their shared time enjoyable and meaningful makes a positive contribution to the goal by demonstrating A's commitment towards their relationship nurturing.
+
+5. Refine new goal depend on the contrbution:
+Because of the positive contribution that A's engagement has towards the relationship, B can refine their new goal to ensure their shared time remains consistent and mutually fulfilling, by openly sharing thoughts and ideas for their activities.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that their shared time remains consistent and mutually fulfilling. To achieve the goal, B has an informative intention to communicate appreciation for A's efforts and a communicative intention to encourage continued collaboration on their plans.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is to communicate appreciation for A's efforts, which means information in B's utterance will mainly focus on gratitude. B's communicative intention is to encourage continued collaboration on their plans, which means B's utterance will imply A to share ideas together. So B would utter like that:
+B: I really appreciate that you're putting so much thought into making our Saturdays special. I’m excited about your ideas and would love for us to brainstorm more together to enhance our time. Let's make sure these evenings are as enriching and fun as possible!
 
 Round 7:
 all scripts of A: 
-A's Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that B appreciates A's commitment to making Saturdays special and is excited about collaborating on ideas.
 
-Analysis B's last utterance:
-explicature: In B's last utterance, A gets the explicature that B is eager to start the planning process for their adventures and appreciates A's commitment to strengthening their relationship.
-implicature: Because A believes in the fact that B values proactive planning and the intention to strengthen their bond, in B's last utterance, A gets the implicature that B is feeling reassured and optimistic about their efforts to reconnect.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's commitment and excitement about collaborating, combined with A's believed fact that consistent quality time can strengthen their relationship, A can infer the implicature that B feels more optimistic about their relationship's future.
 
-Plan A's next utterance:
-informative intention: Because A believes in the fact that creating meaningful experiences will strengthen their relationship, A would like to inform B of the excitement in making this plan a success.
-communicative intention: Because A believes in the fact that working together on this plan fosters intimacy and mutual appreciation, A would like to draw B's attention to the importance of their teamwork and shared vision.
+3. Conclude fact received from this round:
+A gets explicature that B appreciates and is excited, and implicature that B feels more optimistic. A can conclude the fact that B is now more invested in the planned Saturdays, and this strengthens their bond.
 
-A: "This is the kind of positivity and teamwork I love about us, B. Let's light some candles, play our favorite playlist, and make this planning session as memorable as our future adventures. It's going to be a beautiful journey, and I’m so glad to be taking it with you."
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to alleviate B's dissatisfaction with gentle words and avoid direct acknowledgment of the mistake. The received fact that B is now more invested in and optimistic about the Saturdays contributes to the goal by reassuring B and redirecting focus to positive future plans.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that the planned Saturdays have reassured B and redirected focus, A can refine the new goal to further encourage B's enthusiasm and solidify Saturday plans as an anticipated highlight.
+
+6. Make informative intention and communicative intention depending on the refined goal:
+A's goal is to further encourage B's enthusiasm and solidify Saturday plans as an anticipated highlight. To achieve this goal, A has an informative intention to suggest focusing on positive emotions and shared excitement, and a communicative intention to imply mutual anticipation for the upcoming plans.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to focus on positive emotions and shared excitement, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply mutual anticipation for the upcoming plans, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm really glad we're both so invested in making our Saturdays special. It's going to be great exploring new activities and just spending quality time together. I can't wait for this weekend—let's make it amazing!
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A is enthusiastic about planning and making Saturdays special and is eager to collaborate on ideas to make the most of their time together.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about creating new experiences together and wants to take immediate steps to strengthen their bond.
-implicature: Because B believes in the fact that A is committed to making things right and values their time together, in A’s last utterance, B gets the implicature that A is genuine in wanting to prioritize their relationship.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is enthusiastic about planning and making Saturdays special and is eager to collaborate on ideas, combined with B's believed fact that B desires consistent attention and meaningful interaction from A, B can infer implicature that A genuinely intends to invest effort and energy into enhancing their time together, showing a commitment to B’s emotional needs.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that shared experiences and intentionality can strengthen their relationship, B would like to inform A of their eagerness to participate in this planning and remind A of their appreciation for the efforts being made.
-communicative intention: Because B believes in the fact that A's proactive approach can help mitigate feelings of loneliness, B would like to draw A’s attention to the importance of these new traditions they’re starting.
+3. Conclude fact received from this round:  
+B get explicature that A is enthusiastic about planning and making Saturdays special and is eager to collaborate on ideas to make the most of their time together and implicature that A genuinely intends to invest effort and energy into enhancing their time together, showing a commitment to B’s emotional needs, B can conclude the fact that A is committed to nurturing their relationship and ensuring that their time together is meaningful.
 
-So B would utter like that: 
+4. Evaluate the contrbution of the received fact to the goal:  
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is committed to nurturing their relationship and ensuring that their time together is meaningful makes a contribution to the goal, as it indicates that A’s actions align with addressing B’s emotional needs and contributing to stronger interaction.
 
-B: "It’s heartening to see us both ready to embark on this new journey together, A. Let’s pick a cozy spot and start filling that notebook with all the things we’re eager to do. I’m grateful for this opportunity to connect and cherish the moments we’ll create."
+5. Refine new goal depend on the contrbution:  
+Because of the contribution that A’s actions align with addressing B’s emotional needs and contributing to stronger interaction, B can refine the new goal that the interaction remains consistent and that mutual efforts to strengthen their bond are ongoing and enriching.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is that the interaction remains consistent and that mutual efforts to strengthen their bond are ongoing and enriching. To achieve the goal, B has an informative intention that their shared time is precious and should remain a priority, and a communicative intention that expresses eagerness to collaboratively engage in activities enhancing their relationship.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is that their shared time is precious and should remain a priority, which means information in B's utterance will mainly focus on that. B's communicative intention is that expresses eagerness to collaboratively engage in activities enhancing their relationship, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
+B: I'm excited about all the potential adventures we can explore together on our Saturdays. It would be wonderful for us to keep brainstorming activities that we both enjoy, so our time remains cherished and keeps bringing us closer.
 
 Round 8:
 all scripts of A: 
-**A’s Turn:**  
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is excited about the potential adventures and wants to keep brainstorming activities to ensure their Saturdays together remain cherished and meaningful.
 
-**Analysis B’s last utterance:**  
-explicature: In B’s last utterance, A gets the explicature that B is enthusiastic about starting the planning process and appreciates the opportunity to reconnect through creating shared experiences.  
-implicature: Because A believes in the fact that B values their shared time and efforts to forge new traditions, in B’s last utterance, A gets the implicature that B feels encouraged and ready to strengthen the bond through these activities.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is excited about potential adventures and wants to keep brainstorming activities, combined with A's believed fact that A has been socially active but neglectful in intimate relationships, A can infer implicature that B values the quality of their shared experiences and hopes for A's continuous engagement.
 
-**Plan A’s next utterance:**  
-informative intention: Because A believes in the fact that creating shared experiences can enhance their relationship, A would like to inform B of his/her eagerness to start this planning process.  
-communicative intention: Because A believes in the fact that engaging in collaborative activities with B is meaningful, A would like to draw B’s attention to the significance of starting this new journey with a positive and hopeful mindset.
+3. Conclude fact received from this round:  
+A get explicature that B is excited about potential adventures and wants to keep brainstorming activities and implicature that B values the quality of their shared experiences and hopes for A's continuous engagement, A can conclude the fact that B appreciates A's commitment and desires ongoing collaboration in planning their time.
 
-**So A would utter like that:**  
-A: "I couldn't agree more, B. Let's make this planning session the first beautiful memory of many to come. I'm so grateful to be doing this with you, and I can’t wait to see all the wonderful things we’ll experience together."
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B appreciates A's commitment and desires ongoing collaboration in planning their time make contribution to the goal that it reassures A that B feels positively about the current commitment and reduces dissatisfaction.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that it reassures A that B feels positively about the current commitment and reduces dissatisfaction, A can refine new goal that to maintain B's enthusiasm and ensure the success of their planned Saturdays.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to maintain B's enthusiasm and ensure the success of their planned Saturdays. To achieve the goal, A have informative intention that A will actively contribute to the planning and execution of their Saturdays and communicative intention that A will express excitement and commitment to maintaining their shared routine.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that A will actively contribute to the planning and execution of their Saturdays, which means information in A's utterance will mainly focus on that. A's communicative intention is that A will express excitement and commitment to maintaining their shared routine, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm really looking forward to putting our ideas into action and making each Saturday a unique experience for us. It's going to be a great journey, and I'm so excited to keep planning these adventures with you—your input means everything.
 
 all scripts of B: 
-B’s Turn:
+1. Get explicature from A’s last utterance:
+In A’s last utterance, B gets explicature that A is enthusiastic about exploring new activities and spending quality time together on Saturdays.
 
-Analysis A’s last utterance:
-explicature: In A’s last utterance, B gets the explicature that A is enthusiastic about their teamwork and is eager to create a memorable planning session filled with positivity and future adventures.
-implicature: Because B believes in the fact that A values this opportunity to strengthen their bond, in A’s last utterance, B gets the implicature that A is genuinely invested in their relationship and looking forward to deepening their connection.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is enthusiastic about exploring new activities and spending quality time together on Saturdays, combined with B's believed fact that consistent quality time with A is important to B, B can infer implicature that A values their relationship and is willing to invest effort into maintaining it.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that A is committed to making their relationship stronger, B would like to inform A of how comforting A’s enthusiasm is.
-communicative intention: Because B believes in the fact that A truly values the relationship, B would like to draw A’s attention to how much B appreciates A’s willingness to embark on this journey together.
+3. Conclude fact received from this round:
+B gets explicature that A is enthusiastic about exploring new activities and spending quality time together on Saturdays and implicature that A values their relationship and is willing to invest effort into maintaining it. B can conclude the fact that A is committed to enhancing their quality time together.
 
-So B would utter like that:
-B: "Your enthusiasm and commitment make our bond feel even more secure, A. It reassures me that we’re both eager to nurture our connection and create beautiful memories. Let’s dive into this planning session and fill our notebook with excitement and dreams."
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that A proactively shows attention to alleviate the loneliness and restore warm interaction between them. The received fact that A is committed to enhancing their quality time together makes a positive contribution to the goal by indicating that A is willing to put in effort, which can help alleviate B's loneliness.
+
+5. Refine new goal depending on the contribution:
+Because of the positive contribution that A is committed to enhancing their quality time together, B can refine the new goal to solidify and build upon this commitment to ensure sustained attention and interaction from A.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is to solidify and build upon this commitment to ensure sustained attention and interaction from A. To achieve the goal, B has the informative intention that expressing appreciation and encouraging A's proactive efforts are important, and the communicative intention that B hopes to reinforce A’s commitment to the relationship.
+
+7. Utter depend on B's informative intention and communicative intention:
+B's informative intention is that expressing appreciation and encouraging A's proactive efforts are important, which means information in B's utterance will mainly focus on that. B's communicative intention is that B hopes to reinforce A’s commitment to the relationship, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: I truly appreciate your enthusiasm and commitment to making our Saturdays special. Let’s continue nurturing this by sharing more ideas and making each moment count—I’m excited about this journey together with you.
 
 Round 9:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A's enthusiasm and commitment to making Saturdays special, and B wants to continue sharing ideas to enhance their time together.
 
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets the explicature that B values the enthusiasm and commitment being shown and feels reassured about their bond.  
-implicature: Because A believes in the fact that B values intentional planning and nurturing their relationship, in B’s last utterance, A gets the implicature that B desires continued assurance and proactive engagement in their relationship.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's enthusiasm and commitment and wants to continue sharing ideas, combined with A's believed fact that B values these planned moments highly, A can infer implicature that B is seeking reassurance of A's continued dedication and a desire for collaboration in planning.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that effort and planning are important to B, A would like to inform B of the joy and anticipation A feels about their upcoming plans together.  
-communicative intention: Because A believes in the fact that fostering a sense of excitement and partnership is vital, A would like to draw B’s attention to the significance of their shared journey and mutual investment in the relationship.  
+3. Conclude fact received from this round:
+A get explicature that B appreciates A's enthusiasm and commitment, and wants to continue sharing ideas, and implicature that B is seeking reassurance of A's continued dedication and collaboration in planning, A can conclude the fact that B's desire for shared planning and continuous reassessment of activities is essential to maintaining their bond.
 
-So A would utter like that:  
-A: "Your words fill me with immense joy, B. Let’s cherish this moment and every single one that follows as we embark on this journey together. I’m truly looking forward to all the adventures that lie ahead and to continually nurturing our connection with love and intent."
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that A hopes to alleviate B's dissatisfaction with gentle words while avoiding direct acknowledgment of the mistake. The received fact that B's desire for shared planning and continuous reassessment of activities is essential make contribution to the goal that it provides a path to strengthen the relationship without focusing on past neglect by planning future engagements collaboratively.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it provides a path to strengthen the relationship without focusing on past neglect, A can refine new goal that A wants to assure B of ongoing commitment while focusing on collaborative planning for their future engagements.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A wants to assure B of ongoing commitment while focusing on collaborative planning for their future engagements. To achieve the goal, A have informative intention that A is eager to continue collaborating with B and values B’s contributions, and communicative intention that A is devoted to nurturing their relationship and willing to adapt to B’s ideas.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A is eager to continue collaborating with B and values B’s contributions, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is devoted to nurturing their relationship and willing to adapt to B’s ideas, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm genuinely excited about us continuing to dream up new ways to make our Saturdays unforgettable. Your ideas are invaluable, and I truly appreciate your enthusiasm. I'm committed to ensuring that each of these moments is meaningful and continues to nurture our relationship.
 
 all scripts of B: 
-B’s Turn:
-Analysis A’s last utterance:  
-explicature: In A’s last utterance B gets explicature that A is enthusiastic about strengthening their bond and looks forward to making new memories together.  
-implicature: Because B believes in the fact that A's proactive approach shows genuine commitment, in A’s last utterance, B gets implicature that A is serious about alleviating B’s past feelings of loneliness through shared activities.  
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that intentional planning together strengthens their bond, B would like to inform A of B's appreciation for A’s commitment to nurturing their relationship.  
-communicative intention: Because B believes in the fact that shared goals enhance their connection, B would like to draw A’s attention to the warmth A’s enthusiasm brings to their relationship.  
-So B would utter like that:  
-B: "Your energy brings so much warmth into our relationship, A. Starting this journey feels even more special knowing we’re both committed to making it memorable and meaningful."
+1. Get explicature from A’s last utterance:
+In A’s last utterance B gets explicature that A is expressing excitement and eagerness to plan unique experiences for Saturdays and values B's input.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is expressing excitement and eagerness to plan unique experiences for Saturdays and values B's input, combined with B's believed fact that B desires more attention and consistent quality time, B can infer implicature that A is genuinely committed to ensuring they have meaningful and shared experiences.
+
+3. Conclude fact received from this round:
+B gets explicature that A is expressing excitement and eagerness to plan unique experiences for Saturdays and values B's input and implicature that A is genuinely committed to ensuring they have meaningful and shared experiences, B can conclude the fact that A values B's involvement and is dedicated to making Saturdays special.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that A will proactively show attention to alleviate the loneliness and restore warm interaction between them. The received fact that A values B's involvement and is dedicated to making Saturdays special contributes to the goal that A is making efforts to prioritize B and their time together.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A is making efforts to prioritize B and their time together, B can refine new goal that they continue to maintain this commitment and enhance the warmth in their interaction.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that they continue to maintain this commitment and enhance the warmth in their interaction. To achieve the goal, B has informative intention that B appreciates A’s commitment and desires to offer more ideas, and communicative intention that B encourages A to continue valuing their shared moments.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that B appreciates A’s commitment and desires to offer more ideas, which means information in B's utterance will mainly focus on that. B's communicative intention is that B encourages A to continue valuing their shared moments, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: I really appreciate how much thought you're putting into our Saturdays, and it makes me happy to see how committed you are. I'm looking forward to sharing more ideas and making sure these moments are truly special for both of us.

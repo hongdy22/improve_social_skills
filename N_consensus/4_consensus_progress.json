@@ -4,10 +4,7 @@
         "round": 1,
         "progress": {
             "B_discovered": [],
-            "A_discovered": [
-                "behavior",
-                "goal"
-            ]
+            "A_discovered": []
         }
     },
     {
@@ -98,9 +95,7 @@
         "setting": 4,
         "round": 9,
         "progress": {
-            "B_discovered": [
-                "character"
-            ],
+            "B_discovered": [],
             "A_discovered": [
                 "character",
                 "behavior",

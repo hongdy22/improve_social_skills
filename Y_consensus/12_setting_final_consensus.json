@@ -5,14 +5,14 @@
       "field": "character",
       "point": "Appears slightly distant due to a busy work schedule, but internally cares about the family.",
       "discovered": true,
-      "round": 4,
+      "round": 2,
       "side": "A"
     },
     {
       "field": "behavior",
       "point": "Casually explains the recent busyness in conversation, responding in a calm tone to the other's concern.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "A"
     },
     {
@@ -33,28 +33,28 @@
       "field": "character",
       "point": "Passionate and delicate, highly sensitive to the details of life.",
       "discovered": true,
-      "round": 3,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Cleverly incorporates birthday-related topics into the conversation, using gentle hints to express inner expectations.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "Hopes that A will pick up on these subtle hints regarding the importance of the birthday and proactively arrange a celebration.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "information",
       "point": "B has clear expectations for the birthday, viewing it as an important moment for emotional exchange, and objectively expects it to be valued.",
       "discovered": true,
-      "round": 3,
+      "round": 4,
       "side": "B"
     }
   ]

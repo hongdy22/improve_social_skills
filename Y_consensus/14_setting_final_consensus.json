@@ -1,5 +1,5 @@
 {
-  "total_points": 6,
+  "total_points": 7,
   "matched_points": [
     {
       "field": "character",
@@ -12,7 +12,7 @@
       "field": "behavior",
       "point": "Initiates conversation and takes a proactive role in the team-building exercise, suggesting ideas and encouraging group participation.",
       "discovered": true,
-      "round": 3,
+      "round": 4,
       "side": "A"
     },
     {
@@ -20,6 +20,13 @@
       "point": "To successfully complete the team-building task and establish a positive rapport with B and other team members.",
       "discovered": true,
       "round": 1,
+      "side": "A"
+    },
+    {
+      "field": "information",
+      "point": "A has a background in team sports and is accustomed to working in collaborative environments, which they believe will be an asset in the office setting.",
+      "discovered": true,
+      "round": 4,
       "side": "A"
     },
     {
@@ -33,7 +40,7 @@
       "field": "behavior",
       "point": "Listens intently to the ideas presented and contributes constructively, ensuring that the team's approach is well-thought-out and practical.",
       "discovered": true,
-      "round": 3,
+      "round": 4,
       "side": "B"
     },
     {

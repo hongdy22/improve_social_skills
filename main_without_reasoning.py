@@ -56,7 +56,7 @@ Note: Base your judgment solely on the hints and expressions in the conversation
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(0, len(settings)):  # 遍历 JSON 数组
+for j in range(10, len(settings)):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题
@@ -112,11 +112,11 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
             for p in key_points["B_exclusive"]
         ]
     }
-
+    
     # 读取 `instruction_A` 和 `instruction_B`
-    with open('instruction_A.txt', 'r', encoding='utf-8') as file:
+    with open('instruction_A_without_reasoning.txt', 'r', encoding='utf-8') as file:
         content_instruction_A = file.read().strip()
-    with open('instruction_B.txt', 'r', encoding='utf-8') as file:
+    with open('instruction_B_without_reasoning.txt', 'r', encoding='utf-8') as file:
         content_instruction_B = file.read().strip()
         
     # 读取 `test_question`
@@ -148,7 +148,7 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
         # `B` 分析 `A` 的第一句并生成回应
         messages = [
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\nA's first utterance: {A_utterance}\nB, based on your role and the background, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
+            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\n{content_instruction_B}\nA's first utterance: {A_utterance}\nB, based on your role and the background, and strictly following the steps and format of instruction_B, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
         ]
         response_B = client.chat.completions.create(model=model_name, messages=messages)
         B_utterance = response_B.choices[0].message.content
@@ -161,14 +161,14 @@ for j in range(0, len(settings)):  # 遍历 JSON 数组
         """基于上一轮对话生成下一轮对话，并进行心理推理"""
         messages_A = [
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_A}\nPrevious conversation:\n{prev_script}\nA, based on your role and the background and previous conversation, generate your response.\n(Additional requirements: Only one line in the answer starts with 'A:',Do not make any bold modifications either.)"}
+            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_A}\n{content_instruction_A}\nPrevious conversation:\n{prev_script}\nA, based on your role and the background and previous conversation, and strictly following the steps and format of instruction_A, generate your response.\n(Additional requirements: Only one line in the answer starts with 'A:',Do not make any bold modifications either.)"}
         ]
         response_A = client.chat.completions.create(model=model_name, messages=messages_A)
         A_utterance = response_A.choices[0].message.content.strip()
 
         messages_B = [
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\nPrevious conversation:\n{prev_script}\nB, based on your role and the background and previous conversation, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
+            {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\n{content_instruction_B}\nPrevious conversation:\n{prev_script}\nB, based on your role and the background and previous conversation, and strictly following the steps and format of instruction_B, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
         ]
         response_B = client.chat.completions.create(model=model_name, messages=messages_B)
         B_utterance = response_B.choices[0].message.content.strip()

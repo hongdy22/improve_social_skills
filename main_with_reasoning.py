@@ -56,7 +56,7 @@ Note: Base your judgment solely on the hints and expressions in the conversation
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(0, len(settings)):  # 遍历 JSON 数组
+for j in range(15, len(settings)):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题

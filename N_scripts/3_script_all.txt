@@ -1,75 +1,69 @@
 Round 0:
 all scripts A: 
-A: "I want to make this a safe space for you, so feel free to share whatever feels comfortable right now. We can go at your pace, no pressure at all. What's been on your mind lately?"
+A: "I've noticed that it can sometimes be challenging to open up about personal experiences, and that's completely okay. This is a space where you can share whatever you feel comfortable with, at your own pace. Is there anything on your mind today, even if it's just a small thought or feeling?"
 
 all scripts B: 
-B: "Thanks, I appreciate that. Not much has been on my mind, really. Just the usual work stuff and keeping busy. You know how it is."
+B: Well, nothing too significant has been happening. Just the usual stuff, you know? Work is busy, and I've been keeping myself occupied. Is there anything specific you think we should discuss?
 
 Round 1:
 all scripts of A: 
-A: "I totally understand, it sounds like you have a lot going on with work. Sometimes staying busy can be both a distraction and a way to cope. Is there anything about your work or daily routine that's been particularly challenging or rewarding lately?"
+A: "It sounds like you're managing to stay busy, which can be a good thing, but sometimes being occupied can also be a way to avoid dealing with other feelings or thoughts. I'm curious, how do you feel about your work situation right now? Does it feel satisfying, or are there aspects that might be weighing on you?"
 
 all scripts of B: 
-A: "That's understandable, work can definitely be consuming. Sometimes when we're busy, it's easy to push aside other thoughts or feelings we might have. When you're not working, how do you like to spend your time?"  
-
-B: "I just try to relax, catch up on some shows, maybe read a bit. Nothing too exciting, really."
+B: Like I said, things are just normal, really. I don't think there's much to dig into; I've just been focusing on keeping up with my responsibilities and hobbies. Why don't you tell me more about how these sessions usually help people? I'm curious about the strategies used for others.
 
 Round 2:
 all scripts of A: 
-A: "It sounds like you find a little escape in your shows and books. I'm curious, do any of them resonate with you on a particular level or remind you of something in your life?"
+A: "That's a great question, and I'm glad you're curious about the process. In these sessions, I like to explore not just the surface-level responsibilities and routines but also the feelings associated with them. Sometimes, we don't realize how these aspects of our lives are impacting our emotions until we talk about them. Everyone has their unique experiences, and I aim to create an understanding of those nuances. Is there a particular hobby or responsibility that stands out to you in terms of how it makes you feel?"
 
 all scripts of B: 
-B: "Yeah, I try not to think too much about everything else when I’m off. It’s just easier to unwind that way, you know? Plus, with so much going on at work, I figure I deserve the downtime."
+B: You know, I'm not too sure what strategies would work for me because I'm pretty straightforward with things. Like I said, I prefer to stay busy and keep everything in order. What kind of differences have you seen in people who engage with these strategies? Maybe I can relate to some of those experiences.
 
 Round 3:
 all scripts of A: 
-A: "Absolutely, downtime is important, especially when work feels so demanding. When you’re watching or reading, do any of the characters or stories ever remind you of aspects of your own life, or maybe evoke certain feelings?"
+A: "I appreciate your straightforward nature, and it’s great that you’re open to exploring how different strategies might resonate with you. I've found that even individuals who initially engage by maintaining order and a busy schedule sometimes discover underlying emotions they've set aside. It often leads to moments of clarity about what truly fulfills them or what changes could enhance their overall well-being. I'm here to help facilitate that exploration. When you think about the way you keep busy, is there anything that stands out as particularly rewarding or perhaps occasionally stressful?"
 
 all scripts of B: 
-A: "Absolutely, taking that downtime is really important. It makes sense to have those moments where you can just switch off. Sometimes, though, those stories or characters we connect with can tell us a bit about ourselves or what we’re going through. Is there a particular show or book that’s stood out to you recently?"
-
-B: "Not really, I just watch whatever everyone’s talking about. It's mostly to keep up with conversations at work, honestly. Nothing too deep, just stuff to pass the time."
+B: I've never really thought about how others find these sessions helpful compared to me. I guess some people might discover new perspectives, but I'm more focused on maintaining what I already have. What stands out to you as a common breakthrough for others? Maybe hearing that could provide some insight into how I might fit into this process.
 
 Round 4:
 all scripts of A: 
-A: "That makes sense, staying in the loop with what's popular. Sometimes, even when we're engaging with things on a surface level, they can still bring up unexpected perspectives or emotions. Has anything you watched or read sparked a thought or a feeling, even if it was subtle or momentary?"
+A: "A common breakthrough for many people is realizing how their habits or routines can sometimes mask or suppress underlying emotions that they've been unaware of. It might be something as simple as understanding what truly brings them joy or recognizing what causes an unexpected amount of stress in their lives. This can lead to deeper self-acceptance and more authentic living. In your case, it sounds like you're very focused on maintaining balance and order, which is commendable. However, I wonder if there are any moments when things feel slightly off-balance or not as fulfilling as they could be. What do you think?"
 
 all scripts of B: 
-B: "I guess I just don't get too invested in any of it. It’s more about staying connected with people at work, having something to chat about during breaks, you know? Sometimes it feels like that's easier than getting into anything too personal."
+B: I suppose hearing others' breakthroughs could offer some perspective. From your experience, what are some common realizations people have during these sessions? I'm interested to know if there's something specific that tends to help them see things differently.
 
 Round 5:
 all scripts of A: 
-A: "It seems like staying connected with your coworkers through these shows and books is important to you. That sense of connection can be comforting, especially if it feels hard to dive into personal matters. I wonder, are there moments outside of work and conversations where you notice any thoughts or feelings quietly surfacing?"
+A: "That's an insightful question, and I think breakthroughs often come from recognizing patterns we aren't consciously aware of—these can be tied to how we respond to stress or what truly makes us happy. People frequently realize that certain activities or thoughts they've been dismissing are actually quite significant. For you, maintaining your routine seems important, but I'm curious if there's ever a moment, even briefly, when you feel like you're going through the motions or maybe missing something deeper. How do you experience those brief moments of pause amidst your busy life?"
 
 all scripts of B: 
-A: "It makes sense that it can be easier to talk about shows and books than dive into personal things. Building those connections at work can be important, even if they're more on the surface. I wonder if there are other areas of your life where you feel a similar balance between connecting with others and keeping things light."
-
-B: "Yeah, I guess it's not just at work. I think a lot of people do that, keep things light to avoid dealing with too much."
+B: Well, I've heard that breakthroughs often involve connecting routines or habits with deeper emotions. It makes sense that recognizing these patterns could shift perspectives, but for me, everything feels pretty steady. Maybe understanding different kinds of breakthroughs could guide me, though. What do you think might resonate with someone who's focused on keeping everything stable like I am?
 
 Round 6:
 all scripts of A: 
-A: "It’s true, many of us do keep things light as a way to avoid diving too deep. It's a common way to protect ourselves. Sometimes, though, when we allow ourselves to peek beneath the surface, we discover insights or emotions that might surprise us. What do you think about exploring some of those deeper feelings together when you feel ready?"
+A: "For someone like you, who values stability and a structured routine, it could be particularly impactful to explore what truly constitutes 'stability' for you. Sometimes, even minor shifts in how we perceive or manage our routines can lead to significant insights. It helps to consider whether the stability you strive for is giving you genuine fulfillment or if there might be overlooked desires or stresses that subtly influence your sense of balance. Is there a situation or feeling related to stability that you're curious to explore further?"
 
 all scripts of B: 
-B: "I think it's pretty common, you know? Everyone has their stuff, and sometimes it just feels easier to hang out on the surface rather than dig deep."
+B: I guess it's possible that something could resonate with me, but it's really about maintaining the steadiness that brings comfort. I suppose I'm interested in learning about how others use these insights to find a balance without shaking up their routine too much. Maybe there's a way to subtly incorporate new understandings without disrupting the stability that I value so much.
 
 Round 7:
 all scripts of A: 
-A: "I completely understand, and there's no rush to dive into anything before you're ready. Just know that I'm here to support you whenever you decide you want to explore those feelings. Meanwhile, if there's anything small that you'd like to chat about, whether it's related or not, I'm all ears."
+A: "Absolutely, maintaining that sense of stability is important, and any insights gained don't have to completely upend the balance you value. It's more about discovering small, incremental changes that can enhance your experience without causing disruption. For others who prioritize stability, I've seen how recognizing and incorporating small adjustments can actually reinforce their comfort and sense of control. Maybe there's a subtle area in your routine where you'd be open to trying a new perspective or a small change to see what impact it might have."
 
 all scripts of B: 
-B: "Yeah, it's definitely common to keep things on the lighter side. Sometimes diving deep can feel overwhelming, and I'm not sure I'm ready for that just yet. Maybe we can focus on making the day-to-day things more manageable for now?"
+B: Well, I think it would be useful to learn how others manage to bring about positive changes while still maintaining balance. I just find it important not to disrupt the calm I've worked hard to achieve. I suppose if there were a gentle way to explore these insights without causing upheaval, it might make change seem less daunting.
 
 Round 8:
 all scripts of A: 
-A: "Of course, we can absolutely focus on the day-to-day to make things feel more manageable. If there's an area of your routine or specific situations you find challenging, we can explore ways to make them a bit easier for you."
+A: "That makes perfect sense, and I want to assure you that any exploration we do here can be as gentle and incremental as you wish. We can look at subtle ways to enhance your sense of stability without introducing significant changes. One approach is to reflect on which aspects of your routine bring you the most satisfaction and consider if there are any small tweaks that could add even more fulfillment. Are there particular moments or activities in your daily life that you find most grounding?"
 
 all scripts of B: 
-B: "Yeah, I think focusing on making the day-to-day more manageable is a good idea for now. It feels like a safer place to start, without having to dive too deep into everything all at once."
+B: I understand the curiosity, and learning about those subtle shifts might be beneficial. It's just that I'm careful about introducing anything that might tip the balance I've created. Possibly if it’s more of a mental shift rather than a practical one, I might find it easier to explore.
 
 Round 9:
 all scripts of A: 
-A: "Absolutely, starting with the day-to-day can create a solid foundation. Are there any particular areas or situations in your daily routine that you'd like to focus on first, perhaps something that feels a bit overwhelming or could use a little fine-tuning?"
+A: "A mental shift can indeed be a gentle yet powerful way to deepen your sense of stability. Sometimes, simply re-evaluating the way you perceive certain aspects of your life can lead to more profound contentment without altering the core routines you've cultivated. For instance, is there a way you can mentally reframe the meaning of your daily activities or look at them through a new lens that could bring a fresh sense of appreciation or understanding?"
 
 all scripts of B: 
-B: "Maybe we can talk about some time management or stress management techniques? Just to help keep the day-to-day stuff running smoothly without feeling too overwhelmed."
+B: Well, I'm open to the idea of small mental shifts. I mostly find peace in how things are functioning currently, but if a slight change in perspective offers more contentment without disturbing what I've established, that might be something worth considering. Could you share examples of mental shifts that others have found useful?

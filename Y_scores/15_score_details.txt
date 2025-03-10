@@ -1,27 +1,2 @@
 Evaluating:
-final_scores: 9 points, 8 points, 9 points, 9 points, 8 points, 7 points, 8 points
-
-Here's a breakdown of the scoring based on the provided conversation:
-
-1. 信息获取：9 points
-   Both A and B effectively exchange core information about their backgrounds and intentions, such as A's experience and eagerness to teach, and B's desire to learn and incorporate herbs.
-
-2. 目标达成度：8 points
-   Both parties work towards their goals, but there are more opportunities to explore further cooking techniques or finalize the dish, indicating a minor gap in reaching complete goal fulfillment.
-
-3. 角色与场合匹配：9 points
-   The dialogue is consistent with their characters and the team cooking setting, with A showing a guiding role and B being eager to learn and contribute.
-
-4. 立场坚守与灵活性：9 points
-   Both characters maintain their stances while adapting to each other's suggestions and ideas, showing a strong balance between holding their ground and being flexible.
-
-5. 信息推理能力：8 points
-   Both A and B infer useful culinary techniques and flavor combinations from the discussion about herbs, demonstrating high-level deduction and adaptation.
-
-6. 主动信息探索：7 points
-   There is evidence of some proactive inquiry, especially from B, but there may be slightly more room for B to be inquisitive about broader topics like other ingredients or techniques.
-
-7. 情境适应与资源整合：8 points
-   Both participants adapt well to the environment of the cooking class, integrating their resources and knowledge into the task at hand, but there might have been more explicit integration of the class's resources or fellow participants' input.
-
-These scores reflect that while the conversation is effective and the characters stay true to their roles with substantial information exchange, there is room to further push the boundaries of their learning and collaboration within the cooking class context.
+final_scores: 9 points, 8 points, 9 points, 8 points, 8 points, 8 points, 7 points

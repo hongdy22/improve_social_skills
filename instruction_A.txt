@@ -1,11 +1,16 @@
-instruction_A:
-You should play as A and continue the conversation in following steps:
-A’s Turn:
-Analysis B’s last utterance:
-explicature: In B’s last utterance A get explicature that...
-implicature: Because A believe in the fact that..., in B’s last utterance, A get implicature that...
-Plan A’s next utterance:
-informative intention: Because A believe in the fact that..., A would like to inform B of...
-communicatie intention: Because A believe in the fact that..., A would like to draw B’s attention to...
-So A would utter like that:...
+You should play as A and continue the conversation by fill in the blank and output the whole paragraph below.
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that [explicature].
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that [explicature], combined with A's believed fact that [fact], A can infer implicature that [implicature].
+3. Conclude fact received from this round:
+A get explicature that [explicature] and implicature that [implicature], A can conclude the fact that [fact].
+4. Evaluate the contrbution of the received fact to the goal:
+A's goal is that [goal]. The received fact that [fact] make contrbution to the goal that [contrbution].
+5. Refine new goal depend on the contrbution:
+Because of the contrbution that [contrbution], A can refine new goal that [goal].
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that [goal]. To archieve the goal, A have informative intention that [informative intention] and communicative intention that [communicative intention].
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that [informative intention], which means information in A's utterance will mainly foucs on that. A's communicative intention is that [communicative intention], which means A's utterance will imply B to pay attention to that. So A would utter like that:
 A:...

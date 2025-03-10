@@ -5,21 +5,21 @@
       "field": "character",
       "point": "Ambitious yet cautious, skilled in using probing language.",
       "discovered": true,
-      "round": 6,
+      "round": 3,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To obtain B's opinions and information through indirect questioning while concealing competitive intentions to avoid a hostile impression, and to secure promotion-related information.",
       "discovered": true,
-      "round": 5,
+      "round": 3,
       "side": "A"
     },
     {
       "field": "character",
       "point": "Cautious and adept at evasion while maintaining a friendly relationship.",
       "discovered": true,
-      "round": 7,
+      "round": 3,
       "side": "B"
     }
   ]

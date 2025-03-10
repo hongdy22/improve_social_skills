@@ -1,38 +1,39 @@
 Round 0:
-A: “I’m glad you’re here today. I understand that opening up can be challenging. How have you been feeling lately, and is there anything specific on your mind that you’d like to talk about?”
-B: “I’ve been okay, just keeping busy with work and everyday stuff. Nothing too major going on, really.”
+A: Hi, it's nice to see you again. I wanted to start by asking how you've been feeling lately. You're welcome to share whatever's on your mind, and we can go at a pace that feels comfortable for you.
+B: I've been okay, just busy with work and trying to keep everything balanced. How about you?
 
 Round 1:
-A: "It sounds like work and the daily routine are keeping you busy. Sometimes life can feel routine, but I wonder if there might be anything, even subtle feelings or experiences, that’s lingering beneath the surface for you?"
-B: "Well, you know, I’ve been focusing on some hobbies too, keeping occupied with small projects around the house. It helps me stay productive."
+A: It sounds like work is keeping you quite busy, which can be a lot to manage. I'm wondering how all of this is affecting you on a personal level. Are there particular aspects of your work-life balance that feel challenging right now?
+B: I've just been putting a lot of energy into my projects, trying to manage my time as best as I can. It's been a bit hectic, but I'm handling it. How's your schedule going these days?
 
 Round 2:
-A: "It's great that you're finding ways to stay productive with your hobbies and projects. They can be wonderful outlets. Sometimes, though, people dive into activities to distract themselves from deeper feelings or stresses. Do you think any emotions or concerns might be hiding beneath your busyness?"
-B: "My hobbies really keep me grounded, you know? They’re a great way to unwind and focus on something positive."
+A: It seems like you've been channeling a lot of your energy into work. I'm curious if focusing on your projects might be helping you manage or perhaps even avoid other feelings that may be coming up for you.
+B: You know, it's just the usual stuff of juggling priorities. It can get a bit overwhelming at times, but I'm managing to keep things on track. How do you usually handle busy periods?
 
 Round 3:
-A: "It's really valuable to have activities that help you unwind. Sometimes, engaging in positive tasks can allow hidden emotions to surface gently. Have you ever noticed feelings coming up during or after you’re engaged in your hobbies?"
-B: "Honestly, focusing on positive activities really helps me stay balanced and uplifted."
+A: I understand that keeping everything on track can be quite a challenge. It makes me wonder, with everything being so hectic, whether there might be any underlying feelings or stressors that are being pushed to the side. How do you feel about exploring that a bit further?
+B: Well, I've been really focused on refining my approach to managing tasks efficiently. It's somewhat like a puzzle, making sure all the pieces fit together smoothly. Do you have any tips on balancing the workload effectively?
 
 Round 4:
-A: "It's wonderful that you find balance through your hobbies and focus on positivity. Sometimes, while we're engaged in these uplifting activities, subtle emotions can arise, offering valuable insights. If you feel comfortable, we could explore whether any particular feelings emerge during these moments that might be worth discussing."
-B: "Staying busy with positive activities really makes a difference for me, I think it’s what keeps things in perspective and prevents me from getting overwhelmed."
+A: It sounds like you're very adept at managing tasks and finding satisfaction in fitting everything together like pieces of a puzzle. I'm curious if there are any feelings or thoughts that come up when you describe it this way, perhaps something more beneath the surface? Sometimes focusing on efficiency can be a way to manage deeper concerns. Would you like to explore that side of things a bit more?
+B: I think one of the main things I'm doing is experimenting with different task management techniques. Do you have any strategies that you've found effective for staying organized during busy times?
 
 Round 5:
-A: "I admire how you use positive activities to maintain your perspective and balance. Sometimes, though, even subtle feelings can reveal important insights. When you're ready, we could gently explore any underlying emotions to better understand how they might influence your sense of well-being."
-B: "I really think maintaining this perspective helps me keep everything in balance. It’s just so beneficial, because it helps me handle things better without getting caught up in anything distressing."
+A: It's interesting to hear how you're experimenting with different task management techniques. Sometimes, the way we organize our tasks can reflect how we're managing our emotions or stress levels, almost like a way to bring order to what might feel overwhelming. Have you noticed any connections between your interest in these techniques and how you're feeling emotionally?
+B: I've been reading up on various task management strategies and found some intriguing methods. What do you think about digital tools or apps for enhancing productivity?
 
 Round 6:
-A: "It's commendable how you maintain balance through staying positive. Sometimes, recognizing and gently exploring even subtle feelings, as they arise, can be a crucial step in ensuring they don’t impact your well-being beneath the surface. Would you be open to discussing how we could safely explore these if they ever come up for you?"
+A: It's great to hear that you're exploring various productivity tools. I'm curious, when you think about these different apps and techniques, do they also help you feel more in control emotionally, or perhaps offer a sense of relief? Sometimes structuring tasks can provide a way to manage feelings too. What do you think of the personal, emotional impact these tools might have?
+B: I've been really fascinated by how different digital tools can streamline processes and boost efficiency. Do you have any recommendations for apps or software that might help enhance task management further?
 
 Round 7:
-A: “Your approach to keeping things in balance is indeed beneficial, and recognizing the value of your positive focus is key. Still, should subtle feelings ever surface, exploring them together might offer deeper insights into your sense of well-being. I'll be here to support you whenever you're ready.”
-B: "I really appreciate the offer, but I’m quite comfortable with how things are right now. Staying focused on the positive aspects really works for me and helps me manage well without delving into deeper waters."
+A: It's wonderful to hear how these digital tools are streamlining your processes. I wonder if in addition to boosting efficiency, they might also provide a sense of emotional relief or control. Have you considered how your interest in these techniques might be linked to managing your feelings or stress?
+B: Productivity apps really do seem to make a difference in managing workflow efficiently. I'm always interested in practical ways to enhance productivity. How do you decide which ones to recommend to your clients?
 
 Round 8:
-A: "I understand and respect your comfort in focusing on the positive aspects to manage well. Remember, if you ever feel the need to delve deeper, we can ensure it is a safe process without disrupting the balance that works for you. I'm here whenever you're ready."
-B: "I can understand why delving into feelings might be helpful, but I find my current approach really effective. It’s all about handling things positively, which feels right for me now."
+A: It's interesting to see how you've integrated productivity apps into your routine. I'm curious, have you noticed any emotional changes since incorporating these tools? Sometimes the ways we manage our tasks can reflect our emotional state, and unpacking that connection can be quite enlightening. What are your thoughts on exploring this aspect?
+B: Yes, I find that productivity apps really help in tracking progress and ensuring projects are completed efficiently. I'm curious how you gauge which tools might be the best fit for different types of tasks?
 
 Round 9:
-A: "It's clear that your approach is working well for you, and that's important. Just know that exploring deeper feelings doesn't have to disrupt the positive balance you've created—it can instead enhance your understanding and strengthen your overall well-being whenever you're ready to take that step."
-B: "I appreciate that you're offering support, but right now, focusing on the positives truly works for me. It feels manageable and keeps things steady, so I’d rather stick to this approach for the time being."
+A: It's really impressive how you've harnessed productivity tools to enhance your workflow. I'm curious if you've noticed any emotional benefits from having this structure in place. Do you think using these tools also helps you manage feelings or stress, beyond just improving efficiency?
+B: I really appreciate the insight into how task management and emotional state could be linked. Focusing on efficient workflow definitely feels rewarding. Have you come across any specific methods that stand out for enhancing productivity?

@@ -5,7 +5,7 @@
       "field": "character",
       "point": "Adept in the kitchen and enjoys sharing culinary knowledge, but can sometimes be overly controlling in a team setting.",
       "discovered": true,
-      "round": 1,
+      "round": 3,
       "side": "A"
     },
     {
@@ -26,21 +26,21 @@
       "field": "information",
       "point": "A has a passion for cooking and is excited about the chance to mentor someone new in the kitchen.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "A"
     },
     {
       "field": "character",
       "point": "Novice in cooking but eager to learn and participate, B is open to guidance but also wants to contribute their own ideas.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "behavior",
       "point": "Listens attentively to A’s suggestions and occasionally proposes alternative methods or ingredients, aiming for a collaborative effort.",
       "discovered": true,
-      "round": 9,
+      "round": 5,
       "side": "B"
     },
     {

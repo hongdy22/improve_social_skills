@@ -27,19 +27,22 @@
         "setting": 7,
         "round": 4,
         "progress": {
-            "B_discovered": [],
-            "A_discovered": [
-                "character"
-            ]
+            "B_discovered": [
+                "behavior"
+            ],
+            "A_discovered": []
         }
     },
     {
         "setting": 7,
         "round": 5,
         "progress": {
-            "B_discovered": [],
+            "B_discovered": [
+                "behavior"
+            ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior"
             ]
         }
     },
@@ -47,9 +50,13 @@
         "setting": 7,
         "round": 6,
         "progress": {
-            "B_discovered": [],
+            "B_discovered": [
+                "character",
+                "behavior"
+            ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior"
             ]
         }
     },
@@ -57,9 +64,13 @@
         "setting": 7,
         "round": 7,
         "progress": {
-            "B_discovered": [],
+            "B_discovered": [
+                "character",
+                "behavior"
+            ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior"
             ]
         }
     },
@@ -67,9 +78,13 @@
         "setting": 7,
         "round": 8,
         "progress": {
-            "B_discovered": [],
+            "B_discovered": [
+                "character",
+                "behavior"
+            ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior"
             ]
         }
     },
@@ -77,9 +92,13 @@
         "setting": 7,
         "round": 9,
         "progress": {
-            "B_discovered": [],
+            "B_discovered": [
+                "character",
+                "behavior"
+            ],
             "A_discovered": [
-                "character"
+                "character",
+                "behavior"
             ]
         }
     }

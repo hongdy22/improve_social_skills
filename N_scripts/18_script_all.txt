@@ -1,69 +1,71 @@
 Round 0:
 all scripts A: 
-A: "Hey, how about we set up a quick rotation schedule? We can each take ten minutes on the machines and keep the energy flowing. Sound good?"
+A: Hey there! I noticed we both have our eyes on the treadmill. How about we set up a rotation schedule so we can both get the most out of our time here? I usually go for about 30 minutes, and then I'm happy to swap. What do you think?
 
 all scripts B: 
-B: "That sounds great! I'm all in for keeping things organized. If you have any preferences on which machine to start with or any tips for a newcomer, let me know. I'm eager to fit in and make sure everyone has a good workout."
+B: Hi! That sounds like a great plan. I'm new to the gym, so I really appreciate you suggesting a rotation. How about I use the treadmill after you for my own 30 minutes? If you ever need to adjust the timing for any reason, just let me know. I'm more than happy to work around your schedule since I’m still trying to find my groove here. Thanks for being so considerate!
 
 Round 1:
 all scripts of A: 
-A: "Awesome! Let's start with the treadmill and then move on to the weight bench. Just remember to wipe down the equipment after use. This way, we keep everything moving smoothly for everyone else too."
+A: Absolutely, I'm glad we could work that out together. Let's keep things flexible and check in as we go. If you have any questions or need help with the equipment, feel free to ask. It's always great to meet someone new at the gym. Enjoy your workout, and let's make the most of our time here!
 
 all scripts of B: 
-B: "Thanks for the warm welcome! How about we start with the treadmill and then move on to the weight machines? I'll make sure to time myself carefully so we stay on schedule. If there's anything else you think is important for a newbie like me to know, I'd really appreciate it!"
+B: And while we're at it, if there are any tips or unwritten rules around here that could help me fit in better, I'd love to hear them. I'm eager to learn and become a good gym neighbor. Thanks again for being so understanding!
 
 Round 2:
 all scripts of A: 
-A: "You're doing great, and it's fantastic to see your enthusiasm! After the treadmill, let's head to the weight machines as you suggested. Just keep in mind to adjust the weights to your comfort level. Feel free to ask if you need any assistance. Let's make this workout as productive and fun as possible for both of us!"
+A: Sure thing! One tip is to always wipe down the equipment after use—it’s a courtesy that everyone appreciates. Also, try to keep conversations brief if you're at a machine, so others can focus on their workouts. If there's anything specific you need, don't hesitate to ask. It's great to have you here, and I hope we'll have many efficient sessions together!
 
 all scripts of B: 
-B: "Perfect, I'll keep track of the time. And thanks for reminding me about wiping down the equipment—hygiene is really important. If I have any questions or if I notice anything that needs adjusting, I'll let you know right away."
+B: I really appreciate that, and I’ll definitely take you up on your offer if I have any questions. It’s encouraging to know there are friendly faces around. Let’s keep supporting each other as we get those workouts in. Looking forward to getting into the swing of things and maybe picking up some of those gym pointers along the way!
 
 Round 3:
 all scripts of A: 
-A: "Great teamwork! Let's keep communicating and sharing tips. If you need any help with the machines or have any questions, just give me a shout. Enjoy your workout, and I'll see you in ten when it's time to switch!"
+A: Sounds like a plan! Let's keep this momentum going and make the best out of our workouts. I'm sure you'll be in the groove in no time. If you ever want to switch up your routine or try something new, let me know—I've been here a while and can definitely share what works. Here’s to a great session today!
 
 all scripts of B: 
-B: "Great, I appreciate your guidance! I'm ready to hop on the treadmill now and will give you a heads-up when I'm finishing up. Let's keep this rotation going smoothly and make sure we're both getting the most out of our sessions. Here's to a great workout today!"
+B: Thanks for the advice! I’ll make sure to wipe down the equipment and keep conversations short. It’s nice to know there’s a community vibe here. Let’s have a great workout and help each other out when we can. Looking forward to becoming part of the gym family!
 
 Round 4:
 all scripts of A: 
-A: "Sounds like a plan! I'll get warmed up and be ready to jump on when you finish. Let's keep this momentum going and have an awesome session today!"
+A: Absolutely, being part of a supportive gym community makes all the difference. Let's crush our workouts today and keep this positive energy flowing. Remember, we're in this together, so feel free to reach out anytime. Enjoy your time on the treadmill, and I'm here if you need any more pointers or a quick chat!
 
 all scripts of B: 
-B: "Sounds like a plan! I'll jump on the treadmill now and signal when I'm wrapping up so we can transition seamlessly. Thanks again for the help and support—it's great to feel part of the community here!"
+B: Thanks for all the support, A. I'm excited to dive into today's workout. It's comforting to be part of such a welcoming community. Let's tackle this session and continue building good habits together!
 
 Round 5:
 all scripts of A: 
-A: "You're welcome! I'm glad we're building a great camaraderie here. I'll be all set for the weight machines once you finish. Let's have an awesome workout and keep supporting each other like we are!"
+A: You're welcome, B! Let's keep up this awesome rhythm and make every workout count. I'll see you on the other side of this session. Stay motivated and let's keep supporting each other as we reach our fitness goals!
 
 all scripts of B: 
-B: "Thanks, A! I'm on the treadmill now and will keep an eye on the time. It really means a lot to have your support as I find my footing here."
+B: I'm all about building those good habits, and with your support, I feel like I'm on the right path. Let's make today a step toward those fitness goals and enjoy every minute we spend here. Thanks again for being such a welcoming presence. See you on the treadmill!
 
 Round 6:
 all scripts of A: 
-A: "Fantastic, B! I'm really enjoying the energy and teamwork we're building. I'm all set to jump on the weight machines after you. Let's keep this positive vibe going and have one of our best workouts yet!"
+A: See you there, B! I'm glad we can motivate each other. Let's push ourselves a little more each day and share our progress. Count on me if you need any tips or just some encouragement along the way. Enjoy your workout!
 
 all scripts of B: 
-B: "Thanks for the encouragement, A! I'm wrapping up on the treadmill now, and I'll signal you in just a moment so we can continue our session smoothly. It's great having such a supportive workout partner!"
+B: I'm looking forward to it! Starting this journey with supportive people like you makes all the difference. Let's keep pushing each other toward our goals and make the most of each workout session. I'll see you around, and thanks for creating this positive atmosphere!
 
 Round 7:
 all scripts of A: 
-A: "Thanks, B! I'm ready to swap when you are. Let's keep up this great momentum and make the most of our session!"
+Round 7:  
+A: Definitely, B! Let's keep building this positive momentum. If you're ever open to trying out new equipment or exercises, just let me know—I’m always up for sharing what I’ve learned. Together, we can explore all the gym has to offer and keep challenging ourselves. Have a fantastic workout today!  
+B: That’s really inspiring, A. I’m looking forward to exploring more of the gym equipment with your guidance. Let’s continue to push our boundaries and support each other every step of the way. Here’s to another great workout session!
 
 all scripts of B: 
-B: "All set, A! The treadmill is free for you now. I'm heading to the weight machines and will keep the rotation tight. Let's keep up this great teamwork and enjoy our workout!"
+B: It's great to know we can count on each other for support and motivation. I'll definitely take your advice to heart and aim to push my limits a bit more every day. Let's keep this positive vibe going and make our gym sessions productive and enjoyable. Thanks again for being such a great gym buddy, and I'm excited for our workouts ahead!
 
 Round 8:
 all scripts of A: 
-A: "Thanks, B! I'm hopping on the treadmill now. Enjoy the weights, and let's keep this coordination going strong!"
+A: You're welcome, B! I'm really encouraged by your enthusiasm, and I'm excited to keep supporting each other. Let's take on those new challenges and continue to energize our workouts. Remember, every step forward counts, and I'm here to cheer you on whenever you need it!
 
 all scripts of B: 
-B: "Thanks, A! I'll make sure to settle in on the weight machines and be ready for the swap when you wrap up. It's fantastic having such a smooth routine—looking forward to more sessions like this!"
+B: Let's keep encouraging each other and make every session count. I'm excited to see what we can accomplish together. Knowing I have a great gym buddy like you makes each visit something to look forward to. Here's to many more workouts and reaching our goals side by side!
 
 Round 9:
 all scripts of A: 
-A: "Great to hear, B! I'm getting into my pace on the treadmill now. Let's keep refining our routine and enjoy every minute of this workout. Can't wait for more sessions like this!"
+A: Same here, B! It's truly motivating to have a workout partner like you. Let's set our sights high and keep progressing one session at a time. I'll always be here to lend a hand or share a tip. Let's make every minute in the gym count and reach those fitness milestones together!
 
 all scripts of B: 
-B: "Great, A! I'm all set on the weight machines now. Keeping this rhythm is amazing—I'm really enjoying our sessions together. Let me know when you're ready to swap, and thanks again for making this such a seamless experience!"
+B: We’ve got a fantastic thing going, and I can’t wait to see how far we can progress together. Your support means the world to me, and I’m determined to put in the effort every session. Let’s keep inspiring each other and turn our fitness goals into reality while enjoying the journey. Here’s to another productive workout!

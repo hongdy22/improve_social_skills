@@ -5,14 +5,14 @@
       "field": "character",
       "point": "A is energetic and assertive, always eager to maximize the benefits of their workout routine.",
       "discovered": true,
-      "round": 3,
+      "round": 1,
       "side": "A"
     },
     {
       "field": "behavior",
       "point": "Proposes a fair system for rotating the use of equipment and leads by example, ensuring that everyone gets a chance to use the machines.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "A"
     },
     {
@@ -33,7 +33,7 @@
       "field": "character",
       "point": "B is considerate and patient, with a focus on proper form and technique during exercises.",
       "discovered": true,
-      "round": 3,
+      "round": 1,
       "side": "B"
     },
     {

@@ -1,30 +1,23 @@
 {
-  "total_points": 8,
+  "total_points": 7,
   "matched_points": [
     {
       "field": "character",
       "point": "Polite and considerate, A is an avid reader and respects the protocol of such events.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "A"
     },
     {
       "field": "behavior",
       "point": "Engages in a calm discussion with B about the best way to approach the author's table in an orderly fashion, ensuring that the event runs smoothly for everyone.",
       "discovered": true,
-      "round": 5,
+      "round": 3,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue.",
-      "discovered": true,
-      "round": 4,
-      "side": "A"
-    },
-    {
-      "field": "information",
-      "point": "A is a regular at literary events and understands the importance of following the event's guidelines to ensure a positive experience for all attendees.",
       "discovered": true,
       "round": 1,
       "side": "A"
@@ -40,7 +33,7 @@
       "field": "behavior",
       "point": "Listens to A's suggestions and asks questions about the etiquette of book signings, wanting to ensure they do not cause any inconvenience.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {

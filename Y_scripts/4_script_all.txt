@@ -1,293 +1,459 @@
 Round 0:
 all scripts A: 
-A: Good afternoon, Mr. Dawson. I appreciate you coming in today. Let's see if we can clear up some details from last Thursday night. Could you walk me through your evening, starting around 7 PM?
+A: Good evening, I appreciate you coming in to speak with me today. I just have a few questions to clarify some details. Can you remind me again where you were last Thursday around 8 PM?
 
 all scripts B: 
-B's Turn:
+1. Get explicature from A’s last utterance:  
+In A’s last utterance, B gets explicature that A is asking for B's whereabouts last Thursday around 8 PM.
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B gets the explicature that A is interested in the timeline of events from last Thursday night starting at 7 PM.  
-implicature: Because B believes in the fact that A might be probing for inconsistencies or new leads, in A’s last utterance, B gets the implicature that A is fishing for details to potentially catch B off guard and reveal more than intended.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is asking for B's whereabouts last Thursday, combined with B's believed fact that there is something significant about that timeframe, B can infer implicature that A suspects B might have been involved in or have knowledge of an event that happened then.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that stating a consistent and vague timeline could help protect B's interests, B would like to inform A of a benign version of the evening.  
-communicative intention: Because B believes in the fact that deflecting focus onto non-critical details and maintaining an aura of cooperation could prevent suspicion, B would like to draw A’s attention to the ordinary nature of B's activities.  
+3. Conclude fact received from this round:  
+B gets explicature that A is asking for B's whereabouts last Thursday and implicature that A suspects B's involvement or knowledge of an event at that time. B can conclude the fact that A is probing B’s possible connection to something significant last Thursday.
 
-So B would utter like that:  
-B: Oh, certainly, Detective. From around 7 PM, I was at the Green Lantern Cafe, just winding down after the day. I think I might have met a few acquaintances there, had a casual chat, but nothing really memorable or worth noting. I should ask, though, is there a specific aspect of Thursday you’re interested in?
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to protect their own interests by not revealing incriminating information, discern the detective's level of knowledge about the case, and avoid providing any additional leads. The received fact that A is probing B’s possible connection to something significant last Thursday contributes to the goal by indicating where A suspects B’s involvement, allowing B to tailor responses to avoid confirming suspicions.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that the received fact indicates A's suspicion about Thursday, B can refine a new goal to further evade direct answers about that day and subtly try to shift A's focus onto less incriminating topics or details.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to evade direct answers about Thursday and subtly try to shift A's focus. To achieve this goal, B has an informative intention to provide a vague yet non-incriminating alibi, and a communicative intention to redirect the conversation to a less precise topic or detail.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is to provide a vague yet non-incriminating alibi, which means information in B's utterance will mainly focus on being nonspecific. B's communicative intention is to redirect the conversation, which means B's utterance will imply A to pay attention to a less precise topic. So B would utter like that:
+
+B: Last Thursday around 8 PM? I recall being at a friend's gathering, but I tend to lose track of time when I'm engrossed in conversation. Is there something in particular you're wondering about from that evening?
 
 Round 1:
 all scripts of A: 
-A's Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B recalls being at a friend's gathering last Thursday around 8 PM and tends to lose track of time when engrossed in conversation.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B recalls being at a friend's gathering and tends to lose track of time, combined with A's believed fact that B often uses vague statements to obscure the truth, A can infer implicature that B may be intentionally vague about their whereabouts or alibi.
 
-explicature: In B’s last utterance, A gets explicature that Mr. Dawson claims to have been at the Green Lantern Cafe and met acquaintances around 7 PM but does not provide specifics.
+3. Conclude fact received from this round:
+A gets explicature that B was at a friend's gathering and loses track of time, and implicature that B may be intentionally vague. A can conclude the fact that B's alibi is currently unreliable or unverifiable.
 
-implicature: Because A believes in the fact that witnesses have mentioned seeing Mr. Dawson with a particular individual at the cafe, in B’s last utterance, A gets the implicature that Mr. Dawson might be trying to downplay or obscure specific interactions.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity or revealing its current status. The received fact that B's alibi is currently unreliable makes a contribution to the goal by highlighting the need for further probing to verify the alibi.
 
-Plan A’s next utterance:
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's alibi is currently unreliable, A can refine the new goal to seek more specific details about the friend's gathering to potentially expose inconsistencies.
 
-informative intention: Because A believes in the fact that specific interactions at the cafe are significant, A would like to inform B of the need for more detailed information.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to seek more specific details about the friend's gathering. To achieve the goal, A has an informative intention that seeks clarity about specific activities and interactions at the gathering, and a communicative intention that encourages B to provide more concrete details.
 
-communicative intention: Because A believes in the fact that Mr. Dawson might be omitting important details, A would like to draw B’s attention to the specificity of interactions he had at the cafe.
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to seek clarity about specific activities and interactions at the gathering, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to provide more concrete details, which means A's utterance will imply B to pay attention to that. So A would utter like that:
 
-So A would utter like that: 
-
-A: Mr. Dawson, it's interesting you mention acquaintances. I've heard that you were seen having quite a lively discussion with someone at the café. Could you perhaps recall who that might have been, just to help me piece together your evening more accurately?
+A: I see, and who else was at this gathering? Can you describe any particular conversations or noteworthy events that might help jog your memory about the timing?
 
 all scripts of B: 
-Round 1:
-A: That's interesting, Mr. Dawson. We've heard from others who were at the Green Lantern Cafe that they saw you in a rather animated discussion with someone. Could you tell me more about who you were talking to and what the conversation was about?
+Round 1:  
+1. Get explicature from A’s last utterance:  
+In A’s last utterance, B gets explicature that A is seeking information about B's whereabouts at a specific time, last Thursday at 8 PM.  
 
-B’s Turn:
-Analysis A’s last utterance:
-explicature: In A's last utterance, B gets the explicature that A is probing about a specific conversation B had at the Green Lantern Cafe and is seeking details about the interaction and participant.
-implicature: Because B believes in the fact that A is trying to elicit specific information about B's interactions on Thursday, in A's last utterance, B gets the implicature that A might already have some information about the conversation or its significance.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is asking about B's activities last Thursday, combined with B's believed fact that last Thursday was the time of an event potentially related to the case, B can infer implicature that A might suspect B's involvement or presence at that event.
 
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that providing too much detail might not be in B’s best interest, B would like to inform A of a generic account of the conversation without revealing specifics.
-communicative intention: Because B believes in the fact that shifting attention away from critical details is important, B would like to draw A’s attention to the casual nature of the evening and deflect focus from the conversation's contents.
+3. Conclude fact received from this round:  
+B gets explicature that A is inquiring about their location at a specific time, and implicature that A might suspect B's involvement in an event. B can conclude the fact that A is trying to establish an alibi or connection to a specific event.
 
-So B would utter like that:
-B: Ah, Detective, now that you mention it, there was a brief discussion with a gentleman I’ve run into a few times at the cafe. It wasn't anything significant, just a bit of banter about sports, if I recall correctly. You know how lively these discussions can get, especially when everyone has strong opinions.
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to protect their own interests by not revealing incriminating information. The received fact that A is trying to establish an alibi or connection to a specific event contributes to the goal by alerting B about what aspect of the investigation A might focus on.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that A might focus on establishing connections to a specific event, B can refine the new goal to maintain ambiguity about their exact activities and shift the conversation away from times that might be critical.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to maintain ambiguity about their exact activities. To achieve the goal, B has informative intention that avoids giving precise details of their whereabouts, and communicative intention to subtly introduce other topics or people into the conversation to divert focus.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is to avoid giving precise details of their whereabouts, which means information in B's utterance will mainly focus on being vague about time specifics. B's communicative intention is to introduce other topics or people to divert focus, which means B's utterance will imply A to consider alternative angles. So B would utter like that:  
+B: You know, now that I think about it, the gathering had quite a few folks dropping in and out throughout the evening. I’m sure there were plenty of people who could tell you more about who was around at particular times—it was quite the chaotic evening!
 
 Round 2:
 all scripts of A: 
-A's Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that the gathering had many people coming and going, which might make it difficult for B to recall specific details.
 
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that Mr. Dawson was involved in a lively discussion about sports with a gentleman he runs into occasionally at the café.
-implicature: Because A believes in the fact that sporting discussions at a café can be common, mixed with the specificity and timing of this event, in B’s last utterance, A gets the implicature that Mr. Dawson might be downplaying the significance of the discussion, especially since he initially claimed nothing memorable happened.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that the gathering had many people coming and going, combined with A's believed fact that B tends to deflect when cornered, A can infer implicature that B might be deliberately avoiding providing specific details.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that Mr. Dawson is potentially concealing details, A would like to inform B of the specific interest in this conversation to probe for more information.
-communicative intention: Because A believes in the fact that Mr. Dawson might be minimizing the importance of the discussion, A would like to draw B’s attention to any specific aspects of this conversation that might have involved more than sports banter.
+3. Conclude fact received from this round:
+A gets explicature that the gathering had many people coming and going and implicature that B might be deliberately avoiding providing specific details, A can conclude the fact that B is intentionally being vague about the events and people present.
 
-So A would utter like that:
-A: Sports can definitely ignite passion in discussions, Mr. Dawson. However, I've heard there was a particular point in your discussion with this gentleman that seemed to garner a lot of attention. Could it be possible that this conversation also touched on topics beyond sports, perhaps related to recent local events or particular individuals?
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity or revealing its current status. The received fact that B is intentionally being vague makes a contribution to the goal that A should probe deeper to find inconsistencies or pressure points in B's account.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A should probe deeper to find inconsistencies or pressure points in B's account, A can refine the new goal that A needs to ask about specific people or events that might unsettle B or prompt a more detailed response.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A needs to ask about specific people or events that might unsettle B or prompt a more detailed response. To achieve the goal, A has informative intention that A will inquire about specific individuals or events to see if B reacts or provides more information, and communicative intention that A will imply to B that A is aware of certain concrete details and is looking for corroboration.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A will inquire about specific individuals or events to see if B reacts or provides more information, which means information in A's utterance will mainly focus on that. A's communicative intention is that A will imply to B that A is aware of certain concrete details and is looking for corroboration, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: You mentioned a chaotic evening. Was there anyone in particular who stood out, maybe someone like Alex or who might have brought up the discussion about that incident last month?
 
 all scripts of B: 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B understands that A is following up on B's mention of an animated discussion with someone at the cafe and is asking for more specific details about the person and the conversation.  
-implicature: Because B believes that A might have more information about this specific encounter, B infers that A suspects there might be more to the interaction than what B initially conveyed.  
+Sure, let's proceed with each step according to the instructions given.
 
-Plan B’s next utterance:  
-informative intention: Because B knows that revealing the true nature of the conversation may be incriminating, B wants to provide a vague but plausible explanation to keep the details ambiguous.  
-communicative intention: Because B believes A is fishing for more details, B aims to divert A's attention from probing any deeper into this particular conversation.  
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B gets explicature that A wants to know the specific people present and notable events at the gathering to verify B's alibi.
 
-So B would utter like that:
-B: Oh, right, I remember now. I think it was with a fellow named Mark, or was it Mike? We mostly talked about the recent sports events and a bit about our shared hobby of vintage watches. Nothing too deep, really. I suppose it might have seemed a bit animated if you didn’t know we both get quite passionate about our interests.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A wants to know the specific people present and notable events, combined with B's believed fact that revealing too much specific information could lead to potential incrimination or provide new leads, B can infer implicature that A is trying to verify B’s alibi and potentially find inconsistencies.
+
+3. Conclude fact received from this round:  
+B gets explicature that A wants to know the specific people present and notable events and implicature that A is trying to verify B’s alibi and potentially find inconsistencies. B can conclude the fact that A's investigation is focused on the evening of last Thursday and B's precise whereabouts.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to protect their own interests by not revealing incriminating information, to discern A’s level of knowledge about the case, and to avoid providing any additional leads. The received fact that A's investigation is focused on the evening of last Thursday and B's precise whereabouts helps B understand where A’s focus lies and what information A might be seeking, thus contributing to the goal by guiding what B needs to obscure.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that helps B understand where A’s focus lies and what information A might be seeking, B can refine new goal that continues to avoid giving specific details about attendees or events while subtly testing A’s knowledge.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to avoid giving specific details about attendees or events while subtly testing A’s knowledge. To achieve the goal, B has informative intention to provide vague generalizations about the gathering and communicative intention to imply that the chaotic nature of the gathering might make it difficult to remember specifics.
+
+7. Utter depending on B's informative intention and communicative intention:  
+B's informative intention is to provide vague generalizations about the gathering, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply that the chaotic nature of the gathering might make it difficult to remember specifics, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: You know how these social gatherings can be—people come and go, and conversations overlap. It was lively, so it’s challenging to pinpoint exact details, especially with so many familiar faces coming in and out. But if you're looking for something specific, maybe I could help point you in someone else’s direction.
 
 Round 3:
 all scripts of A: 
-A’s Turn:  
-Analysis B’s last utterance:  
-explicature: In B’s last utterance, A gets the explicature that the conversation with the man was about sports and vintage watches, and the man might be named Mark or Mike.  
-implicature: Because A believes in the fact that B was likely trying to downplay the significance of the conversation, in B’s last utterance, A gets the implicature that there might be more to the conversation than just innocuous topics.  
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is suggesting their memory of the event is vague due to the number of attendees and that they might be able to direct A to someone else for more specific information.
 
-Plan A’s next utterance:  
-informative intention: Because A believes in the fact that B might be downplaying the importance of the conversation, A would like to inform B of the narrowing in on the context of local events.  
-communicative intention: Because A believes in the fact that B might know more than he admits, A would like to draw B’s attention to the significance of local events in determining the importance of their conversation.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B's memory is vague and that they can point A to someone else, combined with A's believed fact that B tends to avoid providing direct answers related to key details, A can infer implicature that B might be deliberately evasive and redirecting attention from themselves.
 
-So A would utter like that:  
-A: Interesting, Mr. Dawson. Vintage watches and sports are certainly interesting topics. However, given your interests, it occurs to me that discussions like these can meander into related matters, such as changes in the community or even recent incidents. Did your conversation with Mark or Mike touch upon any local events or particular individuals linked to forthcoming community changes?
+3. Conclude fact received from this round:  
+A gets explicature that B is unsure about specifics due to a chaotic evening with many people, and implicature that B might be evading giving concrete information. A can conclude the fact that B could be avoiding discussing key details of the gathering.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity or revealing its current status. The received fact that B might be avoiding discussing key details contributes to the goal by indicating that B could be hiding something important, prompting A to probe further without raising suspicion.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B could be hiding something, A can refine a new goal that is to press subtly for additional details or inconsistencies that could corroborate or challenge B’s account, without alerting B to the focus of the investigation.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to press subtly for additional details or inconsistencies. To achieve the goal, A has the informative intention to gather more precise information about the gathering and the communicative intention to encourage B to inadvertently reveal more about their involvement or knowledge of the incident last month.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to gather more precise information about the gathering, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to inadvertently reveal more about their involvement, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It sounds like it was quite the eventful evening. Having so many folks around must have made it hard to keep track of everything. But sometimes even subtle details can be telling. Perhaps you noticed something specific about Alex—maybe a conversation or interaction that stood out?
 
 all scripts of B: 
-B’s Turn:
-Analysis A’s last utterance:
-explicature: In A’s last utterance B gets the explicature that A is probing whether the conversation at the cafe involved topics related to local events or individuals beyond just sports.
-implicature: Because B believes Detective A may have received information suggesting the conversation was more than just about sports and hobbies, in A’s last utterance, B gets the implicature that A is fishing for connections to other potentially relevant events or people.
-Plan B’s next utterance:
-informative intention: Because B believes in the fact that keeping the conversation focused on benign topics is in their best interest, B would like to inform A of no significant deviation from sports and hobbies.
-communicative intention: Because B believes in shifting A's attention away from any potentially incriminating information, B would like to draw A’s attention back to the innocuous nature of the conversation.
-So B would utter like that: 
-B: You must have quite a few reports coming your way, Detective. I assure you, we didn’t venture much beyond our usual banter. But I’ll try to recall if anything else significant comes to mind, though I doubt there’s much more to it than just a friendly exchange.
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B gets explicature that A is trying to gather specifics about notable individuals or discussions at the gathering, possibly involving Alex or past incidents.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is focusing on individuals or discussions that stand out, combined with B's believed fact that mentioning Alex or any incident might lead to unwanted scrutiny, B can infer implicature that A is probing for connections between B's alibi and those individuals or incidents.
+
+3. Conclude fact received from this round:  
+B gets explicature that A is focused on notable discussions or individuals at the gathering and implicature that A is probing for connections, B can conclude the fact that A is narrowing down on specific persons or past incidents which may directly relate to the investigation.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to protect their own interests by not revealing incriminating information and to discern the detective's level of knowledge about the case. The received fact that A is focusing on certain individuals or incidents suggests A is honing in on significant leads, making a contribution to the goal by highlighting the need for B to deflect focus from sensitive specifics.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that A is focusing on significant leads, B can refine the new goal to further obscure the details about Alex or any incident while steering A towards others not directly tied to B.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to obscure the details about Alex or any incident while steering A towards others not directly tied to B. To achieve the goal, B has an informative intention that the gathering was too crowded for specific recollection and a communicative intention to imply that others might have clearer memories or insight.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is that the gathering was too crowded for specific recollection, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply A to look elsewhere for specific details, which means B's utterance will imply A pay attention to others. So B would utter like that:  
+B: I wish I could provide more insight, but honestly, with so many different people involved, it was hard to keep track of any one particular discussion or person. If anyone had more specific memories, it would be those who stayed later or someone who was less engaged in the chatter.
 
 Round 4:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B couldn't provide specific details about Alex due to the large number of people and overlapping conversations at the gathering.
 
-Analysis B’s last utterance:
-explicature: In B's last utterance, A gets explicature that B is downplaying the significance of the conversation as merely a friendly exchange.
-implicature: Because A believes in the fact that B has more information than he's letting on and may be attempting to conceal or understate the details of the conversation, in B's last utterance, A gets the implicature that B might be intentionally withholding or avoiding discussion on pertinent topics.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B couldn't provide specific details about Alex due to the large number of people and overlapping conversations at the gathering, combined with A's believed fact that gatherings are usually attended by the suspect's close acquaintances and might afford opportunities for discreet exchanges, A can infer implicature that B may be concealing finer details or redirecting attention towards other guests.
 
-Plan A’s next utterance:
-informative intention: Because A believes in the fact that B's conversation included significant details potentially relevant to the case, A would like to inform B of the importance of any seemingly trivial details or topics discussed.
-communicative intention: Because A believes in the fact that B may be concealing information, A would like to draw B's attention to the fact that even seemingly innocuous topics can have relevance and that it would be in his best interest to be forthcoming.
+3. Conclude fact received from this round:  
+A get explicature that B couldn't provide specific details about Alex due to the large number of people and overlapping conversations at the gathering and implicature that B may be concealing finer details or redirecting attention towards other guests, A can conclude the fact that B might know more about Alex’s presence or movements during the gathering than admitted.
 
-So A would utter like that:
-A: You'd be surprised how sometimes the most casual conversations reveal key insights, Mr. Dawson. Even topics that seem offhand can hold weight in an investigation. Is there any chance that Mark, or Mike, might have mentioned something about local figures or events that struck you as noteworthy, even in passing? Sometimes even a casual remark can open new avenues to explore.
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity or revealing its current status. The received fact that B might know more about Alex’s presence or movements during the gathering than admitted makes contribution to the goal by suggesting a potential area for further questioning that could reveal discrepancies or clues about the suspect’s actual activities.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that suggests a potential area for further questioning, A can refine the new goal to focus on obtaining more context or contradictions about Alex’s activities and interactions during the gathering.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to focus on obtaining more context or contradictions about Alex’s activities and interactions during the gathering. To achieve the goal, A has informative intention to emphasize the importance of clarifying Alex's specific actions and communicative intention to subtly imply that specific details about Alex are crucial.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is to emphasize the importance of clarifying Alex's specific actions, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly imply that specific details about Alex are crucial, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It seems Alex might have been a notable figure during the evening, perhaps even engaging in significant conversations. Did you notice if Alex interacted with anyone in particular, or did anyone mention something unique or pressing about him later on?
 
 all scripts of B: 
-B's Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B understands that A is probing to see if the conversation touched on community changes or individuals linked to recent incidents.  
-implicature: Because B believes A suspects there may be more significant matters discussed, B infers that A is trying to see if there is any link between B and these local events or individuals.  
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B gets explicature that A is still probing for specific details about Alex and any notable interactions or conversations that might have occurred.
 
-Plan B’s next utterance:  
-informative intention: Because B believes A is looking for a connection between B's conversation and local events, B would like to downplay the relevance of the conversation.  
-communicative intention: Because B believes A is trying to connect personal interests to broader events, B would like to draw A’s attention back to the innocuous nature of the conversation.  
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A is probing for details about Alex, combined with B's believed fact that B needs to avoid revealing specific interactions involving Alex, B can infer implicature that A suspects Alex might be linked to the incident or has relevant information.
 
-So B would utter like that:  
-B: Detective, I understand the curiosity, but truly, our conversation stuck to personal hobbies and pastimes. Local events didn’t quite make the cut this time around. If there’s anything specific you’re curious about, please let me know, and I’ll see if I can help clarify.
+3. Conclude fact received from this round:  
+B gets explicature that A is probing for details about Alex and implicature that A suspects Alex might be linked to the incident, B can conclude the fact that A is keen to establish Alex's possible involvement.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is to avoid providing incriminating information and discern the detective’s knowledge. The received fact that A is keen to establish Alex's possible involvement contributes by indicating where A’s suspicions are directed.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that indicates where A’s suspicions are directed, B can refine the new goal to continue deflecting attention away from any potential involvement with Alex.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is to continue deflecting attention from Alex. To achieve this goal, B has the informative intention to generalize the details further and the communicative intention to steer A towards other individuals that could redirect the focus.
+
+7. Utter depending on B's informative intention and communicative intention:  
+B's informative intention is to generalize the details further, which means information in B's utterance will mainly focus on the chaotic nature of the gathering. B's communicative intention is to steer A towards other individuals, which means B's utterance will imply A to pay attention to them. So B would utter like that:  
+B: I’m afraid I didn’t have many detailed interactions with Alex that stood out. But really, it was the kind of night where any number of people might have crossed paths briefly. If you’re looking for something particular, it might be worth checking with those who were more centrally involved in the planning or hosting of the event.
 
 Round 5:
 all scripts of A: 
-A’s Turn:
-Analysis B's last utterance:
-explicature: In B's last utterance, A gets the explicature that Mr. Dawson is still claiming that the conversation was limited to personal hobbies and pastimes, not local events or noteworthy figures.
-implicature: Because A believes that Mr. Dawson is deliberately avoiding any mention of specific local events or figures, in B's last utterance, A gets the implicature that Mr. Dawson may indeed be concealing information that is pertinent to the investigation.
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B didn’t have detailed interactions with Alex and suggested checking with those who were more centrally involved in the planning or hosting of the event.
 
-Plan A's next utterance:
-informative intention: Because A believes that Mr. Dawson is omitting crucial information, A would like to inform B of the importance of even seemingly trivial details within conversations.
-communicative intention: Because A believes that Mr. Dawson is potentially omitting key information, A would like to draw B’s attention to the necessity for honesty in aiding the investigation process.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B didn’t have detailed interactions with Alex and suggested checking with those who were more centrally involved, combined with A's believed fact that social gatherings often make it hard for casual attendees to recall specifics, A can infer implicature that B might be deflecting or uncertain about the details, possibly downplaying their own role or observations.
 
-So A would utter like that:
-A: Mr. Dawson, I understand that hobbies and personal interests can dominate conversations, but sometimes, even innocuous chats can touch on surprising subjects. We often find that people remember more when they're prompted. For instance, anyone new to the cafe scene, or perhaps a surprising topic introduced by Mark, or Mike, might jog your memory. Can you try thinking along those lines?
+3. Conclude fact received from this round:  
+A get explicature that B didn’t have detailed interactions with Alex and suggested checking with those who were involved in planning or hosting, and implicature that B might be deflecting or uncertain. A can conclude the fact that B has limited pertinent memory or involvement with Alex that night.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to uncover the truth behind the suspect's statements without compromising the investigation's integrity. The received fact that B has limited pertinent memory or involvement with Alex that night makes a contribution to the goal by highlighting that B may not have critical information about Alex’s actions during the evening.
+
+5. Refine new goal dependent on the contribution:  
+Because of the contribution that B may not have critical information about Alex’s actions, A can refine the new goal to identify individuals who were more involved in the central events of the gathering or hosting, to gain better insights into the evening.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to identify individuals more involved in the central events of the gathering. To achieve the goal, A has the informative intention that B should help identify who to speak to and the communicative intention that encourages B to recall or suggest specific individuals who had a significant presence.
+
+7. Utter dependent on A's informative intention and communicative intention:  
+A's informative intention is to identify central attendees or hosts, which means the information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to recall or suggest specific individuals, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It seems like identifying those who were more centrally involved during the gathering could provide better clarity. Could you recall or suggest specific individuals who seemed to be at the heart of the event or were involved in its planning?
 
 all scripts of B: 
-**B's Turn:**  
-**Analysis A’s last utterance:**  
-**explicature:** In A’s last utterance, B gets the explicature that A is suggesting even ordinary discussions can be significant to their investigation, probing for any mention of local events or figures.  
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is interested in Alex's potential interactions during the gathering and looking for something unique or pressing about him.
 
-**implicature:** Because B believes in the fact that A is persistently trying to link their conversation to the investigation, in A’s last utterance, B gets the implicature that A might suspect B knows more about local events or figures than is being revealed.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is interested in Alex's potential interactions during the gathering and looking for something unique or pressing about him, combined with B's believed fact that B should avoid incriminating themselves or revealing details about Alex, B can infer implicature that A might suspect Alex of being involved in the incident and is trying to gather corroborative details.
 
-**Plan B’s next utterance:**  
-**informative intention:** Because B believes in the fact that it’s crucial to protect their own interests and avoid disclosing incriminating information, B would like to inform A that their conversation with Mark or Mike was inconsequential with respect to local events.  
+3. Conclude fact received from this round:
+B get explicature that A is interested in Alex's potential interactions and implicature that A might suspect Alex, B can conclude the fact that A is focusing the investigation on Alex and potentially looking for connections.
 
-**communicative intention:** Because B believes in the fact that redirecting focus may keep the investigation at bay, B would like to draw A’s attention to the mundane nature of the conversation, subtly encouraging the possibility that A might be overestimating its relevance.  
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is to protect their own interests by not revealing incriminating information and avoid providing any additional leads. The received fact that A is focusing the investigation on Alex make contribution to the goal by confirming who A is paying attention to, allowing B to redirect focus away from themselves and to someone else if needed.
 
-**So B would utter like that:**  
-B: Detective, it’s insightful how discussions can take unexpected turns, but I must emphasize our conversation remained light-hearted, revolving around hobbies. Frankly, the only notable discussion drift might have been around a watch auction we were considering attending, though it’s possible I’m missing the depth you're probing for. If you have more targeted questions, I’d be happy to address those.
+5. Refine new goal depend on the contribution:
+Because of the contribution that confirms who A is paying attention to, B can refine new goal that is to subtly redirect attention away from themselves while not revealing any knowledge about Alex's activities.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is to subtly redirect attention away from themselves while not revealing any knowledge about Alex's activities. To achieve the goal, B have informative intention that redirect A's focus without providing specific details about Alex and communicative intention that imply they lack crucial information about Alex.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that redirect A's focus without providing specific details about Alex, which means information in B's utterance will mainly focus on redirecting. B's communicative intention is that imply they lack crucial information about Alex, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+B: I wish I could help more with specifics about Alex, but given how fast-paced the evening was, I found it difficult to track who engaged with whom. Perhaps those who were interacting with the guests more closely, like the hosts, might have noticed something distinct.
 
 Round 6:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:  
+In B's last utterance, A gets explicature that B found it difficult to track interactions during the gathering and suggests that the hosts might have more detailed information.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B found it difficult to track interactions and suggests speaking to the hosts, combined with A's believed fact that the gathering is significant to the investigation, A can infer implicature that B might be deflecting detailed questioning and redirecting focus toward the hosts for more insight.
 
-explicature: In B’s last utterance A get explicature that the conversation between B and Mark (or Mike) mostly revolved around a watch auction they were considering attending. 
+3. Conclude fact received from this round:  
+A gets explicature that hosts might have more detailed observations and implicature that B possibly deflects detailed engagement. A can conclude the fact that speaking to hosts could potentially yield more relevant information about key interactions.
 
-implicature: Because A believe in the fact that suspects might omit details to steer away from discomforting subjects, in B’s last utterance, A get implicature that there could be more to the watch auction or surrounding events that B is not disclosing. 
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to uncover the truth behind the suspect's statements without revealing the investigation's progress. The received fact that speaking to hosts could potentially yield more relevant information contributes to the goal by directing A to another valuable source of information while maintaining the investigation’s integrity.
 
-Plan A’s next utterance:
+5. Refine new goal depend on the contribution:  
+Because of the contribution that suggests talking to the hosts, A can refine the new goal to focus on identifying the hosts and questioning them for additional insights into the gathering's key interactions.
 
-informative intention: Because A believe in the fact that mundane details can often lead to significant insights, A would like to inform B of the importance of recalling details about the auction discussion. 
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to identify the hosts and question them for valuable insights. To achieve the goal, A has informative intention to understand who the hosts are and their potential observations and communicative intention to subtly press B for specific names or details about the hosts without revealing too much.
 
-communicative intention: Because A believe in the fact that suspects may reveal more when they are prompted about specific aspects, A would like to draw B’s attention to details regarding the auction, such as who else was involved or any specific watch of interest. 
-
-So A would utter like that: 
-
-A: Mr. Dawson, it’s curious how auctions, especially those involving vintage watches, can sometimes attract diverse and interesting characters. Was there anyone else interested in this auction or perhaps a particular piece that caught everyone's attention? Details like these might help jog your memory further.
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to understand who the hosts are, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly press B for specific names or details about the hosts, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I understand the evening was quite dynamic, but since the hosts might have been more aware of the night's progress, can you recall who hosted or what their role was in the evening's events? Maybe there's a name or detail that stands out.
 
 all scripts of B: 
-Round 6:
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is interested in identifying specific individuals who were more centrally involved in the gathering to gain clarity about the event, potentially focusing on Alex.
 
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B gets the explicature that A is keen to find any link between the casual conversation and significant local events or figures, especially through indirect means such as new people or surprising topics.  
-implicature: Because B believes that A is trying to find any concealed or unexpected relevant information, in A’s last utterance, B gets the implicature that even seemingly trivial memories may contain investigative value in A's view.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is interested in identifying specific individuals, combined with B's believed fact that knowing all individuals could reveal connections to the incident, B can infer implicature that A is trying to map out connections or interactions that might link to the investigation.
 
-Plan B’s next utterance:  
-informative intention: Because B believes that A might keep pushing for any small detail that could be relevant, B would like to inform A of the limited scope of the conversation that occurred.  
-communicative intention: Because B believes that A is subtly probing for more leads or factual nuances, B would like to draw A’s attention back to the casual nature of the discussion.  
+3. Conclude fact received from this round:
+B get explicature that A is interested in identifying individuals and implicature that A is mapping out connections, B can conclude the fact that A is probing into the dynamics of the gathering to uncover potential links or leads related to the case.
 
-So B would utter like that:  
-B: I understand the importance of exploring every detail, Detective, but I'm quite certain our exchange was limited to personal interests. If any unexpected topic did come up, it’s slipped my mind. If there's a specific angle you suspect, please let me know, and I can do my best to assist within those parameters.
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to protect their own interests by not revealing incriminating information, to discern the detective's level of knowledge about the case, and to avoid providing any additional leads. The received fact that A is probing into the dynamics of the gathering to uncover potential links or leads contributes to the goal by emphasizing the need for B to deflect and not furnish usable information.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B needs to deflect and not furnish usable information, B can refine new goal that prevent A from gaining specific or actionable insights regarding the gathering's internal dynamics.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that prevent A from gaining specific or actionable insights regarding the gathering's internal dynamics. To achieve the goal, B has informative intention that downplay their own knowledge of the gathering’s specifics and intimate details and communicative intention that redirect A’s focus towards other individuals or secondary leads.
+
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that downplay their own knowledge of the gathering’s specifics and intimate details, which means information in B's utterance will mainly focus on minimizing personal involvement. B's communicative intention is that redirect A’s focus towards other individuals or secondary leads, which means B's utterance will imply A to pay attention to those. So B would utter like that:
+
+B: I understand what you're looking for, but my own role in the evening was more on the periphery. Those in charge of organizing, like the hosts, probably interacted with the core attendees and can provide more clarity on the specifics you seek.
 
 Round 7:
 all scripts of A: 
-**Round 7:**
+1. Get explicature from B’s last utterance: 
+In B’s last utterance A get explicature that B was on the periphery of the gathering and suggests contacting the hosts for more detailed information.
 
-**Analysis B’s last utterance:**
+2. Infer implicature from explicature combined with believed fact: 
+From the explicature that B was on the periphery of the gathering and suggests contacting the hosts for more detailed information, combined with A's believed fact that hosts tend to have more detailed observations of guests and events, A can infer implicature that the hosts might provide valuable insights or confirmations related to the case.
 
-- *Explicature*: In B’s last utterance, A gets explicature that B emphasizes the conversation remained focused on personal interests and nothing unusual was remembered, but is open to answering more specific questions if prompted.
+3. Conclude fact received from this round: 
+A get explicature that B was on the periphery of the gathering and suggests contacting the hosts for more detailed information, and implicature that the hosts might provide valuable insights or confirmations related to the case, A can conclude the fact that B does not have specific information but believes that the hosts are more likely to have relevant details.
 
-- *Implicature*: Because A believes in the fact that sometimes people unconsciously conceal information when pressured or distracted, in B’s last utterance, A gets implicature that there might still be undisclosed details that could be significant if approached differently, particularly if B is given a new perspective or specific angle to consider.
+4. Evaluate the contribution of the received fact to the goal: 
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity. The received fact that B does not have specific information but believes that the hosts are more likely to have relevant details makes a contribution to the goal by indicating a potential source for obtaining the truth about the gathering's events.
 
-**Plan A’s next utterance:**
+5. Refine new goal depend on the contribution: 
+Because of the contribution that the received fact suggests hosts as a valuable information source, A can refine the new goal to identify and contact the hosts of the gathering for detailed accounts and potentially corroborate B's statements.
 
-- *Informative intention*: Because A believes in the fact that understanding context around the café or auction can uncover new truths, A would like to inform B of how even casual details about attendees or events can be significant.
+6. Make informative intention and communicative intention depend on the refined goal: 
+A's goal is to identify and contact the hosts of the gathering for detailed accounts and potentially corroborate B's statements. To achieve the goal, A have an informative intention to highlight the importance of the hosts' perspectives and a communicative intention to prompt B to recall or suggest any details that could lead to contacting the hosts.
 
-- *Communicative intention*: Because A believes in the fact that B might remember more under gentle pressure, A would like to draw B’s attention to the possibility that even peripheral details about the auction or any observed interactions at the café might hold value.
-
-So A would utter like that:
-
-A: Mr. Dawson, I appreciate your willingness to assist. Sometimes, though, it’s the less direct observations that tell the most. Perhaps you remember if anyone else showed an unusual interest in the auction or displayed knowledge about watches that seemed out of place? Recognizing someone out of their expected context can also highlight information that’s unwittingly valuable.
+7. Utter depend on A's informative intention and communicative intention: 
+A's informative intention is to highlight the importance of the hosts' perspectives, which means information in A's utterance will mainly focus on that. A's communicative intention is to prompt B to recall or suggest any details that could lead to contacting the hosts, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Understanding that your role was peripheral, it might still help if you remembered anyone involved more directly in planning or hosting. Is there any name or detail from that evening, even small, that might lead us to the hosts for further insight?
 
 all scripts of B: 
-B’s Turn:
-Analysis A’s last utterance: 
-explicature: In A’s last utterance, B understands that A is probing for any connections or leads that could emerge from discussions about the watch auction or the people involved in it.
-implicature: Because B believes that A is trying to identify links to the case through seemingly trivial details, in A’s last utterance, B gets the implicature that A might suspect there is something more significant about the auction or the participants that could relate to the investigation.
+1. Get explicature from A’s last utterance:  
+In A’s last utterance B get explicature that A wants information about the hosts or key individuals involved in organizing the event.
 
-Plan B’s next utterance:
-informative intention: Because B believes in maintaining the narrative that only light-hearted topics were discussed, B would like to inform A that the auction was simply an event of personal interest and nothing more.
-communicatie intention: Because B perceives that A seeks specific leads around the auction, B would like to subtly shift focus back to the lack of significance in the conversation without providing more detail than necessary.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that A wants information about the hosts or key individuals involved in organizing the event, combined with B's believed fact that providing such details could lead to revealing incriminating connections, B can infer implicature that A is trying to identify links to others who may be pivotal to the investigation.
 
-B: Detective, I appreciate your thoroughness in piecing together every possible lead, but as far as I recall, Mark, or Mike, and I really only chatted about which watches we might look to acquire if the pieces caught our fancy. It really was just a light perusal over potential buys, not much depth to it.
+3. Conclude fact received from this round:  
+B get explicature that A wants information about the hosts or key individuals involved in organizing the event and implicature that A is trying to identify links to others who may be pivotal to the investigation, B can conclude the fact that A is focusing on unearthing influential connections.
+
+4. Evaluate the contribution of the received fact to the goal:  
+B's goal is that to protect their own interests by not revealing incriminating information. The received fact that A is focusing on unearthing influential connections makes a contribution to the goal in highlighting the need to keep such connections vague or undetermined.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that emphasizes the need to keep connections vague or undetermined, B can refine new goal that to continue veiling specific roles or connections of key individuals at the event.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+B's goal is that to continue veiling specific roles or connections of key individuals at the event. To achieve the goal, B has informative intention to provide generalities about the gathering while keeping specific links ambiguous and communicative intention to imply that B’s own role was minimal and uninformed.
+
+7. Utter depend on the B's informative intention and communicative intention:  
+B's informative intention is that to provide generalities about the gathering while keeping specific links ambiguous, which means information in B's utterance will mainly focus on broad and non-specific details. B's communicative intention is that to imply that B’s own role was minimal and uninformed, which means B's utterance will imply A to pay attention to B’s limited involvement. So B would utter like that:  
+B: You know, I only caught glimpses of what the hosts were up to during the evening, given my more peripheral role. But if talking to those closer to the inner circle is an option, they might provide the insight you need.
 
 Round 8:
 all scripts of A: 
-A’s Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B was on the periphery of the event and did not closely observe the hosts' activities, but suggests speaking to the inner circle for more information.
 
-Analysis B’s last utterance:
-explicature: In B’s last utterance, A gets the explicature that Mr. Dawson insists the discussion about the auction was light and focused on potential buys without depth.
-implicature: Because A believes that sometimes people can unconsciously reveal more than they realize, in B’s last utterance, A gets the implicature that Mr. Dawson might be deliberately underselling the conversation's significance or is genuinely focused solely on the auction.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B was on the periphery of the event and did not closely observe the hosts' activities, combined with A's believed fact that those centrally involved are likely to have more valuable information, A can infer implicature that B is avoiding naming specific hosts or attendees despite possibly knowing them.
 
-Plan A’s next utterance:
-informative intention: Because A believes that even minor details can unlock significant leads, A would like to inform B of the importance of subtle shifts in conversation in seemingly mundane discussions.
-communicative intention: Because A believes that Mr. Dawson might not realize how conversations could drift into sensitive areas, A would like to draw B’s attention to the possibility that someone else at the auction or involved in the watch scene might have raised a peculiar interest or made an odd remark.
+3. Conclude fact received from this round:
+A gets explicature that B was on the periphery and implicature that B might deliberately withhold information, A can conclude the fact that B is reluctant to provide specific names or deeper insight about the hosts.
 
-So A would utter like that:
-A: Mr. Dawson, I completely understand that your chat appeared to be a casual conversation about auction pieces. But sometimes, even during such light exchanges, people mention things or show interests that feel slightly off. Have you ever noticed Mark or Mike, or even someone else at the cafe, showing an unusually keen interest in something that doesn't align with their known hobbies or expertise? Such observations could be more connected to our inquiry than you might expect.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity. The received fact that B is reluctant to provide specific names or deeper insight contributes to the goal by indicating B's potential reluctance or motive to withhold pertinent details.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that indicates B's reluctance or motive to withhold details, A can refine the new goal to gently encourage B to trust providing more specific information or open up about less prominent aspects they might recall.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to gently encourage B to trust providing more specific information or open up about less prominent aspects they might recall. To achieve the goal, A has an informative intention to reassure the suspect that any details would be helpful, no matter how insignificant they seem, and a communicative intention to subtly signal that withholding specifics doesn't aid their position.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to reassure the suspect that any details would be helpful, which means information in A's utterance will mainly focus on valuing small details. A's communicative intention is to subtly signal that withholding specifics doesn't aid their position, which means A's utterance will imply B to pay attention to the importance of sharing specifics. So A would utter like that:
+A: It's quite understandable how details can blend during such social gatherings. Even small snippets or impressionistic details about the role of the hosts or interactions you observed might illuminate a bigger picture for us. Anything at all that subtly stood out, perhaps something one might dismiss as unimportant at first glance, could be of interest. Would any such memories, even minor, come to mind?
 
 all scripts of B: 
-**B’s Turn:**
+1. Get explicature from A’s last utterance:
+In A’s last utterance B get explicature that A is trying to identify individuals directly involved in the planning or hosting of the gathering for further insight.
 
-**Analysis of A’s last utterance:**
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is trying to identify individuals directly involved in the planning or hosting of the gathering, combined with B's believed fact that B wants to avoid linking back to the hosts or revealing details about the event, B can infer implicature that A is closing in on potentially useful connections that might lead back to B or expose crucial details about B’s involvement.
 
-- **Explicature:** In A’s last utterance, B understands that A is asking him to recall any unusual interest or knowledge from others pertaining to the auction or watches discussed.
-- **Implicature:** Because B believes in the fact that A is probing for connections or deeper insights that might link the conversation to key aspects of the investigation, in A’s last utterance, B understands that A is trying to discern whether others involved in the conversation might inadvertently reveal something relevant to the case. 
+3. Conclude fact received from this round:
+B get explicature that A is trying to identify individuals directly involved in the planning or hosting of the gathering and implicature that A is closing in on potentially useful connections, B can conclude the fact that A is focusing on narrowing down individuals who have central knowledge about the event dynamics.
 
-**Plan B’s next utterance:**
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is that to protect their own interests by not revealing incriminating information. The received fact that A is focusing on narrowing down individuals who have central knowledge about the event dynamics make contribution to the goal that B is aware of A’s direction and can tailor responses to avoid implicating or exposing key individuals tied to B.
 
-- **Informative intention:** Because B believes in the fact that revealing specific individuals or details could inadvertently implicate them, B would like to inform A that there isn’t much to recall beyond general exchanges.
-- **Communicative intention:** Because B believes in the fact that maintaining ambiguity keeps the investigative edge vague, B would like to draw A’s attention to the ordinary nature of the conversation without providing new leads.
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is aware of A’s direction and can tailor responses to avoid implicating or exposing key individuals tied to B, B can refine new goal that continue deflecting focus away from specific individuals while maintaining an appearance of cooperation.
 
-**So B would utter like that:**
+6. Make informative intention and communicative intention depend on the refined goal:
+B's goal is that continue deflecting focus away from specific individuals while maintaining an appearance of cooperation. To achieve the goal, B have informative intention that provide vague or general comments about the hosts without revealing specifics and communicative intention that steer A away from focusing on the hosts.
 
-B: Detective, I truly respect your diligence in unraveling every possible thread. However, as I've said, our discussions simply circled harmlessly around watches and sports. If someone displayed unusual familiarity with a watch brand or bid strategy, it didn’t stand out to me at all. Should any fresh queries emerge that need clarification, you have my willingness to help within my recollection’s limits.
+7. Utter depend on the B's informative intention and communicative intention:
+B's informative intention is that provide vague or general comments about the hosts without revealing specifics, which means information in B's utterance will mainly focus on that. B's communicative intention is that steer A away from focusing on the hosts, which means B's utterance will imply A to pay attention to that. So B would utter like that:
+
+B: You know, from what I noticed, the hosts were adept at managing the flow of the evening and ensuring everyone felt included, but specific details about their interactions would likely come from those closer to them. It might be a good idea to look into those who frequently engage with the hosts at such events.
 
 Round 9:
 all scripts of A: 
-A's Turn:
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that the hosts played a significant role in the event and ensured everyone felt included, but specific details about their interactions might be available from people who frequently engage with the hosts.
 
-Analysis B’s last utterance:
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that the hosts were actively managing the event, combined with A's believed fact that key interactions might have occurred at this gathering, A can infer the implicature that the hosts or regular attendees may have observed interactions relevant to the investigation.
 
-explicature: In B’s last utterance, A gets the explicature that Mr. Dawson maintains his stance that their conversation was light and inconsequential.
+3. Conclude fact received from this round:
+A gets explicature that the hosts managed the evening well, and implicature that they or regular attendees might have noticed significant interactions. A can conclude the fact that the hosts or regular attendees potentially hold valuable observations about the evening.
 
-implicature: Because A believes in the fact that Mr. Dawson may be downplaying or genuinely unaware of pieces of the conversation with potential significance, in B’s last utterance, A gets the implicature that Mr. Dawson is either genuinely focused on their narrow discussion or tactfully avoiding expansion.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to uncover the truth behind the suspect's statements without compromising the investigation's integrity. The received fact that the hosts or regular attendees potentially hold valuable observations contributes to the goal by pointing towards potential key witnesses.
 
-Plan A’s next utterance:
+5. Refine new goal depending on the contribution:
+Because of the contribution that the hosts or regular attendees might hold valuable observations, A can refine the new goal to identify and interview these individuals for further insights.
 
-informative intention: Because A believes in the fact that casual observations can be crucial, A would like to inform B of the idea that even minor discrepancies or curiosities from familiar contexts can be illuminating.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to identify and interview individuals who hold valuable insights. To achieve this goal, A has the informative intention to guide B towards recalling any regular attendees with significant interactions and the communicative intention to encourage B to provide such details.
 
-communicative intention: Because A believes in the fact that Mr. Dawson is capable of recalling more with the right context, A would like to draw B’s attention to considering subtle differences or unusual elements around similar settings, like the café, in a broader timeframe than just one evening.
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to guide B towards recalling any regular attendees, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to provide such details, which means A's utterance will imply B to pay attention to that. So A would utter like that:
 
-So A would utter like that:
-
-A: Mr. Dawson, your focus on the conversation's light essence is clear, yet even subtle aspects upon reflection can often shift perspectives. Was there anything, perhaps from the routine of that evening or at the café generally, that felt atypical or drew your attention quietly over a longer timeframe, even if unconnected directly to that conversation? Such reflections can sometimes unlock unexpectedly relevant threads.
+A: During lively gatherings like these, even the regular attendees often notice more than they might realize at first. Was there anyone at the event you would consider a regular attendee who might have been particularly engaged with the hosts or guests? Identifying these individuals could be invaluable.
 
 all scripts of B: 
-B’s Turn:  
-Analysis A’s last utterance:  
-explicature: In A’s last utterance, B gets the explicature that A is probing for any peculiar behaviors or interests from others during the conversation about the auction.  
-implicature: Because B believes in the fact that A is continuously steering the conversation toward uncovering hidden connections related to the case, in A’s last utterance, B gets the implicature that A suspects an underlying motive or ulterior engagement within the seemingly casual interaction at the cafe.  
+1. Get explicature from A’s last utterance:
+In A’s last utterance B gets explicature that A is asking B for any minor memories or details from observing the hosts during the event that might illuminate the bigger picture.
 
-Plan B’s next utterance:  
-informative intention: Because B believes in the fact that A is focused on finding any unusual behavior or interest from others that could relate to the case, B would like to inform A of the ordinary nature of their conversation.  
-communicative intention: Because B believes in the fact that A is keen on extracting potentially significant anecdotes, B wants to draw A’s attention away from the notion that anything suspicious might have been overlooked and indicate willingness to clarify but subtly hint at the normalcy of the interaction.  
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that A is asking B for any minor memories or details, combined with B's believed fact that A is trying to find a connection to the central events of the evening, B can infer implicature that A is trying to obtain even the smallest hints to connect Alex or others to significant happenings through the hosts’ interactions.
 
-So B would utter like that:  
-B: Detective, your perceptiveness is noted, and I assure you if anything had seemed curious or out of place, it might have registered. Our chat maintained its economy around personal fascinations. Rather than intrigue or unusual depth, we remained in the ordinary lanes of conversation. Should developments arise warranting specific reflections, I stand prepared within those domains.
+3. Conclude fact received from this round:
+B gets explicature that A is asking for minor observations about the hosts and implicature that A is seeking even subtle connections to expand on leads related to Alex or significant events. B can conclude the fact that A is looking to expand possible leads from even minor details.
+
+4. Evaluate the contribution of the received fact to the goal:
+B's goal is to protect their own interests by not revealing incriminating information and to avoid providing additional leads. The received fact that A is looking to expand possible leads from even minor details makes a contribution to the goal that B needs to remain vague and possibly redirect focus.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B needs to remain vague and possibly redirect focus, B can refine the new goal to subtly encourage A to consider other potential sources for the information they seek, suggesting broader peripheral contacts.
+
+6. Make the informative intention and communicative intention depend on the refined goal:
+B's goal is to subtly encourage A to consider other potential sources. To achieve the goal, B has the informative intention to hint at the hosts' broader social network being a more promising source, and the communicative intention to subtly redirect A towards considering interactions within the event's broader social sphere.
+
+7. Utter depending on B's informative intention and communicative intention:
+B's informative intention is to hint at the hosts' broader social network, which means information in B's utterance will mainly focus on that. B's communicative intention is to subtly redirect A towards interactions within the event's broader social sphere, which means B's utterance will imply A to pay attention to that. So B would utter like this: 
+B: Observing from the sidelines, I noticed the hosts managed to keep the atmosphere vibrant and engaging. Though I wasn't intimately involved, perhaps it could be helpful to connect with others frequently seen mingling at such gatherings—they might have more distinct memories or connections with the hosts.

@@ -1,25 +1,2 @@
 Evaluating:
-Based on the conversation and roles provided, here are the scores for each of the seven dimensions:
-
-1. A和B拿到的信息（信息获取的充分程度）: 6分
-   - There is a moderate exchange of information. A has managed to learn about the clock tower as a focal point of interest, and B offers a lead about observing local gatherings or historical meetings. However, the exchange lacks depth, leaving several potential areas unexplored.
-
-2. A和B的goal完成程度（目标达成度）: 5分
-   - While both parties engage in a dialogue that relates to their goals, the progress is incremental. A makes strides towards uncovering leads about the clock tower, yet without substantial breakthroughs, and B maintains a guarded stance without confirming any suspicions or revealing critical information.
-
-3. A和B的发言是否符合各自的Character、Behavior及场合: 9分
-   - Both A and B consistently adhere to their character traits and behaviors. A is stealthy, perceptive, and attempts to drive the conversation towards information acquisition subtly. B remains skeptical and cautious, probing A's intentions while revealing minimal information.
-
-4. 立场坚守与灵活性: 7分
-   - Both parties maintain their core positions while adjusting their strategies as new information is introduced. A balances their investigative approach by adapting to B's guarded responses, and B remains firm in protecting information while engaging with A's inquiries.
-
-5. 信息推理能力: 8分
-   - A demonstrates effective reasoning by asking targeted questions based on B's responses, suggesting a nuanced understanding of how to extract information without direct confrontation. B uses A's responses to gauge intentions and maintain a guarded stance.
-
-6. 主动信息探索与询问: 7分
-   - A is proactive in their approach, asking questions that indirectly seek information about the clock tower and potential sources of knowledge. B also tests A's motives through subtle questioning, ensuring the conversation remains cautious.
-
-7. 情境适应与资源整合: 8分
-   - Both A and B show strong adaptability to the dialogue's context, with A utilizing available cues to guide their inquiries and B managing the conversation flow to avoid revealing sensitive information directly. Both demonstrate the capacity to integrate and consider new remarks effectively.
-
-final_scores: 6, 5, 9, 7, 8, 7, 8
+final_scores: 7 points, 7 points, 8 points, 8 points, 8 points, 7 points, 8 points

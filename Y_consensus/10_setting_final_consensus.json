@@ -1,18 +1,18 @@
 {
-  "total_points": 7,
+  "total_points": 6,
   "matched_points": [
     {
       "field": "character",
       "point": "Warm and caring, but sometimes appears impatient and prone to overreacting due to concerns about the children's future.",
       "discovered": true,
-      "round": 3,
+      "round": 7,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "Hopes to guide the children to reconsider certain views using gentle yet persuasive language.",
       "discovered": true,
-      "round": 1,
+      "round": 6,
       "side": "A"
     },
     {
@@ -30,17 +30,10 @@
       "side": "B"
     },
     {
-      "field": "behavior",
-      "point": "Uses rhetorical questions and humor to alleviate family pressure, responding politely while maintaining personal opinions.",
-      "discovered": true,
-      "round": 7,
-      "side": "B"
-    },
-    {
       "field": "goal",
       "point": "Aims to maintain family harmony while sticking to his/her own lifestyle and not easily changing established plans.",
       "discovered": true,
-      "round": 1,
+      "round": 3,
       "side": "B"
     },
     {

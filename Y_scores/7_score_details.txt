@@ -1,25 +1,2 @@
 Evaluating:
-Based on the information provided and the conversation dynamics between A and B, here is the scoring according to the specified dimensions:
-
-1. A和B拿到的信息（信息获取的充分程度）
-3分：出现了初步的信息获取，但仅限于极少量基础信息。
-
-2. A和B的goal完成程度（目标达成度）
-4分：部分发言试图围绕目标展开，但整体偏离较多。
-
-3. A和B的发言是否符合各自的Character、Behavior及场合
-8分：发言高度贴合角色、行为模式及场合要求，仅有极微小问题。
-
-4. 立场坚守与灵活性
-7分：较好地平衡了立场坚守与策略调整，对新信息能做出及时响应。
-
-5. 信息推理能力
-5分：推理尝试较为合理，部分推断得到后续对话的支持，但准确率一般。
-
-6. 主动信息探索与询问
-4分：尝试主动提问，但频率和深度不足，未能有效填补信息空白。
-
-7. 情境适应与资源整合
-6分：较好地感知情境变化，能整合多种信息资源，对话质量有所提升。
-
-final_scores: 3, 4, 8, 7, 5, 4, 6
+Final scores: 6 points, 6 points, 7 points, 7 points, 6 points, 6 points, 7 points

@@ -8,8 +8,7 @@
             ],
             "A_discovered": [
                 "character",
-                "behavior",
-                "goal"
+                "information"
             ]
         }
     },
@@ -19,8 +18,7 @@
         "progress": {
             "B_discovered": [
                 "character",
-                "behavior",
-                "goal"
+                "behavior"
             ],
             "A_discovered": [
                 "character",
