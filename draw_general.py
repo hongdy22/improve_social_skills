@@ -1,3 +1,4 @@
+## 该文件可以绘制对话质量评分的折线图（不适用于当前版本）
 import re
 import numpy as np
 import matplotlib.pyplot as plt

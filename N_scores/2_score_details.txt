@@ -1,25 +1,2 @@
 Evaluating:
-final_scores: 9 points, 8 points, 9 points, 8 points, 9 points, 9 points, 8 points
-
-Here's a breakdown of the scores:
-
-1. A和B拿到的信息（信息获取的充分程度）: 9 points
-   - The conversation effectively exchanges nearly all core information, with both parties understanding each other's intentions and sharing relevant health details. A is able to deduce information from B's reticent responses, indicating a high level of communication.
-
-2. A和B的goal完成程度（目标达成度）: 8 points
-   - Both participants are largely successful in achieving their goals. A gathers enough information to suggest specific tests, and B feels respected in terms of privacy while also being willing to pursue tests. Most of the objectives are met satisfactorily but with room for further inquiry.
-
-3. A和B的发言是否符合各自的Character、Behavior及场合: 9 points
-   - The dialogue adheres closely to the characters' traits and behaviors. A remains empathetic and insightful, while B is cautious yet cooperative, maintaining privacy. The conversation suits the medical diagnostic context perfectly, with attention to patient comfort and trust.
-
-4. 立场坚守与灵活性: 8 points
-   - A and B maintain their core positions yet adjust their approaches based on new insights. A uses flexible questioning techniques, and B opens up gradually while managing privacy. Their ability to adapt enhances the conversation's progress.
-
-5. 信息推理能力: 9 points
-   - A's ability to infer from incomplete information demonstrates a high level of reasoning. The logical connections drawn between symptoms and possible causes indicate strong deductive skills, with nearly all assumptions accurately reflecting B's concealed issues.
-
-6. 主动信息探索与询问: 9 points
-   - A consistently probes with targeted questions, revealing crucial information and facilitating a comprehensive understanding of B's condition. A's active exploration ensures a thorough discussion and nicely compensates for any initial information gaps.
-
-7. 情境适应与资源整合: 8 points
-   - A successfully adapts to the challenges imposed by B's reserved responses, integrating available information to form a cohesive picture of the situation. Although the resource integration is robust, there remains potential for further refinement as more data becomes available.
+final_scores: 8 points, 7 points, 9 points, 7 points, 6 points, 8 points, 7 points

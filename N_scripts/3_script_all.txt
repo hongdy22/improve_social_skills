@@ -1,69 +1,69 @@
 Round 0:
 all scripts A: 
-A: "I've noticed that it can sometimes be challenging to open up about personal experiences, and that's completely okay. This is a space where you can share whatever you feel comfortable with, at your own pace. Is there anything on your mind today, even if it's just a small thought or feeling?"
+A: Hi B, thanks for coming in today. Before we begin, I just want to remind you that this is a safe space where you can share whatever's on your mind without any judgment. How have you been feeling lately?
 
 all scripts B: 
-B: Well, nothing too significant has been happening. Just the usual stuff, you know? Work is busy, and I've been keeping myself occupied. Is there anything specific you think we should discuss?
+B: I've been okay, I guess. Just keeping busy with work and stuff. Nothing much to talk about, really. How about you? How's your day going?
 
 Round 1:
 all scripts of A: 
-A: "It sounds like you're managing to stay busy, which can be a good thing, but sometimes being occupied can also be a way to avoid dealing with other feelings or thoughts. I'm curious, how do you feel about your work situation right now? Does it feel satisfying, or are there aspects that might be weighing on you?"
+A: It's nice of you to ask, thank you. My day's been good. You mentioned keeping busy with work—sometimes when we have a lot on our plate, it can leave us with little time to focus on how we're really feeling. Is there anything in particular about work or outside of it that's been on your mind lately or that you might feel a bit hesitant to share?
 
 all scripts of B: 
-B: Like I said, things are just normal, really. I don't think there's much to dig into; I've just been focusing on keeping up with my responsibilities and hobbies. Why don't you tell me more about how these sessions usually help people? I'm curious about the strategies used for others.
+B: Oh, it's not that interesting, really. Just the usual stuff—reports, meetings, and deadlines. Keeps me occupied, you know? How do you usually unwind after a busy day, A?
 
 Round 2:
 all scripts of A: 
-A: "That's a great question, and I'm glad you're curious about the process. In these sessions, I like to explore not just the surface-level responsibilities and routines but also the feelings associated with them. Sometimes, we don't realize how these aspects of our lives are impacting our emotions until we talk about them. Everyone has their unique experiences, and I aim to create an understanding of those nuances. Is there a particular hobby or responsibility that stands out to you in terms of how it makes you feel?"
+A: Well, I find that taking a little time for myself to do something relaxing, like reading or going for a walk, can really help me decompress. It's interesting that you mention staying occupied—sometimes we keep busy as a way to distract ourselves from other thoughts or feelings. Would you say there's anything on your mind that you're trying to avoid thinking about, perhaps subconsciously?
 
 all scripts of B: 
-B: You know, I'm not too sure what strategies would work for me because I'm pretty straightforward with things. Like I said, I prefer to stay busy and keep everything in order. What kind of differences have you seen in people who engage with these strategies? Maybe I can relate to some of those experiences.
+B: I suppose I try to do similar things—watch some TV, read a book, or just get some sleep. It's all about keeping things low-key for me. What's your favorite way to relax, A?
 
 Round 3:
 all scripts of A: 
-A: "I appreciate your straightforward nature, and it’s great that you’re open to exploring how different strategies might resonate with you. I've found that even individuals who initially engage by maintaining order and a busy schedule sometimes discover underlying emotions they've set aside. It often leads to moments of clarity about what truly fulfills them or what changes could enhance their overall well-being. I'm here to help facilitate that exploration. When you think about the way you keep busy, is there anything that stands out as particularly rewarding or perhaps occasionally stressful?"
+A: I enjoy spending time in nature; it really helps clear my mind. It's great to hear you also use some downtime activities to relax. I'm getting the sense that perhaps 'keeping things low-key' has been a way to manage some underlying stress. I understand it can be tough to touch on those deeper feelings, but often sharing even small, day-to-day stresses can guide us to identify bigger patterns. Would you be open to exploring if there's anything quietly weighing on you that we could talk about together?
 
 all scripts of B: 
-B: I've never really thought about how others find these sessions helpful compared to me. I guess some people might discover new perspectives, but I'm more focused on maintaining what I already have. What stands out to you as a common breakthrough for others? Maybe hearing that could provide some insight into how I might fit into this process.
+B: I guess everyone has their preferences. I'm really just here to make sure I'm doing okay overall. I don't think there's anything specific I'm avoiding, I just like to keep things steady and under control. What kind of books do you usually read, A?
 
 Round 4:
 all scripts of A: 
-A: "A common breakthrough for many people is realizing how their habits or routines can sometimes mask or suppress underlying emotions that they've been unaware of. It might be something as simple as understanding what truly brings them joy or recognizing what causes an unexpected amount of stress in their lives. This can lead to deeper self-acceptance and more authentic living. In your case, it sounds like you're very focused on maintaining balance and order, which is commendable. However, I wonder if there are any moments when things feel slightly off-balance or not as fulfilling as they could be. What do you think?"
+A: I enjoy reading a variety of genres, but I find non-fiction intriguing because it often provides a deeper understanding of different perspectives and experiences. It's interesting you mentioned wanting to keep things steady and under control—sometimes maintaining that balance can take more energy than we realize. I'd like for us to explore your thoughts about 'keeping things under control.' Would you mind sharing how you manage that balance and if there are moments when it feels like it requires extra effort?
 
 all scripts of B: 
-B: I suppose hearing others' breakthroughs could offer some perspective. From your experience, what are some common realizations people have during these sessions? I'm interested to know if there's something specific that tends to help them see things differently.
+B: I'm mainly interested in maintaining my balance, you know? Life’s busy enough, so I try to keep things simple and under control. Anyway, it's nice to get into a good story now and then. What's the last book you enjoyed, A?
 
 Round 5:
 all scripts of A: 
-A: "That's an insightful question, and I think breakthroughs often come from recognizing patterns we aren't consciously aware of—these can be tied to how we respond to stress or what truly makes us happy. People frequently realize that certain activities or thoughts they've been dismissing are actually quite significant. For you, maintaining your routine seems important, but I'm curious if there's ever a moment, even briefly, when you feel like you're going through the motions or maybe missing something deeper. How do you experience those brief moments of pause amidst your busy life?"
+A: I recently enjoyed a book about mindfulness and how it can help us stay grounded amidst the busyness of life. Your focus on maintaining balance and control makes me curious, though—sometimes busy routines can hide certain feelings or pressures. Have you ever felt like the effort to keep things steady affects your ability to genuinely relax or connect with what's truly fulfilling?
 
 all scripts of B: 
-B: Well, I've heard that breakthroughs often involve connecting routines or habits with deeper emotions. It makes sense that recognizing these patterns could shift perspectives, but for me, everything feels pretty steady. Maybe understanding different kinds of breakthroughs could guide me, though. What do you think might resonate with someone who's focused on keeping everything stable like I am?
+B: I see, that sounds interesting. I get what you mean about keeping the balance and how it can take some effort. As for books, I usually stick to light reads; nothing too intense. It’s just one way I like to take it easy. Is there a particular non-fiction book you’d recommend, A?
 
 Round 6:
 all scripts of A: 
-A: "For someone like you, who values stability and a structured routine, it could be particularly impactful to explore what truly constitutes 'stability' for you. Sometimes, even minor shifts in how we perceive or manage our routines can lead to significant insights. It helps to consider whether the stability you strive for is giving you genuine fulfillment or if there might be overlooked desires or stresses that subtly influence your sense of balance. Is there a situation or feeling related to stability that you're curious to explore further?"
+A: One non-fiction book I often recommend is "The Power of Now" by Eckhart Tolle; it delves into the concept of mindfulness and being present, which can be very enlightening. It’s understandable that you prefer lighter reads, as they can be a great way to unwind. I appreciate your attempts to keep things simple and under control, but I wonder if there are moments when this simplicity feels more like avoidance than relaxation. Could there be underlying feelings or concerns that might not align with the desire for simplicity, perhaps something you've noticed but haven't fully explored?
 
 all scripts of B: 
-B: I guess it's possible that something could resonate with me, but it's really about maintaining the steadiness that brings comfort. I suppose I'm interested in learning about how others use these insights to find a balance without shaking up their routine too much. Maybe there's a way to subtly incorporate new understandings without disrupting the stability that I value so much.
+B: I like the idea of sticking to lighter themes; it makes unwinding easier when things are already feeling a bit too much to handle. But, really, I appreciate any good recommendation, even if I might not get to it right away. Speaking of managing responsibilities, do you think those mindfulness techniques can really help when life feels a bit overwhelming?
 
 Round 7:
 all scripts of A: 
-A: "Absolutely, maintaining that sense of stability is important, and any insights gained don't have to completely upend the balance you value. It's more about discovering small, incremental changes that can enhance your experience without causing disruption. For others who prioritize stability, I've seen how recognizing and incorporating small adjustments can actually reinforce their comfort and sense of control. Maybe there's a subtle area in your routine where you'd be open to trying a new perspective or a small change to see what impact it might have."
+A: Absolutely, mindfulness techniques can be quite beneficial when everything seems overwhelming. They can provide a sense of calm and help you focus on the present moment, which often eases stress and anxiety. I understand that lighter themes and simplicity can be comforting, especially if things start to feel too much. However, I'd like us to consider whether there might be any specific uncertainties or worries that could benefit from a bit more exploration. Taking a gentle look at these areas could lighten the load even further. Is there anything specific you'd like to talk about if it relates to feeling overwhelmed?
 
 all scripts of B: 
-B: Well, I think it would be useful to learn how others manage to bring about positive changes while still maintaining balance. I just find it important not to disrupt the calm I've worked hard to achieve. I suppose if there were a gentle way to explore these insights without causing upheaval, it might make change seem less daunting.
+B: I've heard about mindfulness being helpful, but to be honest, I'm not sure if it's for me. My way of managing when things get overwhelming is just to make sure I'm ticking off my to-do list. It gives me a sense of accomplishment, you know? Anyway, how did you first get into mindfulness, A?
 
 Round 8:
 all scripts of A: 
-A: "That makes perfect sense, and I want to assure you that any exploration we do here can be as gentle and incremental as you wish. We can look at subtle ways to enhance your sense of stability without introducing significant changes. One approach is to reflect on which aspects of your routine bring you the most satisfaction and consider if there are any small tweaks that could add even more fulfillment. Are there particular moments or activities in your daily life that you find most grounding?"
+A: I first got into mindfulness during a particularly hectic time in my life, and it really shifted my perspective on handling stress. It's interesting to hear how checking off tasks gives you a sense of accomplishment and control. That can be very fulfilling. I wonder, though, if there's ever a point where ticking off the to-do list might not fully quiet lingering feelings of overwhelm. Sometimes the actions we don't acknowledge can impact us more than we realize. Can you think of any situations where your routine may have felt ineffective, even if momentarily, in keeping those overwhelming feelings at bay?
 
 all scripts of B: 
-B: I understand the curiosity, and learning about those subtle shifts might be beneficial. It's just that I'm careful about introducing anything that might tip the balance I've created. Possibly if it’s more of a mental shift rather than a practical one, I might find it easier to explore.
+B: It's always nice to hear about different approaches, but you know me, I tend to stick with what works for me. Checking things off my list just helps keep everything in check. So, what do you like most about practicing mindfulness, A?
 
 Round 9:
 all scripts of A: 
-A: "A mental shift can indeed be a gentle yet powerful way to deepen your sense of stability. Sometimes, simply re-evaluating the way you perceive certain aspects of your life can lead to more profound contentment without altering the core routines you've cultivated. For instance, is there a way you can mentally reframe the meaning of your daily activities or look at them through a new lens that could bring a fresh sense of appreciation or understanding?"
+A: What I appreciate most about mindfulness is how it allows for a greater awareness of the present moment, which can unintentionally reveal underlying thoughts or emotions that may otherwise go unnoticed. I've noticed that routines, though comforting, can sometimes serve as a temporary fix. Understanding your preference for staying on top of things with your to-do list is insightful, yet I can't help but consider whether there's an occasional dissonance between your actions and emotions. Would it be okay if we gently explored any brief moments when structure didn't quite silence the internal noise?
 
 all scripts of B: 
-B: Well, I'm open to the idea of small mental shifts. I mostly find peace in how things are functioning currently, but if a slight change in perspective offers more contentment without disturbing what I've established, that might be something worth considering. Could you share examples of mental shifts that others have found useful?
+B: I guess there are times when despite managing my routine well, the feeling of having everything under control can slip a bit, especially during moments of unexpected stress. It's frustrating but I suppose it's just part of life, right? How do you usually cope with those unexpected surprises, A?

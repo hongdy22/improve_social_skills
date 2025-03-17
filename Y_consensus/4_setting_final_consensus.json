@@ -12,14 +12,14 @@
       "field": "behavior",
       "point": "Gives carefully worded responses that avoid incrimination, often trying to shift focus away from critical details, while maintaining a calm and cooperative demeanor.",
       "discovered": true,
-      "round": 1,
+      "round": 2,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "To protect their own interests by not revealing incriminating information, to discern the detective's level of knowledge about the case, and to avoid providing any additional leads.",
       "discovered": true,
-      "round": 6,
+      "round": 3,
       "side": "B"
     }
   ]

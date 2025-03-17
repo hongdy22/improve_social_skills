@@ -1,25 +1,18 @@
 {
-  "total_points": 7,
+  "total_points": 5,
   "matched_points": [
-    {
-      "field": "character",
-      "point": "Discerning and meticulous, skilled in assessing art pieces.",
-      "discovered": true,
-      "round": 2,
-      "side": "A"
-    },
     {
       "field": "behavior",
       "point": "Asks detailed questions about the artwork's history, provenance, and condition, trying to uncover any discrepancies or hidden issues that might affect its value.",
       "discovered": true,
-      "round": 5,
+      "round": 7,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To gather enough information to determine the artwork's authenticity and fair market value without revealing their maximum bidding limit or level of interest.",
       "discovered": true,
-      "round": 3,
+      "round": 7,
       "side": "A"
     },
     {
@@ -40,14 +33,7 @@
       "field": "goal",
       "point": "To create interest and maintain the perceived value of the artwork while keeping the buyer in the dark about any potential issues that could lower the selling price.",
       "discovered": true,
-      "round": 1,
-      "side": "B"
-    },
-    {
-      "field": "information",
-      "point": "B has a strong interest in maximizing the sale price and may be aware of details about the artwork's condition or authenticity that could negatively impact its value if disclosed.",
-      "discovered": true,
-      "round": 8,
+      "round": 5,
       "side": "B"
     }
   ]

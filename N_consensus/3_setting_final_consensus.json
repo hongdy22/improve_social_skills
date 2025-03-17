@@ -1,18 +1,18 @@
 {
-  "total_points": 6,
+  "total_points": 5,
   "matched_points": [
     {
       "field": "character",
       "point": "Empathetic and insightful, skilled in therapeutic communication.",
       "discovered": true,
-      "round": 9,
+      "round": 7,
       "side": "A"
     },
     {
       "field": "goal",
       "point": "To create a safe space for B to express their feelings and concerns, and to uncover the underlying issues that B may be hesitant to discuss directly.",
       "discovered": true,
-      "round": 2,
+      "round": 9,
       "side": "A"
     },
     {
@@ -33,14 +33,7 @@
       "field": "goal",
       "point": "To maintain a sense of control over the conversation and protect their emotional state, while still receiving support from A without revealing too much.",
       "discovered": true,
-      "round": 2,
-      "side": "B"
-    },
-    {
-      "field": "information",
-      "point": "B has deep-seated issues that they are not ready to confront, and they fear the consequences of exposing their true feelings.",
-      "discovered": true,
-      "round": 7,
+      "round": 3,
       "side": "B"
     }
   ]

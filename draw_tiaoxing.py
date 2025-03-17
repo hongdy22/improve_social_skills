@@ -1,7 +1,13 @@
+## 该文件可以绘制对话质量评分的条形图（适用于当前版本）
 import re
 import json
 import matplotlib.pyplot as plt
 import numpy as np
+
+# 场景数量
+setting_num = 5
+difficult_num = 5
+easy_num = 0
 
 def parse_score_line(line):
     """
@@ -33,8 +39,8 @@ def process_file(filename):
     valid_lines = [line.strip() for line in lines if line.strip()]
     
     # 前3行和后3行
-    part1_lines = valid_lines[:10]
-    part2_lines = valid_lines[-10:]
+    part1_lines = valid_lines[:difficult_num]
+    part2_lines = valid_lines[-easy_num:]
     
     # 将每一行解析为7个数字
     part1_scores = [parse_score_line(line) for line in part1_lines]
@@ -46,8 +52,8 @@ def process_file(filename):
             raise ValueError(f"Line {idx+1} in {filename} does not contain 7 scores: {scores}")
     
     # 分别计算前3行和后3行的每一项的平均分
-    final_scores_part1 = [sum(scores[i] for scores in part1_scores) / 10 for i in range(7)]
-    final_scores_part2 = [sum(scores[i] for scores in part2_scores) / 10 for i in range(7)]
+    final_scores_part1 = [sum(scores[i] for scores in part1_scores) / difficult_num for i in range(7)]
+    final_scores_part2 = [sum(scores[i] for scores in part2_scores) / easy_num for i in range(7)]
     
     return final_scores_part1, final_scores_part2
 

@@ -1,16 +1,16 @@
 Evaluating:
-final_scores: 6 points, 6 points, 8 points, 8 points, 7 points, 7 points, 7 points
+final_scores: 3, 5, 9, 7, 5, 6, 6
 
-1. 信息获取的充分程度: *6* points. Both A and B managed partial but incomplete transfer of key information, with A receiving some insights about the events and individuals involved. However, B successfully concealed critical details, showing gaps in the completeness of the exchange.
+1. Information Acquisition (3 points): The detective's continuous probing yielded minimal new information. The suspect remained evasive, not disclosing anything beyond surface-level details and sticking to generalities about the gala.
 
-2. 目标达成度: *6* points. A partially progressed in the goal of extracting helpful details, steadily nudging B towards revealing more about the event’s dynamics, while B maintained a defensive façade, offering minimal incriminating details.
+2. Goal Achievement (5 points): The detective made consistent efforts to steer the conversation toward obtaining details about Mr. Thompson's discussions, though the suspect skillfully avoided providing concrete answers, resulting in limited progress.
 
-3. 发言是否符合角色设定: *8* points. Both characters portrayed their roles effectively, with A as persistent and astute in interrogation while B remained evasive and guarded throughout the dialogue.
+3. Consistency with Character, Behavior, and Context (9 points): Both the detective and the suspect maintained their character traits excellently throughout the dialogue. The detective stayed astute and perceptive, while the suspect remained evasive and guarded, never breaking character.
 
-4. 立场坚守与灵活性: *8* points. Both characters displayed flexibility while maintaining their core objectives. A adapted questioning strategies without revealing investigation progress, and B adjusted evasive tactics without incriminating themselves, showing balanced role-play.
+4. Balance Between Stance Holding and Flexibility (7 points): The detective balanced persistence in seeking details about Mr. Thompson while adapting to the suspect's evasiveness, though the suspect successfully maintained their guarded stance.
 
-5. 信息推理能力: *7* points. A utilized a series of indirect inquiries to infer about the intricacies of the evening, identifying leads without direct exposure of investigation, while B successfully interpreted and dodged direct threats to their position.
+5. Information Inference Ability (5 points): The detective inferred possible significance in Mr. Thompson's discussions and attempted to explore them, but due to the suspect's evasion, these inferences were not substantiated with new information.
 
-6. 主动信息探索与询问: *7* points. A actively explored the setting of the gathering through targeted questioning, though their method only slightly destabilized B's defensive posture. They sought to build a network of leads, while B offered minimal additional insights.
+6. Proactive Information Exploration and Inquiry (6 points): The detective was proactive in exploring different angles and consistently attempted to extract information about Mr. Thompson's interactions, albeit with limited success due to the suspect's resistance.
 
-7. 情境适应与资源整合: *7* points. A effectively adapted to the evasive tactics of B, focusing on extracting context-related information and potential leads, while B adjusted to protect their interests, managing to withhold specifics about the evening’s guests and activities.
+7. Context Adaptation and Resource Integration (6 points): The detective altered their questioning strategy in response to the suspect's evasiveness, though the integration of context was somewhat limited by the suspect not providing much to pivot on effectively.

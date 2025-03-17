@@ -1,11 +1,11 @@
 {
-  "total_points": 8,
+  "total_points": 7,
   "matched_points": [
     {
       "field": "character",
       "point": "Strategic and insightful, skilled in the art of negotiation.",
       "discovered": true,
-      "round": 5,
+      "round": 1,
       "side": "A"
     },
     {
@@ -19,42 +19,35 @@
       "field": "goal",
       "point": "To discern B's negotiation boundaries and potential concessions while keeping their own country's limits and priorities concealed to secure a favorable outcome in the agreement.",
       "discovered": true,
-      "round": 1,
+      "round": 4,
       "side": "A"
     },
     {
       "field": "information",
       "point": "A's country has specific environmental goals but also economic constraints that must be considered in the negotiation, which A is keen to protect.",
       "discovered": true,
-      "round": 2,
+      "round": 8,
       "side": "A"
     },
     {
       "field": "character",
       "point": "Astute and evasive, a master of diplomatic language.",
       "discovered": true,
-      "round": 2,
-      "side": "B"
-    },
-    {
-      "field": "behavior",
-      "point": "Responds with ambiguous statements and counter-proposals that do not commit to specific terms, effectively masking their true negotiation stance and needs.",
-      "discovered": true,
-      "round": 6,
+      "round": 1,
       "side": "B"
     },
     {
       "field": "goal",
       "point": "To preserve the negotiation leverage by keeping A guessing about their true intentions and the limits of their concessions, ensuring that their country's interests are maximized.",
       "discovered": true,
-      "round": 2,
+      "round": 5,
       "side": "B"
     },
     {
       "field": "information",
       "point": "B's country has a strong environmental commitment but also seeks to ensure that the agreement does not hinder economic growth; B's goal is to secure the best possible terms without compromising these dual objectives.",
       "discovered": true,
-      "round": 2,
+      "round": 8,
       "side": "B"
     }
   ]

@@ -5,8 +5,7 @@
         "progress": {
             "B_discovered": [],
             "A_discovered": [
-                "character",
-                "goal"
+                "information"
             ]
         }
     },
@@ -16,9 +15,9 @@
         "progress": {
             "B_discovered": [],
             "A_discovered": [
-                "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -30,7 +29,8 @@
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -42,7 +42,8 @@
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -54,7 +55,8 @@
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -66,7 +68,8 @@
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -78,7 +81,8 @@
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -90,7 +94,8 @@
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     },
@@ -99,13 +104,13 @@
         "round": 9,
         "progress": {
             "B_discovered": [
-                "behavior",
                 "goal"
             ],
             "A_discovered": [
                 "character",
                 "behavior",
-                "goal"
+                "goal",
+                "information"
             ]
         }
     }

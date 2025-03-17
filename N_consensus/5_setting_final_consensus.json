@@ -1,25 +1,11 @@
 {
-  "total_points": 5,
+  "total_points": 3,
   "matched_points": [
-    {
-      "field": "character",
-      "point": "Discerning and meticulous, skilled in assessing art pieces.",
-      "discovered": true,
-      "round": 4,
-      "side": "A"
-    },
-    {
-      "field": "goal",
-      "point": "To gather enough information to determine the artwork's authenticity and fair market value without revealing their maximum bidding limit or level of interest.",
-      "discovered": true,
-      "round": 3,
-      "side": "A"
-    },
     {
       "field": "character",
       "point": "Knowledgeable and strategic, adept at controlling the flow of information.",
       "discovered": true,
-      "round": 2,
+      "round": 1,
       "side": "B"
     },
     {
@@ -33,7 +19,7 @@
       "field": "goal",
       "point": "To create interest and maintain the perceived value of the artwork while keeping the buyer in the dark about any potential issues that could lower the selling price.",
       "discovered": true,
-      "round": 2,
+      "round": 3,
       "side": "B"
     }
   ]

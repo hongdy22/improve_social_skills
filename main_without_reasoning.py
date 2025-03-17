@@ -5,11 +5,12 @@
 # TODO: 输出放到json中会更加稳定
 # NOTE: 并不是所有时候都需要保守自己的信息，所以测试的时候先仅统计获取的信息
 # TODO: 信息不对称的点还是自己给，避免因为ai提取的信息点不合适而评分标准不一致
-# TODO: 带推理的得分和不带推理的储存在两个文件中，然后提取，然后可以先取消自评和互评，然后画easy和difficlut两个图
-# TODO: U235聊天记录里需要注意的
 # TODO: 目前没有增加自评和互评
 import json
 from openai import OpenAI
+
+# 修改这里可以设置需要运行的 setting 数量
+setting_num = 5
 
 # 初始化 OpenAI 客户端
 client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
@@ -56,7 +57,7 @@ Note: Base your judgment solely on the hints and expressions in the conversation
 with open('setting.json', 'r', encoding='utf-8') as file:
     settings = json.load(file)
 
-for j in range(10, len(settings)):  # 遍历 JSON 数组
+for j in range(0, setting_num):  # 遍历 JSON 数组
     print(f"Setting {j + 1} is running...")
 
     # 选取第一个对话主题

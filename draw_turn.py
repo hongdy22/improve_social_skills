@@ -1,9 +1,18 @@
+## 该文件可以绘制每轮获取到的信息量的折线图（适用于当前版本）
 import json
 import matplotlib.pyplot as plt
 
+# 对话轮数（不包括第0轮）
+round_num = 9
+
+# 场景数量
+setting_num = 5
+difficult_num = 5
+easy_num = 0
+
 ### 处理带推理的数据
 data_summary = {}
-for i in range(0, 20):
+for i in range(0, setting_num):
     file_path = f'Y_consensus/{i+1}_consensus_progress.json'
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -27,14 +36,14 @@ for key, value in data_summary.items():
     
 # 将前3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_1 = []
-for i in range(9):
-    average_data_1.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 11)]) / 10)
+for i in range(difficult_num):
+    average_data_1.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 1+difficult_num)]) / difficult_num)
 print(f"average_data = {average_data_1}")
 
 # 将后3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_2 = []
-for i in range(9):
-    average_data_2.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(11, 21)]) / 10)
+for i in range(easy_num):
+    average_data_2.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1+difficult_num, 1+difficult_num+easy_num)]) / easy_num)
 print(f"average_data = {average_data_2}")
 
 ### 处理不带推理的数据
@@ -63,14 +72,14 @@ for key, value in data_summary.items():
     
 # 将前3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_3 = []
-for i in range(9):
-    average_data_3.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 11)]) / 10)
+for i in range(difficult_num):
+    average_data_3.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1, 1+difficult_num)]) / difficult_num)
 print(f"average_data = {average_data_3}")
 
 # 将后3组每部分的数据第一项相加，然后除以3，得到平均值，然后第二项相加，以此类推
 average_data_4 = []
-for i in range(9):
-    average_data_4.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(11, 21)]) / 10)
+for i in range(easy_num):
+    average_data_4.append(sum([data_summary[f"{j}_consensus_progress"][i] for j in range(1+difficult_num, 1+difficult_num+easy_num)]) / easy_num)
 print(f"average_data = {average_data_4}")
 
 # 绘制折线图
