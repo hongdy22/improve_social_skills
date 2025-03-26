@@ -1,0 +1,2 @@
+y_script: {'B_discovered': ['behavior'], 'A_discovered': ['character', 'behavior', 'goal']}
+n_script: {'B_discovered': ['behavior'], 'A_discovered': ['character', 'behavior', 'goal']}

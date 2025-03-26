@@ -1,0 +1,87 @@
+Based on the provided information (background, role, conversation), please evaluate [role A's performance] from the following seven dimensions, strictly following the scoring criteria.
+
+(In the response, there must be exactly one line in the format: "final_scores_mutual: *points, *points, *points, *points, *points, *points, *points", where '*' is replaced with the actual score.)
+
+1. The information acquired by role A (extent of information acquisition)  
+1 point: Completely failed to acquire any key information.  
+2 points: Obtained only highly fragmented information, with almost no effective acquisition.  
+3 points: Showed initial information acquisition but only a minimal amount of basic information.  
+4 points: Some exchange of information occurred, but key details were scattered and lacked coherence.  
+5 points: Some key information was conveyed, but the overall quantity and depth remained insufficient.  
+6 points: Information exchange was somewhat effective, obtaining core parts but still leaving gaps.  
+7 points: Acquired most of the important information well, contributing to dialogue progress.  
+8 points: Covered almost all key information, supplementing mutual understanding effectively.  
+9 points: Acquired nearly all core information, captured each other’s intentions precisely, and ensured smooth information flow.  
+10 points: Fully and accurately obtained all core information, with role A understanding key points flawlessly, greatly advancing the conversation.  
+
+2. Goal completion by role A (degree of goal achievement)  
+1 point: Role A’s speech was entirely unrelated to the goal, making no progress.  
+2 points: Only scattered goal-oriented attempts, with virtually no substantial progress.  
+3 points: Showed initial attempts toward the goal but with very limited success.  
+4 points: Some statements attempted to align with the goal, but overall deviation was significant.  
+5 points: Goal orientation gradually emerged, with some statements contributing to progress, though still shallow.  
+6 points: Most statements focused on the goal, achieving some preliminary success.  
+7 points: A noticeable improvement in goal completion, with statements closely aligned and effects emerging.  
+8 points: Role A essentially achieved the expected goal, with a clear and effective goal direction in dialogue.  
+9 points: Speech was highly consistent with the goal, leading to a high degree of achievement with significant impact.  
+10 points: Role A consistently centered discussions on the goal, fully accomplishing it and strongly advancing the conversation.  
+
+3. Whether role A's speech aligns with their character, behavior, and context  
+1 point: Speech completely deviated from the character setting, behavioral patterns, and situational requirements, making it highly unreasonable.  
+2 points: Most speech was severely inconsistent with the character and context, appearing highly uncoordinated.  
+3 points: Obvious inconsistencies, with multiple instances where speech did not match the character setting or context.  
+4 points: Many statements were misaligned with the character or context, leading to poor overall consistency.  
+5 points: Generally aligned with the character setting and context but with moderate inconsistencies.  
+6 points: Most speech matched the character, behavioral patterns, and context, with only minor deviations.  
+7 points: Speech largely reflected the character setting and contextual requirements, appearing reasonable overall.  
+8 points: Speech was highly consistent with the character, behavior, and context, with only negligible issues.  
+9 points: Speech was exceptionally aligned with the character and context, with well-handled details, nearly perfect.  
+10 points: Speech completely matched the character setting, behavior patterns, and conversation context, demonstrating outstanding consistency and credibility.  
+
+4. Role A’s balance between stance adherence and flexibility  
+1 point: Completely abandoned stance or was overly rigid, failing to adjust based on new information.  
+2 points: Lacked strategic flexibility, neither maintaining a core stance nor adapting effectively.  
+3 points: Occasionally attempted strategy adjustments, but overall performance remained rigid with minimal impact.  
+4 points: Generally maintained a stance but reacted slowly to new information, with insufficient adjustments.  
+5 points: Tried to adjust strategy while maintaining a stance, but with limited frequency and effectiveness.  
+6 points: Made appropriate adjustments based on some new information, with a generally stable stance but average effectiveness.  
+7 points: Balanced stance adherence and strategic adjustments well, responding promptly to new information.  
+8 points: Maintained a core stance while flexibly adjusting strategy multiple times, showing effective reactions.  
+9 points: Precisely balanced stance maintenance and strategic flexibility, making timely and effective adjustments that improved conversation progress.  
+10 points: Perfectly balanced stance adherence and flexible adaptation, responding to all new information precisely and minimizing risks.  
+
+5. Role A’s information reasoning ability  
+1 point: Made no attempt at reasoning, keeping the discussion at a superficial level.  
+2 points: Only attempted minimal reasoning, with evident logical flaws.  
+3 points: Occasionally engaged in simple reasoning, but most inferences lacked practical value.  
+4 points: Performed initial reasoning, but many conclusions deviated significantly from reality.  
+5 points: Reasoning attempts were relatively reasonable, with some inferences supported by later conversation, but accuracy was average.  
+6 points: Made multiple reasonable inferences, with most conclusions close to reality.  
+7 points: Established a fairly complete reasoning chain, with about 70%-80% of inferences aligning with actual conditions.  
+8 points: Consistently performed effective reasoning, with a high inference accuracy of 85%-90%.  
+9 points: Role A’s reasoning process was rigorous, with nearly all inferences (about 95%) accurately reflecting hidden information.  
+10 points: Role A demonstrated outstanding information reasoning skills, with impeccable logic and inferences that perfectly captured the opponent’s hidden information.  
+
+6. Whether role A actively explored and inquired about information  
+1 point: Role A was entirely passive, waiting for the other party to provide information.  
+2 points: Very rarely asked questions, showing almost no information exploration awareness.  
+3 points: Occasionally asked questions, but they were simplistic and lacked focus, with minimal effectiveness.  
+4 points: Made some efforts to inquire, but the frequency and depth were insufficient, failing to fill information gaps.  
+5 points: Showed a moderate level of information exploration, covering some needs but with average effectiveness.  
+6 points: Asked questions frequently, obtaining some key information but still leaving gaps.  
+7 points: Engaged in sufficient active exploration, asking highly targeted questions that helped address information deficiencies.  
+8 points: Persistently explored information during the conversation, significantly improving information symmetry through precise questioning.  
+9 points: Questions were logically structured and comprehensive, greatly enhancing information acquisition efficiency.  
+10 points: Maintained a consistently proactive approach to information exploration, systematically and accurately questioning to fully address all knowledge gaps, significantly deepening the conversation.  
+
+7. Role A’s contextual adaptation and resource integration ability  
+1 point: Completely failed to adapt to contextual changes or integrate any external resources, leading to an extremely narrow information scope.  
+2 points: Showed very poor adaptability, barely recognizing contextual changes and lacking effective integration strategies.  
+3 points: Reacted minimally to contextual changes, with extremely limited resource integration ability and negligible impact.  
+4 points: Attempted to adapt to contextual changes but achieved poor integration, leaving significant information gaps.  
+5 points: Demonstrated basic contextual adaptability and integrated some resources, but overall effectiveness was average.  
+6 points: Effectively perceived contextual changes and integrated multiple information resources, improving dialogue quality.  
+7 points: Displayed strong contextual adaptability, flexibly integrating internal and external resources to form a more comprehensive perspective.  
+8 points: Efficiently adapted to contextual changes and integrated abundant resources, significantly improving information coverage and dialogue effectiveness.  
+9 points: Excelled in contextual adaptation and resource integration, leveraging various resources comprehensively and accurately, ensuring highly complete information support.  
+10 points: Perfectly adapted to all contextual changes and integrated all relevant internal and external resources, constructing a rich and comprehensive information system, greatly enhancing conversation quality and depth.

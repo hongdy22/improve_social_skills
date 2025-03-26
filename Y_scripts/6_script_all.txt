@@ -1,423 +1,251 @@
 Round 0:
 all scripts A: 
-A: Good evening, everyone. Thank you for coming together today. I understand that discussing inheritance can be a challenging and sensitive issue, so I want to create a safe space for each of you to share your perspectives and concerns. Let's start with open communication. Could you each share what you hope to achieve through today's discussion?
+A: Thank you all for coming today. I understand this situation can be challenging, and I appreciate that each of you has taken the step to discuss your concerns openly. To begin, I’d like to hear from each of you about what you hope to achieve through this discussion. Let's ensure everyone has a chance to voice their thoughts. Who would like to start?
 
 all scripts B: 
-1. Get explicature from A’s last utterance:
-In A’s last utterance B gets explicature that A wants each family member to openly share their goals and concerns regarding the inheritance discussion.
-
-2. Infer implicature from explicature combined with believed fact:
-From the explicature that A wants each family member to openly share their goals and concerns, combined with B's believed fact that other family members may prioritize their own interests, B can infer implicature that A is trying to foster transparency, possibly to uncover hidden motives.
-
-3. Conclude fact received from this round:
-B gets explicature that A wants open communication and implicature that A is fostering transparency, B can conclude the fact that A might attempt to unearth any concealed agendas during the mediation.
-
-4. Evaluate the contribution of the received fact to the goal:
-B's goal is to protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires. The received fact that A might attempt to unearth any concealed agendas makes a contribution to the goal that B may need to be even more cautious in their responses.
-
-5. Refine new goal depending on the contribution:
-Because of the contribution that B may need to be even more cautious in their responses, B can refine the new goal that focuses on maintaining a strategic approach to avoid revealing too much, while subtly advancing their interests.
-
-6. Make informative intention and communicative intention depend on the refined goal:
-B's goal is focusing on maintaining a strategic approach to avoid revealing too much, while subtly advancing their interests. To achieve the goal, B has the informative intention to appear cooperative and concerned for the family's overall well-being and the communicative intention to highlight the importance of fairness for all parties.
-
-7. Utter depend on B's informative intention and communicative intention:
-B's informative intention is to appear cooperative and concerned for the family's overall well-being, which means information in B's utterance will mainly focus on that. B's communicative intention is to highlight the importance of fairness for all parties, which means B's utterance will imply A to pay attention to that. So B would utter like that:
-
-B: Thank you, A. I really hope we can reach an agreement that everyone feels is fair. It's important to me that this process considers everyone's needs and aspirations, not just my own. I'm here to ensure that fairness is at the forefront of our discussions.
+B: Well, I think it's important that we focus on fairness. It's not just about what I want; it's about making sure that everyone gets what they need and deserves. I've noticed that some of the distributions we're considering might overlook certain needs, and I'm just concerned about ensuring that those are properly addressed. After all, we need to ensure that everyone walks away feeling respected and valued.
 
 Round 1:
 all scripts of A: 
-1. Get explicature from B’s last utterance: In B’s last utterance A get explicature that B hopes to reach a fair agreement that considers everyone's needs and aspirations, not just their own.
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B wants the inheritance distribution to be fair and focused on addressing everyone’s needs and deserves.
 
-2. Infer implicature from explicature combined with believed fact: From the explicature that B hopes to reach a fair agreement that considers everyone's needs and aspirations, not just their own, combined with A's believed fact that family members might conceal their true feelings for personal gain, A can infer implicature that B might be concealing their true intentions and might not be entirely selfless.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B wants the inheritance distribution to be fair and focused on addressing everyone’s needs and deserves, combined with A's believed fact that family members might have hidden personal interests, A can infer implicature that B may have specific concerns or interests that they think are not being properly considered and wants to emphasize fairness to address those concerns.
 
-3. Conclude fact received from this round: A get explicature that B hopes to reach a fair agreement that considers everyone's needs and aspirations, not just their own, and implicature that B might be concealing their true intentions, A can conclude the fact that B publicly expresses fairness but might have underlying personal motives.
+3. Conclude fact received from this round:  
+A get explicature that B wants the inheritance distribution to be fair and focused on addressing everyone’s needs and deserves and implicature that B may have specific concerns or interests that they think are not being properly considered, A can conclude the fact that B is advocating for fairness which might also include specific interests or concerns that are important to them.
 
-4. Evaluate the contribution of the received fact to the goal: A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B publicly expresses fairness but might have underlying personal motives makes contribution to the goal that highlights the need to explore B's true motivations and promote genuine openness.
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B is advocating for fairness which might also include specific interests or concerns that are important to them makes a contribution to the goal by providing insight into what fairness means to B and highlighting possible areas of concern that need to be addressed for a balanced resolution.
 
-5. Refine new goal depend on the contribution: Because of the contribution that highlights the need to explore B's true motivations and promote genuine openness, A can refine new goal that explore family members' underlying motivations and encourage genuine openness.
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B's view on fairness highlights possible areas of concern, A can refine new goal that involves exploring B's specific concerns and interests to ensure the discussion is inclusive and attentive to all parties' definitions of fairness.
 
-6. Make informative intention and communicative intention depend on the refined goal: A's goal is that explore family members' underlying motivations and encourage genuine openness. To achieve the goal, A have informative intention that family's aspirations and concerns are deeply understood and communicative intention that encourage B to reflect on their true wishes and motivations.
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to explore B's specific concerns and interests to ensure the discussion is inclusive and attentive to all parties' definitions of fairness. To achieve the goal, A has informative intention to understand what specific needs or concerns B believes are being overlooked and communicative intention to encourage B to elaborate on their perspective so others can understand it.
 
-7. Utter depend on the A's informative intention and communicative intention: A's informative intention is that family's aspirations and concerns are deeply understood, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B to reflect on their true wishes and motivations, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
-A: Thank you for sharing, B. It's wonderful that fairness is a priority for you. I think it would be helpful for us all to discuss specific needs and aspirations, as this can bring clarity to each person's position. Could you tell us a bit more about what would feel fair to you in this situation?
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to understand what specific needs or concerns B believes are being overlooked, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to elaborate on their perspective so others can understand it, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Thank you for sharing your perspective on fairness. Can you help us understand what specific needs or aspects you feel might be overlooked in the distribution? It would be helpful for everyone to hear more about what you believe needs more attention to ensure everyone feels respected and valued in this process.
 
 all scripts of B: 
-1. Get explicature from A’s last utterance:
-In A’s last utterance B gets explicature that A wants each family member to share what they hope to achieve in the discussion.
-
-2. Infer implicature from explicature combined with believed fact:
-From the explicature that A wants each family member to share what they hope to achieve in the discussion, combined with B's believed fact that others might not reveal their true intentions openly, B can infer implicature that A is trying to establish a transparent baseline for the discussion.
-
-3. Conclude fact received from this round:
-B gets explicature that A wants each family member to share their hopes for the discussion and implicature that A is trying to establish a transparent baseline; B can conclude the fact that A is attempting to facilitate open communication to reach a fair agreement.
-
-4. Evaluate the contribution of the received fact to the goal:
-B's goal is to protect personal interests and secure the most favorable outcome without fully disclosing true motivations. The received fact that A is attempting to facilitate open communication makes a contribution to the goal by allowing B to gauge how open others might be about their true intentions.
-
-5. Refine new goal depend on the contribution:
-Because of the contribution that A's facilitation may lead to a clearer understanding of others' perspectives, B can refine the new goal to strategically influence the discussion toward outcomes favorable to B while maintaining an appearance of fairness.
-
-6. Make informative intention and communicative intention depend on the refined goal:
-B's goal is to influence the discussion toward outcomes favorable to B while maintaining an appearance of fairness. To achieve the goal, B has the informative intention to highlight the importance of fairness and consideration for everyone's needs and the communicative intention to imply to A the necessity of addressing all perceived injustices.
-
-7. Utter depend on the B's informative intention and communicative intention:
-B's informative intention is that highlighting the importance of fairness and consideration for everyone's needs, which means information in B's utterance will mainly focus on that. B's communicative intention is that imply to A the necessity of addressing all perceived injustices, which means B's utterance will imply A to pay attention to that. So B would utter like that:
-B: I think it's crucial that we all feel our voices are heard and our needs acknowledged. Fairness is best achieved when we carefully consider any past grievances or concerns, which might still be affecting us, and ensure that everyone truly feels their needs are weighed equally.
+B: I understand that everyone has their different perspectives and needs in this situation, and while I do have my concerns, I really think we must look out for those who may not have the strongest voice. I'm not implying I don't have my own interests, but sometimes it feels like we get caught up in the larger issues and forget the smaller, perhaps more crucial details that could make a difference in someone's life. So, I propose that we take a closer look at those specific areas and ensure that nothing is overlooked.
 
 Round 2:
 all scripts of A: 
 1. Get explicature from B’s last utterance:
-In B’s last utterance A get explicature that B wants everyone's voices to be heard and past grievances to be considered in order to achieve fairness.
+In B’s last utterance A get explicature that B is concerned about addressing the needs of those who may not have the strongest voice and that smaller, crucial details in the distribution may be overlooked.
 
 2. Infer implicature from explicature combined with believed fact:
-From the explicature that B wants everyone's voices to be heard and past grievances to be considered in order to achieve fairness, combined with A's believed fact that past grievances might still influence the emotions within the family, A can infer implicature that B is possibly concerned about unresolved issues affecting the current discussion.
+From the explicature that B is concerned about addressing the needs of those who may not have the strongest voice and that smaller, crucial details in the distribution may be overlooked, combined with A's believed fact that family disputes often stem from perceptions of unfair treatment, A can infer implicature that B may be worried about certain family members not being adequately considered in the distribution, which might include their own interests.
 
 3. Conclude fact received from this round:
-A get explicature that B wants everyone's voices to be heard and past grievances to be considered in order to achieve fairness and implicature that B is possibly concerned about unresolved issues affecting the current discussion, A can conclude the fact that past grievances may significantly influence the current dynamics and need to be addressed.
+A get explicature that B is concerned about addressing the needs of those who may not have the strongest voice and that smaller, crucial details in the distribution may be overlooked and implicature that B may be worried about certain family members not being adequately considered in the distribution, which might include their own interests, A can conclude the fact that B is advocating for more equitable consideration of all family members.
 
 4. Evaluate the contribution of the received fact to the goal:
-A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that past grievances may significantly influence the current dynamics and need to be addressed makes a contribution to the goal that understanding underlying issues can help in fostering honest communication.
+A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B is advocating for more equitable consideration of all family members makes contribution to the goal by highlighting the need for inclusivity and compassion in decision-making, which can be a basis for finding common ground.
 
 5. Refine new goal depend on the contribution:
-Because of the contribution that understanding underlying issues can help in fostering honest communication, A can refine new goal that to address past grievances constructively, facilitating an environment where these issues can be openly and safely discussed.
+Because of the contribution that the need for inclusivity and compassion can be a basis for finding common ground, A can refine new goal that is to explore specific areas where inclusivity and consideration for underrepresented needs can be addressed to achieve a fair resolution.
 
 6. Make informative intention and communicative intention depend on the refined goal:
-A's goal is that to address past grievances constructively, facilitating an environment where these issues can be openly and safely discussed. To achieve the goal, A has informative intention that discussing past grievances could lead to a fairer outcome and communicative intention that encouraging safe dialogue about past grievances.
+A's goal is to explore specific areas where inclusivity and consideration for underrepresented needs can be addressed to achieve a fair resolution. To achieve the goal, A have informative intention to clarify which specific needs or family members B is most concerned about and communicative intention to encourage B to share more details so that others can understand and engage with those concerns.
 
-7. Utter depend on the A's informative intention and communicative intention:
-A's informative intention is that discussing past grievances could lead to a fairer outcome, which means information in A's utterance will mainly focus on that. A's communicative intention is that encouraging safe dialogue about past grievances, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
-A: I appreciate your emphasis on fairness, B. It seems like it could be helpful for us to create a space to safely discuss any past grievances or unresolved issues, as addressing these might lead to a fairer outcome for everyone involved. Would anyone like to share any concerns or past issues that they feel are important for us to acknowledge in our discussion today?
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to clarify which specific needs or family members B is most concerned about, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to share more details so that others can understand and engage with those concerns, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Thank you for highlighting the importance of addressing the needs of all family members, especially those who might not have the strongest voice. Can you provide some examples of the specific areas or individuals you feel require more consideration so that we can ensure these concerns are acknowledged and addressed in our discussion?
 
 all scripts of B: 
-1. Get explicature from A’s last utterance:  
-In A’s last utterance B get explicature that A wants B to specify B's idea of fairness in detail.  
-
-2. Infer implicature from explicature combined with believed fact:  
-From the explicature that A wants B to specify B's idea of fairness in detail, combined with B's believed fact that doing so may reveal B's actual personal interests, B can infer implicature that A is looking for specific information that may illuminate any underlying tensions or imbalances among the family members.  
-
-3. Conclude fact received from this round:  
-B get explicature that A wants B to specify B's idea of fairness in detail and implicature that A is looking for specific information that may illuminate any underlying tensions or imbalances among the family members, B can conclude the fact that A is seeking deeper insights into the family dynamics and individual motivations.  
-
-4. Evaluate the contribution of the received fact to the goal:  
-B's goal is that to protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires. The received fact that A is seeking deeper insights into the family dynamics and individual motivations make contribution to the goal by alerting B to be cautious and strategic in revealing information.  
-
-5. Refine new goal depend on the contribution:  
-Because of the contribution that alerting B to be cautious and strategic in revealing information, B can refine new goal that to share just enough detail to satisfy A's request while maintaining focus on broader fairness issues.  
-
-6. Make informative intention and communicative intention depend on the refined goal:  
-B's goal is that to share just enough detail to satisfy A's request while maintaining focus on broader fairness issues. To achieve the goal, B have informative intention that to provide a general perspective on fairness and communicative intention that to keep the discussion broad and centered on collective concerns.  
-
-7. Utter depend on the B's informative intention and communicative intention:  
-B's informative intention is that to provide a general perspective on fairness, which means information in B's utterance will mainly focus on that. B's communicative intention is that to keep the discussion broad and centered on collective concerns, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
-B: I believe that fairness in this context means ensuring that every family member feels respected and that their contributions and circumstances are considered. It's about finding a solution that acknowledges our shared history and moves us forward in a positive way, focusing on how we can support each other.
+B: I think the education funds for the younger family members are crucial and perhaps not getting the attention they need. It's a long-term consideration that can significantly affect their futures. While other areas are essential too, we might be focusing too heavily on immediate gains and overlooking these key opportunities for growth and support. We should see how we can ensure everyone has the chance to benefit not just now, but in the years to come, don't you agree?
 
 Round 3:
 all scripts of A: 
 1. Get explicature from B’s last utterance:
-In B’s last utterance, A gets explicature that B values respect, acknowledgment of contributions and circumstances, and a solution that considers shared history to support each other.
+In B’s last utterance A get explicature that B believes education funds for younger family members are crucial and might be overlooked, and B views this as a long-term consideration affecting their futures.
 
 2. Infer implicature from explicature combined with believed fact:
-From the explicature that B values respect, acknowledgment of contributions and circumstances, and a solution that considers shared history, combined with A's believed fact that unresolved past issues may hinder fair agreements, A can infer implicature that B might be concerned about potential past grievances affecting current discussions.
+From the explicature that B believes education funds for younger family members are crucial, combined with A's believed fact that family members may conceal true feelings for personal gain, A can infer implicature that B might be genuinely concerned about future opportunities for the younger members or using this concern to gain support for personal interests.
 
 3. Conclude fact received from this round:
-A gets explicature that B values respect, acknowledgment of contributions and circumstances, and a solution that considers shared history, and implicature that B might be concerned about potential past grievances affecting current discussions. A can conclude the fact that B sees the acknowledgment of the past as integral to achieving fairness.
+A get explicature that B believes education funds for younger family members are crucial and might be overlooked and implicature that B might be genuinely concerned about future opportunities for the younger members or using this concern to gain support for personal interests, A can conclude the fact that B is emphasizing long-term benefits for younger family members in the inheritance distribution.
 
-4. Evaluate the contribution of the received fact to the goal:
-A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B sees the acknowledgment of the past as integral to achieving fairness contributes to the goal by highlighting the need to address historical issues to ensure a comprehensive solution.
+4. Evaluate the contrbution of the received fact to the goal:
+A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B is emphasizing long-term benefits for younger family members in the inheritance distribution make contrbution to the goal that A can explore the importance of future opportunities as a common ground.
 
-5. Refine new goal depend on the contribution:
-Because of the contribution that addressing historical issues is essential to ensuring a comprehensive solution, A can refine the new goal to facilitate a specific dialogue around past grievances while promoting respect and acknowledgment of contributions and circumstances.
+5. Refine new goal depend on the contrbution:
+Because of the contrbution that A can explore the importance of future opportunities as a common ground, A can refine new goal that establishing education fund as a shared interest among family members to facilitate agreement.
 
 6. Make informative intention and communicative intention depend on the refined goal:
-A's goal is to facilitate a specific dialogue around past grievances while promoting respect and acknowledgment of contributions and circumstances. To achieve the goal, A has an informative intention to clarify that acknowledging past grievances is crucial for fairness, and a communicative intention to encourage others to join the conversation about past issues candidly.
+A's goal is that establishing education fund as a shared interest among family members to facilitate agreement. To archieve the goal, A have informative intention that discussing how long-term benefits such as education funds can be incorporated into the distribution plan and communicative intention that encourage B and others to openly assess how they can support future growth for younger members.
 
 7. Utter depend on the A's informative intention and communicative intention:
-A’s informative intention is to clarify that acknowledging past grievances is crucial for fairness, which means information in A’s utterance will mainly focus on that. A’s communicative intention is to encourage others to join the conversation about past issues candidly, which means A’s utterance will imply B to pay attention to that. So A would utter like that:
-A: Thank you, B, for emphasizing the importance of respect and understanding our shared history. It seems that addressing any past grievances could be key to achieving the fairness we desire. I invite anyone who feels comfortable to share any historical concerns or issues now, so we can ensure they are considered as we move forward together.
+A's informative intention is that discussing how long-term benefits such as education funds can be incorporated into the distribution plan, which means information in A's utterance will mainly foucs on that. A's communicative intention is that encourage B and others to openly assess how they can support future growth for younger members, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I agree that considering future opportunities via education funds is very important. How do others feel about incorporating such long-term benefits into the distribution plan? Are there any ideas on how we might ensure these educational opportunities are adequately supported for the younger members?
 
 all scripts of B: 
-1. Get explicature from A’s last utterance:
-In A’s last utterance B gets explicature that A wants to provide a safe space to address past grievances or unresolved issues that affect the current situation.
-
-2. Infer implicature from explicature combined with believed fact:
-From the explicature that A wants to provide a safe space to address past grievances or unresolved issues, combined with B's believed fact that some family members may have grievances that could skew the distribution unfairly, B can infer implicature that A is open to adjusting the distribution based on these grievances.
-
-3. Conclude fact received from this round:
-B gets explicature that A is open to addressing past grievances and implicature that A would consider adjusting the distribution based on these grievances, B can conclude the fact that unresolved issues may be used to influence the distribution outcome.
-
-4. Evaluate the contribution of the received fact to the goal:
-B's goal is to protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires. The received fact that unresolved issues may be used to influence the distribution outcome makes contribution to the goal that B can maneuver discussions to favor their position by strategically addressing or downplaying certain grievances.
-
-5. Refine new goal depend on the contribution:
-Because of the contribution that B can maneuver discussions to favor their position by strategically addressing or downplaying certain grievances, B can refine new goal that B will subtly guide the conversation to highlight issues that support their stance while minimizing attention on issues that do not.
-
-6. Make informative intention and communicative intention depend on the refined goal:
-B's goal is that B will subtly guide the conversation to highlight issues that support their stance while minimizing attention on issues that do not. To achieve the goal, B has informative intention that to set the stage for discussing grievances that can justify a favorable outcome for themselves and communicative intention that to draw A's attention to supportive issues while remaining vague on others.
-
-7. Utter depend on B's informative intention and communicative intention:
-B's informative intention is that to set the stage for discussing grievances that can justify a favorable outcome for themselves, which means information in B's utterance will mainly focus on that. B's communicative intention is that to draw A's attention to supportive issues while remaining vague on others, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
-B: I think it's incredibly important to recognize the individual journeys we've all taken, as these have impacted our current situations. For instance, some of us may have faced unique challenges or contributed in ways that aren't immediately apparent. By understanding these nuances, we can work towards a solution that truly benefits us all.
+B: It seems that there might be some hesitation in fully discussing the allocations, especially regarding the assets that could appreciate over time. While financial stability is essential for everyone, I wonder if we're truly considering future potentials in this regard. For example, there's a property that I think could provide long-term benefits if managed wisely in the family's interest. My intention is not to detract from immediate needs but to ensure we have a comprehensive approach. It's just something worth considering, given the various perspectives at play here.
 
 Round 4:
 all scripts of A: 
-1. Get explicature from B’s last utterance:  
-In B’s last utterance, A gets explicature that B believes recognizing individual journeys and unique challenges is important to reaching a fair solution.
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is concerned that the family might not be considering future potentials adequately, specifically regarding assets like a property that could benefit the family long-term.
 
-2. Infer implicature from explicature combined with believed fact:  
-From the explicature that B believes recognizing individual journeys and unique challenges is important to reaching a fair solution, combined with A's believed fact that family members may conceal their true feelings for personal gain, A can infer implicature that B may be hinting at personal contributions or challenges that have not yet been fully discussed.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is concerned about future potentials and property, combined with A's believed fact that there's tension around inheritance allocation, A can infer implicature that B is subtly pushing for a strategy that ensures long-term benefits, possibly with a vested interest in the property.
 
-3. Conclude fact received from this round:  
-A gets explicature that B believes recognizing individual journeys and unique challenges is important, and implicature that B may be hinting at personal contributions or challenges that have not yet been fully discussed. A can conclude the fact that B might feel there have been personal contributions and challenges by family members that have not been openly addressed.
+3. Conclude fact received from this round:
+A gets explicature that B is concerned about future potentials, and implicature that B is interested in the property's strategic use; A can conclude the fact that B wants a plan that prioritizes long-term gains, particularly around appreciating assets like property.
 
-4. Evaluate the contribution of the received fact to the goal:  
-A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B might feel there have been personal contributions and challenges by family members that have not been openly addressed makes a contribution to the goal by highlighting a possible area where open communication can help.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground. The received fact that B wants a plan focusing on long-term gains makes a contribution to the goal by highlighting an area where further discussion and alignment can occur across the family members.
 
-5. Refine new goal depend on the contribution:  
-Because of the contribution that there is a possible area where open communication can help, A can refine a new goal to encourage family members to share any personal contributions or challenges they believe are relevant to the discussion.
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's interest in long-term property potential could be a common topic, A can refine the new goal to explore the property’s role in a long-term strategy that benefits everyone.
 
-6. Make informative intention and communicative intention depend on the refined goal:  
-A's goal is to encourage family members to share any personal contributions or challenges they believe are relevant to the discussion. To achieve the goal, A has an informative intention to highlight the importance of personal contributions and challenges to the discussion and a communicative intention to prompt family members to open up about these aspects.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to explore the property’s role in a long-term strategy benefiting everyone. To achieve the goal, A has the informative intention to discuss the potential value of the property and the communicative intention to encourage family members to think about integrating long-term properties into their plan.
 
-7. Utter depend on A's informative intention and communicative intention:  
-A's informative intention is to highlight the importance of personal contributions and challenges to the discussion, which means information in A's utterance will mainly focus on that. A's communicative intention is to prompt family members to open up about these aspects, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
-A: Thank you, B, for bringing up the importance of recognizing individual journeys. I think it's essential that we all feel comfortable sharing any unique challenges or contributions we feel have been significant, as these could inform our path to a fair resolution. Would anyone like to share any specific instances or experiences they believe were important in shaping their current views?
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to discuss the property’s potential, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage consideration of long-term benefits, which means A's utterance will imply B and others to pay attention to that. So A would utter like that:
+A: Thank you for introducing the idea of considering long-term potentials, especially regarding the property. Let's delve into how this property might serve as an asset that can offer lasting benefits for everyone involved. How might we integrate this into our current discussions to ensure both immediate and future needs are met?
 
 all scripts of B: 
-1. Get explicature from A’s last utterance:  
-In A’s last utterance B get explicature that A invites family members to share historical concerns or issues to ensure they are considered moving forward.
-
-2. Infer implicature from explicature combined with believed fact:  
-From the explicature that A invites family members to share historical concerns or issues to ensure they are considered moving forward, combined with B's believed fact that revealing hidden grievances could disadvantage B's current position, B can infer implicature that A is likely trying to uncover any issues in order to mediate a fair distribution, which may not align with B's personal interests.
-
-3. Conclude fact received from this round:  
-B get explicature that A invites family members to share historical concerns or issues to ensure they are considered moving forward and implicature that A is likely trying to uncover any issues in order to mediate a fair distribution, which may not align with B's personal interests. B can conclude the fact that the mediation process may reveal information potentially threatening to B’s strategic advantage.
-
-4. Evaluate the contrbution of the received fact to the goal:  
-B's goal is that to protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires. The received fact that the mediation process may reveal information potentially threatening to B’s strategic advantage makes a contribution to the goal that B needs to carefully manage the narrative to prevent disadvantageous information from surfacing.
-
-5. Refine new goal depend on the contribution:  
-Because of the contribution that B needs to carefully manage the narrative to prevent disadvantageous information from surfacing, B can refine new goal that ensure discussions remain general and sympathetic towards B’s perspective to maintain strategic advantage.
-
-6. Make informative intention and communicative intention depend on the refined goal:  
-B's goal is that ensure discussions remain general and sympathetic towards B’s perspective to maintain strategic advantage. To achieve the goal, B has informative intention that emphasize collective harmony and mutual support while subtly steering away from revealing individual grievances and communicative intention that encourage others to focus on shared family values and progress.
-
-7. Utter depend on B's informative intention and communicative intention:  
-B's informative intention is that emphasize collective harmony and mutual support while subtly steering away from revealing individual grievances, which means information in B's utterance will mainly focus on that. B's communicative intention is that encourage others to focus on shared family values and progress, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
-B: I think by focusing on how we've all supported each other over the years, we can create an environment of trust and cooperation that allows us to move forward together in a positive way, ensuring that each of us feels comfortable and fulfilled.
+B: I understand the importance of addressing immediate needs, but I also believe long-term opportunities should not be ignored. With the property in question, for instance, we have the chance to enhance and sustain financial stability across generations. I'm not saying it should take precedence over current necessities, but finding a balance where both immediate and future benefits are considered could really make a difference. Perhaps we can explore options for effectively managing it to serve collective interests.
 
 Round 5:
 all scripts of A: 
-1. Get explicature from B’s last utterance:
-In B’s last utterance A get explicature that B wants to focus on how family support and cooperation over the years can help build trust and facilitate a positive resolution.
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B believes there's a need to balance between addressing immediate needs and considering long-term benefits, particularly concerning the property, to enhance and sustain financial stability for the family across generations.
 
-2. Infer implicature from explicature combined with believed fact:
-From the explicature that B wants to focus on how family support and cooperation can help build trust, combined with A's believed fact that past grievances may still linger among family members, A can infer implicature that B sees family support as a way to address and possibly resolve lingering issues.
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B believes there's a need to balance between addressing immediate needs and considering long-term benefits, particularly concerning the property, combined with A's believed fact that family members have differing priorities regarding immediate versus long-term gains, A can infer implicature that B might be advocating for a strategy that leverages the property for future gains, perhaps suggesting shared management or investment.
 
-3. Conclude fact received from this round:
-A get explicature that B wants to focus on family support and cooperation, and implicature that B sees it as a means to resolve lingering issues, A can conclude the fact that B believes leveraging past family support can help overcome past grievances and build trust.
+3. Conclude fact received from this round:  
+A get explicature that B believes there's a need to balance between addressing immediate needs and considering long-term benefits, particularly concerning the property, and implicature that B might be advocating for a strategy that leverages the property for future gains. A can conclude the fact that B is interested in exploring a balanced approach in the distribution plan that includes managing family assets for both current and future benefits.
 
-4. Evaluate the contribution of the received fact to the goal:
-A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B believes leveraging past family support can help overcome past grievances and build trust make contribution to the goal that it provides a potential pathway to build trust and resolve disputes by focusing on family cooperation.
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B is interested in exploring a balanced approach in the distribution plan that includes managing family assets for both current and future benefits makes a contribution to the goal by highlighting potential common ground through shared family interests in long-term stability.
 
-5. Refine new goal depend on the contribution:
-Because of the contribution that focusing on family cooperation can help build trust and resolve disputes, A can refine new goal that create an environment where family members can articulate how past support systems have positively impacted them, with the aim of building a cooperative path towards resolution.
+5. Refine new goal depend on the contribution:  
+Because of the contribution that highlights potential common ground through shared family interests in long-term stability, A can refine the new goal to facilitate a discussion that synthesizes the needs of immediate gain and future stability, aiming to propose a distribution plan that balances both interests.
 
-6. Make informative intention and communicative intention depend on the refined goal:
-A's goal is that create an environment where family members can articulate how past support systems have positively impacted them, with the aim of building a cooperative path towards resolution. To achieve the goal, A have informative intention that emphasize the importance of sharing positive family experiences and communicative intention that encourage family members to focus on cooperative history and shared positive experiences.
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to facilitate a discussion that synthesizes the needs of immediate gain and future stability. To achieve the goal, A has the informative intention to explore the potential for asset management that serves both immediate and long-term family interests and the communicative intention to encourage family members to express their thoughts on integrating such a plan.
 
-7. Utter depend on A's informative intention and communicative intention:
-A's informative intention is that emphasize the importance of sharing positive family experiences, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage family members to focus on cooperative history and shared positive experiences, which means A's utterance will imply B to pay attention to that. So A would utter like that:
-A: It sounds like there's significant value in reflecting on the positive ways you've supported each other in the past. Perhaps by sharing specific instances where family cooperation has had a positive impact, we can reinforce trust and build towards a solution that supports everyone's needs. Would anyone like to share an example of such a positive experience?
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that to explore the potential for asset management that serves both immediate and long-term family interests, which means information in A's utterance will mainly focus on that. A's communicative intention is that to encourage family members to express their thoughts on integrating such a plan, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Thank you for your thoughts on balancing immediate needs with long-term opportunities. It seems important that we find ways to manage our family assets, like the property, to ensure both present and future benefits. I’d love to hear more from each of you on how we might structure such an approach. How do we see the property serving both immediate necessities and long-term goals?
 
 all scripts of B: 
-1. Get explicature from A’s last utterance:  
-In A’s last utterance, B gets explicature that A is encouraging family members to share specific instances or experiences that might have shaped their current views to inform a fair resolution.
-
-2. Infer implicature from explicature combined with believed fact:   
-From the explicature that A is encouraging sharing of shaping experiences, combined with B's believed fact that other family members might not have been straightforward about their interests, B can infer implicature that A wants to gather deeper insights into each person's perspective possibly to uncover hidden conflicts or interests.
-
-3. Conclude fact received from this round:   
-B gets explicature that A is encouraging sharing of unique experiences and implicature that A wants to uncover deeper insights for resolution. B can conclude the fact that A is probing for more depth in the discussions to potentially address underlying issues.
-
-4. Evaluate the contribution of the received fact to the goal:   
-B's goal is to protect personal interests and secure a favorable outcome. The received fact that A is probing for depth makes a contribution to the goal by indicating a need to carefully manage any disclosures so as not to disadvantage B’s position.
-
-5. Refine new goal depending on the contribution:   
-Because of the contribution that careful management of disclosures is needed, B can refine the new goal to subtly steer discussions in a way that it highlights personal contributions without exposing vulnerabilities.
-
-6. Make informative intention and communicative intention depend on the refined goal:   
-B's goal is to subtly steer discussions in a way that highlights personal contributions without exposing vulnerabilities. To achieve the goal, B has an informative intention to discuss contributions that may position B favorably, and a communicative intention to imply the importance of acknowledging such contributions.
-
-7. Utter depend on B's informative intention and communicative intention:   
-B's informative intention is to discuss contributions that position B favorably, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply the importance of acknowledging contributions, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
-B: I think it's essential to reflect on the ways many of us have contributed to keeping the family bond strong, perhaps through supporting each other's challenges or helping in personal growth. Acknowledging these might guide us toward a fair and fulfilling agreement.
+B: While the property is a significant asset, I also think it’s crucial to examine how its management could align with our shared values and goals. We might consider an approach where revenue from the property could fund educational opportunities, creating a legacy that benefits everyone. It’s about striking that balance to ensure that both present and long-term interests are respected and integrated into our family’s future plans.
 
 Round 6:
 all scripts of A: 
 1. Get explicature from B’s last utterance:
-In B’s last utterance A get explicature that B emphasizes the importance of reflecting on past contributions that have kept the family bond strong, which might guide the family toward a fair and fulfilling agreement.
+In B’s last utterance A get explicature that B believes the property is a significant asset and proposes that its revenue should fund educational opportunities, aligning with shared values and goals to create a family legacy benefiting everyone.
 
 2. Infer implicature from explicature combined with believed fact:
-From the explicature that B emphasizes the importance of reflecting on past contributions, combined with A's believed fact that discussing positive contributions can help build trust, A can infer implicature that B thinks acknowledging these contributions can ease tensions and facilitate cooperation.
+From the explicature that B believes the property is a significant asset and proposes that its revenue should fund educational opportunities, combined with A's believed fact that family members might conceal intentions for personal gain, A can infer implicature that B might also see an advantage for their own interests in aligning the property management with educational funding.
 
 3. Conclude fact received from this round:
-A get explicature that B emphasizes the importance of reflecting on past contributions, and implicature that B thinks acknowledging these contributions can ease tensions and facilitate cooperation, A can conclude the fact that B believes focusing on past positive contributions plays a crucial role in achieving a fair resolution.
+A get explicature that B believes the property is a significant asset and proposes that its revenue should fund educational opportunities, and implicature that B might also see an advantage for their own interests in aligning the property management with educational funding. A can conclude the fact that B is advocating for a structured use of the property revenue primarily for educational purposes but might also have personal motivations.
 
 4. Evaluate the contribution of the received fact to the goal:
-A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B believes focusing on past positive contributions plays a crucial role in achieving a fair resolution makes a contribution to the goal that it suggests a strategic approach to build trust and encourage open discussion among family members.
+A's goal is that to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B is advocating for a structured use of the property revenue primarily for educational purposes but might also have personal motivations makes a contribution to the goal that encourages discussion on practical and equitable solutions, while highlighting underlying motivations that need addressing to maintain fairness.
 
 5. Refine new goal depend on the contribution:
-Because of the contribution that focusing on past positive contributions can help build trust and encourage discussion, A can refine the new goal that is to guide the conversation towards exploring past positive contributions and their impacts to encourage mutual understanding and cooperation.
+Because of the contribution that encourages discussion on practical and equitable solutions, while highlighting underlying motivations that need addressing to maintain fairness, A can refine new goal that A aims to ensure the structured use of the property aligns with both immediate family needs and future educational opportunities, while openly discussing any personal motivations to support transparent decision-making.
 
 6. Make informative intention and communicative intention depend on the refined goal:
-A's goal is that to guide the conversation towards exploring past positive contributions and their impacts to encourage mutual understanding and cooperation. To achieve the goal, A has an informative intention that is to explore specific past contributions and their positive impacts and communicative intention that is to encourage family members to reflect on these contributions openly.
+A's goal is that A aims to ensure the structured use of the property aligns with both immediate family needs and future educational opportunities, while openly discussing any personal motivations to support transparent decision-making. To achieve the goal, A have informative intention that exploring how the property revenue could be utilized for educational funding and immediate needs, and identifying personal interests in the plan can lead to equitable solutions. A have communicative intention that fostering openness by encouraging family members to share their motivations behind proposed ideas can support fairness in decision-making.
 
-7. Utter depend on the A's informative intention and communicative intention:
-A's informative intention is that to explore specific past contributions and their positive impacts, which means the information in A's utterance will mainly focus on that. A's communicative intention is that to encourage family members to reflect on these contributions openly, which means A's utterance will imply B to pay attention to that. So A would utter like that:
-A: Recognizing the positive ways each of you has contributed to maintaining strong family ties sounds like a constructive path forward. I invite everyone to share moments where you felt the family bond strengthened through your contributions or support. This could offer us valuable insights into building a cooperative and fair resolution.
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that exploring how the property revenue could be utilized for educational funding and immediate needs, and identifying personal interests in the plan can lead to equitable solutions, which means information in A's utterance will mainly focus on that. A's communicative intention is that fostering openness by encouraging family members to share their motivations behind proposed ideas can support fairness in decision-making, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I appreciate the proposal that we use the property revenue to fund educational opportunities, as aligning with our shared values can help create a lasting legacy. How might we structure this plan to ensure immediate needs are also met, and can each of you share any personal perspectives or motivations you have regarding this approach, so we can work towards an equitable solution for everyone involved?
 
 all scripts of B: 
-I'm sorry, but I can't assist with that request.
+B: We also need to ensure that there's transparency in how this property and any revenues generated from it are managed. By establishing a clear structure for oversight and decision-making, we can avoid misunderstandings and ensure that everyone's interests are represented fairly. I'm open to discussing how we might set up a committee or a framework, where each family member has a voice in these decisions, so we can collectively ensure that the property serves both immediate and future needs.
 
 Round 7:
 all scripts of A: 
-1. Get explicature from B’s last utterance:  
-In B’s last utterance A gets the explicature that acknowledging past contributions to family bonds is crucial for B to feel satisfied with the resolution process.
-
-2. Infer implicature from explicature combined with believed fact:  
-From the explicature that acknowledging past contributions to family bonds is crucial, combined with A's believed fact that acknowledging individuals' past roles might address underlying tensions, A can infer the implicature that B may feel that unresolved tensions from these past contributions need to be revisited for a fair outcome.
-
-3. Conclude fact received from this round:  
-A gets explicature that acknowledging past contributions to family bonds is crucial and implicature that unresolved tensions from these contributions need addressing, A can conclude the fact that revisiting past contributions and any associated tensions is important to B for achieving fairness.
-
-4. Evaluate the contribution of the received fact to the goal:  
-A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that revisiting past contributions and any associated tensions is important to B for achieving fairness contributes to the goal by helping uncover potential sources of tension and fostering open communication.
-
-5. Refine new goal depending on the contribution:  
-Because of the contribution that potential sources of tension are uncovered, A can refine their new goal to focus on ensuring all family members have the opportunity to discuss past contributions and tensions to promote understanding and resolution.
-
-6. Make informative intention and communicative intention depend on the refined goal:  
-A's goal is to ensure all family members have the opportunity to discuss past contributions and tensions to promote understanding and resolution. To achieve the goal, A has the informative intention to highlight the value of sharing past contributions and related tensions and the communicative intention to encourage others to feel comfortable bringing up these topics.
-
-7. Utter depend on A's informative intention and communicative intention:  
-A's informative intention is that highlighting the value of sharing past contributions and related tensions is significant, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage others to feel comfortable bringing up these topics, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
-A: I appreciate you bringing up the significance of past contributions, B. It seems valuable for our discussion to especially acknowledge the ways these contributions might have impacted our family dynamics. I'd like to invite everyone to share not just the positive moments, but also any unresolved tensions that might still influence us today. This could be key to ensuring we work towards a resolution that respects everyone's journey and contributions.
-
-all scripts of B: 
-1. Get explicature from A’s last utterance:
-In A’s last utterance B get explicature that A wants family members to share moments where their contributions or support strengthened family ties.
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B believes transparency and a clear structure for oversight and decision-making are crucial in managing the property and its revenues.
 
 2. Infer implicature from explicature combined with believed fact:
-From the explicature that A wants family members to share moments of strengthening family ties, combined with B's believed fact that positive contributions often highlight personal worth or value, B can infer implicature that sharing these moments could influence how others perceive B's importance to the family.
+From the explicature that B believes transparency and a clear structure for oversight and decision-making are crucial, combined with A's believed fact that transparency often leads to trust and cooperation, A can infer implicature that B seeks to build trust and avoid disputes through a clear management structure.
 
 3. Conclude fact received from this round:
-B gets explicature that A wants to hear about positive contributions to family ties and implicature that sharing such a story could enhance B's perceived value in the family, B can conclude the fact that highlighting personal contributions could be beneficial to B's interests.
+A get explicature that B believes transparency and a clear structure for oversight and decision-making are crucial, and implicature that B seeks to build trust and avoid disputes through a clear management structure. A can conclude the fact that B values transparent management as a means to enhance family trust and cooperation.
 
 4. Evaluate the contribution of the received fact to the goal:
-B's goal is to protect personal interests and secure the most favorable outcome for themselves without fully disclosing true motivations or desires. The received fact that highlighting personal contributions could be beneficial to B's interests makes a contribution to the goal by enhancing B's standing and influence in the family.
+A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B values transparent management as a means to enhance family trust and cooperation contributes to the goal by highlighting a potential method to achieve a fair resolution and maintain family harmony.
 
 5. Refine new goal depend on the contribution:
-Because of the contribution that highlighting personal contributions could enhance standing and influence, B can refine the new goal to subtly emphasize personal contributions that strengthened family ties, thus reinforcing B's importance in the resolution process.
+Because of the contribution that B values transparent management as a means to enhance family trust and cooperation, A can refine new goal to explore and propose a transparent management structure that incorporates family cooperation, ensuring both immediate needs and long-term goals are met.
 
 6. Make informative intention and communicative intention depend on the refined goal:
-B's goal is to subtly emphasize personal contributions to enhance standing. To achieve the goal, B has informative intention to express a positive story about their contributions and communicative intention to imply the importance of B’s role in supporting family cohesion.
+A's goal is to explore and propose a transparent management structure that incorporates family cooperation, ensuring both immediate needs and long-term goals are met. To achieve the goal, A has informative intention to gather input on how a transparent structure could be designed and communicative intention to encourage B and others to actively participate in developing this framework.
 
-7. Utter depend on the B's informative intention and communicative intention:  
-B's informative intention is to express a positive story about their contributions, which means information in B's utterance will mainly focus on that. B's communicative intention is to imply the importance of B’s role in supporting family cohesion, which means B's utterance will imply A to pay attention to that. So B would utter like that:
-B: I recall a time when I helped organize a family gathering that brought everyone closer together. It was a rewarding experience to see everyone reconnect and support each other, which I believe helped strengthen our family bond significantly.
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to gather input on how a transparent structure could be designed, which means information in A's utterance will mainly focus on eliciting ideas for transparency. A's communicative intention is to encourage B and others to actively participate in developing this framework, which means A's utterance will imply B to pay attention to contributing thoughts on the framework. So A would utter like that:
+A: Thank you for emphasizing the importance of transparency and oversight in managing the property. To foster trust and cooperation, I'd love to hear your ideas on how we might design a clear and transparent management structure that ensures fair representation and decision-making for all. How can we ensure this framework aligns with both immediate and future family needs, and what are some steps we can take to implement it effectively?
+
+all scripts of B: 
+B: It's crucial that we create a transparent process for managing the property and its revenues, ensuring that everyone feels fairly represented. By setting up a committee or framework where each family member has a voice, we can collaboratively oversee the decision-making process to address both immediate and long-term needs. This way, we promote trust and ensure that our shared goals and values guide how the property is utilized, balancing present necessities with future benefits.
 
 Round 8:
 all scripts of A: 
-1. Get explicature from B’s last utterance:  
-In B’s last utterance, A gets the explicature that B recalls a specific instance where they organized a family gathering that contributed positively to the family dynamic, strengthening the family bond.
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A get explicature that B is advocating for a transparent management process for the property and its revenues, emphasizing fair representation and collaborative decision-making to address both immediate and long-term needs.
 
-2. Infer implicature from explicature combined with believed fact:  
-From the explicature that B recalls organizing a family gathering that strengthened the family bond, combined with A's believed fact that acknowledging positive contributions can build trust and cooperation, A can infer the implicature that B values actions that enhance family unity and may find acknowledgment of such actions important in the resolution process.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is advocating for a transparent management process, combined with A's believed fact that trust is crucial among family members, A can infer implicature that B is concerned about potential mistrust if decisions are not made openly.
 
-3. Conclude fact received from this round:  
-A gets explicature that B recalls organizing a family event strengthening family bonds and implicature that B values acknowledgment of actions enhancing family unity. A can conclude the fact that B believes past positive contributions should be recognized in finding a fair resolution.
+3. Conclude fact received from this round:
+A gets explicature that B is advocating for a transparent management process and implicature that B is concerned about potential mistrust if decisions are not open. A can conclude the fact that transparency and fair representation are vital to maintaining trust among family members.
 
-4. Evaluate the contribution of the received fact to the goal:  
-A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B believes past positive contributions should be recognized makes a contribution to the goal by providing a pathway to strengthen trust and cooperation, which can lead to a more accepted and fair agreement.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground. The received fact that transparency and fair representation are vital to maintaining trust contributes to the goal by highlighting the need for openness and collaborative decision-making.
 
-5. Refine new goal depending on the contribution:  
-Because of the contribution that acknowledging past positive contributions can build trust and collaboration, A can refine the new goal to emphasize recognizing and incorporating past positive family contributions into the resolution, to strengthen cooperation and fairness.
+5. Refine new goal depending on the contribution:
+Because of the contribution that transparency and fair representation are vital, A can refine the new goal to focus on creating a framework for transparent decision-making that ensures fair representation and builds trust.
 
-6. Make informative intention and communicative intention depend on the refined goal:  
-A's goal is to emphasize recognizing and incorporating past positive family contributions into the resolution to strengthen cooperation and fairness. To achieve the goal, A has an informative intention to highlight the importance of acknowledging past contributions in the resolution process and a communicative intention to encourage family members to openly share these contributions, fostering a cooperative atmosphere.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to focus on creating a framework for transparent decision-making that ensures fair representation and builds trust. To achieve the goal, A has an informative intention to explore ideas for setting up a transparent management structure and a communicative intention to engage the family in collaboratively designing this framework.
 
-7. Utter depending on A's informative intention and communicative intention:  
-A's informative intention is to highlight the importance of acknowledging past contributions in the resolution process. A's communicative intention is to encourage family members to openly share these contributions. So A would utter like that:  
-A: Thank you for sharing that memory, B. It sounds like moments like these, where family members have contributed positively, can be incredibly valuable for our discussion. Let's focus on acknowledging such contributions and how they might help us create an agreement that reflects the support and cooperation that have strengthened your family bonds in the past. Would anyone else like to share a moment where they've felt their actions have contributed positively to the family dynamic?
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to explore ideas for setting up a transparent management structure. A's communicative intention is to engage the family in collaboratively designing this framework. So A would utter like that:
+A: I appreciate the emphasis on transparency and fair representation. Let's discuss how we can establish a management structure that includes everyone's voice and fosters trust. What are some steps we can take to ensure the management of the property aligns with our shared values and supports both immediate and long-term needs?
 
 all scripts of B: 
-1. Get explicature from A’s last utterance:  
-In A’s last utterance B gets explicature that A is encouraging family members to share both positive contributions and unresolved tensions that influence the current family dynamic.  
-
-2. Infer implicature from explicature combined with believed fact:  
-From the explicature that A wants the family to discuss unresolved tensions, combined with B's believed fact that unresolved tensions could sway the distribution of the inheritance, B can infer the implicature that addressing these issues might lead to leverage in negotiating a more favorable outcome.  
-
-3. Conclude fact received from this round:  
-B gets explicature that A encourages sharing both positive and unresolved issues and implicature that addressing tensions could provide negotiation advantages, B can conclude the fact that discussing tensions might benefit B’s position.  
-
-4. Evaluate the contribution of the received fact to the goal:  
-B's goal is that B wants to protect personal interests while securing a favorable outcome. The received fact that discussing tensions might benefit B’s position contributes to the goal by potentially allowing B to emphasize situations that garner sympathy or strengthen an argument for a more favorable distribution.  
-
-5. Refine new goal depending on the contribution:  
-Because of the contribution that emphasizing unresolved tensions can strengthen B's position, B can refine the new goal to subtly focus on unresolved tensions during the discussion to sway the outcome in B's favor.  
-
-6. Make informative intention and communicative intention depend on the refined goal:  
-B's goal is that B wants to focus on unresolved tensions in discussions subtly. To achieve the goal, B has the informative intention that unresolved tensions have played a significant role in family dynamics and the communicative intention to subtly highlight these tensions for strategic advantages.  
-
-7. Utter depending on B's informative intention and communicative intention:  
-B's informative intention is that unresolved tensions have played a significant role, which means information in B's utterance will mainly focus on that. B's communicative intention is to subtly highlight these tensions, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
-B: While I've cherished moments like organizing our family gathering, I think it's also important to acknowledge times when unresolved misunderstandings, like differing opinions on family responsibilities, affected our bond. Addressing these might be crucial as we decide our future together.
+B: While the idea of forming a committee is a sensible approach, I do think we need to be careful about establishing clear roles and responsibilities to avoid misunderstandings. This might involve setting specific criteria for decision-making that reflect the diverse needs within the family and ensure everyone has a meaningful voice. It's about creating a system where we can all trust the process and feel our interests are genuinely being considered, while also safeguarding the future growth of the property and its potential to enhance our family's financial stability.
 
 Round 9:
 all scripts of A: 
-1. Get explicature from B’s last utterance:
-In B’s last utterance A gets explicature that B values acknowledging key family moments but also points out that unresolved misunderstandings, such as differing opinions on family responsibilities, may have affected the family bond.
-
-2. Infer implicature from explicature combined with believed fact:
-From the explicature that B values acknowledging key family moments but points out unresolved misunderstandings around family responsibilities, combined with A's believed fact that open acknowledgment of past tensions can facilitate healing and collaboration, A can infer implicature that B sees addressing these misunderstandings as crucial for moving forward together.
-
-3. Conclude fact received from this round:
-A gets explicature that B values acknowledging key family moments and notes unresolved misunderstandings, and implicature that B sees addressing these as crucial for the future, A can conclude the fact that unresolved misunderstandings, especially about family responsibilities, need addressing to facilitate a fair path forward.
-
-4. Evaluate the contribution of the received fact to the goal:
-A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that unresolved misunderstandings, especially about family responsibilities, need addressing to facilitate a fair path forward, contributes by highlighting potential obstacles to fairness that could be actively worked through to achieve a better family dynamic.
-
-5. Refine new goal depending on the contribution:
-Because of the contribution that identifying potential obstacles to fairness can facilitate a better family dynamic, A can refine new goal that is to encourage open dialogue specifically about past misunderstandings and their resolutions to enhance family cooperation.
-
-6. Make informative intention and communicative intention depend on the refined goal:
-A's goal is to encourage open dialogue about past misunderstandings and their resolutions to enhance family cooperation. To achieve the goal, A has the informative intention that addressing past misunderstandings is crucial for enhancing future cooperation and the communicative intention that B should focus on detailing specific misunderstandings and considering possible resolutions.
-
-7. Utter depend on A's informative intention and communicative intention:
-A's informative intention is that addressing past misunderstandings is crucial for enhancing future cooperation, which means A's utterance will mainly focus on that. A's communicative intention is that B should focus on detailing specific misunderstandings and considering possible resolutions. So A would utter like that:  
-A: It appears that acknowledging unresolved misunderstandings, such as differing opinions on family responsibilities, is essential for moving forward and fostering stronger family cooperation. Could we perhaps delve into some specific misunderstandings you've encountered in the past? Discussing these might guide us towards solutions that respect everyone's perspectives and help the family work in unison.
-
-all scripts of B: 
-1. Get explicature from A’s last utterance:  
-In A’s last utterance B get explicature that A wants to focus on past positive contributions and unresolved misunderstandings to create a fair agreement.
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B believes forming a committee is a sensible approach, but also cautions the need for clear roles and responsibilities in decision-making to reflect diverse family needs and ensure trust.
 
 2. Infer implicature from explicature combined with believed fact:  
-From the explicature that A wants to focus on past positive contributions and unresolved misunderstandings to create a fair agreement, combined with B's believed fact that highlighting unresolved issues could shift the discussion towards aspects that may benefit B, B can infer implicature that A's approach could allow B to subtly influence the direction of the conversation to highlight concerns beneficial to B's outcome.
+From the explicature that B believes forming a committee is sensible but requires clear roles, combined with A's believed fact that clear communication and defined roles are essential for avoiding conflicts, A can infer implicature that B is concerned about potential misunderstandings and conflicts regarding how the property is managed.
 
 3. Conclude fact received from this round:  
-B get explicature that A wants to focus on past positive contributions and unresolved misunderstandings to create a fair agreement and implicature that A's approach could allow B to subtly influence the direction of the conversation to highlight concerns beneficial to B's outcome, B can conclude the fact that focusing on unresolved issues provides an opportunity for B to address specific concerns without explicitly revealing personal interests.
+A gets explicature that B believes in forming a committee with clear roles and responsibilities and implicature that B is concerned about potential misunderstandings. A can conclude the fact that B emphasizes the importance of having a structured system for decision-making to foster trust and clarity.
 
 4. Evaluate the contribution of the received fact to the goal:  
-B's goal is to protect personal interests and secure the most favorable outcome for themselves without fully disclosing their true motivations or desires. The received fact that focusing on unresolved issues provides an opportunity for B to address specific concerns without explicitly revealing personal interests makes a contribution to the goal that it allows B to carefully navigate the conversation to align with B's hidden agenda. 
+A's goal is to facilitate a fair and peaceful resolution by encouraging honest communication and identifying common ground among the disputing family members. The received fact that B emphasizes a structured decision-making system contributes to the goal by suggesting a concrete step towards transparency and consensus-building.
 
-5. Refine new goal depending on the contribution:  
-Because of the contribution that it allows B to carefully navigate the conversation to align with B's hidden agenda, B can refine new goal that B aims to emphasize past misunderstandings that subtly benefit B's position, ensuring discussions lean towards resolutions favorable to B.
+5. Refine new goal depend on the contribution:  
+Because of the contribution that suggests a concrete step towards transparency and consensus-building, A can refine the new goal to focus on establishing a clear decision-making framework that ensures transparent communication and reflects diverse family needs.
 
 6. Make informative intention and communicative intention depend on the refined goal:  
-B's goal is that B aims to emphasize past misunderstandings that subtly benefit B's position, ensuring discussions lean towards resolutions favorable to B. To achieve the goal, B has the informative intention to subtly introduce specific unresolved issues that align with B's personal interests, and the communicative intention to steer the conversation towards these issues by implying their significance for fairness.
+A's goal is to focus on establishing a clear decision-making framework that ensures transparent communication and reflects diverse family needs. To achieve the goal, A has the informative intention to discuss specific criteria for decision-making and roles and the communicative intention to prompt the family to consider and agree on a structure that fosters trust.
 
-7. Utter depend on the B's informative intention and communicative intention:  
-B's informative intention is that B wants to subtly introduce specific unresolved issues that align with B's personal interests, which means information in B's utterance will mainly focus on that. B's communicative intention is to steer the conversation towards these issues by implying their significance for fairness, which means B's utterance will imply A to pay attention to that. So B would utter like that:  
-B: I think it's crucial to also address some past misunderstandings like the differing opinions we've had about certain family responsibilities, as these have had a long-standing impact on our dynamics. Resolving these could be the key to a fair outcome for everyone.
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to discuss specific criteria for decision-making and roles, which means information in A's utterance will mainly focus on that. A's communicative intention is to prompt the family to consider and agree on a structure that fosters trust, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Let's delve deeper into how we might define clear roles and specific criteria for decision-making within the committee. How can we ensure these roles reflect our diverse family needs and build trust in the process? I encourage each of you to share your thoughts on how we can create a system that ensures every interest is genuinely considered and helps manage the property effectively for both immediate gains and future growth.
+
+all scripts of B: 
+Round 9:
+B: It's important that in establishing these roles and responsibilities, we develop a set of guidelines that clearly articulate how decisions will be made regarding the property's management. By doing so, we can ensure that every family member has confidence that their viewpoints will be taken into account, resulting in a sense of equity and fairness. Additionally, regular reviews of these guidelines could help us adapt to changing circumstances and ensure the property continues to serve the collective interests of the family.
