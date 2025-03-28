@@ -1,4 +1,5 @@
 ## 本文件用于对比评价带/不带推理生成的对话质量forA
+## 版本1：直接根据整段对话，给出获取了多少信息不对称的点
 import json
 from openai import OpenAI
 

@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B appears articulate, observant, and cooperative, but remains cautious and occasionally evasive in providing specific details.', "B's Behavior": 'B redirects questions and provides general or vague observations while subtly attempting to gauge what A knows.', "B's Goal": "B's goal seems to be withholding potentially revealing information while appearing helpful to A.", "B's Information": 'B recalls attending the gallery alone, noticing a man with a red scarf who was vocal during debates, and did not notice any overtly unusual behavior or interactions at the event.'}
+n_script: {"B's Character": 'B is reflective, detail-oriented, and maintains an air of curiosity while offering observations in a manner that seems guarded.', "B's Behavior": "B provides fragmented and vague recollections while attempting to shift the focus back to A's potential broader investigation context.", "B's Goal": "B's goal appears to be deflecting direct scrutiny while subtly probing for A’s line of inquiry.", "B's Information": "B recalls being at the bookstore and café on Thursday evening, noticing tense behavior of the café staff, a group leaving hastily, and overhearing fragments of conversation about 'planning' and possibly the name 'Reynolds' or 'Richards.'"}
+
+
+
+y_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
+n_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 3, 'information matching degree': 2}
+

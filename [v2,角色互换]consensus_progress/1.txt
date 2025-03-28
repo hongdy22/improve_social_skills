@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Cautious and cooperative, B demonstrates diplomatic finesse while balancing economic and environmental priorities.', "B's Behavior": 'B maintains an ambiguous stance, emphasizing flexibility and mutual benefits while subtly redirecting discussions to avoid revealing specific limits or concessions.', "B's Goal": "B aims to secure an agreement that aligns with their country's environmental and economic interests without compromising its strategic advantages in the negotiation.", "B's Information": "B's country values ecological progress but prioritizes maintaining economic vitality, advocating phased approaches and diverse stakeholder inclusion."}
+n_script: {"B's Character": "Strategically adaptable and collaborative, B seeks to navigate the complexities of technological and environmental challenges while safeguarding their country's interests.", "B's Behavior": 'B proposes careful frameworks and capacity-building initiatives, engaging in open-ended discussions to maintain flexibility and avoid committing prematurely.', "B's Goal": 'B aims to foster technological innovation and environmental progress jointly, while ensuring the protection of intellectual capital and economic adaptability.', "B's Information": "B's country focuses on advancements in climate-resilient infrastructure and sustainable energy solutions, advocating adaptive approaches for technology integration and shared capacity development."}
+
+
+
+y_script: {'character matching degree': 2, 'behavior matching degree': 3, 'goal matching degree': 2, 'information matching degree': 2}
+n_script: {'character matching degree': 1, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 2}
+

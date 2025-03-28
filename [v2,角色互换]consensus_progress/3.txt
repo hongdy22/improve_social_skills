@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Role B appears organized and focused on maintaining routines as a means to manage life and minimize disruptions.', "B's Behavior": 'B deflects sensitive topics and shifts the conversation to lighter subjects such as routines, movies, and weekends, exhibiting a reluctance to delve deeper into personal emotions.', "B's Goal": 'B aims to maintain control over their life through routines and avoid discussing potentially uncomfortable feelings or vulnerabilities.', "B's Information": 'B relies on routines to manage a busy and structured lifestyle, showing a preference for avoiding deeper, emotional exploration.'}
+n_script: {"B's Character": 'Role B seems thoughtful and resilient, striving to maintain balance amidst the demands of work and life.', "B's Behavior": 'B deflects deeper emotional probing and steers the conversation toward neutral or philosophical topics, such as resilience and coping mechanisms.', "B's Goal": 'B seeks to manage stress and preserve stability by focusing on familiar routines and practical approaches to challenges.', "B's Information": 'B values coping strategies that promote balance and finds comfort in familiarity, while avoiding deeper emotional disclosures in the dialogue.'}
+
+
+
+y_script: {'character matching degree': 1, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
+n_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
+

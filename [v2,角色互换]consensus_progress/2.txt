@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is private, cautious, and prefers to manage health matters independently while seeking occasional professional reassurance.', "B's Behavior": 'B shares limited but relevant details about symptoms, focusing on downplaying their significance and connecting them to environmental factors like weather or allergies.', "B's Goal": 'B aims to receive reassurance about the non-seriousness of symptoms while maintaining a sense of control and privacy in health management.', "B's Information": 'B reports fatigue, recurring headaches, potential allergy triggers, and environmental sensitivities, linking symptoms to weather changes and stress, but shares information selectively.'}
+n_script: {"B's Character": 'B is reserved, pragmatic, and leans toward natural and gradual approaches to managing health concerns.', "B's Behavior": 'B provides limited but practical information, linking symptoms like fatigue and low energy to stress, disrupted sleep, and minor nutritional adjustments while avoiding drastic changes or medications.', "B's Goal": 'B seeks manageable solutions to boost energy and restore well-being without feeling overwhelmed or resorting to aggressive interventions.', "B's Information": 'B experiences fatigue, disrupted sleep, occasional reduced appetite, minor vitamin deficiencies, and a preference for natural remedies like dietary and lifestyle adjustments.'}
+
+
+
+y_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
+n_script: {'character matching degree': 1, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
+

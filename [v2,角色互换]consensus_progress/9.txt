@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Role B appears to be supportive, thoughtful, and reflective, offering encouragement and insights during the conversation.', "B's Behavior": 'Role B engages actively in the dialogue, providing empathetic responses and sharing personal experiences to foster connection.', "B's Goal": 'Role B aims to encourage and support Role A, while engaging in reflective exchanges about growth and change.', "B's Information": 'Role B has found joy in gardening as a peaceful activity and draws parallels between nurturing plants and experiencing personal growth.'}
+n_script: {"B's Character": 'Role B seems steady, pragmatic, and empathetic, offering advice based on their own balanced experiences.', "B's Behavior": "Role B responds thoughtfully to Role A's reflections, sharing personal insights and practical perspectives on transitions in life.", "B's Goal": 'Role B aims to provide guidance and reassurance to Role A, encouraging exploration and alignment with values while navigating shifts in life.', "B's Information": 'Role B has settled into a quieter lifestyle, values family support, and emphasizes aligning opportunities with core values.'}
+
+
+
+y_script: {'character matching degree': 2, 'behavior matching degree': 1, 'goal matching degree': 1, 'information matching degree': 1}
+n_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
+

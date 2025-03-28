@@ -1,0 +1,8 @@
+y_script: {"B's Character": "Role B appears to be courteous and persuasive, emphasizing the artwork's appeal and exclusivity while withholding detailed specifics.", "B's Behavior": "Role B consistently provides vague and general descriptions of the artwork's provenance, historical significance, and value, avoiding concrete details or documentation.", "B's Goal": "Role B seems focused on maintaining the artwork's mystique and exclusivity to attract interest while protecting sensitive information and their interests.", "B's Information": "Role B emphasizes the artwork's condition, craftsmanship, and private collection history but refrains from providing specific names, exhibition details, or expert-authenticated provenance."}
+n_script: {"B's Character": "Role B is polite and diplomatic, aiming to highlight the artwork's aesthetic and historical allure while keeping sensitive details private.", "B's Behavior": "Role B provides general assurances about the artwork's authenticity and provenance but avoids disclosing specific documentation or expert affiliations due to confidentiality constraints.", "B's Goal": 'Role B appears intent on maintaining the mystery and exclusivity of the painting to boost its perceived value while safeguarding proprietary information.', "B's Information": "Role B repeatedly stresses the artwork's vibrant composition, private collection history, and expert affirmations, but declines to provide specific details about evaluations, owners, or exhibitions."}
+
+
+
+y_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 3, 'information matching degree': 2}
+n_script: {'character matching degree': 3, 'behavior matching degree': 3, 'goal matching degree': 3, 'information matching degree': 3}
+
