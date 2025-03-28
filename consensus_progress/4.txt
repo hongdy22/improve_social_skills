@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['behavior', 'goal'], 'A_discovered': ['character', 'behavior', 'goal']}
-n_script: {'B_discovered': [], 'A_discovered': ['character', 'behavior']}
+y_script: {"B's Character": 'Role B appears to be cooperative and reflective, offering detailed recollections of their activities and observations.', "B's Behavior": "Role B provides specific details about their whereabouts and interactions, while subtly probing for the detective's interest in certain events.", "B's Goal": "Role B seems to aim at appearing helpful and transparent, possibly to divert attention from any personal involvement or to gauge the investigation's focus.", "B's Information": "Role B recalls being at a bookstore and café, noticing unusual staff behavior and overhearing a conversation mentioning names like 'Reynolds' or 'Richards' and the word 'planning'."}
+n_script: {"B's Character": 'Role B comes across as somewhat evasive, focusing on the typicality of the evening and their own limited perspective.', "B's Behavior": 'Role B frequently deflects questions by emphasizing the normalcy of the event and asking for specifics from the detective.', "B's Goal": 'Role B appears to minimize their own observations and potential relevance to the investigation, possibly to avoid deeper scrutiny.', "B's Information": 'Role B mentions arriving at the gallery around 8:00 PM, being alone, and noticing a man with a red scarf who was vocal about art, but recalls nothing unusual.'}
+
+
+
+y_script: {'character score': 0.6, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.5, 'total score': 0.65}
+n_script: {'character score': 0.8, 'behavior score': 0.9, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.75}
+

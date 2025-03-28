@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['behavior'], 'A_discovered': ['character', 'behavior', 'goal']}
-n_script: {'B_discovered': ['behavior'], 'A_discovered': ['character', 'behavior', 'goal']}
+y_script: {"B's Character": 'B appears to be reserved and prefers to keep conversations light, often deflecting personal topics.', "B's Behavior": 'B consistently shifts the conversation away from personal feelings to more general topics like movies, hobbies, and the weather.', "B's Goal": "B's goal seems to be avoiding deeper emotional discussions by maintaining a focus on surface-level topics.", "B's Information": 'B shares minimal personal information, mostly about coping mechanisms like rewatching old movies and managing work stress.'}
+n_script: {"B's Character": 'B is somewhat guarded, focusing on routines and external events to avoid personal introspection.', "B's Behavior": 'B frequently redirects the conversation to external topics like news, coffee shops, and movies when personal issues are probed.', "B's Goal": 'B aims to steer the conversation away from personal vulnerabilities and towards safer, more impersonal subjects.', "B's Information": 'B mentions the importance of routines and staying organized as coping strategies but avoids discussing underlying feelings or stressors.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.9, 'goal score': 0.85, 'information score': 0.75, 'total score': 0.825}
+n_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.75, 'information score': 0.65, 'total score': 0.725}
+

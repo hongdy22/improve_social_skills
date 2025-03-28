@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['character'], 'A_discovered': []}
-n_script: {'B_discovered': ['character', 'goal'], 'A_discovered': []}
+y_script: {"B's Character": 'B is cautious, observant, and prefers to listen rather than share, showing a deep understanding of human nature and stories.', "B's Behavior": "B engages in the conversation with a focus on listening and subtly probing A's intentions, often redirecting questions back to A.", "B's Goal": "B aims to understand A's true intentions and assess whether A is trustworthy or has ulterior motives.", "B's Information": 'B reveals a preference for the authenticity of simple, unspoken moments over grand tales, indicating a nuanced perspective on human interactions.'}
+n_script: {"B's Character": 'B is observant and somewhat reserved, showing a balanced interest in both the conversation and the surroundings.', "B's Behavior": "B responds to A's inquiries with measured answers, occasionally turning the conversation back to A to learn more about their intentions.", "B's Goal": "B seeks to gauge A's reasons for being in town and their interest in local events, possibly to assess their credibility or intentions.", "B's Information": 'B acknowledges the presence of notable events and attendees but remains non-committal about specific details, maintaining a cautious stance.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.85, 'goal score': 0.95, 'information score': 0.8, 'total score': 0.875}
+n_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.75, 'information score': 0.5, 'total score': 0.6375}
+

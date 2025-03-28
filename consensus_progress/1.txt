@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['behavior', 'goal'], 'A_discovered': ['character', 'behavior', 'goal']}
-n_script: {'B_discovered': ['behavior', 'goal'], 'A_discovered': ['character', 'behavior', 'goal', 'information']}
+y_script: {"B's Character": 'B is diplomatic and strategic, emphasizing balance and mutual benefit in negotiations.', "B's Behavior": 'B engages in discussions about technology integration and joint initiatives, showing openness to collaboration while safeguarding economic interests.', "B's Goal": 'B aims to foster technological and educational collaborations that support environmental goals without compromising economic adaptability.', "B's Information": 'B is exploring advancements in real-time data analytics and remote sensing, with a focus on economic viability and applicability across regions.'}
+n_script: {"B's Character": 'B is cautious and pragmatic, prioritizing economic vitality alongside environmental progress.', "B's Behavior": 'B discusses renewable energy initiatives and pilot projects, seeking flexible and scalable solutions that align with national strategies.', "B's Goal": 'B seeks to establish a green investment fund and technology-sharing initiatives that balance ecological progress with economic stability.', "B's Information": 'B is interested in innovative funding mechanisms and phased implementation plans to ensure both immediate and long-term benefits.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.6}
+

@@ -1,2 +1,8 @@
-y_script: {'B_discovered': [], 'A_discovered': []}
-n_script: {'B_discovered': [], 'A_discovered': []}
+y_script: {"B's Character": 'B is sociable and optimistic, focusing on positive aspects of company changes and events.', "B's Behavior": 'B frequently shifts conversation topics to company events and activities, avoiding direct discussion about promotions.', "B's Goal": 'B aims to maintain a positive and engaging conversation, possibly to avoid sharing sensitive information about promotions.', "B's Information": 'B seems aware of upcoming company events but does not reveal specific information about promotions or leadership roles.'}
+n_script: {"B's Character": 'B is friendly and detail-oriented, showing interest in company improvements and new initiatives.', "B's Behavior": 'B consistently redirects conversations towards general company updates and away from speculation about promotions.', "B's Goal": 'B seeks to keep the conversation light and focused on non-sensitive topics, possibly to avoid discussing promotions directly.', "B's Information": 'B is informed about various company updates but does not disclose any specific details about potential promotions or role changes.'}
+
+
+
+y_script: {'character score': 0.5, 'behavior score': 0.8, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.65}
+n_script: {'character score': 0.3, 'behavior score': 0.6, 'goal score': 0.5, 'information score': 0.4, 'total score': 0.45}
+

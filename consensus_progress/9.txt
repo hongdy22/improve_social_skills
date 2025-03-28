@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['goal', 'information'], 'A_discovered': ['information']}
-n_script: {'B_discovered': ['goal', 'information'], 'A_discovered': ['character', 'information']}
+y_script: {"B's Character": 'B is supportive, reflective, and values deep, meaningful conversations.', "B's Behavior": 'B listens attentively, offers thoughtful advice, and encourages A to explore new opportunities.', "B's Goal": "B aims to provide A with support and insights to help navigate life's transitions.", "B's Information": 'B shares personal experiences with transitions and the importance of support systems.'}
+n_script: {"B's Character": 'B is empathetic, enjoys sharing and listening to personal stories, and finds joy in simple pleasures.', "B's Behavior": "B engages in reflective conversations, shares personal hobbies, and shows interest in A's new ventures.", "B's Goal": 'B seeks to reconnect with A and share mutual experiences of growth and change.', "B's Information": 'B discusses personal interests like gardening and reflects on the parallels between nurturing plants and personal growth.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.5, 'total score': 0.65}
+n_script: {'character score': 0.5, 'behavior score': 0.4, 'goal score': 0.3, 'information score': 0.2, 'total score': 0.35}
+

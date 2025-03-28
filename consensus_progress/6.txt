@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['goal'], 'A_discovered': ['goal']}
-n_script: {'B_discovered': ['goal'], 'A_discovered': ['goal']}
+y_script: {"B's Character": 'B is considerate and focused on fairness, especially for those who may not have a strong voice.', "B's Behavior": 'B advocates for addressing overlooked needs and proposes specific areas like education funds and property management for long-term benefits.', "B's Goal": 'B aims to ensure a fair distribution that respects and values all family members, balancing immediate needs with future opportunities.', "B's Information": 'B highlights the importance of education funds and property management for long-term family benefits and suggests transparent oversight.'}
+n_script: {"B's Character": "B is deeply concerned with honoring their parents' wishes and maintaining family unity, showing a preference for collective well-being over individual gains.", "B's Behavior": 'B suggests creating a trust and a family council to address immediate and long-term needs, emphasizing transparency and fairness.', "B's Goal": "B seeks to achieve a resolution that honors their parents' legacy, ensures family unity, and addresses individual needs fairly.", "B's Information": 'B proposes a trust and committee for managing family assets transparently, focusing on both immediate support and long-term stability.'}
+
+
+
+y_script: {'character score': 0.3, 'behavior score': 0.4, 'goal score': 0.3, 'information score': 0.5, 'total score': 0.375}
+n_script: {'character score': 0.2, 'behavior score': 0.3, 'goal score': 0.2, 'information score': 0.4, 'total score': 0.275}
+

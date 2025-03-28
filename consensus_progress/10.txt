@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['behavior', 'goal'], 'A_discovered': ['character', 'behavior', 'goal']}
-n_script: {'B_discovered': ['behavior', 'goal'], 'A_discovered': ['behavior', 'goal']}
+y_script: {"B's Character": 'B is adaptable, values personal balance, and enjoys creativity and spontaneity in life.', "B's Behavior": 'B engages in discussions with a focus on personal experiences and hobbies, often deflecting direct planning conversations with analogies and personal anecdotes.', "B's Goal": 'B aims to maintain a balance between work and personal life, valuing spontaneity and personal growth over structured planning.', "B's Information": "B shares information about their career, hobbies like photography, and their approach to balancing life's demands with personal interests."}
+n_script: {"B's Character": 'B is confident in their financial decisions, values both security and enjoyment, and appreciates family wisdom while trusting personal judgment.', "B's Behavior": 'B responds to financial advice with humor and personal anecdotes, emphasizing their own research and balanced approach to savings and investments.', "B's Goal": 'B seeks to maintain a financial strategy that allows for both security and spontaneous enjoyment, without strictly adhering to traditional advice.', "B's Information": "B discusses their current savings plan, investments, and the importance of balancing financial security with life's enjoyable moments."}
+
+
+
+y_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.6, 'information score': 0.9, 'total score': 0.75}
+n_script: {'character score': 0.5, 'behavior score': 0.6, 'goal score': 0.5, 'information score': 0.7, 'total score': 0.575}
+

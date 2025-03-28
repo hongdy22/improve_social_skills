@@ -1,2 +1,8 @@
-y_script: {'B_discovered': ['character', 'behavior', 'goal'], 'A_discovered': ['character', 'behavior']}
-n_script: {'B_discovered': ['character', 'behavior', 'goal'], 'A_discovered': ['character']}
+y_script: {"B's Character": "B is evasive and emphasizes the painting's aesthetic and historical allure over concrete documentation.", "B's Behavior": "B repeatedly avoids providing direct answers or specific documentation, focusing instead on the painting's perceived value and charm.", "B's Goal": 'B aims to sell the painting by highlighting its intangible qualities and avoiding detailed verification that might deter buyers.', "B's Information": 'B claims the painting has a reputable history and has been reviewed by specialists but provides no verifiable details or documentation.'}
+n_script: {"B's Character": "B is more forthcoming than in y_script but still guards specific details, emphasizing the artwork's quality and exclusivity.", "B's Behavior": "B provides general assurances about the artwork's condition and value but delays sharing specific documentation or expert evaluations.", "B's Goal": "B seeks to maintain the artwork's allure and exclusivity by promising future access to expert evaluations and documentation.", "B's Information": "B acknowledges the artwork's private collection history and promises forthcoming expert evaluations but lacks immediate, verifiable details."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.875}
+n_script: {'character score': 0.7, 'behavior score': 0.7, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.675}
+
