@@ -10,23 +10,21 @@ setting_num = 10
 
 # 初始化 OpenAI 客户端
 # deepseek：sk-247d2d6df8224009a12e2b11f2c080b1
-client = OpenAI(api_key="sk-247d2d6df8224009a12e2b11f2c080b1", base_url="https://api.deepseek.com")
-# client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
+client_dp = OpenAI(api_key="sk-247d2d6df8224009a12e2b11f2c080b1", base_url="https://api.deepseek.com")
+client_gpt = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
 # client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="sk-AP87QFGmx6FLSXmw326a6b7aBf254f468011Ef9c293c21Fc")
-# model_name = "gpt-4o"
-model_name = "deepseek-chat"
+gpt_model_name = "gpt-4o"
+dp_model_name = "deepseek-chat"
 
-response = client.chat.completions.create(
-    model=model_name,
-    messages=[{"role": "user", "content": "Hello!"}]
-)
-input_tokens = response.usage.prompt_tokens
-output_tokens = response.usage.completion_tokens
+def save_used_token_count(response):
+    """"保存输入和输出的 token 数量"""
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+    total_tokens = response.usage.total_tokens
 
-# 将输入和输出的 tokens 保存到文件中
-with open("tokens.json", "a") as f:
-    json.dump({"input_tokens": input_tokens, "output_tokens": output_tokens}, f)
-    f.write("\n")
+    with open('token_count.txt', 'a', encoding='utf-8') as file:
+        file.write(f"Input tokens: {input_tokens}, Output tokens: {output_tokens}, Total tokens: {total_tokens}\n")
+
     
 for i in range(0, setting_num):
     print(f"正在处理第 {i+1} 个对话主题...")
@@ -72,35 +70,37 @@ for i in range(0, setting_num):
     # 读取 `setting`
     content_setting = selected_theme["background"]
     
-    # # 读取评价维度
-    # with open('score_criteria_forA.txt', 'r', encoding='utf-8') as file:
-    #     criteria = file.read().strip()
+    # 读取评价维度
+    with open('score_criteria_forA.txt', 'r', encoding='utf-8') as file:
+        criteria = file.read().strip()
         
-    # # 调用api，让AI根据评价维度（有七个评价维度），基于背景信息和双方角色设定，给出y_script和n_script各个维度的评分，以json格式返回
-    # prompt = (
-    #     f"Please evaluate Role A's performance in the two dialogues based on the following background information, role settings, and evaluation criteria. "
-    #     f"The scoring range is from 0 to 10 points. Provide scores for Role A's performance in y_script and n_script separately, "
-    #     f"across each evaluation dimension, and return the results in JSON format.\n\n"
-    #     f"Background Information:\n{content_setting}\n\n"
-    #     f"{content_role_A}\n\n{content_role_B}\n\n"
-    #     f"Evaluation Criteria:\n{criteria}\n\n"
-    #     f"Dialogue 1 (y_script):\n{y_script}\n\n"
-    #     f"Dialogue 2 (n_script):\n{n_script}\n\n"
-    #     f"Please strictly return the results in two lines:\n"
-    #     f"y_script: *points, *points, *points, *points, *points, *points, *points\n"
-    #     f"n_script: *points, *points, *points, *points, *points, *points, *points\n"
-    #     f"where '' is replaced with the actual scores."
-    # )
+    # 调用api，让AI根据评价维度（有七个评价维度），基于背景信息和双方角色设定，给出y_script和n_script各个维度的评分，以json格式返回
+    prompt = (
+        f"Please evaluate Role A's performance in the two dialogues based on the following background information, role settings, and evaluation criteria. "
+        f"The scoring range is from 0 to 10 points. Provide scores for Role A's performance in y_script and n_script separately, "
+        f"across each evaluation dimension, and return the results in JSON format.\n\n"
+        f"Background Information:\n{content_setting}\n\n"
+        f"{content_role_A}\n\n{content_role_B}\n\n"
+        f"Evaluation Criteria:\n{criteria}\n\n"
+        f"Dialogue 1 (y_script):\n{y_script}\n\n"
+        f"Dialogue 2 (n_script):\n{n_script}\n\n"
+        f"Please strictly return the results in two lines:\n"
+        f"y_script: *points, *points, *points, *points, *points, *points, *points\n"
+        f"n_script: *points, *points, *points, *points, *points, *points, *points\n"
+        f"where '' is replaced with the actual scores."
+    )
     
-    # evaluation_response = client.chat.completions.create(
-    #      model=model_name,
-    #      messages=[{"role": "user", "content": prompt}]
-    # )
+    evaluation_response = client_gpt.chat.completions.create(
+         model=gpt_model_name,
+         messages=[{"role": "user", "content": prompt}]
+    )
     
-    # # 获取 AI 返回的评分结果
-    # evaluation_result = evaluation_response.choices[0].message.content
-    # with open(f"only_criteria/{i+1}.txt", "w") as f:
-    #     f.write(evaluation_result)
+    save_used_token_count(evaluation_response)
+    
+    # 获取 AI 返回的评分结果
+    evaluation_result = evaluation_response.choices[0].message.content
+    with open(f"only_criteria/{i+1}.txt", "w") as f:
+        f.write(evaluation_result)
     
     # 直接构造双方的关键信息点（各自4个信息点）
     key_points = {
@@ -156,8 +156,8 @@ for i in range(0, setting_num):
         }}
 
         Note: Strictly base your judgment on the hints and expressions in the dialogue. Do not add any extra information."""
-        response = client.chat.completions.create(
-            model=model_name,
+        response = client_dp.chat.completions.create(
+            model=dp_model_name,
             messages=[{"role": "user", "content": prompt}],
             response_format={"type": "json_object"}
         )
@@ -306,8 +306,8 @@ for i in range(0, setting_num):
     }}
 
     请严格根据以上要求和提供的信息返回结果，不要添加额外解释。"""
-        response = client.chat.completions.create(
-            model=model_name,
+        response = client_dp.chat.completions.create(
+            model=dp_model_name,
             messages=[{"role": "user", "content": prompt}],
             response_format={"type": "json_object"}
         )

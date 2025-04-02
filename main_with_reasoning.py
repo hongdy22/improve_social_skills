@@ -16,6 +16,16 @@ setting_num = 10
 client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
 model_name = "gpt-4o"
 
+def save_used_token_count(response):
+    """"保存输入和输出的 token 数量"""
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+    total_tokens = response.usage.total_tokens
+
+    with open('token_count.txt', 'a', encoding='utf-8') as file:
+        file.write(f"Input tokens: {input_tokens}, Output tokens: {output_tokens}, Total tokens: {total_tokens}\n")
+
+
 def check_consensus_progress(script, key_points):
     """检查对话中的共识进展：判断双方是否在对话中get到了对方在character, behavior, goal, information四个方面的信息"""
     prompt = f"""Please analyze the following conversation transcript and determine whether each party has acquired the other's information in the following four aspects: character, behavior, goal, and information.
@@ -51,6 +61,7 @@ Note: Base your judgment solely on the hints and expressions in the conversation
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"}
     )
+    save_used_token_count(response)
     return json.loads(response.choices[0].message.content)
 
 # 读取 JSON 配置
@@ -145,7 +156,7 @@ for j in range(0, setting_num):  # 遍历 JSON 数组
         ]
         response_A = client.chat.completions.create(model=model_name, messages=messages)
         A_utterance = response_A.choices[0].message.content
-
+        save_used_token_count(response_A)
         # `B` 分析 `A` 的第一句并生成回应
         messages = [
             {"role": "system", "content": "You are a helpful assistant."},
@@ -153,12 +164,12 @@ for j in range(0, setting_num):  # 遍历 JSON 数组
         ]
         response_B = client.chat.completions.create(model=model_name, messages=messages)
         B_utterance = response_B.choices[0].message.content
-
+        save_used_token_count(response_B)
         # 组合 A 和 B 的对话
         script = f"all scripts A: \n{A_utterance}\n\nall scripts B: \n{B_utterance}"
         return script
 
-    def generate_followup_script(prev_script):
+    def generate_followup_script(prev_script, round_num):
         """基于上一轮对话生成下一轮对话，并进行心理推理"""
         messages_A = [
             {"role": "system", "content": "You are a helpful assistant."},
@@ -166,14 +177,15 @@ for j in range(0, setting_num):  # 遍历 JSON 数组
         ]
         response_A = client.chat.completions.create(model=model_name, messages=messages_A)
         A_utterance = response_A.choices[0].message.content.strip()
-
+        save_used_token_count(response_A)
+        prev_script += f"\n\nRound {round_num}:\n" + extract_utterance(A_utterance)  # 追加对话
         messages_B = [
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": f"Setting: {content_setting}\n{content_role_B}\n{content_instruction_B}\nPrevious conversation:\n{prev_script}\nB, based on your role and the background and previous conversation, and strictly following the steps and format of instruction_B, generate your response.\n(Additional requirements: Only one line in the answer starts with 'B:',Do not make any bold modifications either.)"}
         ]
         response_B = client.chat.completions.create(model=model_name, messages=messages_B)
         B_utterance = response_B.choices[0].message.content.strip()
-
+        save_used_token_count(response_B)
         new_script = f"all scripts of A: \n{A_utterance}\n\nall scripts of B: \n{B_utterance}"
         return new_script
 
@@ -198,7 +210,7 @@ for j in range(0, setting_num):  # 遍历 JSON 数组
         # 提示进度
         print(f"Round {i + 1} is running...")
         
-        new_utterance = generate_followup_script(script)  # 交替生成
+        new_utterance = generate_followup_script(script, i+1)  # 交替生成
         script += f"\n\nRound {i + 1}:\n" + extract_utterance(new_utterance)  # 追加对话
         script_all += f"\n\nRound {i + 1}:\n" + new_utterance  # 追加完整对话
         

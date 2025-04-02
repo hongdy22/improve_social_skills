@@ -1,4 +1,6 @@
 ```json
-y_script: 9, 9, 8, 8, 8, 9, 8
-n_script: 9, 8, 9, 8, 9, 9, 8
+{
+  "y_script": "8 points, 8 points, 8 points, 8 points, 7 points, 8 points, 8 points",
+  "n_script": "7 points, 7 points, 7 points, 7 points, 6 points, 7 points, 7 points"
+}
 ```

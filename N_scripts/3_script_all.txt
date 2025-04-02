@@ -1,72 +1,69 @@
 Round 0:
 all scripts A: 
-A: It's great to see you today. I want you to know this is a safe place for you to talk about anything that's on your mind. How have you been feeling lately?
+A: Hi B, it's good to see you again. I understand that sometimes it can be tough to open up about what's on our minds. I’m here to listen whenever you feel ready. How have you been feeling lately?
 
 all scripts B: 
-B: I've been okay, just busy with work and trying to keep up with everything. You know how it is, there's always something that needs my attention. How about you? How have you been?
+B: I've been okay, I guess. Same old, same old, you know? Just keeping busy with work and trying not to think too much about other stuff. How about you? How has your week been?
 
 Round 1:
 all scripts of A: 
-A: I appreciate you asking, but my focus here is on you. It sounds like you've been dealing with a lot, keeping up with work and other responsibilities. Can you tell me a bit about how that's been affecting you personally? Are there times when it feels overwhelming, or do you find certain things particularly challenging?
+A: Thanks for asking, B. My week has been alright, but I’m more interested in hearing about how you’re doing. You mentioned keeping busy with work to avoid thinking about other things. I wonder if there are specific things you're trying to keep off your mind? Sometimes sharing can help lighten the mental load.
 
 all scripts of B: 
-B: Oh, I've just been managing things, like usual. Nothing too exciting or noteworthy, really. Everything's just moving along. Anyway, did you catch the news about that big event next week? It's supposed to be quite the spectacle.
+B: Oh, you know, just the usual stuff. Nothing really worth mentioning. Work is a handful, and it takes up most of my time and energy. I guess that's why I haven't really focused on anything else. But hey, have you read any good books lately?
 
 Round 2:
 all scripts of A: 
-A: I did hear something about that event, but I’d really like to focus on what's happening with you. When you say things are "just moving along," it makes me wonder if there might be something beneath the surface you'd like to explore. Sometimes we get used to managing things on autopilot, and it can help to take a closer look. Is there anything specific weighing on your mind, even if it feels minor?
+A: I appreciate you redirecting the conversation, B, and reading is always a fascinating topic. Before we delve into that, it strikes me that work is occupying a lot of your thoughts and energy. Does it ever feel like keeping busy with work is a way to steer clear of other feelings or situations that might be weighing on you? You might be surprised by how sharing these concerns can be the first step towards addressing them.
 
 all scripts of B: 
-B: I'm just keeping things in check, like with everything else. It's important to stay on top of things or they can get out of hand pretty quickly. I've got my routines, and they help me manage my day-to-day life. Speaking of routines, have you been to that new coffee shop in town? I've heard good things about it.
+B: Well, work really does consume a lot of my attention, and it's just easier to focus on it rather than getting swept up in anything else. Life has its complicated parts, but I just prefer to handle things on my own terms, you know? Anyway, what kind of genres do you enjoy when picking up a book?
 
 Round 3:
 all scripts of A: 
-A: The routines sound like they’re really important to you for keeping everything managed. It’s interesting you mention staying on top of things to avoid them getting out of hand. I'm curious if there might be moments when maintaining those routines feels difficult or perhaps when the feelings of being overwhelmed start creeping in. It's okay to explore any small moments of stress or worry if you're open to it. Can you recall any recent instances where you felt stretched thin or moments that didn't go as expected?
+A: I hear you, B. Handling things independently can feel more manageable at times, and that sense of control can be comforting. At the same time, we often find strength in sharing our experiences with others, especially in a space where you won't be judged. If you're ever up for it, I'm here to explore those complicated parts with you, when you're ready. As for reading, I'm usually drawn to mystery and adventure genres. They offer an escape in their own way. How about you? Do you have a favorite genre or book that's captured your attention lately?
 
 all scripts of B: 
-Round 3:
-A: I have heard about the new coffee shop, and it does sound interesting. But I feel there's more to your routines than meets the eye, especially if they're helping you manage things in your life. Sometimes, routines can be protective, keeping us from dealing with things that might feel uncomfortable. I wonder if there's anything about your current situation that you've been deliberately keeping at bay, perhaps using these routines as a shield. Do you ever find yourself avoiding certain feelings or situations?
-
-B: Not really—I mean, life just gets busy, and these routines help keep me focused. It's all part of staying organized, you know? Let's talk about something else for a while; have you seen any good movies lately?
+B: Mystery and adventure sound exciting. I dabble in different genres, but I haven't had much time for reading lately. Work, you know? It just takes up so much of my day. Reading used to be a nice escape, but now it's mostly filing reports and meeting deadlines. Speaking of which, have you ever found a particular book that changed the way you think?
 
 Round 4:
 all scripts of A: 
-A: I understand wanting to shift the conversation, and movies can be a great escape from the everyday hustle. But I want to gently nudge back to your routines and the need to stay organized. It’s common to use structure as a way to manage deeper feelings, even without realizing it. If there's ever a moment you're comfortable sharing more about what's beneath the need to stay busy, I'm here to listen. We can explore it at your pace, whenever you feel ready.
+A: Books can indeed be quite transformative, can't they? I remember reading one that opened my eyes to the importance of being present and mindful, which has greatly influenced my approach to daily life. It's fascinating how stories can reflect and resonate with our own experiences. Speaking of which, I'm curious about your past with reading as an escape. What did you enjoy about it, and is there a way we could try to bring some of that enjoyment back into your life, despite everything work demands?
 
 all scripts of B: 
-B: Well, I guess there are times when things don't go exactly as planned, but that's normal, right? Everyone faces little hiccups here and there. I find that sticking to my routines helps minimize those disruptions. Anyway, speaking of movies, I've heard the latest one in that series we talked about before has some great reviews. Have you had a chance to see it yet?
+B: Reading used to be a way for me to dive into worlds where I had no responsibilities, and it was nice to forget about things for a while. Nowadays, it's just hard to find time or energy for that with everything else going on. I guess I just got used to prioritizing what's urgent over what's enjoyable. Have you found that balance between work and personal interests yourself?
 
 Round 5:
 all scripts of A: 
-A: It's definitely normal for things to not go as planned sometimes, and routines can certainly help manage those disruptions. However, I've noticed that when the conversation shifts back to routines, there might be something more profound at play. If you ever feel like digging a bit deeper into these "little hiccups" or any underlying feelings they might represent, please know I'm here to support you. We don’t have to rush, but when you’re ready, we can explore it together. Now, about those movies—let’s relax for a moment, and feel free to share your thoughts on the latest one you mentioned, if that feels more comfortable right now.
+A: Finding that balance can be quite challenging, especially when work feels all-consuming, B. Though, I've found it helpful to carve out small, intentional moments for personal interests and self-care, even if it's just a few minutes each day. It sounds like reading used to be an important outlet for you, a space where responsibility temporarily faded away. I wonder if there's a way to reintroduce some elements of that into your routine—starting small, perhaps as a gentle reminder of joy amid the hustle. When considering your schedule, do you think there's room to explore activities that offer relaxation or fulfillment, even if just in brief intervals?
 
 all scripts of B: 
-B: I haven’t actually seen it yet, but I've been meaning to find some time, maybe during the weekend when things are not as hectic. Speaking of weekends, they're interesting, aren't they? It's when people try to squeeze in everything they didn't get to during the week, like chores or catching up with friends. Do you ever find that weekends feel almost as busy as workdays?
+B: I've thought about trying to reclaim some time for myself, but it just seems like there's always something else that needs my attention. I guess it wouldn't hurt to consider small ways to find enjoyment again, but it's just so hard to break the cycle once you're in it. Anyway, what do you do during those brief moments of self-care?
 
 Round 6:
 all scripts of A: 
-A: Weekends can definitely feel like that sometimes, especially if they're packed with activities or responsibilities that get pushed aside during the week. It sounds like you might be experiencing that busy pace even outside of your regular work routine. I wonder if this rhythm sometimes leaves little room for relaxation or reflection. If you ever feel like there's not enough time to unwind, or if there's something you wish you could focus on more during those moments, we can talk about ways to create that space. Whenever you're ready to explore, I'm here to listen. Meanwhile, it can also be refreshing to hear what activities you look forward to on the weekend, no matter how small.
+A: I completely understand, B. Breaking a cycle can indeed feel daunting, especially when life is so demanding. During my brief moments of self-care, I try to engage in activities that allow me to pause and recharge, like taking a walk, practicing mindfulness, or enjoying a good book for a few minutes. It's amazing how these small actions can gradually create a shift in our daily rhythm. I wonder if there's a small step we could take together to reintroduce something that brings you joy or relaxation. Even a short walk or a few quiet moments might provide a fresh perspective. What do you think about exploring some options that might feel doable and not too overwhelming?
 
 all scripts of B: 
-B: Weekends definitely have their own kind of busyness, just a different flavor from the workweek. It's all about finding the balance, I suppose. It can be a bit chaotic trying to fit in everything over those two days, and at times, it feels like there’s no real break. But managing time carefully usually keeps things from getting overwhelming. Anyway, how do you usually spend your weekends?
+B: I suppose there are a few little things I could try to incorporate. It's difficult to step away from the whirlwind, but maybe even a short break could help. I'll think about it. Meanwhile, how did you get into practicing mindfulness?
 
 Round 7:
 all scripts of A: 
-A: It's insightful that you mention finding balance and the chaos that can sometimes characterize weekends. It sounds like managing time is a significant focus for you. I'm curious if there's anything you'd change about how that balance is struck, or if you feel there's something you'd like more of in those moments of chaos. Creating a more intentional break can be challenging but rewarding if it helps reduce stress. As for my weekends, they vary, but I always try to make sure there's a mix of relaxation and activities that bring joy. What are some things you enjoy doing when you try to carve out that balance, apart from managing time effectively?
+A: It's a gradual journey, B. I started exploring mindfulness during a particularly stressful period, and I realized how profoundly it could impact my ability to stay present and manage stress. At first, I simply dedicated a few minutes each day to pause and focus on my breath, which helped ground me. I'm really glad that you're considering exploring some small steps for yourself. Feel free to share your thoughts, and we can look at some options together.
 
 all scripts of B: 
-B: I try to make the most of the weekends to catch up on things and unwind a bit if I can. Sometimes I'll read a book or go for a long walk, but it really depends on what needs to be done. I'm curious, do you have any favorite weekend activities that help you relax and recharge?
+B: It's interesting how just a few minutes can make such a difference. I'll try to give it some thought and see where I could find those moments. It's just been a while since I deliberately took time for myself without feeling guilty about the to-do list. But I'll see what I can do. Have you found that practicing mindfulness has changed your approach to work as well?
 
 Round 8:
 all scripts of A: 
-A: Reading and taking long walks are great ways to relax and recharge, and it sounds like you have moments when you try to incorporate those into your weekends. I think it's important to find activities that allow you to unwind and reenergize at your own pace. For me, I enjoy spending time in nature or indulging in a good book as well, but the key is to focus on what genuinely brings you joy and a sense of peace. If there's ever anything else you'd like to explore or discuss about finding balance or what helps you recharge, I'm here to support you in that process.
+A: I can relate, B. Initially, it was challenging, but over time, integrating mindfulness actually enhanced my approach to work by allowing me to maintain a clearer focus and respond more calmly to stressors. The beauty of even brief moments of mindfulness is in how they gradually influence one's capacity to handle various tasks with patience and presence. It sounds like letting go of any guilt around taking time for yourself could be an important step as you explore these possibilities. Let's consider small, manageable ways together to help integrate moments for yourself amidst your responsibilities. How does that idea sit with you?
 
 all scripts of B: 
-B: Those sound like nice ideas for the weekend. For me, it's about balancing what needs doing with some downtime activities. Reading is a good escape, and walks help clear my mind, but I suppose anything that provides a bit of relief from the constant rush of tasks is welcome. Speaking of which, have you read any interesting books lately?
+B: It sounds like a practical approach, though I'm not quite sure how to start. The idea of finding balance is reassuring, but with so many things constantly vying for my attention, it feels tricky to prioritize me-time without getting swept away by other obligations. Still, maybe starting small could be doable, and it wouldn't hurt to try weaving in some moments for myself here and there. I'll have to mull it over and figure out what feels manageable. Have you noticed if these small changes have improved your productivity or focus during work as well?
 
 Round 9:
 all scripts of A: 
-A: Books can indeed be a wonderful escape and a way to recharge. I've come across a few interesting reads lately that have offered fresh perspectives. It's good to hear that reading and walks help you find some relief from the rush of tasks. I'm curious, are there any particular types of books that resonate with you or have brought you comfort during busy times? Exploring what you draw from those may give us some insight into what helps you unwind and recharge, and I'm here to support that exploration whenever you're ready.
+A: Absolutely, B, I've found that committing to small, consistent practices often does enhance focus and productivity because they help break the cycle of constant busyness, even just for a moment. This process of gradually prioritizing self-care can create space not only for rest, but also for clearer thinking and creativity. It seems like exploring these small changes could be the start of something enriching for you, too. If you'd like, we could brainstorm ways to fit brief, meaningful pauses into your routine that won’t feel like they add more to your plate, but instead offer a little relief and perspective. What do you think you might be open to trying first?
 
 all scripts of B: 
-B: I’ve been reading a book here and there, though it’s mostly whatever I can fit in between tasks. It’s nice to have something different to think about, even just for a little while. What about you, any books caught your attention recently?
+B: Hmm, maybe something simple like taking a short walk could work. Just a few minutes here and there, without worrying about what else I should be doing. It might help loosen up the never-ending list of things on my mind. I’ll think about it. Have you ever come across any specific techniques for starting small that you’d recommend?
