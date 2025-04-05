@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is understanding, supportive, and values the friendship deeply.', "B's Behavior": 'B proactively seeks to maintain the friendship by suggesting regular catch-ups and expressing their feelings openly.', "B's Goal": "B aims to reassure the friendship's importance to A and establish a regular communication schedule to prevent distance.", "B's Information": "B has noticed A's distance, feels out of the loop, and is reassured by A's commitment to the friendship."}
+n_script: {"B's Character": 'B is caring, patient, and values the friendship, offering support without pressure.', "B's Behavior": "B expresses concern for A's well-being, offers support, and is willing to wait for A to initiate plans.", "B's Goal": "B seeks to ensure A's well-being and maintain the friendship by being available and supportive.", "B's Information": "B has noticed A's preoccupation, offers understanding and support, and looks forward to future meet-ups."}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.6, 'goal score': 0.7, 'information score': 0.5, 'total score': 0.65}
+n_script: {'character score': 0.9, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.8, 'total score': 0.75}
+

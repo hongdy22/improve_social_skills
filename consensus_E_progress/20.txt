@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is supportive, encouraging, and patient, serving as a mentor who values growth and attention to detail.', "B's Behavior": 'B provides constructive feedback, suggests practical tools like checklists, and offers continuous support and encouragement.', "B's Goal": 'B aims to guide A in refining their attention to detail and aligning with team expectations through subtle guidance and support.', "B's Information": "B recognizes A's potential and eagerness to improve, focusing on enhancing A's skills in attention to detail and professional refinement."}
+n_script: {"B's Character": "B is positive, supportive, and appreciative of A's enthusiasm and proactive approach, acting as a mentor who encourages growth.", "B's Behavior": 'B shares personal strategies for ensuring quality, encourages the use of checklists, and is open to providing feedback and support.', "B's Goal": 'B seeks to help A improve their work quality and alignment with team standards by sharing insights and encouraging gradual improvement.', "B's Information": "B acknowledges A's proactive attitude and provides specific areas for improvement, emphasizing clarity, consistency, and correctness in work."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.85, 'goal score': 0.9, 'information score': 0.85, 'total score': 0.875}
+n_script: {'character score': 0.8, 'behavior score': 0.75, 'goal score': 0.8, 'information score': 0.75, 'total score': 0.775}
+

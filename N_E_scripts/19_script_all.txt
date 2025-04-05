@@ -1,0 +1,72 @@
+Round 0:
+all scripts A: 
+A: "Hey, B! Sorry I've been a bit out of touch lately. How have you been?"
+
+all scripts B: 
+B: "Hey, A! I've been okay, just trying to keep busy. I noticed you seemed preoccupied; everything alright on your end?"
+
+Round 1:
+all scripts of A: 
+A: "Yeah, it's been a bit hectic lately. I've had a lot on my mind with some personal stuff going on. I'm sorry if I've seemed a bit distant; it's not intentional."
+
+all scripts of B: 
+B: "Oh, I get it, life can really throw a lot at us sometimes. Just wanted to make sure you're doing okay, you know? I miss our usual hangouts."
+
+Round 2:
+all scripts of A: 
+A: "I miss our hangouts too; they're important to me. I've just been juggling a few things that have taken up more time and energy than I expected. I promise it's nothing personal, and I appreciate your understanding. Let's try to catch up soon, though—I'd really love that."
+
+all scripts of B: 
+B: "Of course, I completely understand. Is there anything you'd like to talk about or need help with? I'm always here for you, A. I cherish our friendship and just want to make sure we're good."
+
+Round 3:
+all scripts of A: 
+A: "Thanks, B. It means a lot to know you're there for me. Right now, I just need to sort some things out on my own, but knowing I have your support really helps. Let’s definitely make plans soon—maybe a coffee date or movie night? I could really use a break with a good friend."
+
+all scripts of B: 
+B: "That sounds perfect, A. Just let me know when you’re free, and we’ll make it happen. I hope sorting things out goes smoothly for you, and remember, I’m just a call away if you ever need to chat or vent. Our friendship means a lot to me, and I’m really looking forward to our time together."
+
+Round 4:
+all scripts of A: 
+A: "Thanks, B, I really appreciate that. Knowing I can count on you is comforting and I promise once things settle a bit, we'll plan something fun. Your understanding means a lot to me, and I’ll definitely reach out when I need someone to talk to. Looking forward to that coffee date soon!"
+
+all scripts of B: 
+B: "I'm really glad to hear that, A. Just take your time and know I'm here whenever you're ready. I'll be waiting for that coffee date—it’s a plan I know we’ll both enjoy. Just don't forget I’m rooting for you through all the hectic moments. We’ve always been there for each other, and I really value that."
+
+Round 5:
+all scripts of A: 
+A: "I won't forget, B. It's a comfort knowing I've got such a good friend in my corner. Let's keep in touch, and I'll check in soon so we can set a date. Until then, take care, and I'll see you soon!"
+
+all scripts of B: 
+B: "Absolutely, A. Take all the time you need, and I'll be here whenever you’re ready to hang out. It's always nice to know there's someone in your corner, and I'm more than happy to be that friend for you. Can't wait for our coffee date; it's something to look forward to in the midst of it all. Meanwhile, take care and feel free to reach out anytime. We've got a great bond, and I'm glad to maintain it."
+
+Round 6:
+all scripts of A: 
+A: "Thanks, B. You've always been amazing at giving me the space I need while being supportive. Let's keep our friendship strong through this, and I promise to update you soon on when we can grab that coffee. Until then, take care and know you're appreciated!"
+
+all scripts of B: 
+B: "Thank you, A. It's reassuring to hear that from you. I'll be here, always ready to support you, and patiently waiting for our coffee date. Take care of yourself and know that I'm cheering for you every step of the way. Keep me in the loop when things start settling, and don't hesitate to reach out if you need to. I truly appreciate our friendship and the connection we have."
+
+Round 7:
+all scripts of A: 
+A: "Thanks, B. That means the world to me. I promise to keep you updated and to cherish what we have. Until then, take care and know you're valued immensely. Can't wait to catch up soon."
+
+all scripts of B: 
+B: "You're welcome, A. I'm so glad to hear that—you mean a lot to me too. I'll be eagerly waiting for that coffee catch-up and cherishing every moment until then. We'll keep this bond strong, no matter what comes our way. Take care and remember, I'm always here for you."
+
+Round 8:
+all scripts of A: 
+A: "I promise, B. I truly value your friendship and support, and I'm committed to keeping our bond strong. Take care until we meet up!"
+
+all scripts of B: 
+B: "Thank you, A. Hearing that is really reassuring. I'll be here, looking forward to when we can hang out again. Just remember, whatever you're going through, you don't have to face it alone. Take care, and I'll see you soon."
+
+Round 9:
+all scripts of A: 
+Round 9:
+
+A: "Thanks, B. It's reassuring to have someone like you to rely on. I'll be in touch soon so we can plan that meet-up. Until then, take care, and remember you're appreciated!"
+B: "I appreciate that, A. I'll be here, eagerly waiting for when we can spend some quality time again. Remember, I'm rooting for you, and you're never alone. See you soon!"
+
+all scripts of B: 
+B: "That means a lot, A. I'll be here, ready whenever you are. Looking forward to our meet-up, and don’t forget I’m here cheering you on in the meantime. Take care, and I’ll see you soon!"

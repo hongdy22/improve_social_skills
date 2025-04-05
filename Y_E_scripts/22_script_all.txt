@@ -1,0 +1,253 @@
+Round 0:
+all scripts A: 
+A: Hey B, I was wondering if I could borrow your ladder again? I've got a few things to fix around the house. Your tools always make the job so much easier!
+
+all scripts B: 
+B: Oh, the ladder! You know, I was just thinking about installing a revolving door between our garages with how often my tools have been getting visits to your place! They're starting to know your house better than mine. But sure, I can lend it to you—it's just out there keeping all my other tools company. Let's make sure it promises to come home, though!
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B humorously suggests that A borrows tools frequently, more than expected.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B humorously suggests that A borrows tools frequently, more than expected, combined with A's believed fact that borrowing items is commonplace and informal, A can infer implicature that B might feel slightly inconvenienced by the repeated borrowing.
+
+3. Conclude fact received from this round:
+A get explicature that B humorously suggests that A borrows tools frequently, more than expected and implicature that B might feel slightly inconvenienced by the repeated borrowing, A can conclude the fact that B feels the frequent borrowing is becoming a bit of a burden.
+
+4. Evaluate the contrbution of the received fact to the goal:
+A's goal is that to adjust their behavior to reduce any potential burden on B, while still preserving a warm neighborly relationship. The received fact that B feels the frequent borrowing is becoming a bit of a burden make contrbution to the goal that it makes A aware that they need to be more considerate with their borrowing requests.
+
+5. Refine new goal depend on the contrbution:
+Because of the contrbution that it makes A aware that they need to be more considerate with their borrowing requests, A can refine new goal that to reduce the frequency of borrowing while ensuring B feels appreciated and valued as a neighbor.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to reduce the frequency of borrowing while ensuring B feels appreciated and valued as a neighbor. To archieve the goal, A have informative intention that A acknowledges the frequency of borrowing might be a burden and appreciates B's kindness, and communicative intention that to assure B they will try to limit requests and express gratitude.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A acknowledges the frequency of borrowing might be a burden and appreciates B's kindness, which means information in A's utterance will mainly foucs on that. A's communicative intention is that to assure B they will try to limit requests and express gratitude, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Oh wow, a revolving door for tools – that’s a funny thought! I really appreciate you lending them to me so often. I’ll make sure they head back promptly this time and try to limit my borrowing. Thanks for being such a fantastic neighbor!
+
+all scripts of B: 
+B: No problem at all! Just thought I'd add a bit of humor into our tool-exchanging adventures. Besides, every good tool deserves a bit of sightseeing now and then, right? But seriously, I do appreciate you keeping tabs on their little excursions! Let me know if you ever need help with a project too; I'm happy to lend a hand—not just the tool!
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B appreciates the humor in the situation and values keeping track of the tools but has offered help beyond just lending tools.  
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B appreciates the humor and offers help, combined with A's believed fact that borrowing is normal but might be causing inconvenience, A can infer implicature that B prefers a balance in their exchange, perhaps including direct collaboration rather than frequent borrowing.  
+
+3. Conclude fact received from this round:  
+A get explicature that B appreciates the humor and offers help, and implicature that B prefers balance in their exchange, A can conclude the fact that B values an exchange that includes direct collaboration or help along with lending tools.  
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to adjust their behavior to reduce any potential burden on B while preserving a warm neighborly relationship. The received fact that B values an exchange that includes collaboration alongside lending tools contributes to the goal by suggesting that A can involve B more directly in projects rather than just borrowing tools.  
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that involving B directly can foster a balanced relationship, A can refine the new goal to involve B more in collaborative projects to strengthen the relationship while reducing the focus on borrowing tools.  
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to involve B more in collaborative projects. To achieve the goal, A has the informative intention to discuss a project that could use both their input and tools, and the communicative intention to show appreciation for B's willingness to help directly.  
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is to discuss a project that could use both their input and tools, which means information in A's utterance will mainly focus on that. A's communicative intention is to show appreciation for B's willingness to help directly, which means A's utterance will imply B is valued for more than just tools. So A would utter like that:  
+A: You know, it might be fun if we tackled a project together sometime. I could really use some of your expertise on a couple of things around the house, and it'd be great to work as a team. What do you think?
+
+all scripts of B: 
+B: That sounds like a fantastic idea! We could call it a neighborhood improvement day. Just let me know when you're thinking of starting, and we can plan out our tool itinerary. Besides, two sets of eyes usually mean fewer trips for forgotten things, and more time for coffee breaks!
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is excited about working together on a project as a neighborhood improvement day, suggesting a more collaborative approach.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is excited about working together on a neighborhood project, combined with A's believed fact that borrowing tools so often may feel imposing, A can infer implicature that B prefers shared activities over frequent borrowing.
+
+3. Conclude fact received from this round:
+A get explicature that B is excited to collaborate on a project and implicature that B prefers shared activities, A can conclude the fact that B would appreciate more collaborative efforts rather than just lending tools.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to adjust their behavior to reduce any potential burden on B while preserving a warm neighborly relationship. The received fact that B would appreciate more collaborative efforts contributes to the goal by offering a way to reduce tool requests through joint activities.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B would appreciate more collaborative efforts, A can refine new goal that to engage in more joint projects with B to balance the borrowing with collaboration and strengthen the neighborly bond.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to engage in more joint projects with B to balance borrowing and strengthen the neighborly bond. To achieve the goal, A have informative intention that A is interested in planning joint projects and communicative intention that A values B's contribution and is eager to collaborate.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A is interested in planning joint projects, which means information in A's utterance will mainly focus on that. A's communicative intention is that A values B's contribution and is eager to collaborate, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really excited about the idea of a neighborhood improvement day! Let's think of a project we can start with and make a plan. I'm sure it would be a lot of fun and a great way to share our talents and tools together!
+
+all scripts of B: 
+B: That sounds perfect, A! I'm all for sharing talents, tools, and maybe even a post-project celebration. Let's brainstorm some ideas, perhaps over a cup of coffee, and ensure our handy duo is on the same page. Plus, I've got a hunch that teamwork might just keep our tool tour company in check!
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B agrees to the idea of a neighborhood improvement day and suggests brainstorming ideas over coffee, highlighting the benefits of teamwork.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B agrees to the idea of a neighborhood improvement day and suggests brainstorming, combined with A's believed fact that sharing activities can strengthen relationships, A can infer implicature that B values collaborative efforts and is subtly highlighting the potential for reducing individual tool requests through joint projects.
+
+3. Conclude fact received from this round:
+A get explicature that B agrees to the idea of a neighborhood improvement day and suggests brainstorming ideas, and implicature that B values collaborative efforts to reduce tool requests, A can conclude the fact that B prefers working together as a means to minimize frequent individual borrowing.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to adjust their behavior to reduce any potential burden on B while preserving a warm neighborly relationship. The received fact that B prefers working together as a means to minimize frequent borrowing makes the contribution to the goal that engaging in joint projects aligns with reducing the borrowing burden and nurtures neighborly relations.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that engaging in joint projects aligns with reducing the borrowing burden, A can refine new goal that engage in collaborative projects with B to share tools and expertise, minimizing individual borrowing requests.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to engage in collaborative projects with B to share tools and expertise, minimizing individual borrowing requests. To achieve the goal, A has informative intention to express enthusiasm for planning the neighborhood improvement day and interest in brainstorming ideas, and communicative intention to subtly imply that collaborative efforts will help reduce frequent borrowing.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to express enthusiasm for planning the neighborhood improvement day, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly imply that collaborative efforts will help reduce frequent borrowing, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really looking forward to our brainstorming session over coffee! It'll be a great way to come up with some fantastic project ideas and work together. I'm sure it will help us streamline our tool usage and make our projects even more efficient.
+
+all scripts of B: 
+B: I'm looking forward to it too, A! I have a feeling our projects will be so seamless that the tools might beg to stay permanently in your toolbelt! But on a serious note, the collaboration will definitely help us both learn a thing or two while keeping the tool traffic manageable. Let's pick a day soon for our coffee session and get those creative juices flowing!
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is looking forward to the coffee brainstorming session and benefits in learning, efficiency, and manageability from the collaboration.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is looking forward to the coffee brainstorming session and benefits in learning, efficiency, and manageability from the collaboration, combined with A's believed fact that a collaborative approach can reduce individual borrowing needs, A can infer implicature that B appreciates a more balanced tool usage and less frequent individual borrowing.
+
+3. Conclude fact received from this round:
+A gets explicature that B is looking forward to the coffee brainstorming session and benefits in learning, efficiency, and manageability from the collaboration and implicature that B appreciates a more balanced tool usage and less frequent individual borrowing, A can conclude the fact that collaborating on projects can address B’s concern about frequent tool borrowing.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to adjust their behavior to reduce any potential burden on B while still preserving a warm neighborly relationship. The received fact that collaborating on projects can address B’s concern about frequent tool borrowing contributes to the goal by providing a pathway to reduce borrowing in a way that fosters and maintains the relationship.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that collaborating on projects can address B’s concern about frequent tool borrowing, A can refine the new goal to focus on planning joint projects that utilize both A's and B's resources effectively.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to focus on planning joint projects that utilize both A's and B's resources effectively. To achieve the goal, A has an informative intention to show enthusiasm and readiness to plan the project and a communicative intention to imply B to prioritize and set a date for their coffee meeting.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to show enthusiasm and readiness to plan the project, which means information in A's utterance will mainly focus on participating energetically. A's communicative intention is to imply B to prioritize and set a date for their coffee meeting, which means A's utterance will suggest urgency in planning. So A would utter like that:
+
+A: I can't wait for our coffee brainstorming session! How about we schedule it for this weekend? It would be fantastic to start planning and see what great ideas we can come up with together.
+
+all scripts of B: 
+B: This weekend sounds like a great plan, A! I'm sure our brainstorming will result in some brilliant project ideas—hopefully ones that give our tools just enough work without wearing them out! Let's aim for Saturday morning, over a nice cup of coffee, and get ready to turn those plans into action. Looking forward to it!
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is agreeing to have a brainstorming session this weekend to come up with project ideas, and suggests Saturday morning over coffee. 
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is agreeing to a session this weekend to brainstorm project ideas, combined with A's believed fact that planning together will enhance collaboration and reduce borrowing, A can infer implicature that B is supportive of collaboration to manage borrowings and enjoys a team-based approach.
+
+3. Conclude fact received from this round:
+A get explicature that B is agreeing to have a brainstorming session this weekend and implicature that B is supportive of collaboration to manage borrowings, A can conclude the fact that B is open to finding a balance in tool sharing through joint projects.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to adjust their behavior to reduce any potential burden on B while maintaining a warm neighborly relationship. The received fact that B is open to finding a balance in tool sharing through joint projects makes a contribution to the goal by providing a collaborative avenue to lessen borrowing inconveniences.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that finding a collaborative avenue to lessen borrowing inconveniences, A can refine new goal that to foster a neighborly collaboration that balances tool sharing and mutual aid.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to foster a neighborly collaboration that balances tool sharing and mutual aid. To achieve the goal, A has informative intention that A is eager to collaborate and strategize tool usage, and communicative intention that A values B's cooperation in this mutually beneficial plan.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A is eager to collaborate and strategize tool usage, which means information in A's utterance will mainly focus on that. A's communicative intention is that A values B's cooperation in this mutually beneficial plan, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Saturday morning sounds perfect, B! I can't wait to put our heads together and come up with some exciting projects. It'll definitely help us both make the most out of our skills and tools. Thanks for being up for such a great collaboration!
+
+all scripts of B: 
+B: I'm excited for it too, A! It's always great to work with a neighbor who's as enthusiastic about these projects as I am. Let's make sure we balance the workload so neither our tools nor us end up needing a vacation by the end of it! It'll be a productive and fun time for sure. See you Saturday!
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that B is eager to collaborate on projects and wants to ensure that both the workload and tool usage are balanced.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager to collaborate and wants balanced workload and tool usage, combined with A's believed fact that borrowing too often might be inconvenient for B, A can infer the implicature that B wants to maintain a partnership where both contribute equally without overburdening either party.
+
+3. Conclude fact received from this round:
+A gets explicature that B is eager to collaborate and wants balanced workload and tool usage, and implicature that B wants to maintain equality without overburdening either party. A can conclude the fact that B values collaboration that fairly distributes responsibilities and tool demands.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to adjust their behavior to reduce any potential burden on B while preserving a warm neighborly relationship. The received fact that B values collaboration that fairly distributes responsibilities makes a strong contribution to the goal because it guides A on how to better align with B's preferences.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that the received fact makes, A can refine the new goal to actively participate in joint projects and ensure a fair share of contributions, reducing individual tool borrowing.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to actively participate in joint projects and ensure fair contributions, reducing tool borrowing. To achieve the goal, A has the informative intention to express readiness to plan projects that balance both contributions and the communicative intention to demonstrate commitment to sharing responsibilities.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to express readiness to plan projects that balance contributions, focusing on that. A's communicative intention is to demonstrate commitment to shared responsibilities, implying B to pay attention to that. So A would utter like that:
+
+A: I'm thrilled about how our collaboration is shaping up, B! I'll make sure we have a list of ideas where we can both contribute equally. That way, we can make the most of our talents and keep things fair and enjoyable for us both. See you Saturday!
+
+all scripts of B: 
+B: That sounds perfect, A! I'm all for a balanced effort and making sure we're both contributing equally. With the right mix of ideas, I'm sure our projects will turn into something fantastic—and maybe even set a trend in the neighborhood! Looking forward to having a productive and fun Saturday with you.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates a balanced effort in the collaboration and is looking forward to a productive and enjoyable Saturday.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates a balanced effort in the collaboration, combined with A's believed fact that frequent borrowing can be inconvenient for B, A can infer implicature that B values equal contribution to ensure the partnership is mutually beneficial without overburdening him.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates a balanced effort in the collaboration and implicature that B values equal contribution to ensure the partnership is mutually beneficial. A can conclude the fact that B prefers a collaborative approach where both parties contribute equally, reducing the strain on him.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to adjust their behavior to reduce any potential burden on B while still preserving a warm neighborly relationship. The received fact that B prefers a collaborative approach where both parties contribute equally makes a contribution to the goal that it guides A in maintaining a balanced effort in the partnership, minimizing inconvenience to B.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it guides A in maintaining a balanced effort in the partnership, minimizing inconvenience to B, A can refine new goal that A aims to ensure equal contribution in their collaborative projects to maintain a balanced and fair partnership with B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure equal contribution in their collaborative projects to maintain a balanced and fair partnership with B. To achieve the goal, A has informative intention that A will focus on coming up with ideas that allow for equal contribution from both and communicative intention that A will reassure B of their commitment to balance the workload fairly.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A will focus on coming up with ideas that allow for equal contribution from both, which means information in A's utterance will mainly focus on that. A's communicative intention is that A will reassure B of their commitment to balance the workload fairly, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Great, B! I’m planning to make sure our list of projects this Saturday includes tasks that balance our strengths and interests. That way, it’s enjoyable and fair work for both of us. Can't wait to get started with you!
+
+all scripts of B: 
+B: That sounds like a fantastic plan, A! Ensuring a mix that plays to both of our strengths will definitely make the projects not just productive but enjoyable. We might even end up being the local DIY celebrities! Looking forward to our creative Saturday—it's going to be a day of both work and fun. See you then!
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is enthusiastic about balancing tasks that suit both of their strengths for the project.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is enthusiastic about balancing tasks that suit both of their strengths for the project, combined with A's believed fact that borrowing tools can sometimes be burdensome, A can infer implicature that B values teamwork as a way to share responsibilities and reduce individual strain.
+
+3. Conclude fact received from this round:
+A get explicature that B is enthusiastic about balancing tasks that suit both of their strengths for the project and implicature that B values teamwork as a way to share responsibilities and reduce individual strain, A can conclude the fact that B prefers collaborative efforts to alleviate frequent borrowing.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to adjust their behavior to reduce any potential burden on B, while still preserving a warm neighborly relationship. The received fact that B prefers collaborative efforts to alleviate frequent borrowing makes a contribution to the goal by highlighting a pathway to reduce inconvenience through shared projects.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it highlights a pathway to reduce inconvenience through shared projects, A can refine the new goal to focus on promoting collaboration as an alternative to frequent borrowing.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to focus on promoting collaboration as an alternative to frequent borrowing. To achieve the goal, A has informative intention that they are committed to balancing tasks for shared projects and communicative intention to express enthusiasm for collaboration and sensitivity to B’s preferences.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that they are committed to balancing tasks for shared projects, which means information in A's utterance will mainly focus on that. A's communicative intention is that express enthusiasm for collaboration and sensitivity to B’s preferences, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm really glad we're emphasizing teamwork and balance for our project list, B. It’ll definitely make our work more efficient and enjoyable. I'm committed to making sure our collaboration goes smoothly and respects both our time and efforts. Looking forward to an amazing Saturday together!
+
+all scripts of B: 
+B: I'm really glad to hear that, A! By combining our efforts and respecting each other's time, I'm sure our projects will be both rewarding and fun. It's all about finding that sweet spot where productivity meets enjoyment. I'm really looking forward to collaborating and turning our ideas into reality this Saturday. Let's make it a day to remember!

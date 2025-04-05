@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is cautious and values clear communication and trust in professional relationships.', "B's Behavior": 'B is open to discussing future projects but emphasizes the need for a clear understanding and structured feedback to resolve differences.', "B's Goal": 'B aims to establish a structured feedback mechanism to ensure both perspectives are respected and to prevent past communication issues.', "B's Information": 'B believes in building trust through transparent discussions and respecting professional boundaries.'}
+n_script: {"B's Character": 'B is reflective and prioritizes smooth working relationships and clear communication.', "B's Behavior": 'B focuses on discussing project ideas in a professional setting and emphasizes clear communication and setting realistic expectations.', "B's Goal": 'B seeks to improve collaboration by identifying key goals, roles, and deadlines to avoid misunderstandings.', "B's Information": 'B values open communication and mutual understanding to ensure project success and a respectful working environment.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.7, 'total score': 0.7}
+n_script: {'character score': 0.5, 'behavior score': 0.6, 'goal score': 0.5, 'information score': 0.6, 'total score': 0.55}
+

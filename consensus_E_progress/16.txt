@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is a dedicated and steady team member who values teamwork and collaboration.', "B's Behavior": 'B expresses gratitude for recognition and emphasizes the importance of teamwork and behind-the-scenes contributions.', "B's Goal": "B aims to have their contributions recognized and to continue contributing meaningfully to the team's success.", "B's Information": "B feels validated and motivated by A's acknowledgment of their contributions and is optimistic about future teamwork."}
+n_script: {"B's Character": "B is a detail-oriented and consistent team member who believes in the importance of every team member's contributions.", "B's Behavior": 'B appreciates recognition and is eager to share insights and highlight collaborative efforts with the team.', "B's Goal": "B seeks to ensure that all team members' contributions are visible and valued to enhance collective success.", "B's Information": "B is encouraged by A's commitment to recognizing individual contributions and looks forward to future collaborative projects."}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.6}
+

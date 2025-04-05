@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is enthusiastic, innovative, and committed to aligning their proposal with company standards.', "B's Behavior": 'B proactively refines their proposal, seeks feedback, and prepares detailed presentations to address concerns.', "B's Goal": 'B aims to persuade A to approve their innovative idea by demonstrating its alignment with risk management strategies and potential benefits.', "B's Information": 'B has included a detailed risk assessment, proposed a phased implementation, and gathered data from similar successful projects.'}
+n_script: {"B's Character": 'B is highly motivated, detail-oriented, and focused on balancing innovation with strategic objectives.', "B's Behavior": 'B diligently gathers data, outlines a phased implementation plan, and seeks collaborative discussions to refine their proposal.', "B's Goal": 'B seeks to convince A of the viability of their innovative approach by aligning it with strategic goals and risk management.', "B's Information": 'B has collected industry case studies, proposed stress testing and review checkpoints, and prepared a detailed proposal for review.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.95, 'goal score': 0.9, 'information score': 0.95, 'total score': 0.925}
+n_script: {'character score': 0.8, 'behavior score': 0.85, 'goal score': 0.8, 'information score': 0.85, 'total score': 0.825}
+

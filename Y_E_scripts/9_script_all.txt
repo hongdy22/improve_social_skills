@@ -1,0 +1,247 @@
+Round 0:
+all scripts A: 
+A: *placing a hand on B's shoulder with a friendly smile* Alright, let's start by arranging the tables in a semi-circle around the dance floor—that way, people can easily chat and join in the fun whenever they're ready. What do you think?
+
+all scripts B: 
+B: *nodding thoughtfully while glancing around the room* I think that sounds like a great idea. If we use tablecloths that match the color scheme of the decorations—perhaps something that ties in with the vibrant colors we’ve chosen—it will really bring everything together. Plus, placing subtle centerpieces with small lanterns on each table could add a warm and inviting glow. What do you think about that?
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B agrees with the semi-circle arrangement and suggests using tablecloths and subtle centerpieces with lanterns to enhance the ambiance.  
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B agrees with the semi-circle arrangement and suggests using tablecloths and subtle centerpieces with lanterns to enhance the ambiance, combined with A's believed fact that creating a cohesive look is crucial for fostering a welcoming atmosphere, A can infer implicature that B values a harmonious visual theme to enhance the event's appeal.  
+
+3. Conclude fact received from this round:  
+A get explicature that B agrees with the semi-circle arrangement and suggests using tablecloths and subtle centerpieces with lanterns, and implicature that B values a harmonious visual theme, A can conclude the fact that B supports enhancing the venue's visual appeal with consistent decoration elements.  
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that B supports enhancing the venue's visual appeal with consistent decoration elements contributes to the goal by aligning B's efforts with A's vision for an inviting and cohesive environment.  
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that aligns B's efforts with A's vision, A can refine new goal that A and B collaborate effectively to create a visually appealing and functional space that enhances guest interaction and warmth.  
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that A and B collaborate effectively to create a visually appealing and functional space that enhances guest interaction and warmth. To achieve the goal, A has informative intention that acknowledges B's idea of using tablecloths and centerpieces and encourages their implementation, and communicative intention that reinforces the focus on creating an inviting atmosphere through their combined efforts.  
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that acknowledges B's idea of using tablecloths and centerpieces and encourages their implementation, which means information in A's utterance will mainly focus on that. A's communicative intention is that reinforces the focus on creating an inviting atmosphere through their combined efforts, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: That's a fantastic idea! I love the thought of using matching tablecloths and those lantern centerpieces will definitely add that warm glow we’re aiming for. Let’s go ahead with that; it'll really heighten the atmosphere and make our guests feel right at home.
+
+all scripts of B: 
+B: Great! I'll start setting up the tablecloths and centerpieces while you handle organizing the tables in that semi-circle formation. We could also consider adding some floral touches around the lanterns to enhance the inviting feel. It's going to be a great event, and I'm glad to be part of making it happen.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B will start setting up the tablecloths and centerpieces and is suggesting adding floral touches around the lanterns.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B will start setting up the tablecloths and centerpieces and is suggesting adding floral touches around the lanterns, combined with A's believed fact that floral decorations can enhance the visual appeal of the venue, A can infer implicature that B values an inviting and aesthetically pleasing environment and is proactive in contributing ideas.
+
+3. Conclude fact received from this round:  
+A gets explicature that B will start setting up the tablecloths and centerpieces and is suggesting adding floral touches around the lanterns, and implicature that B values an inviting and aesthetically pleasing environment and is proactive in contributing ideas. A can conclude the fact that B is actively contributing to maximizing the visual and welcoming aspect of the venue.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to ensure the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that B is actively contributing to maximizing the visual and welcoming aspect of the venue makes a contribution to the goal by ensuring that both efficiency and creativity are applied to achieve an inviting atmosphere.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B is actively contributing to maximizing the visual and welcoming aspect of the venue, A can refine the new goal that both A and B collaborate seamlessly to integrate all decorative elements with functional arrangements to create a cohesive and vibrant environment.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that both A and B collaborate seamlessly to integrate all decorative elements with functional arrangements to create a cohesive and vibrant environment. To achieve the goal, A has the informative intention that they will ensure that the semi-circle arrangement complements the visual elements B is working on, and the communicative intention that B should coordinate with A so all components fit together.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is that they will ensure that the semi-circle arrangement complements the visual elements B is working on, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should coordinate with A so all components fit together, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Wonderful! I'll make sure the tables are arranged just right so that the floral touches you’re adding around the lanterns can truly shine, enhancing that warm ambiance. Let’s keep communicating as we set things up, so everything comes together perfectly.
+
+all scripts of B: 
+B: Absolutely, let’s keep the lines open. I’ll begin by placing some soft, pastel-colored flowers—lavender and blush roses perhaps—around the lanterns to add a gentle touch to the decor. I'm sure this will blend beautifully with the overall setup we're envisioning. Let me know if you need any help once you're done with the tables.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is planning to add soft, pastel-colored flowers, specifically lavender and blush roses, around the lanterns to enhance the decor.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is planning to add soft, pastel-colored flowers, combined with A's believed fact that enhancing decor can improve the atmosphere, A can infer implicature that B wants to create a gentle and cohesive aesthetic that complements the overall setup.
+
+3. Conclude fact received from this round:
+A get explicature that B is planning to add soft, pastel-colored flowers and implicature that B wants to create a gentle and cohesive aesthetic, A can conclude the fact that B’s floral arrangement is intended to blend harmoniously with the overall decor to enhance the atmosphere.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that B’s floral arrangement is intended to blend harmoniously with the overall decor to enhance the atmosphere contributes to the goal by supporting a visually appealing and warm environment that promotes mingling and interaction.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's floral arrangement supports a visually appealing environment, A can refine new goal that to coordinate with B to ensure all decorative elements harmonize to maximize the inviting and celebratory atmosphere.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to coordinate with B to ensure all decorative elements harmonize to maximize the inviting and celebratory atmosphere. To achieve the goal, A has informative intention to confirm the table arrangement is suitable for B's floral decor and communicative intention to ensure B feels supported in their efforts.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to confirm the table arrangement is suitable for B's floral decor, which means information in A's utterance will mainly focus on that. A's communicative intention is to ensure B feels supported in their efforts, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: The table arrangement is all set and should provide a beautiful backdrop for your lovely floral choices. Feel free to let me know if any adjustments are needed, and I'm here to assist with anything else to make it all come together seamlessly.
+
+all scripts of B: 
+Feeling the excitement of the preparations, B moves gracefully between the tables, ensuring the decorations complement each aspect of the party setting, while chatting with A. As the pastel flowers start to create a harmonious atmosphere, B appreciates the team's synergy that transforms the community center into a vibrant and welcoming space. 
+
+B: These floral touches are looking fantastic here; with the table arrangements and the lanterns, it’s all coming together beautifully. The colors appear much richer against the closed windows during this sunset hour, making our choice of palettes even more inviting. I’m eager to see how our guests react when they walk through the door. Let me know if there’s any area needing more attention as we proceed.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that the floral decorations are looking fantastic, and the colors appear richer against the closed windows during the sunset hour, increasing the inviting presence of our setup.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that the floral decorations are looking fantastic, combined with A's believed fact that A aims to create a warm and inviting atmosphere, A can infer implicature that the current setup is achieving the desired ambiance effectively as planned.
+
+3. Conclude fact received from this round:
+A get explicature that the floral decorations are looking fantastic and implicature that the setup is achieving the desired ambiance effectively, A can conclude the fact that the current arrangement and decor are creating a warm and inviting atmosphere.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that the current arrangement and decor are creating a warm and inviting atmosphere makes contribution to the goal by confirming the visual appeal and inviting ambiance that encourages mingling.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that the arrangement and decor are creating a warm ambiance, A can refine new goal that to identify any additional areas that might need enhancement to further elevate the effect.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to identify any additional areas that might need enhancement to further elevate the effect. To achieve the goal, A have informative intention to gather opinions on potential areas for improvement and communicative intention to collaborate with B to identify such areas.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to gather opinions on potential areas for improvement, which means information in A's utterance will mainly focus on that. A's communicative intention is to collaborate with B to identify such areas, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: It's wonderful to hear the decor is coming together so beautifully. Let's take a moment to step back and see if there are any spots that could use a bit more attention or enhancement to ensure everything is perfect. Your keen eye for detail is always helpful in making those final touches.
+
+all scripts of B: 
+B: Sounds like a great plan. Let's take a walk around the venue and ensure everything blends seamlessly. I'll check on the entryway; we could add a few extra decorations there to create an inviting first impression for our guests. Afterward, I’ll join you to fine-tune any other areas. This is shaping up to be quite the memorable setting!
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B wants to ensure the venue blends seamlessly and suggests adding extra decorations at the entryway for a better first impression.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B wants to ensure the venue blends seamlessly and suggests enhancing the entryway, combined with A's believed fact that a great first impression can set the tone for the entire event, A can infer implicature that enhancing the entryway will make guests feel welcomed from the moment they arrive, adding to the overall success of the event.
+
+3. Conclude fact received from this round:
+A get explicature that B wants to ensure the venue blends seamlessly and suggests enhancing the entryway and implicature that enhancing the entryway will make guests feel welcomed from the moment they arrive, A can conclude the fact that enhancing the entryway is essential for a good first impression and overall event success.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that enhancing the entryway is essential for a good first impression and overall event success make contribution to the goal that it ensures guests feel welcomed and sets a positive tone for the event.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it ensures guests feel welcomed and sets a positive tone for the event, A can refine new goal that to specifically focus on enhancing the entryway to maximize the welcoming atmosphere.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to specifically focus on enhancing the entryway to maximize the welcoming atmosphere. To achieve the goal, A have informative intention that enhancing the entryway will make a significant impact and communicative intention that B should prioritize adding decorations to the entryway.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that enhancing the entryway will make a significant impact, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should prioritize adding decorations to the entryway, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Enhancing the entryway sounds like a brilliant idea! It’s amazing how a first impression can set the mood for the entire event. Let’s prioritize adding decorations there to welcome our guests warmly. I'll quickly go over the main area once more, and then join you to add those final flourishes.
+
+all scripts of B: 
+B: I'll focus on arranging some eye-catching pieces near the entryway, perhaps intertwining greenery with soft lighting to create an inviting ambiance right as guests step in. Once done, I'll come over to assist with any last enhancements in the main area. Working together, we've crafted a space that truly feels welcoming—it’s going to set a wonderful tone for the evening.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B is working on arranging the entryway decorations to create an inviting ambiance using greenery and soft lighting.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is working on arranging the entryway decorations to create an inviting ambiance using greenery and soft lighting, combined with A's believed fact that setting the right mood is crucial for a successful event, A can infer implicature that B is ensuring the first impression is warm and welcoming.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is working on arranging the entryway decorations to create an inviting ambiance using greenery and soft lighting and implicature that B is ensuring the first impression is warm and welcoming. A can conclude the fact that B is effectively setting up an inviting entryway that will enhance the guests' first impression.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to ensure the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that B is effectively setting up an inviting entryway that will enhance the guests' first impression contributes to the goal by ensuring that guests are greeted with a warm, welcoming environment, setting the tone for community interaction and celebration.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that the entryway setup enhances the guests' first impression, A can refine the new goal to ensure the entire venue maintains this cohesive and welcoming ambiance throughout the event.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to ensure the entire venue maintains this cohesive and welcoming ambiance throughout the event. To achieve the goal, A has an informative intention that the next steps involve finalizing the main area decor to match the inviting entryway and a communicative intention that B should ensure seamless integration of decorations throughout the venue.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that the next steps involve finalizing the main area decor to match the inviting entryway, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should ensure seamless integration of decorations throughout the venue, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I'll make sure the rest of the main area complements the inviting mood you've established at the entryway. Once you're finished there, let's refine any last details in the main space together, making sure every corner feels just as welcoming as when our guests first arrive.
+
+all scripts of B: 
+B: The entryway is looking welcoming and elegant now, with the greenery and soft lighting creating a cozy entrance. I’m glad we’re in sync with our vision for the space. I’ll join you in the main area to see if we can enhance the decor further. Together, we'll ensure everything feels harmonious and inviting for the guests as we finalize the setup.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A get explicature that B has finished setting up the entryway with greenery and soft lighting, and is ready to help enhance the main area.
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B has finished the entryway, combined with A's believed fact that attention to detail is essential for creating a harmonious event, A can infer implicature that B values a cohesive environment and wants to ensure the main area reflects the same inviting ambiance.
+3. Conclude fact received from this round:
+A get explicature that B has finished the entryway setup and implicature that B wants the main area to reflect the same ambiance, A can conclude the fact that the entryway is ready and B is eager to maintain consistency throughout the venue.
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that the venue is both visually appealing and functional. The received fact that the entryway is ready and B is eager to maintain consistency makes a contribution to the goal by ensuring seamless decor throughout the venue.
+5. Refine new goal depend on the contribution:
+Because of the contribution that the entryway is ready and B seeks consistency, A can refine a new goal that ensures the main area matches the inviting atmosphere created in the entryway.
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure the main area matches the inviting atmosphere in the entryway. To achieve the goal, A has informative intention that they are ready to refine the main area, and communicative intention that B should collaborate to make the main area consistent with the entryway.
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that they are ready to refine the main area, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should collaborate to make the main area consistent with the entryway, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It's fantastic that the entryway is set; let’s now focus on enhancing the main area to ensure it mirrors that cozy entrance vibe. Your touch with the greenery and lighting is exactly the harmony we need to carry through. I’m excited to collaborate on making these finishing touches.
+
+all scripts of B: 
+B: All right, I’m heading over to join you now. As we walk through the main area, perhaps we can enhance the focal points by adding subtle, coordinating accents, ensuring that each corner feels both cohesive and inviting. I'm excited to see how our combined efforts will leave a lasting impression on everyone attending. Let's give it that final polish to make it truly spectacular!
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is joining A to enhance the main area with subtle, coordinating accents, aiming to ensure each corner feels cohesive and inviting.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is joining A to enhance the main area with subtle, coordinating accents, aiming to ensure each corner feels cohesive and inviting, combined with A's believed fact that B is detail-oriented and passionate about creating a welcoming space, A can infer implicature that B is committed to ensuring the venue not only looks great but also feels warm and inviting for the guests.
+
+3. Conclude fact received from this round:
+A get explicature that B is joining A to enhance the main area with subtle, coordinating accents, aiming to ensure each corner feels cohesive and inviting, and implicature that B is committed to ensuring the venue not only looks great but also feels warm and inviting for the guests, A can conclude the fact that B is enthusiastic about perfecting the setup and is actively contributing ideas to make the main area inviting and harmonious.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the venue is both visually appealing and functional, fostering a sense of community and celebration. The received fact that B is enthusiastic about perfecting the setup and is actively contributing ideas to make the main area inviting and harmonious make contribution to the goal that we are working together effectively to create a welcoming and visually appealing environment for the guests.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that we are working together effectively to create a welcoming and visually appealing environment for the guests, A can refine new goal that to collaborate closely with B to enhance the main area in a way that maximizes the harmony with the entryway’s setup, making the venue inviting throughout.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to collaborate closely with B to enhance the main area in a way that maximizes the harmony with the entryway’s setup, making the venue inviting throughout. To achieve the goal, A have informative intention that we should focus on using subtle and coordinating accents throughout the main area, and communicative intention that B should pay attention to how these accents contribute to the inviting atmosphere.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that we should focus on using subtle and coordinating accents throughout the main area, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should pay attention to how these accents contribute to the inviting atmosphere, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Let's start by choosing accents for the main area that echo the inviting greenery and lighting from the entryway. Coordinating these elements around the focal points will ensure every corner maintains that cohesive and warm feeling, perfectly matching the welcoming vibe as guests step inside. I'm excited to see how our final touches will make the space shine.
+
+all scripts of B: 
+B: Absolutely, adding coordinating accents around the focal points will truly enhance the atmosphere. I suggest incorporating some soft fabric drapes and fairy lights to bring in a gentle shimmer. I'll begin by setting them up while you finalize any adjustments to the setup. With our final touches, this space will radiate warmth and elegance, leaving everyone feeling welcomed and delighted.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B suggests incorporating soft fabric drapes and fairy lights to enhance the ambiance of the venue further.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B suggests using fabric drapes and fairy lights, combined with A's believed fact that concrete aesthetics help foster warm atmospheres, A infers implicature that using these additional decorations will create a welcoming and elegant feel for the event.
+
+3. Conclude fact received from this round:
+A gets explicature that B suggests using drapes and lights and implicature that these will enhance the venue's ambiance; A concludes the fact that adding these elements can make the setting more inviting and cohesive.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the venue is visually appealing and functional, fostering a sense of community and celebration. The received fact that adding drapes and lights enhances the ambiance contributes to the goal by enriching the venue's attractiveness and welcoming nature.
+
+5. Refine new goal based on the contribution:
+Because of the contribution that enhances the venue's attractiveness, A can refine the new goal that the space should maximize its welcoming and cohesive ambiance, ensuring distinctive elements feel connected and inviting.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to maximize the venue's welcoming and cohesive ambiance. To achieve the goal, A has informative intention that fabric drapes and fairy lights will integrate beautifully with existing decorations and communicative intention that B should focus on creating harmony with the setup.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that fabric drapes and fairy lights will integrate beautifully, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should focus on creating harmony, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Drapes and fairy lights are a splendid touch and will beautifully complement our current setup, weaving the entryway's charm right through the main area. I’m keen on ensuring that these elements harmonize with the overall decor. Let’s work together to make it happen!
+
+all scripts of B: 
+B: I'll start working on hanging the drapes and positioning the fairy lights to cast a soft glow throughout the main area. Meanwhile, let's make sure every arrangement ties back to our chosen theme and colors seamlessly, creating a cohesive and enchanting space that draws guests in from the moment they enter. Together, we'll achieve a setting that reflects both our hard work and welcoming spirit.

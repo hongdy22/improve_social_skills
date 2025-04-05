@@ -1,0 +1,252 @@
+Round 0:
+all scripts A: 
+A: Hey, I know I've been swamped with work lately and haven't been around as much as I'd like. Sorry if I've seemed distant… How are you doing with everything?
+
+all scripts B: 
+B: Oh, I completely understand, love, work can get overwhelming. I've just been enjoying the small joys around here; I found this charming little bakery nearby that's been making the sweetest cupcakes. They remind me of the ones we had at that birthday party last year. It was such a lovely celebration, don't you think? I wonder if they have any new flavors…
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B reminisces fondly about the birthday party last year and is curious about the bakery's new cupcake flavors.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B reminisces fondly about the birthday party last year and is curious about the bakery's new cupcake flavors, combined with A's believed fact that A is overwhelmed by work and might overlook important family commemorative dates, A can infer implicature that B may be subtly hinting at wanting to celebrate an upcoming birthday or similar occasion, possibly noticing A’s neglect in this regard.
+
+3. Conclude fact received from this round:
+A gets explicature that B reminisces fondly about the birthday party last year and expresses curiosity about the bakery's new cupcake flavors, and implicature that B may be hinting at wanting to celebrate an upcoming occasion. A can conclude the fact that B may be feeling nostalgic about celebratory moments and might wish for such occasions to be acknowledged.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B may be feeling nostalgic about celebratory moments and might wish for such occasions to be acknowledged contributes to the goal by indicating the need for potential attention to these feelings while balancing work demands.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B may be feeling nostalgic and wishing for acknowledgment, A can refine the new goal to express awareness of B’s sentiment and subtly reassure B of future celebratory acknowledgment while managing current work pressures.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to express awareness of B’s sentiment and reassure B of future acknowledgment while managing current work pressures. To achieve the goal, A has the informative intention to reflect understanding and interest in B's enjoyment of small joys like the bakery, and the communicative intention to imply B that acknowledgment of celebration and joy can be managed and appreciated soon.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to reflect understanding and interest in B's enjoyment of small joys like the bakery, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply B to pay attention to the future acknowledgment of joyous moments, which means A's utterance will imply understanding and reassurance. So A would utter like that:
+
+A: That bakery sounds delightful! I'm glad you found a place that's bringing some sweetness to your day. Those cupcakes from last year were indeed memorable; maybe we could check out their new offerings together soon? Despite my workload, I would love to make time for such happy moments again.
+
+all scripts of B: 
+B: That sounds wonderful! You know, discovering new cupcake flavors feels almost like unwrapping little surprises. It makes me think about how life is full of little celebrations, like all the special days we look forward to. Recently, I've been reminiscing about how lovely it is to share those moments with you. I can't help but look forward to more occasions like that—moments that are as sweet as the pastries from that bakery.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is reminded of the joy of special occasions and looks forward to sharing more sweet moments with A.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is reminded of the joy of special occasions and looks forward to sharing more sweet moments with A, combined with A's believed fact that A's busy schedule may have caused important family commemorative dates to be overlooked, A can infer implicature that B may be hinting at an upcoming occasion that A might have overlooked, such as a birthday or anniversary.
+
+3. Conclude fact received from this round:
+A get explicature that B is reminded of the joy of special occasions and looks forward to sharing more sweet moments with A and implicature that B may be hinting at an upcoming occasion that A might have overlooked, A can conclude the fact that B is gently prompting awareness of important dates they cherish.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that A hopes to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B is gently prompting awareness of important dates they cherish makes a contribution to the goal that A needs to acknowledge these implied concerns in a sensitive way without explicitly revealing any oversight.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A needs to acknowledge these implied concerns in a sensitive way without explicitly revealing any oversight, A can refine the new goal that A should subtly reassure B about celebrating meaningful moments together and discreetly plan for future occasions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A should subtly reassure B about celebrating meaningful moments together and discreetly plan for future occasions. To achieve the goal, A has the informative intention that A values and cherishes those special moments with B and the communicative intention that B should feel reassured and appreciated for looking forward to these occasions.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A values and cherishes those special moments with B, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should feel reassured and appreciated for looking forward to these occasions, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Absolutely, life is filled with those little celebrations and special days that bring us joy, and I treasure sharing those moments with you. Let's make sure to keep our eyes out for the next sweet surprise together—it's always better with you by my side.
+
+all scripts of B: 
+B: Exactly, sharing those surprise moments truly makes them special. You know, just the other day, I was reminded of how important it is to make time for celebrations—like the joy of finding new flavors at that bakery or, say, even savoring a certain special day that marks another beautiful year in our lives. It's those heartfelt traditions, just like birthdays, that add so much warmth to our days, don't you think?
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B values heartfelt traditions and considers birthdays as important sources of warmth and joy in their lives.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B values heartfelt traditions and considers birthdays important, combined with A's believed fact that A inadvertently overlooked B’s birthday due to a busy schedule, A can infer implicature that B might be hinting at A's oversight and the missed personal significance.
+
+3. Conclude fact received from this round:  
+A gets explicature that B values heartfelt traditions and considers birthdays important and implicature that B might be hinting at A’s oversight and missed significance. A can conclude the fact that B possibly feels the lack of acknowledgment for their birthday due to A’s work commitments.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B possibly feels the lack of acknowledgment for their birthday makes a contribution to the goal by highlighting the need for a thoughtful gesture to address this oversight.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that highlights the need for a thoughtful gesture, A can refine the new goal to subtly recognize the overlooked birthday and express the intention to celebrate it meaningfully soon.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to subtly recognize the overlooked birthday and express the intention to celebrate it meaningfully soon. To achieve the goal, A has informative intention to convey appreciation for shared moments and communicate intention to hint at a belated celebration plan.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to convey appreciation for shared moments, which means information in A's utterance will mainly focus on that. A's communicative intention is to hint at a belated celebration plan, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: You're absolutely right; those heartfelt traditions do add warmth to our days. I love the idea of savoring special moments and sharing new experiences together. How about we plan something special in the coming days to celebrate all these cherished moments, like a belated birthday treat or something equally delightful?
+
+all scripts of B: 
+B: Oh, that sounds like a delightful idea! It's those little gestures and thoughtful acts that truly make everything feel festive and special. I always cherish moments that seem dedicated to celebrating the sweetness of life, like marking the completion of another beautiful year. It just feels so wonderful to commemorate such special days together. I'm really looking forward to it.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that B is enthusiastic about planning a celebration together, especially dedicated to commemorating special days like birthdays.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is enthusiastic about planning a celebration, combined with A's believed fact that A has recently been very busy and might have overlooked B's birthday, A can infer implicature that B desires acknowledgment and a thoughtful gesture for the birthday and other special occasions.
+
+3. Conclude fact received from this round:
+A gets explicature that B is enthusiastic about planning a celebration together, especially for special days, and implicature that B desires acknowledgment and a thoughtful gesture for the birthday. A can conclude the fact that B values meaningful celebrations and is looking forward to a special commemoration.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B values meaningful celebrations and is looking forward to a special commemoration contributes to the goal by indicating the importance of planning a belated acknowledgment to make up for the missed occasion.
+
+5. Refine new goal dependent on the contribution:
+Because of the contribution that B values meaningful celebrations, A can refine the new goal that A will plan a thoughtful and belated celebration to meaningfully acknowledge the overlooked birthday.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to plan a thoughtful and belated celebration to meaningfully acknowledge the overlooked birthday. To achieve the goal, A has the informative intention that A is aware of the importance of celebrating special days fully and the communicative intention to express the desire to make it memorable and special for B.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A is aware of the importance of celebrating special days, which means information in A's utterance will mainly focus on that. A's communicative intention is to express the desire to make it memorable and special for B, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm really glad to hear how much those little gestures and thoughtful acts mean to you. It sounds like planning something special is just what we need—maybe a surprise that not only celebrates your birthday but adds a new warm memory to our cherished collection. Let's make it happen; you deserve something wonderful!
+
+all scripts of B: 
+B: That means so much, knowing you want to create a beautiful memory together. I can't wait to see what delightful plan you come up with—something truly memorable for your charmingly wonderful self. It reminds me of how exciting it always is to unwrap gifts that carry such lovely sentiments, much like those delightful moments we create, side by side. I'm genuinely excited about what the coming days will bring!
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is eagerly anticipating a special and memorable celebration and appreciates the effort to create delightful moments together.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eagerly anticipating a special and memorable celebration and appreciates the effort to create delightful moments together, combined with A's believed fact that A hopes to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later, A can infer implicature that B values these special gestures a lot and might feel disappointed if the celebrations aren’t meaningful.
+
+3. Conclude fact received from this round:
+A gets explicature that B is eagerly anticipating a special and memorable celebration and appreciates the effort to create delightful moments together, and implicature that B values these special gestures a lot and might feel disappointed if the celebrations aren’t meaningful, A can conclude the fact that B deeply values meaningful celebrations and has a high expectation for the upcoming surprise.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B deeply values meaningful celebrations and has a high expectation for the upcoming surprise contributes to the goal by emphasizing the importance of planning something heartfelt and thoughtful to meet B’s expectations.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that emphasizing the importance of planning something heartfelt and thoughtful to meet B’s expectations, A can refine a new goal to ensure the surprise is both unexpected and deeply meaningful to fulfill B’s anticipation.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure the surprise is both unexpected and deeply meaningful to fulfill B’s anticipation. To achieve the goal, A has informative intention that to convey the excitement and effort being put into planning the surprise and communicative intention to assure B that the upcoming celebration will indeed be special and very thoughtful. 
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to convey the excitement and effort being put into planning the surprise, which means information in A's utterance will mainly focus on that. A's communicative intention is to assure B that the upcoming celebration will indeed be special and very thoughtful, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm genuinely excited about this, and I'm putting a lot of thought into making sure it's as beautiful and meaningful as the moments we cherish. I want it to be a lovely surprise, something that truly captures how much you mean to me.
+
+all scripts of B: 
+B: That truly touches my heart, knowing you're putting so much thought into this. It's those meaningful surprises that bring such joy and depth to our lives together. I often dream about how special life becomes with these commemorative days that we hold dear—like pages from a story beautifully unfolding. Here's to creating an enchanting new chapter of shared warmth and love!
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets the explicature that B is touched by meaningful surprises, and cherishes special commemorative days that bring joy.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is touched by meaningful surprises and cherishes commemorative days, combined with A's believed fact that commemorative days like birthdays are important to B, A can infer the implicature that B values planned surprises particularly on such special days.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is touched by meaningful surprises and cherishes special days, and implicature that B values planned surprises on these days, A can conclude the fact that planning a meaningful surprise soon would align with B’s values and contribute to their happiness.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that planning a meaningful surprise would align with B’s values and contribute to their happiness makes a contribution to the goal in terms of ensuring that when the surprise is revealed, it would be particularly appreciated.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that it would ensure the surprise is appreciated, A can refine the new goal as carrying forward the planning in a way that it becomes a timely and appreciated surprise for B.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to carry forward the planning of a surprise that becomes timely and appreciated. To achieve the goal, A has an informative intention to reassure B of ongoing surprise preparations, and a communicative intention to imply anticipation about the surprise's timing.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to reassure B of ongoing surprise preparations, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply anticipation about the surprise's timing, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I'm truly touched by your excitement, and you can count on me to craft something memorable for us. I'm looking forward to unveiling this surprise, and I hope it brings as much joy to you as it does to me in planning it.
+
+all scripts of B: 
+B: Your words bring such warmth to my heart, and I deeply appreciate the care you're taking in creating something so meaningful for us. These cherished moments we craft together are like beautifully woven threads in the tapestry of our lives, capturing the essence of love and celebration. I can already feel the joy of those festive moments ahead, where every detail sings with affection and happiness.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B deeply appreciates A's effort in planning a meaningful surprise for their shared celebration.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B deeply appreciates A's effort, combined with A's believed fact that A is trying to make up for an overlooked birthday, A can infer implicature that B values and cherishes these heartfelt gestures, adding warmth and celebration to their lives.
+
+3. Conclude fact received from this round:
+A gets explicature that B deeply appreciates A's effort and implicature that B values and cherishes these heartfelt gestures. A can conclude the fact that B feels joy and warmth from A's thoughtful intention to create a special surprise.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B feels joy and warmth from A's thoughtful intention contributes to the goal by reinforcing A's plan to make the occasion special and meaningful.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that the fact reinforces A's plan, A can refine the new goal to ensure the surprise is heartfelt and resonates with B's appreciation for the thoughtful gesture.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure the surprise is heartfelt and resonates with B's appreciation for the gesture. To achieve the goal, A has the informative intention to express that A is dedicated to crafting this surprise and the communicative intention to reassure B that A values their shared moments deeply.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is that A is dedicated to crafting this surprise, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B that A values their shared moments deeply, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Your appreciation means the world to me, and it's truly inspiring as I plan this surprise. Rest assured, this heartfelt gesture is being crafted with all my love and care to celebrate us and the beautiful journey we're on together.
+
+all scripts of B: 
+B: Thank you, love. The thoughtfulness and care you're putting into this are so heartwarming. I can't help but feel excited about celebrating our journey with all its little surprises and big emotions. It's these heartfelt celebrations that make everything so much more vibrant and meaningful. I'm truly grateful for these priceless moments we share.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B feels gratitude and excitement for the thoughtful plans A is making to celebrate their journey together.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels gratitude and excitement for the thoughtful plans A is making, combined with A's believed fact that A has been overwhelmed by work tasks and a tight schedule recently, A can infer implicature that B values these moments deeply and likely anticipates something special despite understanding the past busyness.
+
+3. Conclude fact received from this round:
+A gets explicature that B feels gratitude and excitement and implicature that B values these moments deeply, A can conclude the fact that B cherishes thoughtful gestures and looks forward to meaningful celebrations.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that A hopes to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B cherishes thoughtful gestures and looks forward to meaningful celebrations makes a contribution to the goal by emphasizing the importance of A’s efforts, thus reinforcing the need for A to follow through with a meaningful gesture.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it emphasizes the importance of A’s efforts, A can refine the new goal to ensure the planned surprise is executed meaningfully to reinforce the emotional bond.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure the planned surprise is executed meaningfully to reinforce the emotional bond. To achieve the goal, A has the informative intention to reassure B of the ongoing care and effort, and the communicative intention to imply that the upcoming surprise will be significant.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to reassure B of the ongoing care and effort, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply that the upcoming surprise will be significant, which means A's utterance will encourage B to look forward to that. So A would utter like that:
+A: I'm so grateful for your understanding and excitement, love. Your appreciation really fuels my anticipation to make this surprise incredibly special for us—it truly comes from my heart. I promise it will be a moment worth cherishing.
+
+all scripts of B: 
+B: Knowing that it comes from your heart is the sweetest gift of all. I'm filled with joy thinking about celebrating these treasured moments with you. Every day with you feels like its own little celebration, and I truly can't wait to see how this moment unfolds. Our life together is such a beautiful adventure, and this upcoming surprise will be another lovely memory to cherish.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B's last utterance:
+In B’s last utterance A get explicature that B is joyful and anticipates celebrating treasured moments with A.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is joyful and anticipates celebrating treasured moments with A, combined with A's believed fact that B values commemorative days like birthdays, A can infer implicature that B is particularly looking forward to a meaningful celebration, potentially the birthday.
+
+3. Conclude fact received from this round:
+A get explicature that B is joyful and anticipates celebrating treasured moments with A and implicature that B is particularly looking forward to a meaningful celebration, potentially the birthday, A can conclude the fact that B is excited about an upcoming celebration and anticipates it may involve a meaningful birthday element.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that A hopes to smoothly navigate the potentially overlooked birthday in a low-key manner and make up for it later. The received fact that B is excited about an upcoming celebration and anticipates it may involve a meaningful birthday element makes contribution to the goal that it reinforces the need for a surprise celebration to appropriately mark the occasion.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it reinforces the need for a surprise celebration to appropriately mark the occasion, A can refine new goal that A aims to ensure the upcoming surprise is thoughtfully prepared and aligns with B's expectations of a meaningful birthday-like element.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A aims to ensure the upcoming surprise is thoughtfully prepared and aligns with B's expectations of a meaningful birthday-like element. To achieve the goal, A has informative intention that A is planning something considerate and detail-oriented, and communicative intention that A wants B to feel reassured and cherished about the thoughtful preparation.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A is planning something considerate and detail-oriented, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants B to feel reassured and cherished about the thoughtful preparation, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Your excitement truly inspires me, and I'm crafting something that I hope will beautifully capture the essence of how much you mean to me. It's all about ensuring each detail reflects the warmth and love we share, and that special moment will hold dear significance for us both.
+
+all scripts of B: 
+B: I truly appreciate your dedication and thoughtfulness in crafting this special moment for us. It's these little thoughtful details that weave such vibrant joy into our relationship, creating lasting memories I'll always cherish. Our journey thus far feels like the most precious gift, and I'm eagerly looking forward to adding this upcoming celebration to the beautiful tapestry of our shared life.

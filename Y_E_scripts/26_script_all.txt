@@ -1,0 +1,243 @@
+Round 0:
+all scripts A: 
+A: Hey B, I thought it might be nice to grab a coffee together today if you're free—I'd love to catch up and hear more about your thoughts on some of the new projects coming up.
+
+all scripts B: 
+B: Thanks for the invite, A. I do appreciate the gesture, and while I'm open to discussing future projects, I’m still evaluating how we approach and resolve differences in our collaboration. I believe it’s important to have a clear understanding moving forward, to ensure we’re on the same page.
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates the gesture but is still considering how to effectively resolve differences in collaboration.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates the gesture but is still considering how to effectively resolve differences in collaboration, combined with A's believed fact that positive communication can mend relationships, A can infer implicature that B is open to collaboration but needs assurance that future disagreements will be handled constructively.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates the gesture but is still considering how to effectively resolve differences in collaboration and implicature that B needs assurance that future disagreements will be handled constructively, A can conclude the fact that B is open to collaboration but seeks clarity on conflict resolution.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B is open to collaboration but seeks clarity on conflict resolution makes contribution to the goal that B is open to discussions, providing an opportunity for A to foster trust through clear communication on conflict management.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is open to discussions, providing an opportunity for A to foster trust through clear communication on conflict management, A can refine new goal that to demonstrate commitment to open dialogue and collaboratively establish conflict resolution strategies to rebuild trust with B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to demonstrate commitment to open dialogue and collaboratively establish conflict resolution strategies to rebuild trust with B. To achieve the goal, A has informative intention that assure B of A’s willingness to work together on conflict resolution and communicative intention that encourage B to share thoughts on resolving differences collaboratively.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that assure B of A’s willingness to work together on conflict resolution, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B to share thoughts on resolving differences collaboratively, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I completely understand, B. I want you to know that I'm committed to having transparent discussions about how we can address any differences constructively. I’d love to hear your thoughts on creating an approach that ensures we’re both comfortable and aligned moving forward.
+
+all scripts of B: 
+B: I appreciate your openness, A. It’s reassuring to hear that you’re committed to transparent discussions. For me, building trust involves ensuring that any new approach genuinely reflects both of our perspectives and respects our professional boundaries. I think a good starting point would be to revisit where our communication might have faltered in the past and discuss how we can prevent similar issues. What are your thoughts on having a more structured feedback mechanism as we continue our work?
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A’s openness and values transparent discussions but also wants to ensure that future approaches reflect both perspectives and maintain professional boundaries.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A’s openness and wants to ensure future approaches reflect both perspectives, combined with A's believed fact that positive communication can mend relationships, A can infer implicature that B is willing to work on rebuilding trust but needs reassurance that both voices are heard equally.
+
+3. Conclude fact received from this round:
+A get explicature that B wants approaches to reflect both perspectives and maintain boundaries, and implicature that B needs reassurance, A can conclude the fact that B is open to rebuilding trust but requires balanced and respectful collaboration.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to rebuild trust with B and reestablish a collaborative environment. The received fact that B is open to rebuilding trust but requires balanced collaboration makes contribution to the goal that there is potential for making progress, but mutual engagement and respect are crucial.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that there is potential for making progress, A can refine new goal that to focus on creating a balanced and structured framework for collaboration that incorporates both perspectives equally.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to focus on creating a balanced and structured framework for collaboration that incorporates both perspectives equally. To achieve the goal, A have informative intention that to show support for developing a structured feedback mechanism and communicative intention that to reassure B that both perspectives will be integral to the process.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that to show support for developing a structured feedback mechanism, which means information in A's utterance will mainly focus on that. A's communicative intention is that to reassure B that both perspectives will be integral to the process, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I think having a structured feedback mechanism is a great idea, B. It seems like a promising way to ensure that both of our perspectives are heard and respected. Let’s work together to define this process in a way that truly reflects both our viewpoints and strengthens our collaboration.
+
+all scripts of B: 
+B: Thank you, A. I'm glad to hear you're on board with a structured feedback mechanism. It’s an approach that can really help us navigate our collaboration more productively. I suggest we start with outlining specific areas where we want feedback and agree on regular intervals for sharing updates. This way, we can continuously refine our approach and ensure accountability. How do you feel about setting up a preliminary framework to get the ball rolling?
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance: In B’s last utterance, A gets the explicature that B agrees on having a structured feedback mechanism and suggests starting with outlining specific areas for feedback and agreeing on regular intervals for updates.
+
+2. Infer implicature from explicature combined with believed fact: From the explicature that B agrees on having a structured feedback mechanism and suggests starting with outlining specific areas for feedback and agreeing on regular intervals for updates, combined with A's believed fact that positive communication is important, A can infer implicature that B is looking for a balanced and ongoing collaborative approach to building trust.
+
+3. Conclude fact received from this round: A gets explicature that B agrees on having a structured feedback mechanism and suggests starting with outlining specific areas for feedback and agreeing on regular intervals for updates, and implicature that B is looking for a balanced and ongoing collaborative approach to building trust. A can conclude the fact that B wants to collaborate structurally and constructively to rebuild trust.
+
+4. Evaluate the contribution of the received fact to the goal: A's goal is that to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B wants to collaborate structurally and constructively to rebuild trust makes a significant contribution to the goal by providing a clear pathway towards re-establishing collaboration.
+
+5. Refine new goal depend on the contribution: Because of the contribution that a clear pathway towards re-establishing collaboration is provided, A can refine the new goal that creating an effective framework for structured feedback to solidify the rebuilding of trust and collaboration.
+
+6. Make informative intention and communicative intention depend on the refined goal: A's goal is that creating an effective framework for structured feedback to solidify the rebuilding of trust and collaboration. To achieve the goal, A has the informative intention that A values and agrees with B's suggestion and is proactive in setting up a framework, and communicative intention that A is enthusiastic and committed to this constructive step forward.
+
+7. Utter depend on A's informative intention and communicative intention: A's informative intention is that A values and agrees with B's suggestion and is proactive in setting up a framework, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is enthusiastic and committed to this constructive step forward, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: That's a fantastic approach, B! I'm fully on board with outlining specific areas for feedback and establishing regular intervals for updates. How about we set up a time next week to draft this framework together? I'm enthusiastic about taking these constructive steps with you to enhance our collaboration.
+
+all scripts of B: 
+B: Thank you, A. Setting up a time next week to work on drafting the framework sounds like a practical start. I appreciate your enthusiasm in taking these steps. By ensuring consistency in our efforts, we can build a more resilient and respectful partnership that benefits both our goals and those of the projects at hand. Let’s finalize a date and time soon to ensure a focused discussion.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is in agreement with setting up a time next week to draft the feedback framework together and appreciates A's enthusiasm.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is in agreement with setting up a time next week to draft the feedback framework together and appreciates A's enthusiasm, combined with A's believed fact that positive communication can mend the rift, A can infer implicature that B is open to rebuilding trust and is willing to engage in constructive collaboration.
+
+3. Conclude fact received from this round:  
+A get explicature that B is in agreement with setting up a time next week to draft the feedback framework together and appreciates A's enthusiasm, and implicature that B is open to rebuilding trust and is willing to engage in constructive collaboration, A can conclude the fact that B is receptive to collaborative efforts and values structured approaches to communication.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B is receptive to collaborative efforts and values structured approaches to communication makes a contribution to the goal by creating a shared foundation for trust-building and encouraging consistent, constructive interaction.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that creates a shared foundation for trust-building and encourages consistent, constructive interaction, A can refine new goal that focuses on nurturing this collaborative relationship through proactive planning and mutual accountability.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to nurture this collaborative relationship through proactive planning and mutual accountability. To achieve the goal, A has an informative intention to emphasize the importance of finalizing a date and time for their planning session, and a communicative intention to express eagerness and readiness to work together effectively.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is to emphasize the importance of finalizing a date and time for their planning session, which means information in A's utterance will mainly focus on that. A's communicative intention is to express eagerness and readiness to work together effectively, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: That sounds great, B! I'm really looking forward to establishing our feedback framework together. How about we check our calendars and lock in a specific date and time for next week to get this started? I'm eager to make some solid plans and build on what we've discussed.
+
+all scripts of B: 
+B: Sounds like a plan, A. I'm encouraged by your eagerness and proactive approach to finalize a date for next week. Let’s aim to share our availability by tomorrow so we can confirm a time that works for both of us. It will be good to get this framework underway and strengthen our ability to collaborate effectively. I look forward to a productive session where we can iron out the specifics and make sure we're on the same wavelength going forward.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets the explicature that B is encouraged by A's proactive approach and wants to finalize a date for next week by sharing availability.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is encouraged by A's proactive approach and wants to finalize a date for next week by sharing availability, combined with A's belief in the power of positive communication, A can infer implicature that B is gradually becoming more open and willing to engage in building a cooperative working relationship.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is encouraged by A's proactive approach and wants to finalize a date for next week, and implicature that B is gradually becoming more open to cooperation. A can conclude the fact that B is taking positive steps toward a collaborative effort.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B is taking positive steps toward a collaborative effort contributes to the goal by indicating that trust is being gradually reconstructed.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that trust is being gradually reconstructed, A can refine the new goal to focus on maintaining momentum in collaboration discussions and actively participating in building a structured framework with B.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to focus on maintaining momentum in collaboration discussions and actively participate in building a structured framework with B. To achieve the goal, A has an informative intention to discuss availability for next week and a communicative intention to express enthusiasm for finalizing plans and fostering collaboration.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to discuss availability for next week, which means information in A's utterance will mainly focus on that. A's communicative intention is to express enthusiasm for finalizing plans and fostering collaboration, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Great, B! I’m really encouraged by our progress. How about we both check our calendars and aim to share our availability by tomorrow, as you suggested? I'm looking forward to finalizing plans and embarking on this collaborative journey with renewed enthusiasm.
+
+all scripts of B: 
+B: That sounds perfect, A. I'll review my calendar tonight and send over my availability first thing tomorrow. I'm optimistic that with this renewed focus on communication and collaboration, we can make great strides in our projects together. Let's ensure that this process not only helps us resolve any past miscommunications but also sets a strong foundation for our future endeavors. Looking forward to laying out these plans and exploring how we can work even more effectively as a team.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is optimistic about the renewed focus on communication and collaboration, and they anticipate making great strides in their projects together.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is optimistic about the renewed focus on communication and collaboration, combined with A's believed fact that positive communication is powerful, A can infer implicature that B is open to rebuilding trust through effective teamwork.
+
+3. Conclude fact received from this round:
+A gets explicature that B is optimistic about communication and collaboration and implicature that B is open to rebuilding trust through effective teamwork, A can conclude the fact that B is committed to fostering a collaborative environment.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B is committed to fostering a collaborative environment contributes positively to the goal as it indicates progress towards mutual understanding.
+
+5. Refine new goal dependent on the contribution:
+Because of the contribution that it indicates progress towards mutual understanding, A can refine the new goal as strengthening the communication framework with B to ensure ongoing collaboration.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is strengthening the communication framework with B to ensure ongoing collaboration. To achieve the goal, A has informative intention that emphasizes the importance of setting a strong foundation for future teamwork and communicative intention that shows enthusiasm for jointly refining the framework to address past and future challenges.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that emphasizes the importance of setting a strong foundation for future teamwork, which means information in A's utterance will mainly focus on that. A's communicative intention is that shows enthusiasm for jointly refining the framework to address past and future challenges, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Wonderful, B! I'm excited about setting this strong foundation together. It feels like we're crafting a new chapter in our teamwork, ensuring we handle past and future challenges smoothly. Let's make this framework impactful—I'll share my availability promptly so we can dive in and refine it collaboratively.
+
+all scripts of B: 
+B: Thank you, A. I share in that sentiment and am eager to begin this new chapter with a solid framework that sees us both stronger as colleagues. Let’s continue with our plan to align on availability, ensuring our collaboration is robust and future-ready.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is eager to establish a strong collaborative framework and ensures alignment on availability.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager to establish a strong collaborative framework and ensures alignment on availability, combined with A's believed fact that B values clear communication and consistency, A can infer implicature that B is ready to actively participate and is optimistic about future collaboration.
+
+3. Conclude fact received from this round:
+A gets explicature that B is eager to establish a strong collaborative framework and ensures alignment on availability, and implicature that B is ready to actively participate and is optimistic about future collaboration. A can conclude the fact that B is committed to building a solid partnership.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B is committed to building a solid partnership makes a positive contribution to the goal by indicating B’s willingness to collaborate and resolve past challenges.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B’s willingness to collaborate and resolve past challenges indicates a positive step forward, A can refine the new goal to focus on solidifying this collaborative foundation through the proposed framework.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to solidify this collaborative foundation through the proposed feedback framework. To achieve the goal, A has the informative intention to convey enthusiasm for forming this framework and the communicative intention to encourage ongoing commitment and future collaboration.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to convey enthusiasm for forming this framework, which means information in A's utterance will mainly focus on the excitement and readiness to begin. A's communicative intention is to encourage ongoing commitment and future collaboration, which means A's utterance will imply B to continue the positive approach. So A would utter like that:
+A: I'm glad we're on the same page, B. Let's continue this momentum and make our framework truly impactful. I'll send over my availability right away to ensure we move forward smoothly, and I'm excited to put our plans into action for our future projects.
+
+all scripts of B: 
+B: Thanks, A. I appreciate your promptness in sharing your availability. This commitment to clear and timely communication is exactly what we need to enhance our collaboration. I'll send over my availability shortly as well, and I’m optimistic about drafting a framework that truly benefits our projects and leverages our collective strengths. Let's make sure we address any remaining concerns during our meeting to fortify our teamwork for the future. Looking forward to this productive session.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B appreciates A's promptness in sharing availability, values clear and timely communication to enhance collaboration, and is optimistic about drafting a beneficial framework by addressing remaining concerns.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B appreciates A's promptness and values clear communication, combined with A's believed fact that positive communication can rebuild trust, A can infer implicature that B is becoming more open to rebuilding trust through effective communication.
+
+3. Conclude fact received from this round:  
+A get explicature that B appreciates timely communication and is optimistic, and implicature that B is becoming more open to rebuilding trust. A can conclude the fact that B is ready to engage in a constructive dialogue to strengthen collaboration.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to rebuild trust with B and establish a collaborative environment. The received fact that B is ready to engage in constructive dialogue contributes to the goal by indicating a mutual willingness to work together productively.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B is ready for a constructive dialogue, A can refine the new goal to not only focus on rebuilding trust but also to actively enhance the communication structure for ongoing collaboration.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to actively enhance the communication structure for ongoing collaboration. To achieve the goal, A has informative intention to highlight the readiness for constructive dialogue and communicative intention to encourage B's involvement in refining the communication process.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is to highlight readiness for dialogue, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B's involvement in refining the process, which means A's utterance will imply B to pay attention to collaboration. So A would utter like that:  
+A: I'm really pleased with where we're heading, B. It feels like we're on the brink of some great teamwork transformations that will benefit us both. Let's make sure to design a communication framework that addresses each of our needs, turning our intentions into successful collaboration. I'm keen to hear any final thoughts you might have on key elements to include.
+
+all scripts of B: 
+B: I agree, A. As we wrap up our preparations, let's focus on key elements such as establishing clear channels for feedback, setting regular check-ins to ensure we're aligned, and encompassing flexibility to adapt as our projects evolve. I’m confident these components will create a robust framework, facilitating effective and open communication going forward. Looking forward to solidifying these aspects in our meeting.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is confident that establishing clear channels for feedback, setting regular check-ins, and maintaining flexibility are key elements in creating a robust framework that will facilitate effective and open communication.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is confident about the key elements, combined with A's believed fact that positive communication strengthens collaboration, A can infer implicature that B is optimistic about their teamwork's potential to improve through deliberate communication strategies.
+
+3. Conclude fact received from this round:
+A get explicature that B is confident about establishing key communication channels and implicature that B is optimistic about improving teamwork, A can conclude the fact that B is committed to enhancing their collaboration through structured communication.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to rebuild trust with B and reestablish a collaborative environment without forcing reconciliation. The received fact that B is committed to enhancing their collaboration through structured communication makes a contribution to the goal by fostering a cooperative mindset, necessary for rebuilding trust.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that fosters a cooperative mindset, A can refine new goal that is to focus on solidifying a communicative approach that actively involves B’s inputs.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to focus on solidifying a communicative approach that actively involves B’s inputs. To achieve the goal, A has an informative intention that A is eager to incorporate B’s ideas and a communicative intention that invites B to actively share their perspectives moving forward.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A is eager to incorporate B’s ideas, which means information in A's utterance will mainly focus on that. A's communicative intention is that invites B to actively share their perspectives moving forward, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I appreciate your confidence in these elements, B. I'm really looking forward to our meeting where we can explore and integrate your ideas fully, ensuring our communication framework is as effective and adaptive as possible. Let's make sure we give attention to each perspective to truly strengthen our collaboration.
+
+all scripts of B: 
+B: Thank you for valuing the perspectives, A. I believe our collaborative approach will reflect our understanding and strengthen our partnership greatly. As we prepare for our meeting, let’s ensure we address both our goals and potential challenges, building a foundation that's adaptable and resilient for future projects. I'm optimistic that this careful planning will enhance our teamwork and drive successful outcomes. Looking forward to joining forces in crafting a framework that supports our mutual growth and respect.

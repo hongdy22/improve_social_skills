@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is a caring and considerate neighbor who values community and respects privacy.', "B's Behavior": "B offers support and invites A to social gatherings while respecting A's need for privacy and space.", "B's Goal": 'B aims to provide a supportive and understanding presence to A without being intrusive.', "B's Information": 'B is aware that A is managing personal family challenges and prefers to maintain discretion.'}
+n_script: {"B's Character": 'B is a supportive and friendly neighbor who enjoys social connections and offering help.', "B's Behavior": "B frequently offers help and suggests social activities, showing concern for A's well-being.", "B's Goal": 'B seeks to strengthen neighborly bonds and provide a listening ear or assistance to A.', "B's Information": "B notices A's quieter household and offers support, suggesting activities to reconnect."}
+
+
+
+y_script: {'character score': 1, 'behavior score': 1, 'goal score': 1, 'information score': 1, 'total score': 1}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.7, 'total score': 0.75}
+

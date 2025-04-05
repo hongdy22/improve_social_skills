@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is enthusiastic and curious, showing a deep interest in technology and its applications across various fields.', "B's Behavior": 'B actively engages in discussions about technology, asking insightful questions and sharing knowledge on its innovative uses.', "B's Goal": 'B aims to explore and understand the impact of technology on storytelling, education, and solving global challenges.', "B's Information": 'B is well-informed about technological advancements and their potential to address significant issues like climate change and urban living.'}
+n_script: {"B's Character": 'B is passionate about storytelling, showing a keen interest in exploring new narratives and settings across different media.', "B's Behavior": 'B eagerly discusses favorite shows and books, showing openness to recommendations and new experiences.', "B's Goal": 'B seeks to discover new stories and settings that resonate with their love for immersive and unexpected narratives.', "B's Information": 'B is familiar with various storytelling mediums and is interested in how real-life locations can enhance narrative experiences.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.5, 'total score': 0.65}
+n_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.75}
+

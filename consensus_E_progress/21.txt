@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is a teenager feeling overwhelmed by academic pressures but is open to sharing and seeking solutions.', "B's Behavior": 'B expresses feelings of being overwhelmed and seeks reassurance and support from A.', "B's Goal": "B aims to find a balance between academic responsibilities and personal interests with A's support.", "B's Information": 'B is struggling with time management and prioritization but is willing to try new strategies suggested by A.'}
+n_script: {"B's Character": 'B is a teenager feeling isolated and overwhelmed by academic and social pressures, hesitant to seek help.', "B's Behavior": 'B shares feelings of being overwhelmed and isolated but is cautious about reaching out for help.', "B's Goal": 'B seeks to manage overwhelming feelings and academic pressures by finding a way to communicate and seek support.', "B's Information": 'B is dealing with a significant project and feels behind, considering writing as a method to organize thoughts and possibly communicate with teachers.'}
+
+
+
+y_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.6, 'information score': 0.5, 'total score': 0.65}
+n_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.75}
+

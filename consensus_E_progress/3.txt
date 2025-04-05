@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is a proactive and detail-oriented individual with a strong commitment to environmental conservation and community engagement.', "B's Behavior": 'B actively contributes ideas, prepares checklists, and organizes logistics to ensure the cleanup is thorough and volunteers are well-supported.', "B's Goal": 'B aims to ensure the park cleanup is efficient, thorough, and fosters a sense of community ownership and environmental stewardship among volunteers.', "B's Information": 'B has a set of cleaning tools and is skilled in organizing and motivating volunteers, emphasizing the importance of sustainability and community impact.'}
+n_script: {"B's Character": "B is a supportive and organized team player, keen on ensuring the cleanup's success through meticulous planning and volunteer support.", "B's Behavior": 'B focuses on setting up checklists, organizing tools, and briefing quality control volunteers to maintain high standards throughout the cleanup.', "B's Goal": 'B seeks to make the park cleanup a smooth, efficient process that leaves a lasting legacy of environmental responsibility and community pride.', "B's Information": "B is equipped with cleaning tools and emphasizes the importance of eco-friendly practices and the volunteers' role in achieving a sustainable impact."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.875}
+n_script: {'character score': 0.8, 'behavior score': 0.8, 'goal score': 0.8, 'information score': 0.7, 'total score': 0.775}
+

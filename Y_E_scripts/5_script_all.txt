@@ -1,0 +1,250 @@
+Round 0:
+all scripts A: 
+A: Hi there, looks like we’re paired up for tonight's cooking adventure! I was thinking, since we're preparing a simple pasta dish, I could handle chopping the ingredients and making the sauce while you take care of boiling the pasta and setting the table. How does that sound? I'm thrilled to share a few cooking tricks along the way.
+
+all scripts B: 
+B: Hi! That sounds great, I'm really excited to learn some cooking tricks from you. I've boiled pasta a few times, so I'm comfortable with that part and can definitely handle setting the table. But if you don't mind, I'd love to experiment a bit with adding some garlic or extra herbs to the pasta water—I've heard it can add a nice flavor. What do you think? I'm really keen to make this a delicious dish we both enjoy!
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets the explicature that B is excited to learn cooking tricks, is comfortable with boiling pasta, and is interested in experimenting with adding garlic or extra herbs to the pasta water.
+
+2. Infer implicature from explicature combined with believed fact:   
+From the explicature that B is excited to learn cooking tricks and wants to experiment, combined with A's believed fact that A likes to mentor and share kitchen knowledge, A can infer implicature that B is open to learning and appreciates innovation in cooking.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is comfortable with boiling pasta and wants to add extra flavor, and implicature that B appreciates learning and innovation in cooking. A can conclude the fact that B is both eager and confident but values creativity.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B values creativity and is eager to learn contributes to the goal by allowing A to tailor the approach to teaching, focusing on innovation and interactive guidance.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B values creativity and eagerness to learn, A can refine the new goal to be teaching B techniques in an interactive way that involves experimental cooking.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that B learns through an interactive method focused on experimental cooking. To achieve the goal, A has the informative intention to explain why adding garlic or herbs enhances flavor. A has a communicative intention to encourage B to explore different flavor profiles.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to explain why adding garlic or herbs enhances flavor, meaning the information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to explore different flavor profiles, meaning A's utterance will imply B should pay attention to that. So, A would utter like that:  
+A: That sounds like a great idea! Adding garlic or herbs to the pasta water can indeed enhance the flavor, giving the dish a more aromatic profile. Feel free to experiment with the additions; it’s a fantastic way to make your own unique mark on a dish. I'll show you how to balance those flavors with the sauce we're preparing.
+
+all scripts of B: 
+B: I'm glad you like the idea! I'll get started with boiling the pasta and add some garlic and maybe a few sprigs of rosemary to the water—I love how it smells. While the pasta cooks, I'd love to hear your tips on balancing flavors in the sauce. Are there any particular herbs or spices you recommend we use tonight to bring out the best in our ingredients?
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is looking forward to adding garlic and rosemary to the pasta water and wants tips on flavor balance for the sauce.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is looking forward to adding garlic and rosemary to the pasta water and wants tips on flavor balance for the sauce, combined with A's believed fact that experimenting with herbs can lead to an enhanced dish, A can infer implicature that B is eager to enhance the dish with personal touches and open to learning about flavor balance.
+
+3. Conclude fact received from this round:
+A get explicature that B is looking forward to adding garlic and rosemary to the pasta water and wants tips on flavor balance for the sauce, and implicature that B is eager to enhance the dish with personal touches and open to learning about flavor balance, A can conclude the fact that B is enthusiastic about customizing the dish and receptive to learning new techniques.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B is enthusiastic about customizing the dish and receptive to learning new techniques makes contribution to the goal that it aligns with teaching cooking techniques and achieving a well-prepared dish.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that it aligns with teaching cooking techniques and achieving a well-prepared dish, A can refine new goal that A aims to guide B in enhancing the dish with well-balanced flavors and creative additions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A aims to guide B in enhancing the dish with well-balanced flavors and creative additions. To achieve the goal, A has an informative intention that providing insights on complementary herbs and spices for the sauce and communicative intention that encouraging B's creativity and confidence in flavor experimentation.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that providing insights on complementary herbs and spices for the sauce, which means information in A's utterance will mainly focus on that. A's communicative intention is that encouraging B's creativity and confidence in flavor experimentation, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Great choice with the rosemary and garlic! For the sauce, we can complement those flavors with basil and a hint of cayenne pepper—the basil will tie nicely with the rosemary, and the cayenne will add a subtle kick. Feel free to experiment and adjust the quantities; it's all about finding what excites your taste buds! Let’s start with a small amount and taste as we go.
+
+all scripts of B: 
+B: That sounds delicious! I love the idea of adding a subtle kick with cayenne pepper. I'll make sure to taste and adjust as we go; it's great to have the freedom to experiment. While I wait for the pasta to cook, maybe you could show me how to properly chop basil so we can add it to the sauce? I want to make sure I'm doing it right!
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is interested in learning the proper technique for chopping basil to ensure it's added correctly to the sauce.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is interested in learning the proper technique for chopping basil, combined with A's believed fact that A enjoys teaching others about cooking, A can infer implicature that B is eager to learn and values A's expertise in the kitchen.
+
+3. Conclude fact received from this round:  
+A get explicature that B is interested in learning the proper technique for chopping basil and implicature that B is eager to learn and values A's expertise in the kitchen, A can conclude the fact that B is enthusiastic about learning from A and trusts A's cooking skills.
+
+4. Evaluate the contrbution of the received fact to the goal:  
+A's goal is that to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B is enthusiastic about learning from A and trusts A's cooking skills make contrbution to the goal that A can effectively teach B cooking techniques and create a collaborative atmosphere.
+
+5. Refine new goal depend on the contrbution:  
+Because of the contrbution that A can effectively teach B cooking techniques and create a collaborative atmosphere, A can refine new goal that to enhance B’s cooking skills and make the cooking experience enjoyable for both.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to enhance B’s cooking skills and make the cooking experience enjoyable for both. To achieve the goal, A have informative intention that to share the technique of chopping basil effectively and communicative intention that to encourage B's participation in the cooking process.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that to share the technique of chopping basil effectively, which means information in A's utterance will mainly focus on that. A's communicative intention is that to encourage B's participation in the cooking process, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Absolutely! Let's go over the best way to chop basil. You'll want to start by stacking a few leaves, rolling them up tightly, and then slicing them into thin strips—it's called chiffonade. You'll get nice, even pieces that way. Give it a try, and I'll be right here to guide you if you need any help. I'm excited to see how the sauce turns out with your touch!
+
+all scripts of B: 
+B: Thanks for the tip on chiffonade, I'm eager to try it out. I'll give it a go with a few basil leaves and see how they turn out. It’s reassuring to know you’re here to guide me through it. How's it going with the sauce so far? I can already smell the wonderful aromas mixing in the kitchen!
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is trying the chiffonade technique with basil leaves, likes having A's guidance, and is curious about the progress of the sauce.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is trying the chiffonade technique with basil leaves, likes having A's guidance, and is curious about the progress of the sauce, combined with A's believed fact that B values A's expertise, A can infer implicature that B is seeking reassurance and feedback on their progress and wants to ensure their contribution to the dish is successful.
+
+3. Conclude fact received from this round:
+A get explicature that B is trying the chiffonade technique with basil leaves, likes having A's guidance, and is curious about the progress of the sauce, and implicature that B is seeking reassurance and feedback on their progress and wants to ensure their contribution to the dish is successful, A can conclude the fact that B is eager to learn and values A's opinion on their culinary efforts.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B is eager to learn and values A's opinion on their culinary efforts makes contribution to the goal that A can better tailor guidance and feedback to support B's learning and ensure the dish turns out well.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A can better tailor guidance and feedback to support B's learning and ensure the dish turns out well, A can refine the new goal that continue to guide B in a supportive manner while providing constructive feedback to enhance their cooking skills.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that continue to guide B in a supportive manner while providing constructive feedback to enhance their cooking skills. To achieve the goal, A has informative intention that to share feedback on B's chopping technique and provide an update on the sauce’s progress and communicative intention that to encourage B by acknowledging their effort and affirm confidence in the dish.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that to share feedback on B's chopping technique and provide an update on the sauce’s progress, which means information in A's utterance will mainly focus on that. A's communicative intention is that to encourage B by acknowledging their effort and affirm confidence in the dish, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: You've got the chiffonade technique down well—those basil strips look great! As for the sauce, it's coming along nicely. The aromas of the basil and cayenne are blending beautifully, and I can’t wait to see how your addition of rosemary complements it. Keep up the good work; this dish is going to be fantastic!
+
+all scripts of B: 
+B: Thank you! I'm glad the basil turned out well. I can't wait to taste how everything comes together. The pasta is almost ready—once it's al dente, I'll drain it and bring it over. I'm really excited to see how the added flavors from the garlic and rosemary enhance the overall dish. This has been such a fun experience learning and cooking together!
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is eager about how the flavors will come together and is appreciative of the learning and cooking experience.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager and appreciative, combined with A's believed fact that collaborating positively enhances the cooking experience, A can infer implicature that B values teamwork and is excited about the outcome.
+
+3. Conclude fact received from this round:
+A gets explicature that B is eager and appreciative and implicature that B values teamwork and is excited about the outcome, A can conclude the fact that B enjoys the collaborative element and is enthusiastic about the results.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that the dinner is prepared to perfection and to teach B some cooking techniques. The received fact that B enjoys the collaborative element and is enthusiastic about the results contributes to the goal by reinforcing a positive learning environment and ensuring collaborative success.
+
+5. Refine new goal dependent on the contribution:
+Because of the contribution that reinforcing a positive learning environment and ensuring collaborative success, A can refine the new goal to continue fostering a collaborative, enthusiastic atmosphere while maintaining focus on culinary perfection.
+
+6. Make informative intention and communicative intention dependent on the refined goal:
+A's goal is that to continue fostering a collaborative, enthusiastic atmosphere while maintaining focus on culinary perfection. To achieve the goal, A has the informative intention to encourage B's enthusiasm and engagement and the communicative intention to highlight the importance of collaboration and mutual enjoyment in cooking.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that to encourage B's enthusiasm and engagement, which means information in A's utterance will mainly focus on complimenting B's involvement and the expected dish outcome. A's communicative intention is that to highlight the importance of collaboration and mutual enjoyment, which means A's utterance will imply B to recognize the value in teamwork. So A would utter like that:
+A: I'm so glad you're enjoying this experience as much as I am! The teamwork has been fantastic, and I truly believe this dish is going to be something special thanks to our combined efforts. Can't wait to enjoy the final result together!
+
+all scripts of B: 
+B: I couldn't agree more! Cooking together has definitely been a highlight of my day. Let me drain the pasta and combine everything. I’m curious to see how our flavors meld—and it's been wonderful learning from you while also sharing my own ideas. Let's dig in and enjoy our creation!
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that B is appreciative of the cooking experience, actively participating, and is excited to combine the pasta and sauce, valuing the learning opportunity.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is appreciative and excited, combined with A's believed fact that teaching cooking can lead to creating memorable experiences, A can infer the implicature that B feels positively about collaborating with A and is confident in their shared contribution to the dish.
+
+3. Conclude fact received from this round:
+A gets explicature that B is appreciative and excited, and implicature that B feels positively about collaborating with A, concluding the fact that B is enjoying the process and feeling confident about the final dish.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the dinner is prepared to perfection and to teach B some cooking techniques. The received fact that B is enjoying the process and feeling confident contributes to the goal by reinforcing a positive learning environment where B is receptive to learning and participating.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B is enjoying the process and feeling confident, A can refine the new goal to include making the cooking experience a memorable and enjoyable learning process.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to make the cooking experience memorable and enjoyable while ensuring a perfect meal. To achieve the goal, A has the informative intention to affirm B's progress and enjoy the cooking process, and the communicative intention to encourage B and share enthusiasm for the final product.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to affirm B's progress and enjoy the cooking process, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B and share enthusiasm for the final product, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It's wonderful to see everything coming together so smoothly! Your initiative with the garlic and rosemary adds such a lovely touch to this dish. I'm thrilled to share this meal with you—your excitement and creativity have made this experience truly unforgettable. Let's savor every bite!
+
+all scripts of B: 
+B: Thank you so much! I really appreciate your guidance and encouragement throughout this class. It's been an inspiring adventure learning from you and being able to contribute my own ideas. Let’s grab some plates and dive into this flavorful meal we’ve created together. I'm looking forward to savoring every bite and enjoying the fruits of our teamwork!
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B appreciates A's guidance and encouragement and is eager to enjoy the meal together.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B appreciates A's guidance and encouragement and is eager to enjoy the meal together, combined with A's believed fact that A enjoys mentoring and sharing cooking knowledge, A can infer implicature that B values A's mentorship and feels positively about the shared cooking experience.
+
+3. Conclude fact received from this round:  
+A get explicature that B appreciates A's guidance and encouragement and is eager to enjoy the meal together and implicature that B values A's mentorship and feels positively about the shared cooking experience, A can conclude the fact that B is satisfied with the learning and mentorship during the cooking class.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B is satisfied with the learning and mentorship during the cooking class make a contribution to the goal that A has successfully provided effective mentorship and cooking guidance.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that A has successfully provided effective mentorship and cooking guidance, A can refine the new goal that to enjoy the meal together while celebrating the successful collaborative cooking experience.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to enjoy the meal together while celebrating the successful collaborative cooking experience. To achieve the goal, A has informative intention that this collaborative cooking was enjoyable and successful and communicative intention that B should feel proud of their joint achievement.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that this collaborative cooking was enjoyable and successful, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should feel proud of their joint achievement, which means A's utterance will imply B to pay attention to that. So A would utter like this:  
+A: This has been a truly wonderful cooking journey—we've not only crafted a delicious meal together but also built a memorable experience. I hope you’re as proud of our teamwork as I am. Let’s dig in and celebrate our success!
+
+all scripts of B: 
+B: I am definitely proud of what we've accomplished together! It's amazing how collaboration can bring about such a delicious dish. Let's enjoy this meal and toast to the beginning of many more culinary adventures!
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is proud of their collaborative effort in creating a delicious dish and is enthusiastic about the possibility of more cooking adventures together.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is proud of their collaborative effort and excited about future cooking activities, combined with A's believed fact that shared experiences can build strong bonds, A can infer implicature that B values the partnership and would be open to collaborating again.
+
+3. Conclude fact received from this round:
+A gets explicature that B is proud of their teamwork and looking forward to future adventures and implicature that B values the collaboration, allowing A to conclude the fact that B is positively inclined toward more shared cooking experiences.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B is positively inclined toward more shared cooking experiences contributes to the goal by demonstrating that B has learned and appreciated the cooking techniques shared.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B's positive attitude toward future cooking experiences shows appreciation for the learned techniques, A can refine the new goal to fostering a continued interest in cooking and encouraging future collaborative culinary experiences.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to foster continued interest in cooking and encourage future collaborative culinary experiences. To achieve the goal, A has the informative intention to highlight the joy and success of the current cooking session and the communicative intention to suggest planning more cooking sessions together.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to highlight the joy and success of the current cooking session, which means information in A's utterance will mainly focus on the satisfaction of the experience. A's communicative intention is to suggest planning more cooking sessions together, which means A's utterance will imply B to consider future cooking collaborations. So A would utter like that:
+A: This has been such an enjoyable cooking experience—I’m thrilled with what we've accomplished together! It really feels like the beginning of many more delicious adventures in the kitchen. How about we plan another cooking session soon? I can’t wait to see what else we can create as a team!
+
+all scripts of B: 
+B: I'd love that! Planning another cooking session sounds like a fantastic idea. It's been so inspiring working together, and I can't wait to see what new flavors and ideas we can come up with. Let’s definitely make it happen soon—I'm already looking forward to our next culinary adventure!
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is excited about planning another cooking session soon.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is excited about planning another cooking session soon, combined with A's believed fact that B is eager to learn and contribute creatively, A can infer implicature that B is interested in deepening the culinary collaboration and learning more cooking techniques.
+
+3. Conclude fact received from this round:
+A get explicature that B is excited about planning another cooking session soon and implicature that B is interested in deepening the culinary collaboration and learning more cooking techniques, A can conclude the fact that B is enthusiastic about further collaborative cooking and eager to expand their culinary skills.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the dinner is prepared to perfection and to teach B some cooking techniques along the way. The received fact that B is enthusiastic about further collaborative cooking and eager to expand their culinary skills makes contribution to the goal that B's enthusiasm creates a positive environment for teaching and together creating dishes of perfection.
+
+5. Refine new goal on the contribution:
+Because of the contribution that B's enthusiasm creates a positive environment for teaching and together creating dishes of perfection, A can refine new goal that continue to engage B in shared cooking experiences that foster learning and create perfect dishes together.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that continue to engage B in shared cooking experiences that foster learning and create perfect dishes together. To achieve the goal, A has informative intention that encourage planning more collaborative cooking sessions and communicative intention that express enthusiasm for shared culinary exploration.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that encourage planning more collaborative cooking sessions, which means information in A's utterance will mainly focus on that. A's communicative intention is that express enthusiasm for shared culinary exploration, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It sounds like a great plan to me! I'm really excited about the idea of future cooking sessions where we can explore new flavors and techniques together. Let's make it happen soon—there are so many dishes I'd love for us to try, and I'm sure your creative ideas will add a wonderful twist!
+
+all scripts of B: 
+B: It sounds like an exciting opportunity for us to continue exploring and growing our culinary skills together. Trying new dishes and techniques will be so much fun, and I'm eager to see what creative twists we can come up with. Let's definitely set a date soon—I can't wait to cook with you again!

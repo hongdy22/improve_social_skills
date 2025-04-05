@@ -1,0 +1,8 @@
+y_script: {"B's Character": "B is cooperative and values understanding team members' strengths and motivations.", "B's Behavior": 'B actively participates in the conversation, suggests ideas for ice-breakers, and encourages sharing among team members.', "B's Goal": "B aims to enhance collaboration skills and learn from the team's diverse experiences to achieve a cohesive strategy.", "B's Information": 'B has experience working independently on projects and is detail-oriented, looking to apply these skills in a team setting.'}
+n_script: {"B's Character": "B is detail-oriented and values the combination of team members' ideas for an innovative and effective approach.", "B's Behavior": 'B suggests organizing tasks and ensuring no important steps are missed, and prepares a chart to map out team skills and ideas.', "B's Goal": "B seeks to create a strategy that aligns each person's talents with the roles needed for the team-building exercise.", "B's Information": 'B is skilled in organizing and structuring tasks, aiming to visually map out team strengths for effective role assignment.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.9, 'goal score': 0.85, 'information score': 0.95, 'total score': 0.875}
+n_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.75, 'information score': 0.85, 'total score': 0.775}
+

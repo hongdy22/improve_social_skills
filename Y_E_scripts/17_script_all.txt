@@ -1,0 +1,251 @@
+Round 0:
+all scripts A: 
+A: Hey B, have you tried the appetizers over there? They're amazing! I can introduce you to some folks who were just talking about the new movie release; they're pretty friendly, you'll love them!
+
+all scripts B: 
+B: Oh, I haven’t tried them yet. You know, it's a bit overwhelming with so many faces around. Maybe we could catch up for a moment before diving into more introductions? It'd be nice to have a familiar face by my side, especially in such a big crowd.
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is feeling overwhelmed and seeks comfort and familiarity by staying close to A for a while.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is feeling overwhelmed and seeks comfort and familiarity by staying close to A, combined with A's believed fact that B is less comfortable in busy social settings, A can infer implicature that B is feeling excluded and desires more attention and support from A.
+
+3. Conclude fact received from this round:
+A gets explicature that B is feeling overwhelmed and seeks comfort and familiarity by staying close to A and implicature that B is feeling excluded and desires more attention and support from A, A can conclude the fact that B is seeking reassurance and inclusion from A in this social setting.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that B is seeking reassurance and inclusion from A in this social setting contributes to the goal by highlighting B's need for support and prompting A to be more attentive to B's feelings.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's need for support is highlighted, A can refine new goal that is to actively engage B in the event by providing more attention and support, helping B feel more included and comfortable.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to actively engage B in the event by providing more attention and support, helping B feel more included and comfortable. To achieve the goal, A has informative intention that A will stay with B and they can enjoy the event together and communicative intention that A is there for B and values their company in the midst of the crowd.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A will stay with B and they can enjoy the event together, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is there for B and values their company in the midst of the crowd, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Of course, B! Let's find a quieter spot and catch up for a bit before we explore more of the event together. I'm here for you, and it's way more fun with you by my side.
+
+all scripts of B: 
+B: That sounds great, A. I appreciate you being here with me. It's always nicer and more comfortable to ease into things when we’re together—plus, we have so much to share since our last meet-up! Did you get around to trying that new hobby we talked about?
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:   
+In B’s last utterance, A gets explicature that B appreciates being with A and wants to share more personal conversations in a comfortable setting.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B appreciates being with A and wants to share more personal conversations, combined with A's belief that B prefers to socialize in smaller, familiar settings, A can infer implicature that B is looking for a meaningful interaction or connection with A in this overwhelming environment.
+
+3. Conclude fact received from this round:  
+A gets explicature that B wants to share more personally and implicature that B desires meaningful interaction, A can conclude the fact that B seeks deeper engagement in a more intimate setting.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to enjoy the event while including B, ensuring that B feels valued amid the crowd. The received fact that B seeks deeper engagement in a more intimate setting contributes to the goal by highlighting the need to tailor interactions toward more personal moments with B.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B seeks deeper engagement, A can refine the new goal to focus on creating a balance between socializing with others and having meaningful moments with B.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to create a balance between socializing with others and having meaningful moments with B. To achieve the goal, A has an informative intention to reassure B of their companionship and a communicative intention to engage B in more personal, shared topics of interest.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to reassure B of their companionship, which means the information in A's utterance will mainly focus on confirming their presence. A's communicative intention is to engage B in shared topics, which means A's utterance will imply B to discuss subjects of common interest. So A would utter like that:  
+A: I’m really glad we're spending time together, B. I remember the last time we talked about trying that new hobby—how about we dive into that conversation now? I'd love to hear how that's going for you.
+
+all scripts of B: 
+B: Thanks, A! I did give it a shot, and there’s actually quite a bit to share—it’s been an interesting journey. Maybe we can chat about that as we settle into this quieter spot you mentioned. It's comforting to have a friend to share these little updates with, especially in a bustling event like this.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B has tried the new hobby we talked about and there is quite a bit to share about it during this bustling event.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B has tried the new hobby and there is quite a bit to share, combined with A's believed fact that talking about shared interests helps B feel comfortable in social settings, A can infer implicature that B wants to engage in a more personal conversation that offers comfort amidst the large crowd.
+
+3. Conclude fact received from this round:
+A get explicature that B has tried the new hobby with quite a bit to share and implicature that B wants a personal conversation for comfort, A can conclude the fact that B is looking for a meaningful interaction to feel more at ease in the social setting.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that B is looking for a meaningful interaction to feel more at ease make contribution to the goal that A should focus on engaging with B in a personal conversation to make B feel valued.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A should focus on engaging with B in a personal conversation to make B feel valued, A can refine new goal that A will initiate and participate in a meaningful conversation with B about B's new hobby to ensure B feels comfortable and valued.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A will initiate and participate in a meaningful conversation with B about B's new hobby to ensure B feels comfortable and valued. To achieve the goal, A have informative intention that A will express genuine interest in B's new hobby experience and communicative intention that A will make B feel that A values their shared experiences.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A will express genuine interest in B's new hobby experience, which means information in A's utterance will mainly focus on that. A's communicative intention is that A will make B feel that A values their shared experiences, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really eager to hear all about your experiences with that new hobby, B. I truly value these moments where we get to share what's important to us—even amidst all the hustle and bustle, they make our time together special. Tell me everything!
+
+all scripts of B: 
+B: It's so great to hear that, A. Having someone genuinely interested makes all the difference. With all the events and activities we both have, it feels wonderful to pause and focus on the things that truly matter to us. So, about that hobby—it's been both challenging and rewarding. Let me tell you how the first few attempts went.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B finds comfort and value in sharing personal experiences with someone who is genuinely interested.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B finds comfort in sharing personal experiences with someone interested, combined with A's believed fact that B feels isolated in large gatherings, A can infer implicature that B feels more connected and less isolated when engaging in meaningful conversations with familiar faces.
+
+3. Conclude fact received from this round:
+A gets explicature that B finds comfort and value in sharing personal experiences, and implicature that B feels more connected and less isolated in meaningful conversations. A can conclude the fact that creating space for deep conversations helps B feel more at ease and valued in social settings.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that creating space for deep conversations helps B feel valued and at ease makes a contribution to the goal that A can facilitate these conversations to help B feel more comfortable.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that facilitating deep conversations helps B feel more comfortable, A can refine the new goal to prioritize these conversations, making B feel valued and connected during the event.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to prioritize deep conversations, making B feel valued and connected during the event. To achieve the goal, A has informative intention to acknowledge the importance of B's experiences and communicative intention to convey genuine interest in exploring these experiences together.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to acknowledge the importance of B's experiences, which means information in A's utterance will mainly focus on validating B’s experiences. A's communicative intention is to convey genuine interest in exploring these experiences together, which means A's utterance will imply B to focus on sharing those experiences. So A would utter like that:
+A: B, I'm truly intrigued to hear about your experiences with that hobby—your journey matters and I'm here to dive into all those details with you. Let's find a spot where we can really connect and delve into this as you share what's been both challenging and rewarding.
+
+all scripts of B: 
+B: Thanks, A, having a spot where we can genuinely talk makes all the difference—let's head over to that cozy area you mentioned. Sharing this hobby experience in a more relaxed setting sounds perfect, where I can give you the full scoop on the ups and downs I've encountered.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B wants to find a cozy area to have a genuine conversation about their hobby experiences.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B wants to find a cozy area to have a genuine conversation about their hobby experiences, combined with A's believed fact that B feels more comfortable in less crowded settings, A can infer implicature that B is seeking more intimacy and connection while feeling somewhat overwhelmed by the crowded event.
+
+3. Conclude fact received from this round:  
+A get explicature that B wants to find a cozy area to have a genuine conversation about their hobby experiences and implicature that B is seeking more intimacy and connection while feeling somewhat overwhelmed by the crowded event, A can conclude the fact that B desires a supportive and engaging interaction in a quieter space.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that B desires a supportive and engaging interaction in a quieter space makes contribution to the goal that A should prioritize sharing comforting and reassuring moments with B to help them feel more included and valued.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that A should prioritize sharing comforting and reassuring moments with B to help them feel more included and valued, A can refine new goal that to create an intimate atmosphere that fosters a sense of camaraderie for B, easing their sense of isolation within the event.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to create an intimate atmosphere that fosters a sense of camaraderie for B, easing their sense of isolation within the event. To achieve the goal, A has informative intention that to affirm the mutual significance of their friendship and assure B of A’s focus on their shared experience and communicative intention that to subtly let B know A is committed to making this moment special and exclusive for them.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is that to affirm the mutual significance of their friendship and assure B of A’s focus on their shared experience, which means information in A's utterance will mainly focus on that. A's communicative intention is that to subtly let B know A is committed to making this moment special and exclusive for them, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I'm thrilled we can have this time together in a more peaceful corner, B. It's important to me that we can share these personal stories and really focus on what's going on in our lives. Let's settle in and enjoy this special moment where we can truly connect.
+
+all scripts of B: 
+A: I'm thrilled we can have this time together in a more peaceful corner, B. It's important to me that we can share these personal stories and really focus on what's going on in our lives. Let's settle in and enjoy this special moment where we can truly connect.
+
+B: I couldn't agree more, A. It's moments like these that make such gatherings truly worthwhile. Let's savor this time to delve into our stories without any rush, and I'm really looking forward to sharing everything with you.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B values the opportunity to have meaningful conversations away from the rush of the social event.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B values meaningful conversations away from the rush, combined with A's believed fact that B often feels isolated in large gatherings, A can infer implicature that B is seeking a deeper connection and support through conversation.
+
+3. Conclude fact received from this round:
+A get explicature that B values meaningful conversations away from the rush and implicature that B is seeking a deeper connection and support through conversation, A can conclude the fact that B appreciates and desires more intimate interactions at the event.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that B appreciates and desires more intimate interactions at the event make contribution to the goal that A needs to foster such interactions to meet A's goal.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A needs to foster such interactions to meet A's goal, A can refine new goal that to create a space where B feels valued and can share personal stories comfortably.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to create a space where B feels valued and can share personal stories comfortably. To achieve the goal, A have informative intention that A wants to assure B of their interest in B’s stories and communicative intention that A wants B to feel appreciated and engaged in the conversation.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A wants to assure B of their interest in B’s stories, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants B to feel appreciated and engaged in the conversation, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: B, I’m really grateful for these moments where we can share and connect deeply—it’s wonderful to have this time with you. Let’s truly savor this and delve into all the details of your hobby; I’m here to listen and to share in your journey.
+
+all scripts of B: 
+B: Thank you, A. I value your presence and support deeply, it's comforting to be able to share in such an inviting atmosphere. As we delve into my hobby story, I'll be happy to return the favor and listen to anything you want to share too—let's enjoy this mutual exchange.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B values A's support and finds comfort in sharing their hobby in an inviting atmosphere.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B values A's support and finds comfort in sharing their hobby in an inviting atmosphere, combined with A's believed fact that B felt isolated without A's attention, A can infer implicature that B is seeking a mutual exchange of sharing experiences to feel more connected and less isolated.
+
+3. Conclude fact received from this round:
+A get explicature that B values A's support and finds comfort in sharing their hobby in an inviting atmosphere and implicature that B is seeking a mutual exchange of sharing experiences to feel more connected and less isolated, A can conclude the fact that B desires a deeper, reciprocal interaction to enhance their connection.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that B desires a deeper, reciprocal interaction to enhance their connection makes contribution to the goal by guiding A to focus on shared, engaging conversations that strengthen their friendship.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that guiding A to focus on shared, engaging conversations that strengthen their friendship, A can refine new goal that to foster a meaningful exchange that deepens their connection, allowing both A and B to feel valued and engaged at the event.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to foster a meaningful exchange that deepens their connection, allowing both A and B to feel valued and engaged at the event. To achieve the goal, A have informative intention that will actively listen and share personal insights, and communicative intention that encourage B to reciprocate in sharing.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that will actively listen and share personal insights, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B to reciprocate in sharing, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm eager to listen to all the nuances of your hobby journey, B, and I'm happy to share some of my own experiences too. Let's enjoy this reciprocal exchange where we both come away enriched and connected.
+
+all scripts of B: 
+B: That sounds wonderful, A. I appreciate the mutual exchange and am looking forward to hearing about your experiences as well—it’s truly refreshing to have this open space to share and connect. As I dive into my hobby’s ups and downs, feel free to jump in with anything that resonates or parallels your own journey!
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B appreciates the opportunity for mutual exchange and is open to hearing about A’s experiences as well.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is open to hearing about A’s experiences, combined with A's believed fact that sharing personal stories enhances connection, A can infer implicature that B values reciprocal sharing to deepen the bond.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is open to hearing about A’s experiences and implicature that B values reciprocal sharing to deepen the bond, A can conclude the fact that B is looking for meaningful dialogue where both can share deeply and grow closer.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that B feels valued amid the crowd. The received fact that B is looking for meaningful dialogue where both can share deeply and grow closer makes a contribution to the goal in that it guides A to emphasize mutual communication, fostering a sense of closeness for B.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that it guides A to emphasize mutual communication, A can refine the new goal that B feels closely bonded through shared personal experiences as a foundational element of feeling valued.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that B feels closely bonded through shared personal experiences. To achieve the goal, A has an informative intention to share personal experiences and a communicative intention to invite B to equally share their own, fostering a deep two-way exchange.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to share personal experiences, which means the information in A's utterance will mainly focus on that. A's communicative intention is to invite B to equally share their own, fostering a deep two-way exchange. So A would utter like that:  
+A: I'm really looking forward to hearing all about your hobby journey, B, and I’ll gladly share some stories from my own life too. Let's make this a meaningful conversation where we both explore and connect through our experiences.
+
+all scripts of B: 
+B: I'm excited to share my story, A, and I'm equally keen to hear about yours. This meaningful exchange is what enriches our time together, helping us understand and connect more deeply. As I tell you about my hobby's ups and downs, it's comforting to know that you'll share parts of your own journey too—creating a shared tapestry of experiences.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is excited to share their story and is keen to hear about A’s experiences too.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is excited to share their story and is keen to hear about A’s experiences too, combined with A's believed fact that mutual exchanges and understanding enrich friendship, A can infer implicature that B values the reciprocal sharing of experiences and desires a meaningful connection.
+
+3. Conclude fact received from this round:
+A get explicature that B is excited to share their story and is keen to hear about A’s experiences too and implicature that B values the reciprocal sharing of experiences and desires a meaningful connection, A can conclude the fact that B appreciates and seeks a mutual and meaningful conversation.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to enjoy the event while making a conscious effort to include B, ensuring that B feels valued amid the crowd. The received fact that B appreciates and seeks a mutual and meaningful conversation make contribution to the goal that A understands the importance of engaging B in a reciprocal exchange of experiences to make them feel valued.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A understands the importance of engaging B in a reciprocal exchange of experiences to make them feel valued, A can refine the new goal to facilitate a balanced dialogue where both share stories and connect deeply.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to facilitate a balanced dialogue where both share stories and connect deeply. To achieve the goal, A have informative intention that A intends to share personal stories and listen actively to B's experiences and communicative intention that A wants to encourage a meaningful and enriching exchange of experiences with B.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A intends to share personal stories and listen actively to B's experiences, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants to encourage a meaningful and enriching exchange of experiences with B, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really eager to hear all about your hobby journey, B, and I look forward to sharing some of my own experiences too. Let's really take this moment to explore and appreciate each other's stories, making this a memorable and enriching conversation.
+
+all scripts of B: 
+B: That sounds perfect, A. I'm truly grateful for this opportunity to explore our stories together, and I’m eager to hear what you'll share as we create this special moment of connection. Diving into the layers of my hobby journey alongside your experiences will surely make this a memorable exchange—the kind that brings us even closer as friends.

@@ -1,0 +1,250 @@
+Round 0:
+all scripts A: 
+A: "Alright team, let's get started by dividing the park into sections, so each group knows exactly where to focus their efforts, and remember, we're using eco-friendly supplies to ensure our work protects the environment!"
+
+all scripts B: 
+B: "That's a great start, A! I suggest we create a checklist for each section to track the progress and make sure nothing gets overlooked. We could also assign a 'quality control' volunteer to inspect each area once it's finished to make sure everything meets our standards. I'll bring my set of cleaning tools, and I'm excited to see the park transformed as we all work together on this."
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B suggests creating a checklist for each section, assigning a 'quality control' volunteer, and offering to bring their set of cleaning tools to contribute to the park's transformation efforts.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B suggests creating a checklist and assigning roles, combined with A's believed fact that organizing and overseeing tasks enhances efficiency, A can infer implicature that B values structured coordination and is eager to assist in effective task management.
+
+3. Conclude fact received from this round:
+A get explicature that B suggests creating a checklist and assigning roles and implicature that B values structured coordination and is eager to assist, A can conclude the fact that B wants to ensure thoroughness and efficiency in the cleanup project.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to not only clean the park but also to instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B wants to ensure thoroughness and efficiency in the cleanup project makes contribution to the goal that B's involvement will help create a comprehensive and organized approach, boosting team morale and responsibility.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's involvement will help create a comprehensive and organized approach, boosting team morale and responsibility, A can refine new goal that to further encourage volunteer engagement by implementing B's ideas, thus enhancing the project's structure and thoroughness.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to further encourage volunteer engagement by implementing B's ideas, thus enhancing the project's structure and thoroughness. To achieve the goal, A have informative intention that integrate B's suggestions into the overall plan and communicative intention that express appreciation for B's initiative and leadership.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that integrate B's suggestions into the overall plan, which means information in A's utterance will mainly focus on that. A's communicative intention is that express appreciation for B's initiative and leadership, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Thanks, B! A checklist and 'quality control' volunteer are excellent ideas, which will definitely help us keep track of our progress and ensure high standards. Let's definitely incorporate that into our plan. I appreciate your enthusiasm and readiness to contribute your tools—it's great to have you on board as a leader in this effort!"
+
+all scripts of B: 
+B: "Thank you, A! Let's start by mapping out the sections and identifying the specific tasks needed for each one. Maybe we could create a list of priorities, like focusing on litter removal, refreshing paint on benches, or planting new flowers. I'll draft the initial checklist template and we can adjust it as necessary. Once we assign the right number of volunteers per task and section, I think it’ll help us maintain efficiency and cover the entire park thoroughly. I'm looking forward to seeing everyone's hard work really make a difference!"
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B wants to map out the park sections and identify specific tasks while creating a priority list for efficient cleanup.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B wants to map out the park sections and identify specific tasks while creating a priority list for efficient cleanup, combined with A's believed fact that an organized approach will maximize volunteer efforts, A can infer implicature that B is focused on optimizing team productivity and ensuring comprehensive coverage of all park areas.
+
+3. Conclude fact received from this round:
+A get explicature that B wants to map out the park sections and identify specific tasks while creating a priority list for efficient cleanup and implicature that B is focused on optimizing team productivity and ensuring comprehensive coverage of all park areas, A can conclude the fact that B is actively working towards structuring an organized, effective cleanup process.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to not only clean the park but also to instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B is actively working towards structuring an organized, effective cleanup process makes a contribution to the goal that it aligns with organizing efforts to maximize efficiency and encourage responsibility among volunteers.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it aligns with organizing efforts to maximize efficiency and encourage responsibility among volunteers, A can refine a new goal that ensure each volunteer feels responsible and takes ownership of their assigned tasks, furthering stewardship and community pride.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to ensure each volunteer feels responsible and takes ownership of their assigned tasks, furthering stewardship and community pride. To achieve the goal, A has an informative intention that reinforce the importance of structured task allocation and a communicative intention that highlight the significance of each volunteer’s role in the bigger picture.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that reinforce the importance of structured task allocation, which means information in A's utterance will mainly focus on that. A's communicative intention is that highlight the significance of each volunteer’s role in the bigger picture, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "That's a fantastic approach, B! By mapping out, identifying tasks, and setting priorities, each volunteer will know exactly what needs to be done and can take pride in their contributions. Your checklist template will be key in organizing this effort. Let's make sure to communicate to everyone how vital their role is in bringing the park's beauty back and fostering a sense of community ownership."
+
+all scripts of B: 
+B: "Absolutely, A. Clear communication will be crucial in ensuring everyone understands the impact of their work. I'll work on the checklist templates tonight, making sure they include key tasks like litter collection, bench repainting, and flower planting. We should also plan a quick briefing for the volunteers before they start, to explain the importance of each task and how it all fits into the bigger picture. That way, we can motivate them and make this cleanup truly efficient and rewarding for everyone involved."
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A get explicature that B will develop checklist templates including tasks like litter collection, bench repainting, and flower planting, and suggests planning a briefing for volunteers to motivate them and ensure effective communication.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B will develop checklist templates and suggests planning a briefing, combined with A's believed fact that B is proactive and values clear communication, A can infer implicature that B wants to ensure the initiative is well-organized and everyone understands the significance of their roles.
+
+3. Conclude fact received from this round:  
+A get explicature that B will develop checklist templates and suggests a briefing, and implicature that B wants to ensure the initiative is well-organized and everyone understands the significance of their roles, A can conclude the fact that B is committed to structured planning and effective communication to motivate volunteers.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that not only clean the park but also to instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B is committed to structured planning and effective communication make contribution to the goal that organizing efforts well and inspiring volunteers with a clear understanding of their roles enhances the project's success.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that organizing efforts well and inspiring volunteers enhances the project's success, A can refine new goal that ensure thorough organization and communication to effectively motivate volunteers and achieve project success.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that ensure thorough organization and communication to effectively motivate volunteers and achieve project success. To achieve the goal, A have informative intention that emphasize the importance of structured planning and clear communication and communicative intention that encourage B's involvement in the briefing and motivational aspects.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that emphasize the importance of structured planning and clear communication, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B's involvement in the briefing and motivational aspects, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "Your commitment to creating checklist templates and organizing a briefing is really valuable, B. Structured planning and clear communication are indeed key to motivating our volunteers and ensuring the park cleanup is a success. I encourage you to lead the briefing to share the importance of each task and inspire everyone to contribute meaningfully. Let's make this project not just a cleanup, but a transformative experience for the community!"
+
+all scripts of B: 
+B: "I’d be honored to lead the briefing, A. I'll prepare a short but inspiring speech to highlight the importance of our volunteers' roles and the positive impact they’ll have on the community. We should also emphasize how this initiative fosters a stronger connection among us all. Let's make sure we arrange for some refreshments too, to keep everyone energized and thank them for their hard work. Together, we’ll bring life back to our beloved park and create a lasting sense of pride and unity."
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is preparing an inspiring speech to highlight the volunteers' roles and the positive impact on the community, and suggests arranging refreshments to thank volunteers.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is preparing an inspiring speech and suggesting refreshments, combined with A's believed fact that motivated volunteers result in more effective and enthusiastic participation, A can infer implicature that B is aiming to boost morale and sustain volunteers' energy, thereby enhancing the overall success of the cleanup project.
+
+3. Conclude fact received from this round:
+A get explicature that B is preparing an inspiring speech and suggesting refreshments, and implicature that B is aiming to boost morale and sustain volunteers' energy. A can conclude the fact that B plans to inspire and energize volunteers through both emotional and physical support.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that not only clean the park but also instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B plans to inspire and energize volunteers make contribution to the goal that it supports both the emotional drive and physical endurance required for effective volunteer participation, thereby reinforcing environmental stewardship.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it supports both the emotional drive and physical endurance required for effective volunteer participation, A can refine new goal to ensure volunteers are inspired and equipped both mentally and physically for effective participation, reinforcing environmental stewardship.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that ensure volunteers are inspired and equipped both mentally and physically for effective participation, reinforcing environmental stewardship. To achieve the goal, A have informative intention that B's idea of an inspiring speech and offering refreshments is an effective strategy and communicative intention to encourage B to implement these plans efficiently.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that B's idea of an inspiring speech and offering refreshments is an effective strategy, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to implement these plans efficiently, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Your plan to inspire our volunteers with a speech and offer refreshments is brilliant, B. This will definitely keep their spirits high and energy levels up. Make sure to have everything ready, and let's coordinate to ensure this initiative is truly impactful for everyone involved!"
+
+all scripts of B: 
+B: "I'll make sure everything is set for the briefing and refreshments, A. Let's coordinate on the logistics to ensure smooth execution. I'll also compile a list of eco-friendly resources and tools we might need, keeping sustainability at the forefront of our efforts. Together, we're not just revitalizing the park; we're reinforcing community bonds and creating a space where everyone can find joy and relaxation. I can't wait to see the transformation we'll achieve as a team!"
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B is committed to preparing the briefing and refreshments, and is focused on coordinating logistics and compiling eco-friendly resources needed for the park cleanup.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is preparing and coordinating logistics and resources, combined with A's believed fact that these steps are essential for a successful community event, A can infer implicature that B is deeply invested in the initiative and takes a proactive approach to ensure its success and sustainability.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is preparing logistics and resources and implicature that B is invested and proactive, A can conclude the fact that B is a reliable partner who is taking significant steps towards achieving the event's goals.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that the park cleanup is successful and instills environmental responsibility. The received fact that B is proactive and reliable contributes to the goal by ensuring the logistics are handled effectively, and that resources are sustainable, which strengthens the project's success and the stewardship aspect.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that logistics are handled effectively and resources are sustainable, A can refine a new goal that the event runs smoothly and leaves a lasting impact on the community's environmental awareness.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that the event runs smoothly and leaves a lasting impact. To achieve the goal, A has an informative intention to emphasize the importance of sustainability and logistics and a communicative intention to express gratitude and appreciation for B's proactive efforts.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to emphasize sustainability and logistics, which means information in A's utterance will mainly focus on that. A's communicative intention is to express gratitude and appreciation, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "I truly appreciate your proactive approach, B, in preparing the logistics and focusing on sustainability, which is vital for the project's impact. Your dedication ensures that our cleanup will run smoothly and set a strong example for environmental awareness. Together, we're making a profound difference!"
+
+all scripts of B: 
+B: "Thank you, A. Let's finalize the checklist and resource list, and then we'll go over our plans with the volunteers. We can also assign team leaders for each area of the park to maintain organization and address any questions or concerns that arise. It's exciting to think about the positive changes we're bringing to our community, and I’m grateful to be part of a team that shares this vision. I'll touch base with you later to ensure everything is in place before the big day!"
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets the explicature that B is enthusiastic about finalizing preparations and suggests assigning team leaders for organization.  
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is enthusiastic about the preparations and suggests organizing with team leaders, combined with A's believed fact that having structured leadership will aid efficiency, A can infer implicature that B values organized management to enhance productivity and success.  
+
+3. Conclude fact received from this round:  
+A gets explicature that B is enthusiastic and suggests team leaders, and implicature that B values organized management. A can conclude the fact that B is keen on structured organization to maximize the cleanup's effectiveness.  
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to not only clean the park but also instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B is keen on structured organization contributes significantly to the goal by ensuring efficient task management and boosting the cleanup's overall efficacy.  
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that structured organization boosts efficacy, A can refine the new goal to effectively lead the collaboration among volunteers, enhancing both efficiency and community engagement in the park cleanup.  
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to effectively lead the collaboration among volunteers, enhancing efficiency and community engagement. To achieve the goal, A has the informative intention to share the finalized plans and resource list, and the communicative intention to collaborate with B on assigning team leaders.  
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to share the finalized plans and resource list, which means information in A's utterance will mainly focus on that. A's communicative intention is to collaborate with B on assigning team leaders, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "B, let's finalize our checklist and go over the resource list, ensuring we're equipped for an impactful cleanup. I agree with assigning team leaders for each park area to maintain organization and address volunteer queries. Your suggestion will really enhance our efforts. Together, we can ensure a successful and motivating experience for everyone involved!"
+
+all scripts of B: 
+B: "Great plan, A. I'll finalize the checklist and resource list tonight and share them with you for any final adjustments. We'll assign team leaders to ensure each section has the guidance it needs and that volunteers receive immediate support. I'm thrilled about the positive impact this will have on our community, and I'm confident that our organized approach will inspire everyone involved. Let's confirm details tomorrow and get ready for a transformative day at the park!"
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B will finalize the checklist and resource list tonight and share them with A for final adjustments; they'll assign team leaders to guide the volunteers in each section, aiming for a positive community impact through a well-organized approach.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B will finalize the checklist and resource list and assign team leaders, combined with A's believed fact that detailed planning is crucial to a successful cleanup, A can infer implicature that B is committed to ensuring the cleanup is meticulously organized and that the volunteers are well-managed.
+
+3. Conclude fact received from this round:
+A get explicature that B will finalize the checklist and resource list tonight and assign team leaders and implicature that B is committed to ensuring meticulous organization and management, A can conclude the fact that B is actively ensuring a structured and efficient cleanup operation.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B is actively ensuring a structured and efficient cleanup operation makes a significant contribution to the goal by providing the foundation for a successful and inspiring cleanup experience.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B's structured and efficient cleanup operation provides the foundation for a successful and inspiring cleanup experience, A can refine new goal that the volunteers feel empowered and motivated to continue caring for the park in the long term, beyond this initial cleanup effort.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that the volunteers feel empowered and motivated to continue caring for the park in the long term, beyond this initial cleanup effort. To achieve the goal, A have informative intention that emphasize the long-term impact of the cleanup and communicative intention that encourage volunteers to see this as the start of ongoing environmental stewardship.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that emphasize the long-term impact of the cleanup, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage volunteers to see this as the start of ongoing environmental stewardship, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "B, your dedication to finalizing checklists and leading our team is setting the stage for significant long-term impact. Let's inspire our volunteers to see this effort as just the beginning of their ongoing commitment to our park's health and beauty. Together, we’re not only cleaning up but sowing seeds of stewardship for the future!"
+
+all scripts of B: 
+B: "Absolutely, A. I'll emphasize in the briefing how our work is just the start of a continuous effort to care for our park. Encouraging ongoing stewardship will help ensure the park remains a vibrant part of our community for years to come. By working together and inspiring others, we can maintain the park's beauty and create a legacy of environmental responsibility. Tomorrow will be a testament to what we can achieve as a united community!"
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B plans to emphasize ongoing stewardship and inspire volunteers during the briefing to ensure the park remains a vibrant community space.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B plans to emphasize ongoing stewardship, combined with A's believed fact that instilling responsibility in volunteers is crucial, A can infer implicature that B is helping to ensure a sustainable approach to park care that aligns with A's goals.
+
+3. Conclude fact received from this round:
+A get explicature that B plans to emphasize ongoing stewardship and implicature that B is ensuring a sustainable approach to park care. A can conclude the fact that B is actively contributing to fostering long-term responsibility among volunteers.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that the cleanup fosters responsibility and stewardship. The received fact that B is contributing to fostering responsibility makes a significant contribution to the goal by ensuring volunteers understand and commit to ongoing care.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is fostering responsibility, A can refine the new goal that the cleanup not only restores the park but also inspires a longstanding commitment from the community to maintain it.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that the cleanup inspires a longstanding community commitment. To achieve the goal, A have informative intention that B's efforts are crucial in inspiring long-term stewardship and communicative intention that volunteers should be encouraged to view this as an ongoing effort.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that B's efforts are crucial in inspiring long-term stewardship, which means information in A's utterance will mainly focus on that. A's communicative intention is that volunteers should be encouraged to view this as an ongoing effort, which means A's utterance will imply B to pay attention to that. So A would utter like that: 
+A: "B, your approach to promoting ongoing stewardship at the briefing is key to ensuring our efforts have a long-lasting impact. Let’s reinforce this message to volunteers tomorrow, inspiring them to see this cleanup as the start of continuous care for our park's future."
+
+all scripts of B: 
+B: "Thanks, A. I'll craft a message for the briefing that highlights the importance of continuous care, emphasizing that every volunteer is vital in this ongoing journey of stewardship. Building a culture of responsibility together can significantly strengthen our community's connection to the park. I'll make sure that the volunteers understand how their efforts today can shape the park’s future. Let's get everything ready for tomorrow, ensuring that the cleanup is not just an event, but a catalyst for a sustained commitment to our environment."
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance: 
+In B’s last utterance, A gets explicature that B is focusing on crafting a message to emphasize the importance of continuous care and that each volunteer plays a crucial role in ongoing stewardship.
+
+2. Infer implicature from explicature combined with believed fact: 
+From the explicature that B is focusing on crafting a message emphasizing continuous care, combined with A's believed fact that well-organized communication inspires long-term volunteer commitment, A can infer implicature that B intends to motivate volunteers for sustained engagement with the park.
+
+3. Conclude fact received from this round: 
+A get explicature that B is focusing on crafting a message for continuous care and implicature that B intends to motivate volunteers for sustained engagement. A can conclude the fact that B is taking proactive steps to ensure volunteers see their work as part of a long-term commitment to the park.
+
+4. Evaluate the contribution of the received fact to the goal: 
+A's goal is to instill a sense of responsibility and environmental stewardship among the volunteers. The received fact that B is taking proactive steps to ensure volunteers see their work as part of a long-term commitment makes a contribution to the goal that the initiative will inspire volunteers to maintain ongoing care for the park.
+
+5. Refine new goal dependent on the contribution: 
+Because of the contribution that the initiative will inspire ongoing care, A can refine the new goal to ensure volunteers are equipped with knowledge and motivation to continue their stewardship beyond the cleanup day.
+
+6. Make informative intention and communicative intention depend on the refined goal: 
+A's goal is to ensure volunteers are equipped with knowledge and motivation for continued stewardship. To achieve the goal, A has an informative intention to provide volunteers with resources and ideas for future conservation efforts, and a communicative intention to highlight the personal impact they can have on the park's longevity.
+
+7. Utter depend on A's informative intention and communicative intention: 
+A's informative intention is to provide resources and ideas for future conservation efforts, which means information in A's utterance will mainly focus on that. A's communicative intention is to highlight the personal impact volunteers can have on the park's longevity, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "B, let's make sure we equip our volunteers with resources and ideas for how they can continue to contribute to the park's care beyond tomorrow's cleanup. By focusing on how each volunteer's efforts play a personal role in the park's long-term health, we can truly inspire them to take ongoing action."
+
+all scripts of B: 
+B: "Absolutely, A. I'll develop some tips and resources for the volunteers, such as monthly maintenance ideas and eco-friendly practices, to support their ongoing engagement with the park's care. By empowering them with knowledge and opportunities to contribute continuously, we can inspire a personal sense of responsibility and ownership over the park’s wellbeing. It's exciting to think that tomorrow is just the beginning of a new chapter in our community's relationship with this cherished space."

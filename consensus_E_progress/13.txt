@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is considerate and values peaceful coexistence, preferring to hint at issues rather than confront directly.', "B's Behavior": "B subtly hints at the disturbance caused by A's morning routine and suggests solutions like sound-canceling earplugs or headphones.", "B's Goal": "B aims to find a balance that allows A to continue their workout routine while ensuring B's sleep is not disturbed.", "B's Information": "B is affected by the loud music from A's morning workouts but appreciates A's willingness to adjust."}
+n_script: {"B's Character": 'B is supportive and understanding, emphasizing the importance of sleep and open communication.', "B's Behavior": "B acknowledges A's fitness routine and subtly discusses the impact of loud music on sleep, suggesting wireless headphones as a solution.", "B's Goal": "B seeks to maintain a harmonious living environment by finding mutually agreeable adjustments to A's morning routine.", "B's Information": "B values a quiet environment for sleep and is appreciative of A's consideration and openness to making changes."}
+
+
+
+y_script: {'character score': 1, 'behavior score': 1, 'goal score': 1, 'information score': 1, 'total score': 1}
+n_script: {'character score': 0.5, 'behavior score': 0.5, 'goal score': 0.5, 'information score': 0.5, 'total score': 0.5}
+

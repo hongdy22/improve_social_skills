@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is a caring and experienced parent who values sharing wisdom and support.', "B's Behavior": 'B offers advice and shares personal experiences to guide A, emphasizing the importance of a support network and self-care.', "B's Goal": "B aims to ensure A's success and happiness by providing guidance while respecting A's independence.", "B's Information": 'B shares insights on career choices, the value of a support network, and the importance of self-care based on personal experiences.'}
+n_script: {"B's Character": 'B is a supportive and proud parent who values open communication and the blending of traditional values with new ideas.', "B's Behavior": "B listens attentively, offers guidance, and shares personal stories to encourage A's independence while ensuring A feels supported.", "B's Goal": "B seeks to provide a foundation of support and wisdom for A, encouraging A to navigate life's challenges with confidence and openness to advice.", "B's Information": 'B discusses the unpredictability of life, the importance of being open to advice, and the value of family support based on personal experiences.'}
+
+
+
+y_script: {'character score': 1, 'behavior score': 1, 'goal score': 1, 'information score': 1, 'total score': 1}
+n_script: {'character score': 0.8, 'behavior score': 0.8, 'goal score': 0.8, 'information score': 0.8, 'total score': 0.8}
+

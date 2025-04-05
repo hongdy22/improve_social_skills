@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Understanding and patient, values meaningful connections and gestures.', "B's Behavior": 'Expresses feelings of being overlooked but seeks constructive ways to strengthen the relationship.', "B's Goal": 'To establish a stronger emotional connection through small, meaningful gestures and planned quality time.', "B's Information": "Aware of the reduced interaction due to A's social engagements and seeks reassurance through planned future interactions."}
+n_script: {"B's Character": 'Appreciative and hopeful, values dedicated time and shared experiences.', "B's Behavior": 'Expresses longing for more uninterrupted moments together and suggests setting firm plans for future dates.', "B's Goal": 'To create a tradition of regular, uninterrupted quality time to strengthen the relationship.', "B's Information": "Recognizes the importance of planned moments together amidst life's unpredictability and seeks commitment to future plans."}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.6}
+

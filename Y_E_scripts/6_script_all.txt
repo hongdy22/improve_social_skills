@@ -1,0 +1,253 @@
+Round 0:
+all scripts A: 
+A: It's wonderful to see such a great turnout for the book signing, isn't it? I find that sticking to the event's guidelines really helps keep things smooth for everyone waiting to meet the author. Are you looking forward to getting your book signed?
+
+all scripts B: 
+Sure, here’s the continuation:
+
+B: Yes, it’s really exciting to be here! It’s my first time at a book signing, and I’m a bit nervous about it. Do you have any tips on what I should say to the author or how long I should take when it's my turn? I don’t want to hold up the line or do something wrong.
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is excited and nervous about the book signing because it is their first time at such an event, and they are seeking advice on the appropriate interaction with the author.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is excited and nervous about the event and seeking advice, combined with A's believed fact that following the event's guidelines ensures a smooth experience, A can infer implicature that B wants to make a good impression and contribute positively to the event's atmosphere without causing delays.
+
+3. Conclude fact received from this round:
+A gets explicature that B is excited and nervous about the book signing and seeking advice, and implicature that B wants to make a good impression and contribute positively without causing delays. A can conclude the fact that B is eager for guidance on etiquette to ensure they have a positive experience and smooth interaction with the author.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is eager for guidance on etiquette makes a contribution to the goal by allowing A to help B feel more comfortable and gain confidence in adhering to proper etiquette, which supports an orderly atmosphere for all attendees.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is eager for guidance on etiquette, A can refine the new goal that is to not only receive the author's signature but also assist B in gaining confidence in interacting with the author appropriately, which ensures a respectful atmosphere in the queue.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to assist B in gaining confidence in interacting with the author appropriately, ensuring a respectful atmosphere in the queue. To achieve the goal, A has an informative intention to provide B with tips on courteous interaction and communicative intention to imply that following these tips will help create a positive environment.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to provide B with tips on courteous interaction, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply B to pay attention to the tips, which means A's utterance will encourage B to follow them for a positive environment. So A would utter like that:
+A: You know, it really helps to keep your conversation brief and respectful. You might start by saying how much you appreciate the author’s work and maybe mention a favorite book or character. That way, the author gets to hear your enthusiasm, and the people behind us in line can move smoothly too. Just be yourself, and you'll do great!
+
+all scripts of B: 
+B: Thank you, that's really helpful! I’m such a huge fan and didn't want to sound awkward or take up too much of the author’s time. I think I'll mention how their latest book really resonated with me. Is it okay to ask for a photo with the author, or is that usually discouraged?
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is concerned about asking for a photo with the author and whether it is appropriate during the book signing event.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is concerned about asking for a photo with the author, combined with A's believed fact that events like these typically encourage brief interactions to keep the line moving, A can infer implicature that B wants to make sure their request is respectful and does not disrupt the flow of the event.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is concerned about asking for a photo with the author and implicature that B wants to make sure their request is respectful and does not disrupt the flow of the event. A can conclude the fact that B is being considerate about how to interact with the author during the event.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is being considerate about how to interact with the author makes a contribution to the goal that it encourages a respectful and efficient environment, aligning with event guidelines.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B's consideration aligns with event guidelines, A can refine the new goal to encourage B to maintain confidence while ensuring they follow the event's norms.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to encourage B to maintain confidence while ensuring they follow the event's norms. To achieve this goal, A has an informative intention to share advice on typical event etiquette for interactions and a communicative intention to reassure B of their considerate approach.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to share advice on typical event etiquette for interactions, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B of their considerate approach, which means A's utterance will imply B to pay attention to that. So A would utter like this:  
+A: Asking for a photo is usually okay, but I’d recommend observing how the event is flowing. If you see others taking photos and the author seems open to it, then a quick photo should be fine. Just be mindful of the line moving briskly. It sounds like you’re already being really thoughtful about your approach, which is great!
+
+all scripts of B: 
+Round 2:
+B: Thanks, I’ll definitely keep an eye on what others are doing and try to follow their lead. It’s reassuring to know that keeping things respectful and brief is the key. I hope the author appreciates hearing how much their work means to fans like us. It’s quite an experience just being here amidst all this excitement! I really appreciate your guidance.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets the explicature that B feels reassured about the approach to meet the author and appreciates A’s guidance.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B feels reassured, combined with A's believed fact that mutual respect enhances the event experience, A can infer the implicature that B values following respectful and considerate protocols.
+
+3. Conclude fact received from this round:  
+A gets explicature that B feels reassured and implicature that B values following respectful protocols, A can conclude the fact that B is committed to ensuring a smooth and respectful book signing experience.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is committed to ensuring a smooth and respectful experience contributes to the goal by reinforcing a cooperative atmosphere among attendees.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that reinforces a cooperative atmosphere, A can refine the new goal to encourage others in line to maintain this positive and respectful environment.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to encourage others in line to maintain a positive and respectful environment. To achieve the goal, A has informative intention to share their positive anticipation for meeting the author, and communicative intention to subtly inspire B to spread this positivity to others.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is to share their positive anticipation for meeting the author, which means information in A's utterance will mainly focus on the excitement of the event. A's communicative intention is to subtly inspire B to spread this positivity to others, which means A's utterance will imply B to pay attention to promoting a pleasant atmosphere. So A would utter like that:  
+A: It's fantastic to share this excitement with fellow fans like you! I’m sure the author will appreciate hearing from genuine fans like us. Let's continue sharing this enthusiasm with others in line; it makes the event all the more enjoyable for everyone.
+
+all scripts of B: 
+B: Absolutely, I couldn’t agree more! It’s amazing to see so many people who love the author’s work as much as I do. I’ll be sure to keep things brief and friendly. Thank you again for all your advice. I feel much more confident now and can’t wait for my turn to meet the author!
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B is feeling more confident and excited about the event, intending to keep their interaction with the author brief and friendly.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is feeling more confident and excited, combined with A's believed fact that following the event guidelines ensures a positive experience for everyone, A can infer implicature that B is aligned with A's approach to maintaining a respectful and enjoyable atmosphere.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is feeling more confident and excited, and implicature that B is aligned with A’s approach, A can conclude the fact that B is ready to contribute to a smooth and enjoyable event experience for everyone.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is ready to contribute to a smooth and enjoyable event experience makes a contribution to the goal by ensuring a cooperative and positive interaction within the queue.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B is ready to contribute to a smooth and enjoyable event experience, A can refine the new goal to encourage more attendees to maintain the pleasant atmosphere, further enhancing the overall event experience.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to encourage more attendees to maintain the pleasant atmosphere. To achieve this goal, A has the informative intention to highlight the benefits of creating a positive environment and the communicative intention to subtly encourage B to spread this positive energy along the line.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to highlight the benefits of creating a positive environment, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly encourage B to spread this positive energy along the line, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It's wonderful that we're creating such a positive atmosphere here. It’s amazing how our excitement and consideration can really enhance the experience for everyone in line. Let’s continue spreading these good vibes as we move forward!
+
+all scripts of B: 
+B: Definitely, I’ll do my best to keep the positivity going around us. It's such a joy to be here surrounded by fellow fans, and I feel ready to make the most of this experience. Thank you once more for all your help and for being so friendly. This is a day to remember!
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels joyful to be surrounded by fellow fans and appreciates A’s friendliness and help.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels joyful and appreciates the help, combined with A's believed fact that A aims to maintain a pleasant atmosphere, A can infer implicature that B is positively influenced by A’s approach to the event and wishes to contribute to spreading positivity.
+
+3. Conclude fact received from this round:
+A get explicature that B feels joyful and appreciates A’s friendliness and help, and implicature that B is positively influenced and wishes to contribute to spreading positivity, A can conclude the fact that B is eager to enhance the event’s atmosphere and values the shared excitement.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is eager to enhance the event’s atmosphere and values the shared excitement makes a contribution to the goal that it supports the desired pleasant and respectful atmosphere.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it supports the desired pleasant and respectful atmosphere, A can refine new goal that to maintain and further encourage the positive atmosphere, which contributes to a seamless experience for everyone.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to maintain and further encourage the positive atmosphere, which contributes to a seamless experience for everyone. To achieve the goal, A has informative intention that share appreciation for B’s positivity and readiness to contribute, and communicative intention that encourage B to continue promoting a pleasant atmosphere among fellow fans.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that share appreciation for B’s positivity and readiness to contribute, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B to continue promoting a pleasant atmosphere among fellow fans, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It’s really wonderful to hear how ready you are to embrace the joy of this event! Your approach will certainly help keep the energy high and the positivity flowing as we all enjoy this shared experience together.
+
+all scripts of B: 
+B: I'm really appreciating all of this energy and excitement around us, and your tips have been invaluable. It's truly inspiring to be among so many people who share this love for the author's work. I'm looking forward to my turn, and I'm sure this day will hold special memories for all of us!
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is feeling inspired by the excitement surrounding the event and appreciates the shared enthusiasm among the fans.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is feeling inspired by the excitement surrounding the event and appreciates the shared enthusiasm among the fans, combined with A's believed fact that sharing positive experiences enhances such events, A can infer implicature that B values collective enjoyment and is motivated to contribute to the positive atmosphere.
+
+3. Conclude fact received from this round:
+A gets explicature that B is feeling inspired by the excitement surrounding the event and appreciates the shared enthusiasm among the fans, and implicature that B values collective enjoyment and is motivated to contribute to the positive atmosphere. A can conclude the fact that B is committed to maintaining a positive environment at the event.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is committed to maintaining a positive environment at the event contributes to the goal by ensuring there's mutual support in achieving a respectful and smooth interaction with the author.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B is committed to maintaining a positive environment, A can refine the new goal to actively engage with B in spreading positivity and ensuring the event runs smoothly for everyone.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to actively engage with B in spreading positivity and ensuring the event runs smoothly for everyone. To achieve the goal, A has the informative intention to express appreciation for B’s readiness to maintain a positive atmosphere and the communicative intention to encourage B to continue this positive engagement.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to express appreciation for B’s readiness to maintain a positive atmosphere, which means the information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to continue this positive engagement, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: It's truly inspiring to see how dedicated you are to keeping the energy positive and engaging at this event. Let's keep sharing this enthusiasm with those around us and make it an unforgettable experience for everyone here!
+
+all scripts of B: 
+B: I'm thrilled to be part of such a supportive community and eager to soak up every part of this event. Your encouragement means a lot, and I hope my excitement is as contagious as yours. Let's make sure everyone leaves with cherished memories!
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is eager to soak up every part of the event and finds encouragement from A meaningful, hoping their excitement is contagious among the community.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager to soak up every part of the event and finds encouragement from A meaningful, A can infer implicature that B is motivated to contribute to a positive atmosphere and engagement at the event.
+
+3. Conclude fact received from this round:
+A get explicature that B is eager to soak up every part of the event, and implicature that B is motivated to contribute to a positive atmosphere, A can conclude the fact that B values community spirit and actively seeks to enhance the event's atmosphere.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B values community spirit and actively seeks to enhance the event's atmosphere makes a contribution to the goal by reinforcing the shared commitment to creating a supportive and respectful environment.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B values community spirit and actively seeks to enhance the event's atmosphere, A can refine new goal that to collaboratively foster an engaging and memorable experience for everyone at the book signing.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to collaboratively foster an engaging and memorable experience for everyone at the book signing. To achieve the goal, A has informative intention that encouraging active participation in spreading enthusiasm and positive vibes, and communicative intention that implying B’s role in maintaining a supportive atmosphere.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that encouraging active participation in spreading enthusiasm and positive vibes, which means information in A's utterance will mainly focus on that. A's communicative intention is that implying B’s role in maintaining a supportive atmosphere, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Your enthusiasm truly enriches the experience for everyone here! By staying positive and encouraging, you're playing an important part in making this event memorable. Let’s keep sharing these good vibes together!
+
+all scripts of B: 
+B: Thank you so much for your kind words! I'm really enjoying this event and being part of such a vibrant community of fans. It's lovely to share in this experience, and I can't wait to meet the author. Let's continue to spread the excitement and make sure everyone has a wonderful time!
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is enjoying the event and appreciates being part of a vibrant community of fans, and is eager to meet the author while wanting to spread the excitement for everyone’s enjoyment.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is looking forward to meeting the author and spreading excitement, combined with A's believed fact that maintaining positive interactions contributes to a successful signing event, A can infer implicature that B is likely to contribute positively to the atmosphere, encouraging others to enjoy the experience too.
+
+3. Conclude fact received from this round:
+A get explicature that B is eager and excited, and implicature that B will positively influence the event’s atmosphere. A can conclude the fact that B is engaging constructively with the event community, promoting shared enjoyment.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is engaging constructively and enhancing the community atmosphere contributes to the goal by fostering an enjoyable and smooth event environment.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's positive engagement enhances the community atmosphere, A can refine new goal that to bolster and support positive community interactions whilst waiting for the author’s signature.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to bolster and support positive community interactions whilst waiting for the author's signature. To achieve the goal, A have informative intention that encouraging sharing of excitement can enhance the event experience and communicative intention that B should continue their positive influence on the community mood.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that encouraging sharing of excitement can enhance the event experience, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should continue their positive influence on the community mood, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It’s truly inspiring to see everyone’s excitement blending together here. Your positive energy really sets the tone, and together we’re making this a delightful experience for all the fans around us. Keep it going, and let’s cherish every moment!
+
+all scripts of B: 
+B: I’m so grateful to be part of this amazing gathering and to share in the excitement with such passionate fans. Your support has made my first book signing event truly special, and together I feel we’re making unforgettable memories. Let's keep this positive momentum going for everyone here!
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B feels grateful to be part of the gathering and aims to share excitement with passionate fans, enriching their experience and creating unforgettable memories together.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels grateful and aims to share excitement with fans, combined with A's believed fact that maintaining a positive atmosphere enhances the event experience, A can infer implicature that B intends to contribute to a joyful and harmonious environment, benefiting all attendees.
+
+3. Conclude fact received from this round:
+A gets explicature that B feels grateful and aims to share excitement with fans, and implicature that B intends to contribute to a joyful and harmonious environment. A can conclude the fact that B is committed to enhancing the experience for everyone by spreading positivity.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to receive the author's signature while maintaining a pleasant and respectful atmosphere in the queue. The received fact that B is committed to enhancing the experience for everyone by spreading positivity makes a significant contribution to the goal, as it aligns with A's objective of fostering a respectful and enjoyable event.
+
+5. Refine new goal depend on the contribution: 
+Because of the contribution that B's commitment aligns with A's objective, A can refine the new goal to continue encouraging positive interactions among fans, further enhancing the atmosphere while awaiting the author's signature.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to continue encouraging positive interactions among fans, enhancing the atmosphere while awaiting the author's signature. To achieve the goal, A has informative intention to acknowledge B's efforts and encourage continued positivity, and communicative intention to reinforce the importance of shared enthusiasm and respect in line.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to acknowledge B's efforts and encourage continued positivity, which means information in A's utterance will mainly focus on that. A's communicative intention is to reinforce the importance of shared enthusiasm and respect in line, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Your dedication to spreading positivity is truly commendable. By keeping this energy alive, we are creating an incredible environment for everyone to enjoy. Let's continue to respect each other’s excitement and make this event as memorable as possible for all!
+
+all scripts of B: 
+B: I'm committed to making this a memorable experience for all of us and to maintaining this positive atmosphere. It's amazing what we can achieve when we come together like this! Let's cherish each moment and ensure that everyone leaves with wonderful memories and a smile on their face. Thanks for being such a great part of this day!

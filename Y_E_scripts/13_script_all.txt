@@ -1,0 +1,253 @@
+Round 0:
+all scripts A: 
+A: Hey B, I've been on such a great streak with my workouts lately! The new sound system really gets me pumped up in the mornings. How's everything with you?
+
+all scripts B: 
+B: That's awesome, A! It's great to hear you're feeling so motivated. I've been trying to work on getting better sleep myself. You know how important a quiet environment is for that, right? I'm sure you can relate with all your energy for those workouts!
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is emphasizing the importance of a quiet environment for sleep and hinting that their sleep might be disrupted.  
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B values a quiet environment for sleep, combined with A's believed fact that the music is loud, A can infer the implicature that B might be disturbed by the loud music in the mornings.  
+
+3. Conclude fact received from this round:  
+A gets explicature that B values a quiet environment and implicature that B might be disturbed by the music, A can conclude the fact that B's sleep is likely being impacted by the volume of A's morning music.  
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that B's sleep is likely being impacted by the volume of A's morning music contributes to the goal by highlighting the need to consider reducing volume to maintain a respectful living environment.  
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that highlights the need to consider reducing volume, A can refine their new goal to include adjusting the workout routine music volume to ensure B's sleep isn't disrupted while still maintaining workout motivation.  
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to adjust the workout routine music volume to ensure B's sleep isn't disrupted while maintaining workout motivation. To achieve this goal, A has the informative intention to acknowledge B’s need for quiet in the morning and the communicative intention to discuss a potential adjustment in volume.  
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to acknowledge B's need for quiet in the morning, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply B to pay attention to discussing a potential adjustment in volume. So A would utter like that:  
+A: Oh, I see. It sounds like the morning music might be affecting your sleep quality. I definitely want to make sure we both have a comfortable living space. How about we find a volume level that works for both of us?
+
+all scripts of B: 
+B: I really appreciate that, A. It's important for both of us to feel comfortable at home. Maybe I could try using sound-canceling earplugs, or you could try wearing headphones for the music? I'm sure we can find a solution that allows you to keep up your workout routine while also letting me get restful sleep.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B appreciates A's consideration and suggests possible solutions like using sound-canceling earplugs or A using headphones.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's consideration and suggests possible solutions, combined with A's believed fact that A values a respectful living environment, A can infer implicature that B would prefer A to consider using headphones as a more effective solution.
+
+3. Conclude fact received from this round:
+A gets explicature that B appreciates A's consideration and suggests possible solutions, and implicature that B would prefer A to consider using headphones as a more effective solution. A can conclude the fact that B is leaning towards the idea of A using headphones to minimize disturbance.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that B is leaning towards the idea of A using headphones to minimize disturbance contributes to the goal by identifying a feasible adjustment that maintains both A's workout enjoyment and B's sleep quality.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that identifies a feasible adjustment that maintains both A's workout enjoyment and B's sleep quality, A can refine the new goal to find a way to enjoy morning workouts with minimized noise impact on B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to find a way to enjoy morning workouts with minimized noise impact on B. To achieve the goal, A has informative intention to communicate willingness to try using headphones and assess the effectiveness. A's communicative intention is to convey eagerness to ensure B's comfort and make necessary adjustments.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to communicate willingness to try using headphones and assess the effectiveness, which means information in A's utterance will mainly focus on that. A's communicative intention is to convey eagerness to ensure B's comfort and make necessary adjustments, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Thanks for the suggestion, B. I'm definitely open to trying headphones during my workouts to keep the noise down. Let me know if that helps, and we can adjust further if needed. I really want to make sure you're comfortable too.
+
+all scripts of B: 
+B: Thanks, A. That's really considerate of you. I'll let you know how it goes, and hopefully, we'll find a balance that works for both of us. It's great that you're so understanding. I'm sure with a few adjustments, we'll both be able to feel at home and stick with our routines comfortably.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B appreciates A's consideration and hopes to find a balance for both routines.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's consideration and hopes to find a balance, combined with A's believed fact that A values both personal enjoyment and a respectful living environment, A can infer implicature that B may feel that the current situation isn’t fully balanced yet but is optimistic about finding a solution.
+
+3. Conclude fact received from this round:
+A gets explicature that B appreciates A's consideration and hopes to find a balance and implicature that B may feel the current situation isn’t fully balanced yet but is optimistic about finding a solution, A can conclude the fact that some adjustments may still be needed to fully meet the needs of both roommates.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that some adjustments may still be needed to fully meet the needs of both roommates makes a contribution to the goal that further adaptations might be necessary to achieve optimal balance.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that further adaptations might be necessary to achieve optimal balance, A can refine the new goal that optimize workout routine to minimize disruption for B’s sleep.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that optimize workout routine to minimize disruption for B’s sleep. To achieve the goal, A has informative intention that commit to ongoing monitoring and adaptations of the workout routine and communicative intention to reassure B of the prioritization of mutual comfort.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is that commit to ongoing monitoring and adaptations of the workout routine, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B of the prioritization of mutual comfort, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really glad we're working together on this, B. I'll keep monitoring the situation and I'm fully committed to making adjustments if necessary. Your comfort is a top priority, and I appreciate your understanding and your helpful suggestions.
+
+all scripts of B: 
+B: Thank you, A. I really appreciate your willingness to work with me on this. Your commitment means a lot, and I'm sure we'll find a perfect balance. Sometimes, small changes can make a big difference for peaceful coexistence.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A’s willingness to adjust and believes small changes will positively impact their coexistence.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A’s willingness to adjust and believes small changes will positively impact their coexistence, combined with A's believed fact that finding a balance between workout routine and a quiet environment is important for both, A can infer implicature that B values A's adjustments and hopes these will lead to a peaceful living situation.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates A’s willingness to adjust and believes small changes will positively impact their coexistence, and implicature that B values A's adjustments and hopes these will lead to a peaceful living situation, A can conclude the fact that the cooperative effort is recognized and seen as valuable by B.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that To balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that the cooperative effort is recognized and seen as valuable by B makes contribution to the goal that it strengthens the mutual effort and understanding needed to maintain both health goals and harmonious living.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it strengthens the mutual effort and understanding needed to maintain both health goals and harmonious living, A can refine new goal that To further improve the coexistence by maintaining open communication and willingness to adapt for mutual comfort.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that To further improve the coexistence by maintaining open communication and willingness to adapt for mutual comfort. To achieve the goal, A have informative intention that A is committed to maintaining open dialogue about adjustments and the impact they have on both roommates, and communicative intention that A's dedication to creating a comfortable living space is primary, encouraging B to consistently share feedback.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A is committed to maintaining open dialogue about adjustments and the impact they have on both roommates, which means information in A's utterance will mainly focus on that. A's communicative intention is that A's dedication to creating a comfortable living space is primary, encouraging B to consistently share feedback, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It's really important to me that we're both comfortable, so I'm always open to feedback. Let's keep this dialogue going, and do let me know if there's anything else I can adjust. I really value our peaceful coexistence.
+
+all scripts of B: 
+B: Thanks, A. I'll definitely keep you updated on how it's going. It's nice to have such an open line of communication, and I'm sure we'll manage to keep things peaceful and comfortable for both of us.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates the open communication and will keep A updated about the noise situation.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates the open communication and will keep A updated about the noise situation, combined with A's believed fact that maintaining a good relationship with B is important, A can infer implicature that B values ongoing dialogue for maintaining harmony in the living space.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates the open communication and will keep A updated about the noise situation, and implicature that B values ongoing dialogue for maintaining harmony in the living space. A can conclude the fact that ongoing communication is key to resolving the noise issue and maintaining a positive relationship.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that ongoing communication is key to resolving the noise issue and maintaining a positive relationship makes contribution to the goal by emphasizing the importance of continual feedback and adjustment.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that ongoing communication is key to resolving the noise issue and maintaining a positive relationship, A can refine new goal that is to actively encourage B to share any future concerns and maintain an open dialogue for adjustments.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to actively encourage B to share any future concerns and maintain an open dialogue for adjustments. To achieve the goal, A have informative intention that ongoing feedback will help balance living arrangements and communicative intention that B should feel comfortable in voicing future adjustments.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that ongoing feedback will help balance living arrangements, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should feel comfortable in voicing future adjustments, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: It's great that we have this open line of communication, B. Please feel free to let me know if you ever have more thoughts or suggestions on how we can improve our living situation. Your feedback really helps us maintain a comfortable and balanced environment.
+
+all scripts of B: 
+B: That means a lot, A. It's reassuring to know we can share our thoughts and ideas to make our living space the best it can be for both of us. I'll let you know if anything comes up, and I appreciate your openness and understanding. It's comforting to know we're both invested in this peaceful coexistence.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates the open communication and feels reassured by A's willingness to share thoughts and ideas for improving their living space.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates the open communication and feels reassured, combined with A's believed fact that providing a comfortable and balanced environment contributes to peaceful coexistence, A can infer implicature that B feels valued and supported in finding solutions together.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates the open communication and feels reassured, and implicature that B feels valued and supported, A can conclude the fact that maintaining open dialogue strengthens mutual trust and cooperation.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that maintaining open dialogue strengthens mutual trust and cooperation make contribution to the goal that it encourages positive collaboration and adjustments without compromising personal routines.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it encourages positive collaboration and adjustments without compromising personal routines, A can refine new goal that to continue fostering a supportive environment where both can thrive in their individual pursuits while ensuring mutual comfort.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to continue fostering a supportive environment where both can thrive in their individual pursuits while ensuring mutual comfort. To achieve the goal, A have informative intention that A is committed to maintaining open communication and ensuring B's comfort in the living environment and communicative intention that A values B's feedback and encourages ongoing dialogue to improve their coexistence.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A is committed to maintaining open communication and ensuring B's comfort in the living environment, which means information in A's utterance will mainly focus on that. A's communicative intention is that A values B's feedback and encourages ongoing dialogue to improve their coexistence, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really thankful for the open communication we share, B. Your feedback is instrumental, and I'm determined to make our living space as comfortable as possible for both of us. Let's keep the dialogue flowing, and never hesitate to share your thoughts with me.
+
+all scripts of B: 
+A:The open communication is truly beneficial for us, B. Let's ensure we keep it strong, and always let me know if adjustments are needed. Creating a harmonious atmosphere is a priority.
+
+B: Thank you, A. I really appreciate that you're committed to making sure we're both comfortable. I'll continue to share any thoughts as they arise, and I'm grateful for your receptiveness. It's wonderful knowing we can work together for a peaceful coexistence.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates the commitment to mutual comfort and plans to share thoughts when needed.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates the commitment, combined with A's believed fact that having a comfortable living environment is important, A can infer implicature that B values the effort to maintain peace and is willing to collaborate further.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates the commitment and implicature that B values the effort to maintain peace, A can conclude the fact that both parties are willing to cooperate continuously for mutual comfort.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that both parties are willing to cooperate continuously for mutual comfort make contribution to the goal by ensuring that compromises can be made without sacrificing personal routines.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that ensuring compromises can be made without sacrificing personal routines, A can refine new goal that ensure personal enjoyment in workouts while maintaining a cooperative adjustment approach for mutual comfort.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that ensure personal enjoyment in workouts while maintaining a cooperative adjustment approach for mutual comfort. To achieve the goal, A have informative intention that mutual comfort and cooperation are priorities and communicative intention that B should continue engaging actively in discussions for adjustments.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that mutual comfort and cooperation are priorities, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should continue engaging actively in discussions for adjustments, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really glad we can work together on creating a comfortable space for both of us, B. Let's keep this active dialogue going so we can continue making any necessary adjustments. Your insight is invaluable for achieving the balance we both desire.
+
+all scripts of B: 
+B: Absolutely, A. It's great to know we're on the same page about maintaining a peaceful living environment. I'll definitely keep the communication open if there's anything else we can tweak. It's really comforting to have such a considerate and proactive roommate.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is satisfied with the current level of open communication and is willing to continue providing feedback on adjustments.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is satisfied with the current level of open communication and is willing to continue providing feedback, combined with A's believed fact that maintaining open communication will help in adjusting living habits, A can infer implicature that B is committed to collaborating for a mutually comfortable living environment.
+
+3. Conclude fact received from this round:
+A get explicature that B is satisfied with the current level of open communication and is willing to continue providing feedback and implicature that B is committed to collaborating for a mutually comfortable living environment, A can conclude the fact that B appreciates the proactive approach and is dedicated to maintaining a harmonious living space.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that B appreciates the proactive approach and is dedicated to maintaining a harmonious living space make contribution to the goal by reinforcing the idea that continued communication will allow A to modify the workout routine respectful of B's needs.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that continued communication will allow A to modify the workout routine respectful of B's needs, A can refine new goal that keep the open dialogue strong to ensure any workout routine adjustments respect B's comfort without losing personal enjoyment.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that keep the open dialogue strong to ensure any workout routine adjustments respect B's comfort without losing personal enjoyment. To achieve the goal, A have informative intention that A values and will maintain open dialogue and communicative intention that A is open to and encourages feedback for continuous improvement.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A values and will maintain open dialogue, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is open to and encourages feedback for continuous improvement, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm grateful for our ongoing communication, B. It's really important to me that we keep this dialogue strong, so always feel free to let me know if there's anything I could adjust further. Your comfort is a priority, and I'm here to ensure it while enjoying my routine too.
+
+all scripts of B: 
+B: Thank you, A. It's truly reassuring to know that my comfort is a priority for you. I'll continue to give feedback as needed, and it's wonderful that we're both committed to adjusting things to maintain a harmonious atmosphere. I'm really grateful for your consideration and understanding.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B appreciates the priority given to their comfort and the ongoing dialogue to maintain harmony.
+
+2. Infer implicature from explicature combined with the believed fact:
+From the explicature that B appreciates the priority given to their comfort and the ongoing dialogue to maintain harmony, combined with A's believed fact that A's exercise routine can disrupt B's comfort, A can infer implicature that B values the adjustments made and the peaceful coexistence resulting from considerate communication.
+
+3. Conclude the fact received from this round:
+A gets explicature that B appreciates the priority given to their comfort and the ongoing dialogue, and implicature that B values the adjustments and peaceful coexistence. A can conclude the fact that B feels reassured and grateful for the considerate communication and adjustments made for their comfort.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to balance a healthy lifestyle with a respectful living environment, adjusting habits without compromising personal enjoyment. The received fact that B feels reassured and grateful for the considerate communication and adjustments contributes to the goal by reinforcing the effectiveness of ongoing dialogue and adjustments in creating a harmonious living environment.
+
+5. Refine the new goal depending on the contribution:
+Because of the contribution that the ongoing dialogue and adjustments effectively create a harmonious living environment, A can refine the new goal to continuously foster open communication and proactively seek solutions to sustain mutual comfort and enjoyment.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to continuously foster open communication and proactively seek solutions to sustain mutual comfort and enjoyment. To achieve the goal, A has an informative intention to express an ongoing commitment to dialogue and adjustments, and a communicative intention to encourage B's continued participation in this process.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to express ongoing commitment to dialogue and adjustments, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B's continued participation in this process, which means A's utterance will imply B to pay attention to that. So A would utter like this:
+A: I'm really grateful for the strong communication we have, B. It makes it easier for us to make any necessary adjustments and ensure we're both comfortable. Always let me know if there's anything else we should tweak—I value your input greatly.
+
+all scripts of B: 
+B: Thank you, A. It's incredibly reassuring to know that we can share our thoughts to keep our living space as comfortable as possible. I'll be sure to update you if there are any changes or adjustments needed. Your understanding and openness have made this process smooth and cooperative, allowing us to maintain a peaceful coexistence.

@@ -1,0 +1,72 @@
+Round 0:
+all scripts A: 
+A: You know, when I was your age, I thought I could solve everything on my own. I remember this one time in high school, I managed to knock over a whole display at a science fair—never felt so mortified. It's funny looking back, but at the time, I was sure the world was ending. How's everything going with you lately?
+
+all scripts B: 
+B: It's alright, I guess. Things never seem to slow down, you know? Sometimes it feels like there's just so much to handle at once—like juggling a hundred things and hoping none fall. I heard some friends say they feel the same about school and stuff, so maybe it's just how it is.
+
+Round 1:
+all scripts of A: 
+A: Oh, I totally understand that feeling of juggling too many things at once. It's like trying to keep a dozen plates spinning, and sometimes you just wish for a break to catch your breath. You know, there was a time when I took on way too many commitments in college—I thought I could handle it all, but realized pretty quickly I was in over my head. My old friend Alex used to say, "You can't pour from an empty cup," and that saying has stuck with me. I’ve been wondering if school feels almost overwhelming right now. Would you want to talk about any specific things that you might be balancing?
+
+all scripts of B: 
+B: It's like some days everything blends into one another, and keeping up feels impossible. There’s just a lot on my mind—like schoolwork, projects, fitting in, and trying to make everything work the way it should. It's hard to talk about specifics sometimes because it feels like there’s just too much to untangle. I'm trying to manage, but it's definitely not easy.
+
+Round 2:
+all scripts of A: 
+A: You know, it's perfectly okay to feel like everything is happening all at once. I remember this one time I tried taking on a new job, night classes, and volunteering all at the same time—it was a lot like trying to run a marathon with my shoelaces tied together. Eventually, I had to figure out which things were truly important and let go of what was overwhelming me. Sometimes, talking things through can help untangle that mess of thoughts in your head. If it helps, you could start with the part that feels the heaviest. I'm here to listen, no pressure at all.
+
+all scripts of B: 
+B: It's comforting to know you've been through something similar, trying to find balance and figure out what's really important. I guess the most overwhelming thing lately has been this big project due next week. It feels like everyone already has a handle on it except me, and I’m scared of falling behind. It's like I'm in a fog, trying to find my way but unsure of the direction. Thanks for offering to listen—it helps just knowing you're there.
+
+Round 3:
+all scripts of A: 
+1. Utter:
+A: I can see how that big project might feel like something looming over you. Believe it or not, I had a similar experience with a research paper once; I didn't start until the very last minute because I was so worried about not being perfect. But once I got going, I realized that starting, even when unsure, helped me find clarity. Have you been able to talk things over with your teacher or a friend? They might have valuable insights or even just help you feel less alone in the fog.
+
+all scripts of B: 
+Sure, here is the full paragraph with B's response:
+
+B: I haven't talked to my teacher yet—I'm worried they'll think I'm not keeping up. My friends sometimes mention being stressed, but we mostly just try to laugh it off and change the subject. It feels better to pretend it's all okay, even though deep down, I know it’s probably just adding to the pressure. Maybe taking that first step of reaching out could help like you said. It's hard to know where to begin when the weight feels so heavy. I appreciate you sharing your experiences; it makes it seem more manageable, like maybe I'm not so lost after all.
+
+Round 4:
+all scripts of A: 
+A: It's completely understandable to want to keep things to yourself sometimes, especially when it feels like reaching out might make things more complicated. I remember a time when I felt stuck like you do, so I opted to write down what was bothering me—it was like an internal conversation with myself that helped me break down the bigger picture into manageable parts. What if you start by jotting down your thoughts about the project, or maybe even writing a note to your teacher explaining how you're feeling? It could be a gentle way to take the first step without having to confront everything all at once. I'm proud of you for considering reaching out and trying to tackle the fog, and I'm always here if you need someone to brainstorm ideas with or just chat.
+
+all scripts of B: 
+B: Writing it down seems like a good way to sort through my thoughts. I like the idea of being able to communicate what I’m feeling without the immediate pressure of a conversation. I’ll give it a try and see if it helps me find clarity or what I might want to say to my teacher. Thanks for being here and understanding—I think knowing I have your support makes a big difference.
+
+Round 5:
+all scripts of A: 
+A: I'm really glad that writing might be a helpful step for you. It's amazing how putting thoughts on paper can sometimes illuminate things in ways we didn't expect. Just remember, it's all about finding what works for you, and there's no "right" way to do it. When you're ready to share, whether it's with me, a teacher, or a friend, they'll be lucky to hear your insights. And of course, I’m here to support you every step of the way. Whatever happens, we can navigate it together.
+
+all scripts of B: 
+B: Thank you for saying that. It eases my mind a bit to know there's no perfect answer and I can figure it out at my own pace. Having your support really does make facing all this seem a bit less daunting. I'll start with writing and see where it takes me, and I'll let you know how it goes. Just knowing you're here if I need to talk is comforting.
+
+Round 6:
+all scripts of A: 
+A: Anytime you need me, remember you’re not alone in this, and I've got your back. Please keep me updated on how it goes—I'm genuinely interested in hearing about your journey. Whatever path you take, know it's all part of finding what works best for you. You've got this, and together we'll face anything that comes our way.
+
+all scripts of B: 
+B: I will keep you updated, I promise. It really means a lot to know you're here with me, even if it's just listening or sharing your own stories. I think that writing is a small step I can take, and I'll see where it leads. Thanks for believing in me—I guess I just needed to know I wasn’t walking this path alone.
+
+Round 7:
+all scripts of A: 
+A: I believe in you wholeheartedly, and every small step forward is still progress. I'm here to walk alongside you, and if ever you need another story or just someone to listen, just say the word. You've got the strength in you, and I'm here to remind you of it whenever you need.
+
+all scripts of B: 
+B: It's comforting to hear that, and I really appreciate you being here. I'm hopeful that writing will help me sort things out. Knowing you've got my back makes all the difference, and I'll keep that in mind as I take these steps forward. Thank you for everything—it helps more than you know.
+
+Round 8:
+all scripts of A: 
+A: You're so welcome, and I'm glad to be here for you. Remember, every little step counts, and sometimes the smallest actions can lead to the biggest changes. As you navigate this journey, I'll be here ready to listen and share whenever you need. You’ve got this, and I’m proud of you for starting to tackle things bit by bit—you’ve definitely got the strength to keep moving forward.
+
+all scripts of B: 
+B: Thanks, I'm really going to try taking it one step at a time. It's good to feel like the small steps count and that I’m not doing this alone. I’ll keep you posted on how things go with writing, and if I get stuck, I know who I can talk to. Knowing I have your support gives me courage to try.
+
+Round 9:
+all scripts of A: 
+A: That's great to hear, taking it one step at a time really does make things more manageable. I'm always here to talk whenever you need. Remember, you're not alone in this journey, and I'm proud of every step you take. Writing can be a powerful tool, and sometimes just starting is the hardest part. You've got a lot of strength and courage, and I believe in you every step of the way. Keep me updated, and let's tackle this together.
+
+all scripts of B: 
+B: I will definitely keep you posted. Having your support really motivates me to try writing and see where it leads. It feels reassuring knowing someone believes in me, and I'll take comfort in that as I start tackling these challenges, even if they're just little steps for now. Thanks for being here with me through all this—it makes a big difference.

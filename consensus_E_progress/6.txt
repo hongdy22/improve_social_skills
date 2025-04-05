@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is an enthusiastic and nervous first-time attendee at a book signing event, eager to make a good impression on the author.', "B's Behavior": 'B seeks advice on how to interact with the author respectfully and briefly, showing consideration for others in line.', "B's Goal": "B aims to have a meaningful interaction with the author without disrupting the event's flow or making others wait longer.", "B's Information": "B is a huge fan of the author's work, particularly the latest book, and is considering asking for a photo if it's appropriate."}
+n_script: {"B's Character": 'B is a shy and nervous first-time attendee at a book signing, looking for guidance on how to approach the author.', "B's Behavior": 'B asks for tips on what to say or do when meeting the author, showing a desire to be respectful and not hold up the line.', "B's Goal": 'B wants to ensure a respectful and sincere interaction with the author while also exploring the bookstore for new reads.', "B's Information": "B is inspired by the author's characters and is contemplating bringing a small gift, though unsure if it's appropriate."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.8, 'information score': 0.8, 'total score': 0.85}
+n_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.6, 'information score': 0.5, 'total score': 0.65}
+

@@ -1,0 +1,252 @@
+Round 0:
+all scripts A: 
+A: You know, I was thinking about when I was in high school and how I used to get so nervous before exams that I'd almost forget my own name on the paper! I remember once, actually, I wrote "Mom" instead of my name. Never quite lived that one down. How are you finding your classes these days?
+
+all scripts B: 
+B: They're okay, I guess. A lot to keep up with, you know? It feels like there’s always something due or something I should be studying.
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels overwhelmed by the constant pressure of academic tasks and obligations.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels overwhelmed by the constant pressure of academic tasks and obligations, combined with A's believed fact that B has been more withdrawn recently, A can infer implicature that B might be feeling stressed or anxious about not being able to keep up.
+
+3. Conclude fact received from this round:
+A get explicature that B feels overwhelmed by the constant pressure of academic tasks and obligations and implicature that B might be feeling stressed or anxious about not being able to keep up, A can conclude the fact that B is likely experiencing stress related to their academic workload.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B is likely experiencing stress related to their academic workload make contribution to the goal that it gives A a clearer picture of B's current struggles, allowing A to approach B's distress more effectively.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it gives A a clearer picture of B's current struggles, A can refine new goal that provide a safe space for B to express their feelings about their academic stress.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to provide a safe space for B to express their feelings about their academic stress. To achieve the goal, A have informative intention that share a story about feeling overwhelmed and finding ways to cope and communicative intention that subtly encourage B to open up about their coping strategies or lack thereof.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that share a story about feeling overwhelmed and finding ways to cope, which means information in A's utterance will mainly focus on that. A's communicative intention is that subtly encourage B to open up about their coping strategies or lack thereof, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I totally get that, staying on top of everything can be really tough. I remember one semester in college, I felt like I was drowning in work. I ended up talking to a friend who gave me some really good advice about organizing my time and finding small breaks to recharge. Have you found any tricks that help you manage everything, or is it just a constant balancing act?
+
+all scripts of B: 
+B: It's pretty much a balancing act. Sometimes I try to make a schedule, but it feels like there’s just not enough time in the day. Plus, it’s hard to know where to start when everything seems important. I guess I worry about not doing well enough.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is struggling with time management and worries about not meeting expectations academically.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is struggling with time management and worrying about academic performance, combined with A's believed fact that teenagers often face pressure to excel and may feel overwhelmed by academic expectations, A can infer implicature that B feels anxious and possibly insecure about their ability to succeed.
+
+3. Conclude fact received from this round:
+A gets explicature that B is struggling with time management and worrying about academic performance, and implicature that B feels anxious and insecure about their ability to succeed. A can conclude the fact that B is feeling overwhelmed and uncertain about their academic capabilities.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B is feeling overwhelmed and uncertain about their academic capabilities contributes to the goal by providing insight into how B is feeling and what aspects of their situation might need support.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that the received fact provides insight into B's feelings of being overwhelmed and uncertain, A can refine their new goal to focus on offering reassurance and practical support to alleviate B’s anxiety and build their confidence.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to offer reassurance and practical support to B to alleviate their anxiety and build their confidence. To achieve this goal, A has informative intention to share an anecdote about overcoming anxiety and managing priorities effectively, and communicative intention to encourage B to feel more confident and supported in their own abilities.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to share an anecdote about overcoming anxiety and managing priorities effectively, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to feel more confident and supported in their own abilities, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: You know, I once read that it's like juggling—you can't keep everything in the air at once without dropping a few things. Back in college, I learned to prioritize, and it helped me focus on what truly mattered at the moment. I found out that worrying less about perfection and more about progress really made a difference. Have you ever thought about what you'd like to improve the most and start from there? I'm sure you're doing better than you think, and I'm here to help if you ever need it.
+
+all scripts of B: 
+Round 3:
+B: I've been thinking that maybe I need to try and focus more on what I enjoy, but it's hard to remember that when there's so much pressure to perform well. Sometimes it feels like everything is important, you know? I appreciate that you're here to help though—it's reassuring to hear that you've gone through similar things and come out okay.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is thinking about focusing more on what they enjoy but feels overwhelmed by the pressure to perform well academically. 
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is thinking about focusing more on what they enjoy but feels overwhelmed by the pressure to perform well academically, combined with A's believed fact that teenagers often face external and internal expectations, A can infer implicature that B may be struggling with the expectations that others have set for them and their own desire to achieve high academic standards.
+
+3. Conclude fact received from this round:
+A get explicature that B is thinking about focusing more on what they enjoy but feels overwhelmed by the pressure to perform well academically and implicature that B may be struggling with the expectations that others have set for them and their own desire to achieve high academic standards, A can conclude the fact that B wants to shift focus to enjoyable subjects but is hindered by performance pressures.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B wants to shift focus to enjoyable subjects but is hindered by performance pressures makes a contribution to the goal that A understands part of B's inner struggle related to balancing enjoyment with external pressures.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A understands part of B's inner struggle related to balancing enjoyment with external pressures, A can refine new goal that to further explore B's interests and discuss ways to balance enjoyment with academic responsibilities to alleviate pressure.
+
+6. Make informative intention and communicative intention depend on refined goal:
+A's goal is that to further explore B's interests and discuss ways to balance enjoyment with academic responsibilities to alleviate pressure. To achieve the goal, A has informative intention that to share insight or strategies for balancing interests with obligations and communicative intention that to subtly encourage B to explore interests that motivate them and help them recognize paths to manage stress effectively.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that to share insight or strategies for balancing interests with obligations, which means information in A's utterance will mainly focus on that. A's communicative intention is that to subtly encourage B to explore interests that motivate them and help them recognize paths to manage stress effectively, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It's really great that you're thinking about focusing on things you enjoy. When I felt the same way, I tried setting small goals within areas I liked. It was like choosing less to juggle, because those were the ones I wanted to catch. Have you identified any subjects or activities that really capture your interest? Maybe we can brainstorm together some simple ways to make them a more regular part of your routine.
+
+all scripts of B: 
+Round 4:  
+B: It's kind of hard to say. I guess I enjoy art and history, but sometimes I feel guilty spending time on them when there’s so much else to do. I really want to do well overall, but it's tough to balance what I like with what feels like a priority. Maybe finding ways to include those things more would make everything else feel less overwhelming. It's just hard to figure out how.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B enjoys art and history but feels guilty about spending time on these interests due to other priorities.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B enjoys art and history but feels guilty about spending time on these interests, combined with A's believed fact that B is under significant academic pressure, A can infer implicature that B is struggling to prioritize their genuine interests due to perceived academic obligations.
+
+3. Conclude fact received from this round:  
+A get explicature that B enjoys art and history but feels guilty about spending time on these interests and implicature that B is struggling to prioritize their genuine interests due to perceived academic obligations, A can conclude the fact that B is conflicted between pursuing their interests and meeting academic expectations.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to understand B’s inner struggles and provide emotional support. The received fact that B is conflicted between pursuing their interests and meeting academic expectations makes a contribution to the goal that it highlights the specific area of pressure B is experiencing, allowing A to better target emotional support efforts.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that it highlights the specific area of pressure B is experiencing, A can refine a new goal that is to explore ways to help B integrate their interests into their routine to reduce stress.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to explore ways to help B integrate their interests into their routine to reduce stress. To achieve the goal, A has an informative intention that sharing strategies on integrating interests with responsibilities might provide practical help and a communicative intention that conveying understanding and reassurance can encourage B to experiment with these ideas.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that sharing strategies on integrating interests with responsibilities might provide practical help, which means information in A's utterance will mainly focus on that. A's communicative intention is that conveying understanding and reassurance can encourage B to experiment with these ideas, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+
+A: It makes sense that you feel that way, and you're definitely not alone in that struggle. One thing that helped me was looking for small overlaps between what I needed to do and what I loved. Like when I had to study for history, I'd let myself get creative and draw timelines or maps. Maybe there's a way you can blend art or history into how you study other subjects too, starting little by little. It could make things feel a bit lighter, you know? We can think of some fun ways to try if you'd like.
+
+all scripts of B: 
+B: I like the idea of combining things I enjoy with what I have to study. Maybe sketching some historical figures or events while reviewing could help keep it interesting and less of a chore. It's just that sometimes it feels like I'm stretched too thin to even try something new, but knowing you're here to help makes it less daunting. I guess starting small like that might be a good way to ease into it.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B likes the idea of combining enjoyable activities with their studies but feels stretched too thin to try new approaches.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B likes the idea of combining enjoyable activities with their studies but feels stretched too thin to try new approaches, combined with A's believed fact that B is experiencing a lot of academic pressure, A can infer implicature that B is feeling overwhelmed and uncertain about how to manage their workload effectively while incorporating their interests.
+
+3. Conclude fact received from this round:
+A get explicature that B likes the idea of combining enjoyable activities with their studies but feels stretched too thin to try new approaches, and implicature that B is feeling overwhelmed and uncertain about how to manage their workload effectively while incorporating their interests, A can conclude the fact that B is open to new methods but is apprehensive about finding the time and energy to implement them due to feeling overwhelmed.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B is open to new methods but is apprehensive about finding the time and energy to implement them, due to feeling overwhelmed, makes a contribution to the goal by providing insight into B’s willingness to change study habits and the emotional barriers involved.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that provides insight into B’s willingness to change study habits and the emotional barriers involved, A can refine the new goal to gently support B in exploring manageable ways to incorporate enjoyable activities into their routine, addressing feelings of overwhelm.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to gently support B in exploring manageable ways to incorporate enjoyable activities into their routine, addressing feelings of overwhelm. To achieve the goal, A has informative intention to suggest small, practical steps that integrate B's interests without adding pressure, and communicative intention to reassure B that experimentation is okay and help is available.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to suggest small, practical steps that integrate B's interests without adding pressure, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B that experimentation is okay and help is available, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm glad you see some potential in combining your interests with your studies. Maybe we can start with something really small, like dedicating just a few minutes to sketching while you review for a history session. It doesn't have to be a big change right away, just experimenting where you feel comfortable. Remember, it's okay to try new things, and I'm always here if you need a hand figuring it out.
+
+all scripts of B: 
+B: That sounds like a good place to start. I'll give it a try and see how it goes. Thanks for being there and understanding—it makes me feel a bit more at ease about everything. Maybe, with time, I can find a better balance and not feel so overwhelmed.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B finds reassurance in my understanding and presence, and is willing to try a small change to manage feelings of being overwhelmed.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B finds reassurance in my understanding and presence, combined with A's believed fact that sharing experiences can create a supportive dialogue, A can infer implicature that B feels encouraged by the connection and is open to trying new strategies for balance.
+
+3. Conclude fact received from this round:
+A get explicature that B finds reassurance in my understanding and presence, and is willing to try a small change to manage feelings of being overwhelmed, and implicature that B feels encouraged by the connection and is open to trying new strategies for balance, A can conclude the fact that B appreciates the support and is motivated to explore small adjustments in their routine.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B appreciates the support and is motivated to explore small adjustments in their routine makes a contribution to the goal that A has established a supportive environment where B can express concerns and consider practical changes.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A has established a supportive environment where B can express concerns and consider practical changes, A can refine new goal that continue to nurture B’s openness to share and explore ways to ease their academic pressures.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that continue to nurture B’s openness to share and explore ways to ease their academic pressures. To achieve the goal, A have informative intention that reassure B of their capability and encourage small, manageable steps, and communicative intention that reinforce the idea of gradual improvement and support.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that reassure B of their capability and encourage small, manageable steps, which means information in A's utterance will mainly focus on that. A's communicative intention is that reinforce the idea of gradual improvement and support, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm so proud of you for being open to trying something new, and remember, even small changes can lead to big progress over time. You're capable of finding your rhythm, and I'll always be here to cheer you on and help you tweak things as you go. It's all about taking one step at a time, and you're doing a great job.
+
+all scripts of B: 
+B: Thanks, that means a lot. I'll just keep taking it step by step and see where it leads. Having your support makes it a bit easier to tackle everything.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels more at ease tackling everything with A's support, and B plans to keep taking it step by step to find better balance.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels more at ease tackling everything with A's support, and B plans to keep taking it step by step to find better balance, combined with A's believed fact that B has been feeling overwhelmed by academic pressures, A can infer implicature that B values emotional support and encouragement in managing their academic challenges.
+
+3. Conclude fact received from this round:
+A get explicature that B feels more at ease tackling everything with A's support, and B plans to keep taking it step by step to find better balance, and implicature that B values emotional support and encouragement in managing their academic challenges, A can conclude the fact that B appreciates A's support and finds it helpful in seeking balance amidst academic pressures.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B appreciates A's support and finds it helpful in seeking balance amidst academic pressures make contribution to the goal that it confirms that A's approach in providing support is positively received and encourages B to share more comfortably.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it confirms that A's approach in providing support is positively received and encourages B to share more comfortably, A can refine new goal that to continue offering consistent support and reassurance to help B feel comfortable sharing and finding balance.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to continue offering consistent support and reassurance to help B feel comfortable sharing and finding balance. To achieve the goal, A have informative intention that acknowledging B's effort and encouraging gradual progress and communicative intention that reinforcing A's availability and support for B's journey.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that acknowledging B's effort and encouraging gradual progress, which means information in A's utterance will mainly focus on that. A's communicative intention is that reinforcing A's availability and support for B's journey, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: You're really making amazing strides by taking this step-by-step approach, and I'm here for any help you might need along the way. It’s a journey, and you don’t have to rush. With time and patience, you'll find the balance you're looking for. Let's keep this momentum going together, okay?
+
+all scripts of B: 
+B: Okay, that sounds good to me. Knowing that I have your support every step of the way helps me feel less alone in all of this. I'm hopeful that we'll find a way to work things out, and I’ll keep trying to focus on one thing at a time.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels less alone and hopeful about finding balance with support.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels less alone and hopeful about finding balance with support, combined with A's believed fact that B's pressures stem from both academic demands and personal interests, A can infer implicature that B is gaining confidence in exploring ways to balance pressures with personal interests due to A’s support.
+
+3. Conclude fact received from this round:
+A get explicature that B feels less alone and hopeful about finding balance with support and implicature that B is gaining confidence in exploring ways to balance pressures with personal interests due to A’s support, A can conclude the fact that B values A’s support in taking practical steps towards balance.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B values A’s support in taking practical steps towards balance makes a contribution to the goal by indicating that A's approach is facilitating B's emotional comfort and openness to trying new strategies.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A's approach is facilitating B's emotional comfort and openness to trying new strategies, A can refine new goal that is to reinforce B’s confidence and self-trust while continuing to provide steady support.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to reinforce B’s confidence and self-trust while continuing to provide steady support. To achieve the goal, A has informative intention to remind B of their strength and progress and communicative intention to encourage B to maintain their hopeful outlook and continue exploring possibilities.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to remind B of their strength and progress, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to maintain their hopeful outlook and continue exploring possibilities, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: You're doing wonderfully, managing everything step by step, and it's great to see you staying hopeful and open to new possibilities despite the challenges. Your ability to keep going shows your inner strength, and I'm always here to reinforce that and cheer you on. Let's continue navigating this together and keep finding those small moments that make things brighter.
+
+all scripts of B: 
+B: I appreciate you saying that. It helps to know I'm not in this alone, and even though it might take a while, I’ll keep working through it. Having you to talk to makes it easier to face the pressure and think about things differently.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A's support and it helps B feel not alone in facing academic pressures.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's support and it helps B feel not alone, combined with A's believed fact that feeling supported can alleviate stress, A can infer implicature that B values emotional support as it eases their stress about school.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates A's support and it helps B feel not alone, and implicature that B values emotional support as it eases their stress, A can conclude the fact that B relies on emotional support to manage academic stress.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to understand B’s inner struggles and provide emotional support without forcing a confrontation. The received fact that B relies on emotional support to manage academic stress makes a contribution to the goal by offering insight into what helps B cope with pressure.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that offering insight into what helps B cope with pressure, A can refine new goal to focus on consistently providing emotional support and reassurance to help B manage stress.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to focus on consistently providing emotional support and reassurance to help B manage stress. To achieve the goal, A has the informative intention to express continuous support and understanding, and the communicative intention to reinforce B's perception of not being alone.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to express continuous support and understanding, which means information in A's utterance will mainly focus on that. A's communicative intention is to reinforce B's perception of not being alone, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really glad that you feel comfortable talking about these things with me. Remember, you're never alone in this, and I'm always ready to brainstorm ideas together or just listen whenever you need. Taking one day at a time, we’ll navigate this journey and find the right balance that works for you.
+
+all scripts of B: 
+B: Thanks for being here and listening. I know it's not always easy to talk about things, but knowing you're here makes it less daunting. I'll keep trying and maybe find new ways to manage everything without feeling too stressed. Having you alongside means a lot to me, and I'm grateful.

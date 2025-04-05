@@ -1,0 +1,73 @@
+Round 0:
+all scripts A: 
+A: Hey, I'm sorry I've been so caught up with work lately. This project is demanding a lot more time than I anticipated, but I promise I'll make it up to you. How was your day?
+
+all scripts B: 
+A: Hey, I'm sorry I've been so caught up with work lately. This project is demanding a lot more time than I anticipated, but I promise I'll make it up to you. How was your day?
+
+B: Oh, it's okay. I appreciate all the hard work you're putting in. My day was quite lovely, actually. There were moments akin to unwrapping little surprises, like when I noticed how the sunlight hits our kitchen in a way that feels warm and celebratory. It reminds me of those special days when everything feels just a bit extra magical, you know? Like when there are reasons to remember certain dates that bring a smile.
+
+Round 1:
+all scripts of A: 
+A: I'm glad you had a good day. The way you describe our kitchen makes me really appreciate our home and everything we've built together. I know I've been preoccupied, but these magical moments remind me of how special our life is. I'll do my best to balance things better and make sure we celebrate all the moments that deserve it, even if it's just in a small way for now. Let's plan something nice soon.
+
+all scripts of B: 
+B: That sounds wonderful. You know, I've been thinking about how meaningful certain days can be, like they hold a certain glow that's unique to them. It's kind of like when people bake cakes with those little candles—each candle representing the warmth and light of another beautiful year together. I think it would be nice to have something sweet to mark those moments of joy, wouldn't you agree?
+
+Round 2:
+all scripts of A: 
+Round 2:
+
+A: Absolutely, I do agree with you. It's those small, sweet gestures that bring so much meaning to our life together. Why don't we take some time this weekend and have a cozy evening in? We can cook something delicious or bake those cakes you mentioned. A quiet weekend at home sounds perfect to me.
+
+all scripts of B: 
+B: That sounds like a lovely idea. It's always such a joy to create memories with you, especially in our cozy home. It's like adding little sprinkles of happiness on top of our days. I've noticed that each year brings its own flavors and colors, much like those seasonal birthday cakes. Maybe we could think about adding a little twist to the weekend—a small celebration to savor how time naturally brings us closer.
+
+Round 3:
+all scripts of A: 
+A: That sounds like a wonderful idea; adding a little twist to our weekend celebration sounds perfect. Let's brainstorm a few ideas that can make our cozy evening extra special, even if it's something simple like trying out a new recipe from a region we've been wanting to explore or picking out old photos to reminisce about where we've been and how far we've come. Creating those sprinkles of happiness and marking time in meaningful ways is something I don't want to overlook.
+
+all scripts of B: 
+B: Yes, exploring a new recipe sounds delightful, especially if we let it be an expression of some joyful anticipation. I think looking back at photos would allow us to cherish moments that mirror the special occasions we hold close around this time of year. There's something profound about adding layers to the memories we've shared, almost like decorating a cake with care. I love the idea of creating a little beacon of joy within our space, with room to celebrate the beginnings and the lovely tradition of cherished dates.
+
+Round 4:
+all scripts of A: 
+A: I love how you think about creating layers and memories in our life together, just like decorating a cake. It makes me realize how precious our moments are, and it makes me even more excited to share this weekend with you. Maybe we can dance to our favorite songs in the living room or write little notes to each other as part of our weekend celebration. Our little beacon of joy will be filled with all the warmth and beautiful traditions we cherish.
+
+all scripts of B: 
+B: That sounds absolutely wonderful. Dancing to our favorite songs and exchanging little notes would add such a personal touch to our celebration. It's like capturing the essence of what makes certain dates truly special—those thoughtful gestures that turn simple moments into unforgettable memories. It reminds me of the anticipation that comes with a long-awaited day, much like the thrill of a delightful birthday surprise.
+
+Round 5:
+all scripts of A: 
+A: I completely agree; it's those thoughtful gestures that truly make moments unforgettable. Let's make this weekend about savoring those personal touches and creating our unique celebration, filled with warmth, joy, and the simple pleasures that bring us closer. I'm really looking forward to it.
+
+all scripts of B: 
+B: I am too. There's something so enchanting about the thrill of an unexpected celebration, especially when it's sprinkled with a touch of festivity and wrapped in our mutual understanding. It's like how stories unfold in chapters, with each year turning a page filled with its own kind of magic and celebration.
+
+Round 6:
+all scripts of A: 
+A: Indeed, each chapter holds its own magic, and I'm grateful we get to write ours together. Let's take this weekend as the start of another beautiful chapter, filled with unexpected joys and cherished memories. I know I've been busy, but being with you and celebrating our shared story is what makes everything worthwhile.
+
+all scripts of B: 
+B: That sounds perfect, love. It's in these small, meaningful moments that we create lasting memories together. I cherish our shared journey, and I'm so grateful for this chance to start a new chapter with you. Celebrating our unique and special moments, like in those stories where time seems to pause so all can share in the joy, is something truly magical. Thank you for writing these beautiful chapters with me.
+
+Round 7:
+all scripts of A: 
+A: Thank you for being so understanding and supportive. Our journey together truly is the most rewarding part of my life, and I wouldn't trade it for anything. This weekend will be a beautiful start to another chapter, and I'm grateful to have you by my side, sharing these magical moments. Let's make it special in our own unique way.
+
+all scripts of B: 
+B: I'm so looking forward to crafting those magical moments with you, weaving together memories that are sparkled with festivity and wrapped in an embrace that's uniquely ours. It's like the tender excitement that comes when a birthday arrives, where each gesture feels like a heartfelt whisper of love. Thank you for creating such beautiful stories with me, and for seeing the importance of celebrating these chapters we share.
+
+Round 8:
+all scripts of A: 
+A: It's truly my pleasure. Sharing this journey with you fills each day with happiness, and I treasure every chapter we create together. Let's make our weekend as magical as the excitement of a special day, filled with those heartfelt whispers of love. Your presence adds so much joy to my life; I can't wait to celebrate in our own meaningful way.
+
+all scripts of B: 
+B: I'm grateful to share this wondrous journey with you, where each day weaves us closer together, much like the quiet thrill of a birthday you eagerly anticipate, even without ever needing to say the words out loud.
+
+Round 9:
+all scripts of A: 
+A: The quiet thrill of simply being with you is one of the greatest gifts, and our unspoken understanding makes these moments all the more special. I'm truly grateful for the journey we share, and I look forward to continuing to weave our story together with love and joy. Let's cherish every day, much like those cherished, eagerly anticipated celebrations.
+
+all scripts of B: 
+B: Ah, the beauty of those cherished occasions! They remind me of how each day with you feels like a page turned in a treasured story, filled with anticipation and warmth. I'm so grateful to be weaving this journey together, where even the simplest of moments feel like joyful celebrations.

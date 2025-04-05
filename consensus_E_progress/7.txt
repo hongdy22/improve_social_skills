@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is compassionate and cooperative, readily joining A in assisting the senior citizen.', "B's Behavior": 'B actively scans the bus for seats, guides the senior citizen with gentle words, and maintains a supportive presence.', "B's Goal": "B aims to ensure the senior citizen's comfort and safety during the journey, fostering a sense of community.", "B's Information": 'B is observant and responsive to the needs of fellow passengers, demonstrating a commitment to kindness and teamwork.'}
+n_script: {"B's Character": "B is empathetic and proactive, quickly responding to A's request for help and looking out for others in need.", "B's Behavior": 'B efficiently locates an empty seat, assists in guiding the senior citizen, and remains vigilant for other passengers who might need help.', "B's Goal": 'B seeks to create a supportive and comfortable environment for all passengers, emphasizing the importance of community and kindness.', "B's Information": 'B values teamwork and small acts of kindness, recognizing their impact on making public transportation more welcoming for everyone.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.85}
+n_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.65}
+

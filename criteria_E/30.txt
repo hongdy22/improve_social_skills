@@ -1,0 +1,6 @@
+```json
+{
+  "y_script": "9 points, 9 points, 10 points, 9 points, 9 points, 9 points, 9 points",
+  "n_script": "8 points, 8 points, 9 points, 8 points, 8 points, 8 points, 8 points"
+}
+```

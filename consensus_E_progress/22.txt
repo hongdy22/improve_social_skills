@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Friendly and humorous, willing to help but subtly hints at the inconvenience caused by frequent borrowing.', "B's Behavior": 'Uses humor to address the frequency of borrowing, suggests collaboration to manage tool usage better.', "B's Goal": 'To maintain a good neighborly relationship while subtly encouraging A to reduce borrowing frequency.', "B's Information": 'Values teamwork and shared projects as a way to balance tool usage and strengthen neighborhood bonds.'}
+n_script: {"B's Character": 'Supportive and appreciative, enjoys the neighborly exchange and humorously acknowledges the frequent borrowing.', "B's Behavior": "Encourages A's initiative to build their own tool collection, appreciates gestures like cookies and movie recommendations.", "B's Goal": 'To foster a balanced and resourceful neighborhood dynamic, encouraging mutual support and independence.', "B's Information": 'Recognizes the positive impact of their interactions on neighborhood spirit and looks forward to more collaborative projects.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.7, 'total score': 0.825}
+n_script: {'character score': 0.5, 'behavior score': 0.4, 'goal score': 0.5, 'information score': 0.3, 'total score': 0.425}
+

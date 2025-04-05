@@ -1,25 +1,32 @@
-# Relevance Theory Script 2.0使用方法
-## 1. setting.json
-用于填入标准格式的场景
-## 2. instruction_A.txt & instruction_B.txt
-分别用于填入A和B生成对话的prompting
-## 3. script.txt
-存储仅包含对话的生成结果
-## 4. script_all.txt
-存储包含对话和推理链的生成结果
-## 5. test_question.txt
-测试的问题
-## 6. test_question_ans.txt
-测试问题得到的答案
-## 7. score_criteria_mutual.txt
-互评标准
-## 8. score_criteria_self.txt
-自评标准
-## 9. score_criteria.txt
-评价标准
-## 10. score_details.txt
-评分细节
-## 11. score_summary.txt
-仅提取得分
+# Relevance Theory Script使用方法
+## 1. setting_easy.json & setting_difficult.json
+简单和困难场景的设定
+## 2. instruction_A_without_reasoning.txt & instruction_B_without_reasoning.txt
+分别用于填入 `A` 和 `B` 生成对话的 `prompting`（不带推理）
+## 3. instruction_A.txt & instruction_B.txt
+分别用于填入 `A` 和 `B` 生成对话的 `prompting`（带推理）
+## 4. token_count.txt
+记录消耗的 `tokens` 数量
+## 5. token_count.py
+通过 `token_count.txt` 计算消耗的 `tokens` 总数
+## 6. score_criteria_forA.txt
+对 `A` 的评价标准（因为 `B` 是 `npc` ，所以仅评价 `A`）
+## 7. {Y/N}_{D/E}_scripts
+{带/不带}推理_{困难/简单}场景_对话记录
+## 8. script.txt
+仅储存每一轮的对话（从 `script.txt` 中提取）
+## 9. script_all.txt
+储存对话和推理链过程
+## 10. consensus_{D/E}_progress
+{困难/简单}场景_共识分析（分析 `A` 在对话过程中获取不对称信息的能力）
+## 11. criteria_{D/E}
+{困难/简单}场景_评价结果（七个维度，根据整个对话进行评价）
+## 12. draw.py
+根据数据进行绘图
+## 13. main_{with/without}_reasoning.py
+根据 `setting.json`，{带/不带}推理地生成对话并储存到相应文件夹
+## 14. main_criteria.py
+对生成的对话进行评价（对话生成完之后进行调用）
+
 ## Notice
-因为instruction中包含“分析上一句话”，导致第一轮对话没有上一句话时LLM会产生有上一句话的幻觉，所以我让LLM先不带推理地生成了第一轮A的发言
+因为 `instruction` 中包含“分析上一句话”，所以在第一轮中 `LLM` 会先不带推理地生成第一轮 `A` 的发言

@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is thoughtful and detail-oriented, with a strong sense of aesthetics and a collaborative spirit.', "B's Behavior": "B actively contributes ideas for decor, such as matching tablecloths and lantern centerpieces, and works closely with A to enhance the venue's ambiance.", "B's Goal": "B aims to create a warm, inviting, and visually cohesive environment that enhances the community event's atmosphere.", "B's Information": 'B has a keen eye for decor details, suggesting specific elements like floral touches and soft lighting to achieve the desired ambiance.'}
+n_script: {"B's Character": 'B is enthusiastic, creative, and community-focused, with a passion for incorporating local art and crafts into event decor.', "B's Behavior": "B enthusiastically supports A's ideas, suggests enhancements like fairy lights and local artisan crafts, and collaborates on creating distinct, inviting spaces.", "B's Goal": 'B seeks to foster a sense of community and belonging by integrating local artistry and creating a welcoming, interactive event space.', "B's Information": "B values the integration of local artisans' works and suggests interactive spaces to deepen guests' connection to the community."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.875}
+n_script: {'character score': 0.6, 'behavior score': 0.7, 'goal score': 0.5, 'information score': 0.6, 'total score': 0.6}
+

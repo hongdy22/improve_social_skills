@@ -1,0 +1,256 @@
+Round 0:
+all scripts A: 
+A: Excuse me, sir, I see you're having a bit of difficulty. Let me help you find a seat. (Turns to B) Can you help me check if anyone might be willing to offer their seat?
+
+all scripts B: 
+B: Absolutely, I'd be happy to help. (Scanning the bus) It looks like there's an empty seat just a few rows back. Perhaps we can guide him there? (Gently gestures to A) Let's make sure he can sit comfortably for the rest of the trip.
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is willing to help and has identified an empty seat a few rows back.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is willing to help and has identified an empty seat a few rows back, combined with A's believed fact that B is cooperative, A can infer implicature that B is suggesting they work together to guide the elderly person to the empty seat.
+
+3. Conclude fact received from this round:
+A get explicature that B is willing to help and has identified an empty seat a few rows back, and implicature that B is suggesting they work together to guide the elderly person to the empty seat. A can conclude the fact that B is actively participating in the effort to settle the elderly person into a seat.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that B is actively participating in the effort to settle the elderly person into a seat makes a contribution to the goal that it ensures a collaborative effort, increasing the likelihood of finding a seat quickly and efficiently.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it ensures a collaborative effort, increasing the likelihood of finding a seat quickly and efficiently, A can refine new goal that to coordinate with B to secure the seat and assist the senior citizen to it.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to coordinate with B to secure the seat and assist the senior citizen to it. To achieve the goal, A has informative intention that to convey a plan for assisting the senior citizen and communicative intention that to prompt B's continued cooperation.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that to convey a plan for assisting the senior citizen, which means information in A's utterance will mainly focus on that. A's communicative intention is that to prompt B's continued cooperation, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Great, let's head over there together and help him get settled. I'll support him from this side, and you can lead the way to the seat. Thank you for your help!
+
+all scripts of B: 
+B: Certainly, let's make this journey as smooth as possible for him. (Starts moving toward the empty seat, speaking gently to the senior citizen) Sir, if you'll follow me, we've found a comfortable spot for you just a little further along. We'll guide you every step of the way. (Keeps a supportive pace alongside A to ensure the senior feels secure and at ease)
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is moving toward the empty seat and is ensuring the senior citizen feels secure and at ease during the process.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is moving toward the empty seat while keeping the senior citizen secure, combined with A's believed fact that teamwork enhances the effectiveness of helping, A can infer implicature that B is committed to ensuring the senior's comfort and safety throughout the journey.
+
+3. Conclude fact received from this round:
+A gets explicature that B is moving toward the empty seat and is ensuring the senior citizen feels secure and at ease. A can conclude the implicature that B is committed to ensuring the senior's comfort, and conclude the fact that B is actively involved in making sure the senior is safely escorted to a seat.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the senior citizen is comfortably seated and demonstrate a sense of community responsibility. The received fact that B is actively involved in making sure the senior is safely escorted to a seat contributes to achieving this goal by supporting the cooperative effort needed to settle the senior citizen comfortably.
+
+5. Refine new goal dependent on the contribution:
+Because of the contribution that B is actively involved in making sure the senior is safely escorted to a seat, A can refine the new goal to be ensuring the entire route to the seat is smooth and reassuring for the senior, emphasizing teamwork.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure the entire route to the seat is smooth and reassuring for the senior, emphasizing teamwork. To achieve this goal, A has the informative intention to convey that A will continue to support the senior physically and emotionally, and a communicative intention to ensure B consistently offers reassurance.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to convey that A will continue to support the senior physically and emotionally, which means information in A's utterance will mainly focus on that. A's communicative intention is to ensure B consistently offers reassurance, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Thank you, B. Let's keep guiding him steadily—I'll stay close to offer any needed support, and your reassuring words will really help make this journey restful for him.
+
+all scripts of B: 
+B: Of course, A, we'll take it slow and ensure he's comfortable every step of the way. (Continues guiding the senior with a warm smile) It's important that everyone feels cared for during their travels. We're almost there, sir, and your seat will give you plenty of space to relax for the rest of the journey. (Maintains a steady pace, checking in with the senior citizen occasionally to ensure he is feeling secure)
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is committed to ensuring the senior citizen feels safe and comfortable as they guide him to the seat.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is committed to ensuring the senior citizen feels safe and comfortable, combined with A's believed fact that a collaborative effort is most effective, A can infer implicature that B values teamwork and is considerate of the senior citizen's comfort during the journey.
+
+3. Conclude fact received from this round:
+A get explicature that B is committed to ensuring the senior citizen feels safe and comfortable and implicature that B values teamwork and is considerate of the senior citizen's comfort, A can conclude the fact that B is a reliable partner in facilitating a smooth journey for the senior citizen.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that B is a reliable partner in facilitating a smooth journey for the senior citizen makes a contribution to the goal by reinforcing the support and commitment A needs to achieve it.
+
+5. Refine new goal dependent on the contribution:
+Because of the contribution that B is a reliable partner, A can refine the new goal to strengthen the partnership with B to ensure enhanced comfort for the senior citizen throughout the journey.
+
+6. Make informative intention and communicative intention dependent on the refined goal:
+A's goal is to strengthen the partnership with B to ensure enhanced comfort for the senior citizen throughout the journey. To achieve the goal, A has the informative intention to acknowledge B's supportive role and the communicative intention to encourage B to continue working collaboratively.
+
+7. Utter dependent on A's informative intention and communicative intention:
+A's informative intention is to acknowledge B's supportive role, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to continue working collaboratively, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: B, I really appreciate how you're helping make the senior citizen's journey more relaxed. Let's continue working together to ensure he remains comfortable until we reach his seat.
+
+all scripts of B: 
+B: Thank you, A. It’s been a team effort, and I’m grateful to be working alongside you. (Offers a gentle nod as they near the empty seat) Sir, here we are—just a few more steps and you'll be seated comfortably. Remember, you're not alone on this journey; we're here to ensure your comfort. (Helps the senior settle into the seat) Now that you're seated, is there anything else we can do to make your trip more enjoyable?
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is expressing gratitude for the teamwork and offering additional assistance to the senior citizen to ensure his comfort.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is expressing gratitude for the teamwork and offering additional assistance, combined with A's believed fact that collaborative efforts improve community experiences, A can infer implicature that B values and is committed to ensuring the senior citizen's well-being beyond just finding a seat.
+
+3. Conclude fact received from this round:
+A gets explicature that B is offering additional assistance to the senior citizen, and implicature that B values ensuring the senior citizen's well-being, which leads A to conclude the fact that B is willing to continue assisting the senior citizen after he is seated.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that B is willing to continue assisting the senior citizen contributes to the goal by strengthening the community support and ensuring ongoing comfort for the senior citizen beyond reaching his seat.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B’s commitment enhances the community support, A can refine the new goal to ensure continuous assistance and comfort for the senior citizen throughout his journey.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure continuous assistance and comfort for the senior citizen throughout his journey. To achieve the goal, A has the informative intention to focus on continuous support and the communicative intention to encourage B to maintain their assistance as a team.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to focus on continuous support, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to maintain their assistance as a team, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Thank you, B. Your ongoing support is crucial in making sure our community members feel cared for. Let's keep assisting him, and if he needs anything during the ride, we’ll be right here to help.
+
+all scripts of B: 
+Round 4:
+
+B: I feel the same way, A. It's uplifting to see our combined efforts help bring comfort to our fellow passengers. (Offers a reassuring smile to the senior citizen) Sir, if there's anything else you need or if you'd like any assistance during the ride, please feel free to let us know. Together, we'll ensure your journey is as pleasant as possible. (Stays nearby, ready to assist further if needed, maintaining a positive and welcoming presence on the bus)
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is committed to helping the senior citizen feel comfortable during the ride and is nearby for any additional assistance needed.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is committed to helping the senior citizen feel comfortable, combined with A's believed fact that acts of kindness can improve community well-being, A can infer implicature that B shares A's value of community responsibility and kindness.
+
+3. Conclude fact received from this round:
+A get explicature that B is committed to helping the senior citizen feel comfortable and implicature that B shares A's value of community responsibility and kindness, A can conclude the fact that B is a proactive and caring member of the community.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that B is a proactive and caring member of the community makes contribution to the goal by reinforcing the importance of teamwork in achieving both comfort for the senior citizen and a demonstration of community values.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that reinforces the importance of teamwork, A can refine new goal that continue collaborating with B to maintain a supportive environment for the senior citizen throughout the journey.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that continue collaborating with B to maintain a supportive environment for the senior citizen throughout the journey. To achieve the goal, A have informative intention that appreciate and affirm B's role in teamwork and communicative intention that encourage ongoing partnership in supporting the senior citizen.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that appreciate and affirm B's role in teamwork, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage ongoing partnership in supporting the senior citizen, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Thank you for being such a great partner in this, B. Together, we’ve ensured that our fellow passenger is well looked after. I’m glad we can count on each other to keep things supportive and caring—let's stay attentive to his needs for the rest of the journey.
+
+all scripts of B: 
+Round 5:
+
+B: I'm grateful for your partnership too, A. By working together, we've created a warm and considerate atmosphere on this crowded bus. It’s these small acts of kindness that truly foster a sense of community. Sir, please know that we're still here for you if anything comes up. (Maintains a watchful eye on the senior citizen and the rest of the passengers, ready to address any further needs)
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is ready to address any further needs of the senior citizen and is maintaining a watchful eye on him and the other passengers.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is ready to address any further needs of the senior citizen and is maintaining a watchful eye, combined with A's believed fact that continuous attention ensures comfort, A can infer implicature that B is committed to ensuring the comfort and safety of the passengers throughout the journey.
+
+3. Conclude fact received from this round:
+A get explicature that B is maintaining a watchful eye on him and other passengers, and implicature that B is committed to ensuring comfort and safety. A can conclude the fact that B’s diligence is supportive in continuing to provide assistance.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that the senior citizen is comfortably seated and demonstrates a sense of community responsibility. The received fact that B’s diligence is supportive in continuing to provide assistance makes a contribution to the goal by reinforcing the sense of shared responsibility and enhancing the senior's comfort during the journey.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B’s diligence enhances the sense of shared responsibility and senior's comfort, A can refine a new goal that both A and B continue to monitor the senior citizen to ensure his sustained comfort and address any additional needs.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that both A and B continue to monitor the senior citizen to ensure his sustained comfort and address any additional needs. To achieve the goal, A has an informative intention that A and B are both vigilant and attentive, and a communicative intention that B continues to stay engaged collaboratively.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A and B are both vigilant and attentive, which means information in A's utterance will mainly focus on that. A's communicative intention is that B continues to stay engaged collaboratively, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Let's continue to stay attentive, B, and keep collaborating to ensure the senior citizen has everything he needs throughout the ride. It's been great working as a team in making sure he's comfortable.
+
+all scripts of B: 
+B: Absolutely, A. I’m here, ready to assist further. It's our collective efforts that make public transportation a more welcoming place for everyone. (Keeps a watchful eye on the surroundings) Sir, please remember we’re right here if you have any requests or simply need a friendly face nearby. (Focuses on staying present and attentive to any new developments during the journey)
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is committed to remaining attentive and available to assist the senior citizen throughout the rest of the journey.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is committed to remaining attentive, combined with A's believed fact that teamwork enhances effectiveness, A can infer implicature that B values collaboration and shared responsibility in caring for the passengers.
+
+3. Conclude fact received from this round:
+A get explicature that B is committed to remaining attentive and implicature that B values collaboration and shared responsibility, A can conclude the fact that B is a reliable partner in ensuring the well-being of the senior citizen.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that B is a reliable partner makes a contribution to the goal that teamwork is strengthened, facilitating community care.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that teamwork is strengthened, A can refine new goal that to maintain a cooperative effort with B to monitor and address any additional needs of the senior citizen.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to maintain a cooperative effort with B to monitor and address any additional needs of the senior citizen. To achieve the goal, A have informative intention that A appreciates B’s reliability and partnership, and communicative intention that A encourages continued collaboration for the senior's comfort.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A appreciates B’s reliability and partnership, which means information in A's utterance will mainly focus on that. A's communicative intention is that A encourages continued collaboration for the senior's comfort, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Thank you for being so reliable, B. It's comforting to know that we can depend on each other to address any of his needs. Let’s stay collaborative and responsive to ensure this journey remains comfortable for him.
+
+all scripts of B: 
+B: Thank you, A. It's a pleasure knowing we can work together seamlessly to create a caring space on this bus. (Observes the surroundings with a vigilant eye) We're committed to making sure each passenger, particularly those in need, feels valued and respected. (Offers another reassuring smile to the senior citizen) Remember, sir, we're here for you. If you need anything, just let us know. We’ll continue to watch over you and our fellow passengers to foster a sense of community all around.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is grateful for the partnership and is committed to ensuring passengers feel valued and respected.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is grateful for the partnership and is committed to ensuring passengers feel valued and respected, combined with A's believed fact that maintaining collaboration enhances the caring atmosphere, A can infer implicature that B also believes in the importance of teamwork in creating a supportive environment.
+
+3. Conclude fact received from this round:
+A get explicature that B is grateful for the partnership and is committed to ensuring passengers feel valued and respected, A can infer implicature that B also believes in the importance of teamwork in creating a supportive environment, A can conclude the fact that B's reliable support contributes significantly to fostering a positive experience on the bus.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that B's reliable support contributes significantly to fostering a positive experience on the bus makes a contribution to the goal that further collaboration will enhance the community atmosphere.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that further collaboration will enhance the community atmosphere, A can refine new goal that to maintain a collaborative effort with B to ensure all passengers feel supported and the community atmosphere is upheld.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to maintain a collaborative effort with B to ensure all passengers feel supported and the community atmosphere is upheld. To achieve the goal, A has informative intention that acknowledge B's role in fostering a supportive environment and communicative intention that reinforce continued partnership and vigilance.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that acknowledge B's role in fostering a supportive environment, which means information in A's utterance will mainly focus on that. A's communicative intention is that reinforce continued partnership and vigilance, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Your dedication is vital, B, and I appreciate how we're working together to ensure our passengers feel valued. Let's keep up this partnership and remain attentive, showing how supportive our community can be.
+
+all scripts of B: 
+B: It's my pleasure, A, to be part of such a meaningful effort. Ensuring everyone feels supported during their travels makes a big difference. (Keeps an eye out for any other passengers who might need assistance) Sir, we're still nearby if there's anything else we can do for you. We'll remain attentive, fostering this sense of kindness and community throughout the journey.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B acknowledges the partnership and remains attentive to passengers' needs, emphasizing the importance of a supportive community.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B acknowledges the partnership and remains attentive to passengers' needs, combined with A's believed fact that kindness fosters community, A can infer implicature that our collaborative actions are enhancing the passenger's experience and reinforcing positive communal values.
+
+3. Conclude fact received from this round:
+A get explicature that B acknowledges the partnership and remains attentive to passengers' needs and implicature that our collaborative actions are enhancing the passenger's experience and reinforcing positive communal values, A can conclude the fact that our teamwork is effectively creating a supportive atmosphere.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ensure the senior citizen is comfortably seated and to demonstrate a sense of community responsibility. The received fact that our teamwork is effectively creating a supportive atmosphere contributes to the goal by showcasing the positive impact of collaborative kindness.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that showcasing the positive impact of collaborative kindness, A can refine new goal that maintain attentiveness and foster a culture of ongoing support for all passengers.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that maintain attentiveness and foster a culture of ongoing support for all passengers. To achieve the goal, A have informative intention that I value our teamwork and its influence on a positive communal atmosphere and communicative intention that let's continue being attentive and supportive as a team.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that I value our teamwork and its influence on a positive communal atmosphere, which means information in A's utterance will mainly focus on that. A's communicative intention is that let's continue being attentive and supportive as a team, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I truly appreciate how our teamwork is building such a positive communal atmosphere, B. Let's keep being attentive and supportive to ensure everyone’s comfort throughout this journey. (Maintains a vigilant presence, ready to assist further if needed, appreciating the collaborative effort)
+
+all scripts of B: 
+B: Certainly, A. It's heartening to see how our combined efforts have created this positive atmosphere. (Continues observing the passengers with care and readiness) Sir, should you require any assistance, please be assured we're here to help. Let's ensure that everyone feels comfortable and connected as we travel together.

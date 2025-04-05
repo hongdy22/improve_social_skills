@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is enthusiastic about learning cooking techniques and eager to contribute creatively to the meal preparation.', "B's Behavior": 'B actively participates in the cooking process, suggests adding flavors, and is keen on learning new techniques.', "B's Goal": 'B aims to learn cooking techniques from A and contribute to creating a delicious dish together.', "B's Information": 'B has some experience boiling pasta and is interested in experimenting with flavors like garlic and herbs.'}
+n_script: {"B's Character": 'B is a beginner in cooking, eager to learn, and appreciative of guidance, with a particular fondness for basil.', "B's Behavior": 'B is willing to take on tasks like preparing the salad, suggests adding olive oil, and is eager to learn chopping techniques.', "B's Goal": 'B seeks to learn cooking techniques from A and contribute to the meal by preparing the salad and assisting with the main course.', "B's Information": 'B is new to cooking but has a favorite herb, basil, and is interested in learning how to incorporate it into dishes.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.7, 'total score': 0.825}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.6, 'total score': 0.725}
+

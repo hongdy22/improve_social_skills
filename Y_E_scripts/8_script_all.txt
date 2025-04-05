@@ -1,0 +1,253 @@
+Round 0:
+all scripts A: 
+A: "Hey there! I noticed we're both eyeing the same equipment, how about we set a timer and take five-minute turns each? That way, we'll both get a solid workout in without having to wait around too long."
+
+all scripts B: 
+B: "Hi! That sounds like a great idea. Five-minute turns should work perfectly, and it'll give us both time to focus on our forms during our sets. If there's anything you'd like to adjust as we go, just let me know. I'm new around here and eager to learn how things go in this gym. Looking forward to working out with you!"
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B's last utterance, A gets explicature that B is new to the gym and is eager to learn the routines and protocols to have an efficient workout.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is new and eager to learn, combined with A's believed fact that gym newcomers might be unaware of certain etiquettes and setups, A can infer implicature that B might need guidance on gym protocols and perhaps on workout techniques.
+
+3. Conclude fact received from this round:
+A gets explicature that B is new and eager to learn and implicature that B might need guidance on gym protocols and workout techniques. A can conclude the fact that B is open to guidance and developing an understanding of the gym's routines and manners.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B and other gym-goers. The received fact that B is open to guidance and developing an understanding of gym routines and manners makes a contribution to the goal by creating an opportunity to establish mutual understanding and cooperation with B.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that an opportunity to establish mutual understanding and cooperation with B is created, A can refine the new goal to include assisting B in becoming familiar with gym protocols and workout routines.
+
+6. Make informative intention and communicative intention depending on the refined goal:
+A's goal is to assist B in becoming familiar with gym protocols and workout routines. To achieve this goal, A has an informative intention that provides B with insights into efficient workout techniques and etiquette and a communicative intention to ensure that B feels comfortable asking questions and learning.
+
+7. Utter dependent on A's informative intention and communicative intention:
+A's informative intention is to provide B with insights into efficient workout techniques and etiquette, which means information in A's utterance will mainly focus on that. A's communicative intention is to ensure that B feels comfortable asking questions and learning, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "Great! I'm glad to hear you're keen on learning. Feel free to ask me anything if you're unsure, whether it's about the equipment or form tips. We can help each other make the most of our workouts!"
+
+all scripts of B: 
+B: "Thanks, I really appreciate that! I'll definitely ask if I need some guidance. It's always good to have a workout buddy for motivation and ideas. Let's get started—I think this rotation will work out nicely for both of us."
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A's offer for guidance and is motivated by the idea of having a workout buddy.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's offer for guidance and is motivated by the idea of having a workout buddy, combined with A's believed fact that a supportive environment enhances workout efficiency, A can infer implicature that B is open to collaborating and exchanging workout tips.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates A's offer for guidance and is motivated by the idea of having a workout buddy and implicature that B is open to collaborating and exchanging workout tips, A can conclude the fact that B is receptive to forming a cooperative workout partnership.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B and other gym-goers. The received fact that B is receptive to forming a cooperative workout partnership make contribution to the goal that it helps establish a supportive and friendly gym atmosphere.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it helps establish a supportive and friendly gym atmosphere, A can refine new goal that to enhance the workout experience through partnership and shared learning.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to enhance the workout experience through partnership and shared learning. To achieve the goal, A have informative intention that to encourage mutual support and tips exchange, and communicative intention that to create a comfortable environment for B to share ideas and questions.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that to encourage mutual support and tips exchange, which means information in A's utterance will mainly focus on that. A's communicative intention is that to create a comfortable environment for B to share ideas and questions, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Awesome, I'm really glad you're open to working together! Let's keep each other motivated and share any tips we have. If you're curious about how I'm doing certain exercises or want to try something new, let me know. I'm all for making this workout beneficial for both of us!"
+
+all scripts of B: 
+B: "Thanks for the encouragement! I'm definitely eager to learn new exercises and techniques. I'll share any tips I have too, though I'm sure you have plenty of valuable insights. Let's dive in and make our workouts as effective and enjoyable as possible. It's great to have someone like you to partner with in the gym."
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is eager to learn new exercises and techniques and appreciates having A as a workout partner.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is eager to learn and appreciates A’s partnership, combined with A's believed fact that A has experience and knowledge about effective workouts, A can infer implicature that B values A's experience and would like guidance and support.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is eager to learn and appreciates A’s partnership, and implicature that B values A's experience and would like guidance and support. A can conclude the fact that B sees A as a knowledgeable and supportive workout partner.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere. The received fact that B sees A as a knowledgeable and supportive workout partner contributes to the goal by establishing a positive and cooperative relationship.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B sees A as a knowledgeable and supportive workout partner, A can refine the new goal to focus on providing guidance and fostering a collaborative environment.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to provide guidance and foster a collaborative environment. To achieve the goal, A has the informative intention to share workout tips and knowledge when appropriate, and communicative intention to encourage B to engage and ask questions.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to share workout tips and knowledge, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to engage and ask questions, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "I'm thrilled to be your gym partner! Let’s dive into these workouts, and feel free to ask about any exercises or techniques. We're in this together, so let's make the most of it and learn from each other!"
+
+all scripts of B: 
+B: "I'm excited too! It's great to have someone to share this gym journey with. Let's keep each other on track and have fun while improving ourselves. If we come across any exercises we're curious about, we can tackle them together. Here's to a productive and enjoyable workout session!"
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels enthusiastic about partnering up for workouts and is interested in exploring new exercises together.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels enthusiastic about partnering up for workouts, combined with A's believed fact that maintaining a positive and collaborative atmosphere is key, A can infer implicature that B values collaboration and is open to shared learning experiences.
+
+3. Conclude fact received from this round:
+A get explicature that B feels enthusiastic about partnering up for workouts and is interested in exploring new exercises together and implicature that B values collaboration and is open to shared learning experiences, A can conclude the fact that B is committed to a collaborative workout experience and is open to exploring and learning together.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B and other gym-goers. The received fact that B is committed to a collaborative workout experience and is open to exploring and learning together makes a contribution to the goal that it reinforces the foundation for mutual respect and efficiency in sharing gym equipment.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that it reinforces the foundation for mutual respect and efficiency in sharing gym equipment, A can refine the new goal that to build a supportive workout partnership that maximizes learning opportunities and maintains an efficient use of equipment.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to build a supportive workout partnership that maximizes learning opportunities and maintains an efficient use of equipment. To achieve the goal, A has informative intention that to offer guidance and share workout insights, and communicative intention that to encourage B to actively engage in shared learning and equipment use efficiency.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that to offer guidance and share workout insights, which means information in A's utterance will mainly focus on that. A's communicative intention is that to encourage B to actively engage in shared learning and equipment use efficiency, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "It's really fantastic to have someone as motivated as you by my side—let's make sure we share any insights we have while diving into our rotations. If any exercise piques our interest, we can check it out together and ensure we're both getting the most out of our time here!"
+
+all scripts of B: 
+B: "Absolutely, I'm on board with that! Sharing insights and exploring new exercises together sounds like a fantastic way to keep each workout fresh and engaging. It's all about supporting each other and having a blast while we improve. Let's see what we can discover today and make the most out of our gym time!"
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is enthusiastic about sharing insights and exploring new exercises together in the gym.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is enthusiastic about sharing insights and exploring new exercises together in the gym, combined with A's believed fact that mutual motivation enhances workout routines, A can infer implicature that B values collaboration and mutual support during workouts.
+
+3. Conclude fact received from this round:
+A gets explicature that B is enthusiastic about sharing insights and exploring new exercises together in the gym and implicature that B values collaboration and mutual support during workouts, A can conclude the fact that B is eager to actively collaborate in exploring and learning during workouts.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B and other gym-goers. The received fact that B is eager to actively collaborate in exploring and learning during workouts contributes to the goal by ensuring a cooperative and engaging atmosphere, supporting efficiency and mutual motivation in their gym sessions.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that ensures a cooperative and engaging atmosphere, supporting efficiency and mutual motivation in their gym sessions, A can refine the new goal to focus on creating innovative workout sessions that keep both A and B motivated and engaged.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to focus on creating innovative workout sessions that keep both A and B motivated and engaged. To achieve this goal, A has an informative intention to suggest new exercises or techniques to explore together and a communicative intention to encourage B’s active participation in trying these new ideas.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to suggest new exercises or techniques to explore together, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B’s active participation in trying these new ideas, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "I'm excited about our session! How about we start with this new core circuit I’ve been trying? We can tweak it as we go to see how it works for us. It’ll be a fun way to explore new techniques together!"
+
+all scripts of B: 
+B: "That sounds like a fantastic plan! I'm really eager to try out your core circuit and see how we can tweak it to maximize our benefits. Exploring new techniques with someone enthusiastic as you makes the session exciting. Let's dive in and make this workout both fun and effective!"
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is eager to try the core circuit and interested in tweaking it for maximum benefit.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager to try the core circuit and interested in tweaking it, combined with A's believed fact that sharing workout routines builds camaraderie, A can infer implicature that B values cooperation and is open to learning collaboratively.
+
+3. Conclude fact received from this round:
+A get explicature that B is eager to try the core circuit and interested in tweaking it and implicature that B values cooperation and is open to learning collaboratively, A can conclude the fact that B is highly cooperative and open to collaborative exercise strategies.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B and other gym-goers. The received fact that B is highly cooperative and open to collaborative exercise strategies makes a contribution to the goal by ensuring smooth rotation and mutual support during workouts.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B's cooperation ensures smooth rotation and mutual support during workouts, A can refine the new goal to enhancing the effectiveness of the workout through shared routines and mutual feedback.
+
+6. Make informative intention and communicative intention depending on the refined goal:
+A's goal is that enhancing the effectiveness of the workout through shared routines and mutual feedback. To achieve the goal, A has informative intention to share the benefits of the core circuit and how it can be adjusted, and communicative intention to encourage B to provide feedback and suggest adjustments.
+
+7. Utter depending on the A's informative intention and communicative intention:
+A's informative intention is to share the benefits of the core circuit and how it can be adjusted, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to provide feedback and suggest adjustments, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "Let's give this core circuit a shot! It’s designed to hit all major muscle groups, and I think we can adjust the intensity to suit our levels. Feel free to let me know if there's anything you think could work better or any tweaks you come up with as we go along. Let's make this routine as effective as possible for both of us!"
+
+all scripts of B: 
+B: "Sounds like a great approach! I'm all for adjusting the intensity so it works best for us. I'll definitely share any ideas or tweaks I come up with. It's exciting to have a dynamic routine we can both benefit from. Let's tackle this core circuit together and make the most of it!"
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B is open to adjusting the core circuit's intensity and sharing any ideas or tweaks to make it effective for both.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is open to adjusting the core circuit's intensity and sharing tweaks, combined with A's believed fact that B is eager to learn, A can infer implicature that B values collaboration and wants to make the routine beneficial for both partners.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is open to adjusting the core circuit's intensity and sharing ideas, and implicature that B values collaboration. A can conclude the fact that B is enthusiastic about a cooperative and effective workout experience.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere. The received fact that B is enthusiastic about a cooperative and effective workout experience makes a contribution to the goal by ensuring a collaborative spirit that enhances both workout efficiency and mutual respect.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that ensures a collaborative spirit, A can refine the new goal to focus on maintaining a dynamic and engaging workout schedule that incorporates feedback and encourages mutual growth.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to maintain a dynamic and engaging workout schedule that incorporates feedback and encourages mutual growth. To achieve the goal, A has the informative intention to highlight the importance of collaboration and the communicative intention to encourage B to continue actively participating and sharing insights.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to highlight the importance of collaboration, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to continue actively participating and sharing insights, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "I love that we're working together so well! Your openness to adjust and share ideas really makes this partnership effective. Let's keep this flow going and make sure we both add value to our workout. I feel like we're really on track to achieve great results!"
+
+all scripts of B: 
+B: "I completely agree! It's fantastic how well we're collaborating and I appreciate your insights. By staying open to adjustments and sharing ideas, we're setting ourselves up for a successful gym experience. Together, we'll definitely achieve great results and continue to enjoy and enhance our workouts. Cheers to this productive partnership!"
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is enthusiastic about sharing ideas and achieving great results through collaboration in workouts.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is enthusiastic about sharing ideas and achieving great results, combined with A's believed fact that effective communication and cooperation enhance workout experiences, A can infer implicature that B values teamwork and is committed to mutual progress.
+
+3. Conclude fact received from this round:
+A get explicature that B is enthusiastic about sharing ideas and achieving great results and implicature that B values teamwork and is committed to mutual progress, A can conclude the fact that B is dependable and motivated as a workout partner.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B and other gym-goers. The received fact that B is dependable and motivated as a workout partner makes a contribution to the goal by ensuring a collaborative and effective workout environment.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that ensuring a collaborative and effective workout environment, A can refine a new goal that to strengthen the partnership with B for enhanced workout results.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's new goal is to strengthen the partnership with B for enhanced workout results. To achieve the goal, A has informative intention that sharing workout strategies can enhance results and communicative intention that encourage B to actively engage in workout strategy discussions.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that sharing workout strategies can enhance results, which means information in A's utterance will mainly focus on that. A's communicative intention is that to encourage B to actively engage in workout strategy discussions, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "I'm so glad to hear that, B! Let's make it a point to brainstorm new workout strategies regularly to enhance our results. Your enthusiasm and insights are valuable, and if we keep sharing ideas, we'll definitely make this gym experience even more rewarding!"
+
+all scripts of B: 
+B: "Absolutely, I’m all for brainstorming new workout strategies and sharing ideas to enhance our results continually. It’s great to have a partner who’s equally enthusiastic about improving. Together, we can make this gym experience incredibly rewarding and fun. Let’s keep up the momentum and see how much progress we can achieve!"
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is eager to brainstorm new workout strategies and share ideas regularly to enhance their gym experience and results.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager to brainstorm new workout strategies and share ideas regularly, combined with A's believed fact that collaborative efforts in workout routines often lead to better results and satisfaction, A can infer implicature that B values teamwork and is motivated to improve and enjoy their workout experience through cooperation.
+
+3. Conclude fact received from this round:
+A get explicature that B is eager to brainstorm new strategies and share ideas and implicature that B values teamwork and is motivated to improve workout experience, A can conclude the fact that B’s enthusiasm for cooperative workouts likely leads to a productive partnership.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that maintain an efficient workout schedule while fostering a friendly and respectful atmosphere with B. The received fact that B’s enthusiasm for cooperative workouts likely leads to a productive partnership make contrbution to the goal that encourages a positive and efficient collaborative environment.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that encourages a positive and efficient collaborative environment, A can refine new goal that optimize our workout sessions by integrating innovative strategies while maintaining a supportive and friendly atmosphere.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that optimize our workout sessions by integrating innovative strategies while maintaining a supportive and friendly atmosphere. To achieve the goal, A have informative intention that explore new workout strategies and exercises that benefit both of us consistently and communicative intention that reinforce B’s enthusiasm for cooperative effort and teamwork.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that explore new workout strategies and exercises that benefit both of us consistently, which means information in A's utterance will mainly focus on that. A's communicative intention is that reinforce B’s enthusiasm for cooperative effort and teamwork, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "It’s fantastic to see your enthusiasm for improving and sharing ideas! Let's keep exploring innovative workout strategies and techniques that can enhance both of our sessions. With your motivation and teamwork, I’m sure we’ll keep making every gym visit rewarding and effective!"
+
+all scripts of B: 
+B: "I’m really looking forward to exploring new workout strategies and techniques with you! Your motivation inspires me, and I'm confident that with our teamwork, every gym visit will be not only rewarding but also a step forward in our fitness journeys. Let's keep learning and pushing our limits together!"

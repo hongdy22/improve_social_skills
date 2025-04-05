@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is reflective, values deep personal connections, and cherishes past memories and friendships.', "B's Behavior": 'B actively engages in sharing personal projects and memories, and proposes activities to reconnect.', "B's Goal": 'B aims to rekindle the friendship with A through shared activities and meaningful conversations.', "B's Information": "B has been exploring photography and personal projects, focusing on life's simple joys and meaningful connections."}
+n_script: {"B's Character": 'B is nostalgic, values the importance of friendships, and seeks balance between personal interests and connections.', "B's Behavior": 'B shares personal hobbies and memories, and suggests future activities to strengthen the friendship.', "B's Goal": 'B wants to deepen the friendship with A by sharing hobbies and creating new memories together.', "B's Information": 'B has been involved in painting, joined a book club, and reminisces about shared past experiences with A.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.7, 'total score': 0.825}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.6, 'total score': 0.725}
+

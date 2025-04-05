@@ -1,0 +1,249 @@
+Round 0:
+all scripts A: 
+A: Hi there! I'm A. It’s great to meet you! I’m really looking forward to working together on this team-building exercise. I’ve always found that a good team spirit can make a huge difference, don’t you think? What do you think of starting with some ice-breaker ideas to get everyone energized?
+
+all scripts B: 
+B: Hi A, it's nice to meet you too! I totally agree that a good team spirit can have a significant impact. Starting with ice-breaker ideas sounds like a great plan. Maybe we can each share something unique about ourselves, or discuss what we hope to achieve in this new role. That could help us understand each other's strengths and motivations better as we tackle the exercise. How does that sound to you?
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets explicature that B agrees with the importance of team spirit and suggests sharing unique personal insights to understand each other's strengths and motivations.
+ 
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B agrees with the importance of team spirit and suggests sharing personal insights, combined with A's believed fact that building connections is key, A can infer implicature that B is open and eager to create a supportive team environment.
+
+3. Conclude fact received from this round:  
+A gets explicature that B agrees with the importance of team spirit and suggests sharing insights, and implicature that B is open and eager to create a supportive team environment, A can conclude the fact that B values understanding team strengths and is motivated to contribute positively.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B values understanding team strengths and is motivated contributes to the goal by laying a foundation for effective collaboration and mutual support.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B is motivated to contribute positively, A can refine the new goal that is to enhance collaborative strategies by acknowledging and utilizing the unique strengths and motivations of B and other team members.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to enhance collaborative strategies by acknowledging and utilizing unique strengths and motivations. To achieve this goal, A has the informative intention to express agreement and enthusiasm about B's idea and the communicative intention to create an open atmosphere for sharing personal insights.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to express agreement and enthusiasm about B's idea, which means information in A's utterance will mainly focus on that. A's communicative intention is to create an open atmosphere for sharing personal insights, which means A's utterance will imply B to pay attention to that. So A would utter like this:  
+A: That sounds fantastic, B! I think sharing something unique about ourselves is a brilliant way to kick things off. It’ll be great for us to learn from each other’s experiences and aspirations. Let’s all take a turn sharing—how about I go first?
+
+all scripts of B: 
+B: Sure, A, please go ahead and start. I’m really interested to hear what you have to share, and I think it will set a nice tone for our group. Once you've shared, I’d be happy to go next.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is interested in hearing what A has to share about themselves and believes that it will set a positive tone for the group.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is interested in hearing what A has to share, combined with A's believed fact that sharing personal experiences can enhance team spirit, A can infer implicature that B values open communication and sees it as a way to build a cohesive team.
+
+3. Conclude fact received from this round:
+A get explicature that B is interested in hearing what A has to share and implicature that B values open communication, A can conclude the fact that B is open to establishing a strong foundational rapport through personal sharing.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is open to establishing a strong foundational rapport through personal sharing makes a contribution to the goal that it supports building positive rapport through open dialogue.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it supports building positive rapport through open dialogue, A can refine new goal that to foster open communication and rapport through sharing meaningful experiences with B and the team.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to foster open communication and rapport through sharing meaningful experiences with B and the team. To achieve the goal, A has informative intention that to share a meaningful personal experience that highlights a collaborative aspect and communicative intention that to encourage B and others to feel comfortable sharing their own stories.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that to share a meaningful personal experience that highlights a collaborative aspect, which means the information in A's utterance will mainly focus on that. A's communicative intention is that to encourage B and others to feel comfortable sharing their own stories, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Alright, I'll start! One unique thing about me is that I spent several years playing on a mixed-gender ultimate frisbee team. It taught me a lot about quick collaboration and trusting my teammates, which I think is super valuable in any setting. I'm excited to bring that spirit here, and I'm looking forward to hearing everyone's stories too!
+
+all scripts of B: 
+B: That's really interesting, A! Playing on a mixed-gender ultimate frisbee team must have given you great insights into teamwork and adaptability. As for me, I've spent a lot of time working independently, managing various projects solo. This new role is a chance for me to enhance my collaboration skills and I look forward to learning from everyone’s diverse experiences. Working effectively in a team can really amplify our impact, don’t you think?
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B has experience working independently and is looking forward to improving collaboration skills in the new role.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B has experience working independently and is looking forward to improving collaboration skills in the new role, combined with A's believed fact that working effectively in a team can amplify impact, A can infer implicature that B is open and eager to learn about teamwork from those who have more experience in collaborative settings.
+
+3. Conclude fact received from this round:
+A get explicature that B has experience working independently and is looking forward to improving collaboration skills in the new role and implicature that B is open and eager to learn about teamwork from those who have more experience in collaborative settings, A can conclude the fact that B is motivated to improve their teamwork abilities.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is motivated to improve their teamwork abilities make contribution to the goal that it aligns with A’s aim to foster a positive and collaborative environment, facilitating effective rapport and task completion.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it aligns with A’s aim to foster a positive and collaborative environment, A can refine new goal that to not only complete the task successfully but also help B feel comfortable and confident in enhancing their teamwork skills.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to not only complete the task successfully but also help B feel comfortable and confident in enhancing their teamwork skills. To achieve the goal, A have informative intention that share insights on effective teamwork strategies and communicative intention that encourage B’s active participation and comfort in team interactions.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that share insights on effective teamwork strategies, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B’s active participation and comfort in team interactions, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It’s great that you’re looking to enhance your collaboration skills, B! I believe that effective teamwork starts with understanding and valuing each member’s unique contributions. While working with my frisbee team, I learned that clear communication and mutual support are key. Feel free to jump in with your thoughts and ideas—your solo project experience could really bring a fresh perspective!
+
+all scripts of B: 
+B: Thank you, A. I appreciate your encouragement. Your experience with clear communication and mutual support is indeed valuable, and I’ll definitely keep that in mind. From my solo project experience, I’ve learned the importance of structuring tasks and paying attention to detail, which I think can help us ensure that we’re all aligned in our approach. I’m looking forward to developing a cohesive strategy with everyone and seeing how we can make the most of our varied skills. Would anyone else like to share something unique about themselves?
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates encouragement and plans to integrate their skills in structuring tasks and focusing on detail into the team collaboration.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates encouragement and plans to integrate their skills in structuring tasks and focusing on detail, combined with A's believed fact that effective teamwork starts with understanding and valuing each member’s unique contributions, A can infer implicature that B is open to contributing their organizational strengths to enhance the team's strategic approach.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates encouragement and plans to integrate their skills in structuring tasks and focusing on detail, and implicature that B is open to contributing their organizational strengths to enhance the team's strategic approach, A can conclude the fact that B is ready to collaborate and bring their skills to achieve a cohesive strategy.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is ready to collaborate and bring their skills to achieve a cohesive strategy make contribution to the goal that the team can leverage B's strengths effectively for achieving the task and fostering collaboration.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that the team can leverage B's strengths effectively for achieving the task and fostering collaboration, A can refine new goal that to integrate B’s organizational skills into the team plan and use them to guide team activities towards completing the exercise successfully.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to integrate B’s organizational skills into the team plan and use them to guide team activities towards completing the exercise successfully. To achieve the goal, A have informative intention that share the importance of structuring tasks within the team and communicative intention that encourage B to take the lead in organizing our approach.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that share the importance of structuring tasks within the team, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B to take the lead in organizing our approach, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: That's a great perspective, B! Structuring our tasks is indeed crucial. How about you take the lead in organizing our approach, drawing on your detail-oriented skills? It’ll be awesome to align everyone’s strengths and develop a cohesive strategy for the exercise. Let’s hear from the next team member now!
+
+all scripts of B: 
+B: Sure, A, I’d be happy to help with organizing our approach. Let’s jot down everyone’s strengths and insights as they share, so we can identify how best to pool our talents. Thanks for the support—I’m eager to contribute in a meaningful way. Alright, let’s hear from the next person and see what unique experiences they bring to the table!
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A's encouragement and is willing to organize the approach for the group.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's encouragement and is willing to organize the approach for the group, combined with A's believed fact that effective teamwork involves understanding and utilizing everyone’s unique strengths, A can infer implicature that B values a structured approach and sees the potential for contributing to the team's success through organizational skills.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates A's encouragement and is willing to organize the approach for the group, and implicature that B values a structured approach and sees the potential for contributing to the team's success through organizational skills, A can conclude the fact that B is ready to take a lead role in organizing the team's efforts, indicating an interest in contributing significantly to the team's success.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is ready to take a lead role in organizing the team's efforts, indicating an interest in contributing significantly to the team's success, make contribution to the goal that it supports the development of a positive and collaborative team dynamic.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it supports the development of a positive and collaborative team dynamic, A can refine new goal that the team should utilize B's organizational skills to effectively allocate tasks and create a cohesive strategy for the exercise.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that the team should utilize B's organizational skills to effectively allocate tasks and create a cohesive strategy for the exercise. To achieve the goal, A have informative intention that A suggests using B's skills to structure the task effectively and communicative intention that A implies the importance of B's contributions to encourage active involvement.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A suggests using B's skills to structure the task effectively, which means information in A's utterance will mainly focus on that. A's communicative intention is that A implies the importance of B's contributions to encourage active involvement, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Absolutely, B. Your skills in structuring tasks will be invaluable to us. Let’s draw on those strengths as we plan out our approach and ensure everyone’s aligned. Let’s hear from the next person and map out how we can best work together!
+
+all scripts of B: 
+B: Thanks, A. I’m excited to see how our diverse backgrounds can complement each other. As we listen to each team member, I’ll take notes on strengths and possible contributions. That way, we can have a clear plan moving forward. Okay, who’s next to share?
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is excited to gather insights on everyone’s strengths and is willing to take notes on each team member to develop a clear plan for collaboration.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is excited to gather insights and take notes, combined with A's believed fact that collaboration thrives through organized approaches, A can infer implicature that B values structured teamwork and is committed to fostering an effective working environment.
+
+3. Conclude fact received from this round:  
+A get explicature that B is excited to gather insights and take notes, and implicature that B values structured teamwork, A can conclude the fact that B is dedicated to developing a coordinated team strategy.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is dedicated to developing a coordinated team strategy makes a contribution to the goal by enhancing the chances of efficient collaboration and goal achievement.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that the dedication of B to a coordinated team strategy enhances collaboration, A can refine the new goal to ensure strengthening the collaborative dynamic by encouraging further input from all team members.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to ensure strengthening the collaborative dynamic by encouraging further input from all team members. To achieve this goal, A has informative intention that emphasizes the importance of everyone’s input and communicative intention to encourage other team members to share their unique experiences and skills.
+
+7. Utter, depending on A's informative intention and communicative intention:  
+A's informative intention is to emphasize the importance of everyone’s input, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage other team members to share their unique experiences and skills, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Great, B! Let’s make sure every member feels comfortable contributing. Each of us has skills and experiences that can benefit our team dynamics. Who would like to share next?
+
+all scripts of B: 
+B: Sounds good, A! Let's keep the momentum going and make sure everyone feels valued. I'm looking forward to hearing more stories and ideas from our teammates. Who would like to go next?
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is focused on taking notes on team members' strengths and contributions and ensuring a clear plan moving forward.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is focused on taking notes and ensuring a clear plan, combined with A's believed fact that collaboration thrives when everyone feels valued and has clarity on their role, A can infer implicature that B values organization and clarity in teamwork and is committed to creating an inclusive environment.
+
+3. Conclude fact received from this round:
+A gets explicature that B is focused on taking notes and ensuring a clear plan and implicature that B values organization and clarity in teamwork and is committed to creating an inclusive environment, A can conclude the fact that B is actively engaged in finding a way to combine strengths and encourage inclusive participation.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is actively engaged in finding a way to combine strengths and encourage inclusive participation contributes to the goal by promoting a collaborative atmosphere and facilitating the successful execution of team tasks.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that promoting a collaborative atmosphere and facilitating successful execution, A can refine a new goal that includes ensuring that each team member’s input is valued and integrated into the team's plan.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure that each team member’s input is valued and integrated into the team's plan. To achieve the goal, A has an informative intention to communicate the importance of everyone's contributions and a communicative intention to invite participation and acknowledge team members’ insights.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to communicate the importance of everyone's contributions, which means information in A's utterance will mainly focus on that. A's communicative intention is to invite participation and acknowledge team members’ insights, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I agree, B, everyone’s unique skills will be crucial for our success. Let's make sure we actively listen and incorporate what each of us brings to the table. Who would like to share their unique experiences or skills next?
+
+all scripts of B: 
+B: I completely agree, A. Listening and incorporating everyone's experiences is essential for creating a solid team dynamic. By understanding our combined strengths, we can form a strategy that truly reflects our collective expertise. I’m eager to see what new insights our next teammate will bring to the discussion.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A gets the explicature that B agrees on the importance of listening and incorporating everyone's experiences to create a solid team dynamic, and is eager to learn the next teammate's insights.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B agrees on the importance of listening and incorporating everyone's experiences, combined with A's believed fact that effective collaboration involves clear communication and understanding each member's unique strengths, A can infer the implicature that B is committed to fostering a collaborative environment and values diverse skills within the team.
+
+3. Conclude fact received from this round:  
+A gets explicature that B agrees on the importance of listening and incorporating everyone's experiences and implicature that B is committed to fostering a collaborative environment; A can conclude the fact that B is dedicated to creating a team dynamic that emphasizes collective input and collaboration.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is dedicated to creating a team dynamic that emphasizes collective input and collaboration contributes to the goal by reinforcing a shared commitment to effective teamwork and mutual understanding, helping to build a positive rapport with B.
+
+5. Refine new goal dependent on the contribution:  
+Because of the contribution that the fact reinforces a shared commitment to effective teamwork and mutual understanding, A can refine the new goal to ensure continuous encouragement of B’s leadership in organizing the group while promoting a supportive atmosphere for the team to express their ideas.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to ensure continuous encouragement of B’s leadership while promoting a supportive atmosphere. To achieve the goal, A has an informative intention to emphasize the importance of collaboration and a communicative intention to encourage B to take a proactive role in managing the team dynamics.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to emphasize the importance of collaboration, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to take a proactive role in managing the team dynamics, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Absolutely, B. It’s great to have someone so committed to effective teamwork! Your proactive role is certainly going to help us build a cohesive strategy. Now, who’s ready to share and add to our team’s strengths?
+
+all scripts of B: 
+B: Thanks, A. I appreciate your support, and I’m optimistic about the collaborative efforts we’re cultivating. If anyone’s ready, please share your experiences or skills with us. Let’s continue building a supportive and dynamic team environment.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B appreciates A’s support and is optimistic about the collaborative efforts being cultivated.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B appreciates A's support and is optimistic about the collaborative efforts, combined with A's believed fact that a positive rapport can enhance teamwork, A can infer implicature that B feels encouraged by A’s approach and sees value in their partnership.
+
+3. Conclude fact received from this round:
+A get explicature that B appreciates A’s support and is optimistic, and implicature that B feels encouraged and sees value in their partnership, A can conclude the fact that B is motivated to contribute towards a positive team dynamic.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to successfully complete the team-building task and establish a positive rapport with B and other team members. The received fact that B is motivated to contribute towards a positive team dynamic makes contribution to the goal by enhancing teamwork and mutual respect.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is motivated and contributing positively, A can refine the new goal that is to further solidify the collaborative energy within the team to achieve success efficiently.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to further solidify the collaborative energy within the team to achieve success efficiently. To achieve the goal, A has informative intention that B's motivation aligns with effective teamwork and communicative intention to emphasize that B's continued leadership is key for team cohesion.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is that B's motivation aligns with effective teamwork, which means information in A's utterance will mainly focus on that. A's communicative intention is that B's continued leadership is key for team cohesion, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Your optimism and leadership are key, B. It shows how committed you are to building a united team. Let's keep leveraging this energy as we bring out the best in each other. Who’s up next to share their story and add to our enthusiasm?
+
+all scripts of B: 
+B: Thank you, A, for your kind words. I believe in the power of a unified team, and I’m excited to see how our combined efforts can drive us forward. Let’s keep this positive momentum going and invite the next team member to share their story with us!

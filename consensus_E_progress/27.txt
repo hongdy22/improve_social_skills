@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is anxious and seeks reassurance but is willing to contribute and follow directions.', "B's Behavior": 'B expresses anxiety but actively participates by monitoring panel lights and seeking detailed explanations to stay grounded.', "B's Goal": 'B aims to overcome anxiety and assist in resolving the equipment malfunction by staying informed and focused.', "B's Information": "B relies on A's explanations and observations of the panel lights to gauge progress and manage anxiety."}
+n_script: {"B's Character": "B is worried about the impact of the malfunction but trusts A's process and seeks to be kept informed.", "B's Behavior": "B checks backup supplies and stays vigilant, requesting updates to ensure they're on the right track.", "B's Goal": "B wants to ensure the malfunction is resolved without missing any critical steps and to minimize the project's disruption.", "B's Information": "B is reassured by A's updates and the stability of the equipment, focusing on backup supplies and setup integrity."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.85}
+n_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.65}
+

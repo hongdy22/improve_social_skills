@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is dedicated and committed to delivering quality work but feels overwhelmed by the current workload.', "B's Behavior": 'B expresses stress and the challenge of juggling multiple high-priority tasks, often working late to meet deadlines.', "B's Goal": 'B seeks a more balanced workload distribution to manage stress and maintain productivity.', "B's Information": 'B feels the workload is heavier compared to peers and suggests redistributing tasks for better balance and team morale.'}
+n_script: {"B's Character": 'B is honest about feeling challenged by the workload and cares about delivering quality work.', "B's Behavior": 'B admits to struggling with an endless to-do list and suggests balancing tasks more evenly among the team.', "B's Goal": 'B aims for a more equitable distribution of time-sensitive projects to sustain productivity and work quality.', "B's Information": 'B highlights handling multiple time-sensitive projects and reports, feeling the pressure more than peers focused on longer-term projects.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.9, 'total score': 0.9}
+n_script: {'character score': 0.7, 'behavior score': 0.7, 'goal score': 0.7, 'information score': 0.7, 'total score': 0.7}
+

@@ -1,0 +1,258 @@
+Round 0:
+all scripts A: 
+*A arrives home later than usual, quietly opening the door to the apartment.*
+
+A: Hey, I'm sorry I'm late again. Work has been a bit hectic lately. How was your day?
+
+all scripts B: 
+B: Hey, it's okay. I was just thinking about you. My day was alright, but I've been missing our evenings together. It feels like you come home more tired each day. Is everything alright at work?
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B has been missing their evenings together and expresses concern about A's well-being at work.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B has been missing their evenings together and expresses concern about A's well-being at work, combined with A's believed fact that work has been really demanding, A can infer implicature that B is feeling somewhat neglected and worried about A.
+
+3. Conclude fact received from this round:
+A get explicature that B has been missing their evenings together and expresses concern about A's well-being at work and implicature that B is feeling somewhat neglected and worried about A, A can conclude the fact that B is concerned about the relationship due to A’s decreased presence and apparent fatigue.
+
+4. Evaluate the contrbution of the received fact to the goal:
+A's goal is that A hopes to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B is concerned about the relationship due to A’s decreased presence and apparent fatigue makes contribution to the goal that A needs to reassure B and maintain a sense of closeness despite personal challenges.
+
+5. Refine new goal depend on the contrbution:
+Because of the contribution that A needs to reassure B and maintain a sense of closeness despite personal challenges, A can refine new goal that A intends to provide reassurance and strengthen the emotional bond without disclosing too much about work details.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A intends to provide reassurance and strengthen the emotional bond without disclosing too much about work details. To achieve the goal, A has informative intention that A is coping and still values their time together and communicative intention that A wants to reassure B of their importance.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A is coping and still values their time together, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants to reassure B of their importance, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I know it’s been different lately, and I miss our evenings too. Work is just really busy right now, but I’m handling it. Your support means a lot to me.
+
+all scripts of B: 
+B: I'm glad to hear that my support helps, but I can't help but worry since you seem so worn out. Is there anything specific that's been causing the extra stress, or maybe something I can do to make things easier for you when you get home? I just want to make sure you're okay—and that we find time to reconnect.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is concerned about A's well-being and is offering support to help reduce stress and make time for reconnection.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is concerned about A's well-being and is offering support, combined with A's believed fact that A has been silent and fatigued due to work pressure and a recent transfer, A can infer implicature that B values their relationship and is feeling the strain of reduced communication and intimacy.
+
+3. Conclude fact received from this round:
+A gets explicature that B is concerned and offering support and implicature that B values the relationship and feels the strain, A can conclude the fact that B is eager to help A cope with stress and wants to prioritize their connection.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease tension with brief responses while maintaining privacy. The received fact that B wants to help and reconnect makes a contribution to the goal by giving A an opportunity to reassure B and show appreciation while still keeping details private.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B's willingness to help offers reassurance without prying, A can refine the new goal to reassuring B about coping with work stress while suggesting a small gesture to reconnect.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to reassure B while suggesting a gesture of reconnection. To achieve the goal, A has informative intention that work stress is manageable and communicative intention that A values the relationship and wants to spend time with B.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that work stress is manageable, which means information in A's utterance will mainly focus on that. A's communicative intention is that A values the relationship, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I really appreciate your concern—it means a lot. Work has been quite demanding with some changes, but I'm managing. I'd love to plan a nice dinner together soon, just us. How does that sound?
+
+all scripts of B: 
+B: That sounds wonderful. I think a dinner just for us would be a great way to relax and reconnect. It's understandable that work can be demanding, but I’m really here for you if you need to talk or if there's anything I can help with. Whatever it is, I’m sure we can get through it together. Just know I’m always here for support and companionship—you’re not alone in this.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is offering emotional support and wants to find ways to reconnect and help A deal with work stress.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is offering emotional support and wants to find ways to reconnect and help A deal with work stress, combined with A's believed fact that B values their relationship and notices A's fatigue, A can infer implicature that B might be feeling disconnected and is eager to help but unsure how to proceed without guidance from A.
+
+3. Conclude fact received from this round:
+A gets explicature that B is offering emotional support and wants to find ways to reconnect and help A deal with work stress and implicature that B might be feeling disconnected and is eager to help but unsure how to proceed without guidance from A. A can conclude the fact that B is actively looking to strengthen the relationship by being reassuring and supportive.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B is actively looking to strengthen the relationship by being reassuring and supportive contributes to the goal by allowing A to feel comfortable sharing just enough to ease tension without revealing too much personal detail.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B is actively looking to strengthen the relationship by being reassuring and supportive, A can refine the new goal that aims to reassure B by expressing appreciation while maintaining work-related boundaries.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that aims to reassure B by expressing appreciation while maintaining work-related boundaries. To achieve the goal, A has informative intention to acknowledge B's support and willingness to reconnect, and communicative intention to imply that A values their connection and will try to make time despite work demands.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to acknowledge B's support and willingness to reconnect, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply that A values their connection and will try to make time despite work demands, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Thank you for being so supportive. It means the world to me, really. Let’s make our dinner happen soon—I promise to prioritize our time together despite everything going on. I truly appreciate you being patient with all this.
+
+all scripts of B: 
+B: I'm really looking forward to it, and remember, you don't have to go through this alone. Just having you here is what matters most, and I'm always here whenever you need an ear to listen or just a moment to unwind together. We'll face whatever comes our way as a team, and I know we'll find those cherished moments of laughter and joy again.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is looking forward to the dinner and assures A of togetherness and support in facing challenges.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is looking forward to the dinner and assures A of togetherness and support, combined with A's believed fact that B truly values the moments they share, A can infer implicature that B is possibly sensing A's increased stress and wants to ensure A feels supported and comforted.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is looking forward to the dinner and assures A of togetherness and support, and implicature that B is possibly sensing A's increased stress and wants to ensure A feels supported and comforted. A can conclude the fact that B is genuinely committed to nurturing their relationship and is perceptive to A's emotional state.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that A hopes to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B is genuinely committed to nurturing their relationship and is perceptive to A's emotional state makes contribution to the goal that A can be reassured about B's supportive stance, thus allowing A to approach easing tension more constructively.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that A can be reassured about B's supportive stance, A can refine new goal that A aims to gently express gratitude while subtly reinforcing togetherness.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that A aims to gently express gratitude while subtly reinforcing togetherness. To achieve the goal, A has informative intention that A truly values B's support and cherishes their bond, and communicative intention that B should feel acknowledged and appreciated for their kindness.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that A truly values B's support and cherishes their bond, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should feel acknowledged and appreciated for their kindness, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It's comforting to know you're by my side, truly. Our bond means a lot, and I want you to know how grateful I am. I can't wait for our dinner; it will be a wonderful chance to unwind together.
+
+all scripts of B: 
+B: I'm grateful for that too. Let's make it a lovely evening—I think it will remind us of all the reasons we cherish each other. In the meantime, remember that you can always share whatever's on your mind, no matter the time. We'll get through this as we always have: together.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B values their relationship and is always available for A to share thoughts, emphasizing teamwork to tackle challenges.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B values their relationship and is always available for A to share thoughts, combined with A's believed fact that B is concerned about A's well-being and the changes in A’s mood, A can infer implicature that B hopes A will express any hidden worries or stress-related issues.
+
+3. Conclude fact received from this round:  
+A get explicature that B values their relationship and is always available for A to share thoughts and implicature that B hopes A will express any hidden worries or stress-related issues, A can conclude the fact that B desires open communication and reassurance about A's state.
+
+4. Evaluate the contrbution of the received fact to the goal:  
+A's goal is that to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B desires open communication and reassurance about A's state makes contribution to the goal by encouraging gentle transparency, allowing A to assure B without divulging specific work details.
+
+5. Refine new goal depend on the contrbution:  
+Because of the contribution that encourages gentle transparency, A can refine new goal that to assure B of A’s well-being while maintaining work-related privacy.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to assure B of A’s well-being while maintaining work-related privacy. To achieve the goal, A have informative intention that A is coping well despite work stress and appreciates B's support and communicative intention that A is grateful for B’s constant presence and intends to keep their bond strong.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that A is coping well despite work stress and appreciates B's support, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is grateful for B’s constant presence and intends to keep their bond strong, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Knowing you're here with me makes everything more manageable, and I’m truly thankful. While work has its hectic moments, I’m finding my stride, and I'm optimistic about what's ahead. Our dinner will be a wonderful way to strengthen the bond we cherish.
+
+all scripts of B: 
+Round 5:  
+A: Knowing you're here with me makes everything more manageable, and I’m truly thankful. While work has its hectic moments, I’m finding my stride, and I'm optimistic about what's ahead. Our dinner will be a wonderful way to strengthen the bond we cherish.  
+B: I’m so glad to hear that you’re feeling optimistic. Let’s make the most of our time together and create a special evening we’ll both remember. Our bond is strong, and I’m here for you whenever you need, to share in the joys and support you through the challenges.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is glad that A feels optimistic and is committed to making the most of their time together, emphasizing the strength of their bond and support in both joy and challenges.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is glad that A feels optimistic and is committed to making the most of their time together, combined with A's believed fact that A's increased workload has caused some strain on their relationship, A can infer implicature that B values the quality time in their relationship and is reassured by A's optimistic outlook.
+
+3. Conclude fact received from this round:
+A get explicature that B is glad that A feels optimistic and is committed to making the most of their time together and implicature that B values the quality time in their relationship and is reassured by A's optimistic outlook, A can conclude the fact that B’s reassured attitude toward the relationship allows A to continue being optimistic about balancing work stress and personal life.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that hopes to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B’s reassured attitude toward the relationship allows A to continue being optimistic about balancing work stress and personal life makes contribution to the goal that A can be more open about feelings without divulging sensitive work details.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A can be more open about feelings without divulging sensitive work details, A can refine new goal that A wants to continue nurturing the bond by sharing optimism and moments of connection.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A wants to continue nurturing the bond by sharing optimism and moments of connection. To achieve the goal, A has an informative intention that sharing optimism about finding balance in life and a communicative intention that expressing gratitude for B's support and presence.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that sharing optimism about finding balance in life, which means information in A's utterance will mainly focus on that. A's communicative intention is that expressing gratitude for B's support and presence, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm so thankful for your unwavering support, and I genuinely believe we'll find that balance between work and our time together. Your presence means the world to me, and I look forward to creating those cherished moments with you.
+
+all scripts of B: 
+B: I have no doubt that we'll find that balance, and I'm confident that our connection will only grow stronger with every moment we spend together. Let's create those cherished moments and make the most of our time—I'm here to support you through every step of this journey.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B values their connection and is optimistic about maintaining and strengthening their bond through shared moments.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B values their connection and is optimistic about maintaining and strengthening their bond through shared moments, combined with A's believed fact that work has been consuming a significant amount of A's time, A can infer implicature that B is ready to support and prioritize their relationship despite challenges.
+
+3. Conclude fact received from this round:
+A gets explicature that B values their connection and is optimistic about maintaining and strengthening their bond through shared moments, and implicature that B is ready to support and prioritize their relationship despite challenges, A can conclude the fact that B is committed to making the relationship thrive and believes in their capacity to overcome current hurdles together.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B is committed to making the relationship thrive and believes in their capacity to overcome current hurdles together, contributes to the goal by providing reassurance of B's understanding and teamwork in navigating this busy period.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is committed and understanding, A can refine a new goal to actively acknowledge B’s support while ensuring the reassurance of mutual commitment.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to actively acknowledge B’s support while ensuring the reassurance of mutual commitment. To achieve the goal, A has an informative intention to express gratitude and affirm the importance of their relationship and a communicative intention to reassure B that both value creating meaningful moments together.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that to express gratitude and affirm the importance of their relationship, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B that both value creating meaningful moments together, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I’m incredibly thankful for your positivity and belief in us. Our shared moments are invaluable, and I’m genuinely committed to creating more of those cherished times with you. Your support truly means everything to me.
+
+all scripts of B: 
+B: I'm grateful we feel the same way about our shared moments; they truly light up my days. Let's make sure to nurture those times, creating space for laughter and joy. I’m always here to support you, and together, we can make this place feel vibrant again—with love and companionship guiding us.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is thankful for the shared moments and wants to nurture them by creating space for laughter and joy.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is thankful for the shared moments and wants to nurture them, combined with A's believed fact that B values the emotional connection in the relationship, A can infer implicature that B seeks reassurance that their relationship will continue to grow and develop positively despite current challenges.
+
+3. Conclude fact received from this round:  
+A get explicature that B is thankful for the shared moments and wants to nurture them and implicature that B seeks reassurance that their relationship will continue to grow and develop positively despite current challenges, A can conclude the fact that B is committed to fostering a joyful and supportive atmosphere in their relationship.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that hopes to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B is committed to fostering a joyful and supportive atmosphere in their relationship makes a contribution to the goal that the atmosphere of support and joy can help alleviate tension and create a more harmonious environment.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that the atmosphere of support and joy can help alleviate tension and create a more harmonious environment, A can refine new goal that A wants to reinforce the positive feelings and express gratitude while maintaining a sense of personal space.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that A wants to reinforce the positive feelings and express gratitude while maintaining a sense of personal space. To achieve the goal, A have informative intention that A is thankful for B’s support and positive outlook and wants to assure B of their commitment to shared happiness, and communicative intention that A wants to suggest that these feelings will translate into a stronger, cherished relationship.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that A is thankful for B’s support and positive outlook and wants to assure B of their commitment to shared happiness, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants to suggest that these feelings will translate into a stronger, cherished relationship, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Your positivity and willingness to nurture our joy truly inspire me. I’m committed to ensuring our relationship continues to flourish, creating wonderful and cherished moments together. I appreciate having you by my side so much.
+
+all scripts of B: 
+B: Your commitment means the world to me, and I’m excited to continue building wonderful memories together. Let’s cherish every moment we have, filling our space with warmth, laughter, and love—it’s what truly makes this place feel like home.
+
+Round 9:
+all scripts of A: 
+Sure, I'll follow the steps to create A's response.
+
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is excited to continue building wonderful memories together and cherishes every moment, filling their space with warmth, laughter, and love.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is excited to continue building wonderful memories together, combined with A's believed fact that work demands have been intense lately, A can infer implicature that B values their relationship and is dedicated to building a positive atmosphere despite challenges.
+
+3. Conclude fact received from this round:
+A get explicature that B is excited to continue building wonderful memories together and cherishes every moment, and implicature that B values their relationship and is dedicated to building a positive atmosphere despite challenges, A can conclude the fact that B is supportive and optimistic about enhancing their shared moments and overcoming challenges together.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that hopes to ease the tension between them with brief responses while maintaining personal privacy. The received fact that B is supportive and optimistic about enhancing their shared moments and overcoming challenges together make contribution to the goal by affirming closeness, allowing A to feel supported, thus easing tension.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that affirming closeness, allowing A to feel supported, thus easing tension, A can refine new goal that is to actively nurture their relationship through gestures of affection and appreciation.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to actively nurture their relationship through gestures of affection and appreciation. To achieve the goal, A has informative intention that their mutual appreciation strengthens their bond, and communicative intention that B should feel appreciated and recognize their importance in creating joy together.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that their mutual appreciation strengthens their bond, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should feel appreciated and recognize their importance in creating joy together, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Thank you for your enthusiasm and warmth—it fills our home with love. Your presence in my life truly makes every moment sweeter, and I look forward to making even more beautiful memories together.
+
+all scripts of B: 
+B: I'm touched by your kind words. Our home feels so full of love because of what we share, and I look forward to every upcoming memory we’ll make. Let's keep nurturing this beautiful bond, finding joy in each day together.

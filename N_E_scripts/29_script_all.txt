@@ -1,0 +1,71 @@
+Round 0:
+all scripts A: 
+[Amidst the buzzing celebratory atmosphere, A spots B and walks over with a warm, albeit slightly distracted, smile.]
+
+A: "B! It's so good to see you after all these years. You wouldn't believe the crazy schedule I've been juggling with work—just wrapped up a big project last week! Anyway, enough about that. How have you been?"
+
+all scripts B: 
+B: "Hey A, it's really great to see you! I know work can be demanding, but I hope you've found some time here and there to unwind. You know, I've been thinking a lot about the old days, those summer evenings when we'd sit by the lake, just talking for hours. It's those memories that remind me of the importance of keeping in touch with friends who truly matter. What's been going on in your world, outside of work?"
+
+Round 1:
+all scripts of A: 
+A: "You know, B, I can't help but smile thinking about those summer evenings too. It's moments like those that remind me of why friendships are so important. I've been so caught up in the whirlwind of my career that I sometimes forget to take a step back and appreciate the people who mean the most to me. Outside of work, I've actually started taking cooking classes to try and find a bit of balance. How about you? What have you been up to these days?"
+
+all scripts of B: 
+B: "Cooking classes sound wonderful, A! Discovering a new skill can be such a fulfilling way to reconnect with oneself. I’ve been exploring some old hobbies like painting and even joined a book club—it's been refreshing. You know, as much as our careers shape us, it’s those shared experiences, the laughter and stories, that really make life meaningful. It would be great to hear more about your classes sometime, or maybe we could cook together. Reminds me of that time we tried a new recipe as a challenge. I dropped half the ingredients on the floor, remember?"
+
+Round 2:
+all scripts of A: 
+A: "Oh gosh, I do remember that! It's amazing how those little moments stick with us, isn't it? Cooking together sounds like a fantastic idea—I'd love to relive that little chaos and laughter. Your painting and book club sound like such wonderful ways to nurture creativity and connection. Maybe you could show me some of your artwork sometime, or we could discuss the latest book you're reading? I'd really like to hear more about what's been inspiring you lately."
+
+all scripts of B: 
+B: "Absolutely, A. It would be so much fun to share those experiences with you again. I've been working on a landscape piece that was inspired by our favorite spot by the lake—I'd love to show it to you sometime. And as for the book club, we're diving into some great stories that really make you think and feel. It still amazes me how certain books and creations can open up new perspectives and emotions. I think it’d be great for us to explore more of those moments together, whether through cooking, art, or simply catching up over coffee. It's those moments of openness and connection that truly matter, don't you think?"
+
+Round 3:
+all scripts of A: 
+A: "Absolutely, B. Those moments of openness and connection are indeed what make life rich and rewarding. I'm really looking forward to seeing your landscape piece; it sounds like a beautiful tribute to our cherished memories. And diving into thought-provoking stories through your book club sounds invigorating. I think it's about time I broaden my own horizons with more of those enriching pursuits. Let’s definitely plan some time for coffee, art, or anything else that brings us joy and keeps the essence of our friendship alive."
+
+all scripts of B: 
+B: "I'm really glad to hear that, A. It's meaningful to witness how even after years apart, we can still find ways to honor that connection through shared interests and experiences. Revisiting these cherished moments together will surely reignite the essence of our friendship. Let's plan on making some of those joyful memories soon. I'm really looking forward to spending some heartfelt time together, enjoying life's simple pleasures."
+
+Round 4:
+all scripts of A: 
+A: "I'm really looking forward to that, B. Here's to creating new adventures and celebrating the deep connection we've always shared. Let's make it happen!"
+
+all scripts of B: 
+B: "Cheers to that, A. I'm grateful for the chance to rekindle our friendship and embrace the adventures ahead. Let's cherish and celebrate each moment, old and new, together!"
+
+Round 5:
+all scripts of A: 
+A: "Absolutely, B. Every moment spent together feels like a celebration of our shared history and a promise of more to come. Let's savor each experience and look forward to all the adventures that the future holds for us."
+
+all scripts of B: 
+B: "Together, we can turn every experience into a cherished memory and continue writing our story with the same warmth and laughter as always. To more adventures and deeper connections, my friend."
+
+Round 6:
+all scripts of A: 
+A: "To more adventures and deeper connections indeed, B. It's heartening to know that no matter how much time passes, our bond remains as strong as ever. Let's cherish these moments and look forward to creating many more stories together, filled with laughter and warmth."
+
+all scripts of B: 
+B: "Absolutely, A, it's heartening to see that even after years apart, our friendship has remained a constant source of joy and support. Here's to nurturing this bond and making the most of every opportunity to create lasting memories together."
+
+Round 7:
+all scripts of A: 
+A: "Here's to nurturing our bond and embracing every opportunity to create those lasting memories together, B. It's truly a blessing to have such a steadfast friend who helps remind me of the importance of balance and connection in life."
+
+all scripts of B: 
+B: "Thank you, A. It's a blessing to have you in my life as well, someone who truly values those connections and balances the hustle and bustle of life with heartwarming relationships. I'm grateful for every moment shared and the friendship that keeps us grounded and inspired."
+
+Round 8:
+all scripts of A: 
+A: "I'm truly grateful for your presence, B, and the way our friendship reminds me of what truly matters amidst the hustle. Let's continue to support each other and savor every cherished moment we create together."
+
+all scripts of B: 
+B: "Being able to rely on each other and share in the joys and challenges life brings is what makes our friendship so special. We'll keep nurturing it and cherishing all these moments as we venture forward, knowing we've always got each other’s backs."
+
+Round 9:
+all scripts of A: 
+A: "That's exactly what makes our bond so precious, B. Having someone you can always count on to be there through the ups and downs is truly a gift. Let's keep creating those wonderful memories and supporting each other as we navigate whatever life throws our way."
+
+all scripts of B: 
+B: "You're right, A, it's a gift to have that unwavering support and shared experiences through life's journey. Let's embrace each chapter and continue weaving our friendship into the fabric of our lives, always ready for whatever comes our way."

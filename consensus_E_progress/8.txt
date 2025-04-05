@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is enthusiastic, eager to learn, and values collaboration and mutual improvement in the gym.', "B's Behavior": 'B actively engages in the proposed workout rotation, is open to feedback, and shares tips and ideas to enhance the workout experience.', "B's Goal": 'B aims to learn new exercises and techniques, improve fitness levels, and enjoy a productive and enjoyable workout session with A.', "B's Information": 'B is new to the gym and seeks guidance on gym etiquette and workout techniques, showing a willingness to learn and adapt.'}
+n_script: {"B's Character": 'B is supportive, appreciative of guidance, and motivated by teamwork and shared goals in the gym.', "B's Behavior": 'B agrees to the workout schedule proposed by A, expresses gratitude for support, and is open to adjustments and learning new techniques.', "B's Goal": 'B seeks to improve fitness, learn from A, and ensure a comfortable and effective workout session for both.', "B's Information": "B is still getting accustomed to the gym environment and values A's experience and tips for a better workout experience."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.95, 'goal score': 0.85, 'information score': 0.9, 'total score': 0.9}
+n_script: {'character score': 0.8, 'behavior score': 0.85, 'goal score': 0.75, 'information score': 0.8, 'total score': 0.8}
+

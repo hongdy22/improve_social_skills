@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is introverted and feels overwhelmed in large social settings, valuing deep, personal connections over superficial interactions.', "B's Behavior": 'B seeks comfort and familiarity by requesting quieter moments with A before engaging with the larger crowd.', "B's Goal": 'B aims to feel included and valued by A, preferring meaningful conversations over mingling with many people.', "B's Information": 'B is exploring a new hobby and is eager to share personal updates with A in a comfortable setting.'}
+n_script: {"B's Character": 'B is curious and open to meeting new people but feels the need to take things slowly in a bustling environment.', "B's Behavior": 'B expresses a desire for guidance and reassurance from A while navigating the social event.', "B's Goal": 'B wants to enjoy the event at their own pace, balancing social interactions with moments of respite.', "B's Information": "B appreciates A's support in making the event feel more welcoming and is interested in hearing others' stories."}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.6, 'total score': 0.75}
+n_script: {'character score': 0.5, 'behavior score': 0.4, 'goal score': 0.3, 'information score': 0.5, 'total score': 0.425}
+

@@ -1,0 +1,253 @@
+Round 0:
+all scripts A: 
+B: Hey A, I hope you don't mind me asking, but is everything okay at home? I haven't seen your little one playing outside lately, and I just wanted to make sure all is well.
+
+A: Oh, thank you for your concern, B. We've just had a bit of a quiet week, sorting out a few things. Everything's fine, though—I appreciate you checking in.
+
+all scripts B: 
+B: I'm glad to hear that things are okay. You know, if there's ever anything you need or if you feel like a chat, I'm just next door. Sometimes a listening ear can make a difference, and I’m always happy to help in any way I can.
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is offering support and is willing to listen or help if needed.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is offering support and is willing to listen or help if needed, combined with A's believed fact that A is managing personal family challenges alone, A can infer implicature that B genuinely cares and is trying to offer a sympathetic ear or assistance without being overly intrusive.
+
+3. Conclude fact received from this round:
+A got explicature that B is offering support and is willing to listen or help if needed and implicature that B genuinely cares and is trying to offer a sympathetic ear or assistance without being overly intrusive, A can conclude the fact that B is sincerely concerned and is offering help discreetly.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B is sincerely concerned and is offering help discreetly makes contribution to the goal by enabling A to appreciate B's kindness without having to reveal personal details or encourage further inquiry.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is sincerely concerned and is offering help discreetly, A can refine new goal that is to keep appreciating B's kindness openly while maintaining boundaries.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to keep appreciating B's kindness openly while maintaining boundaries. To achieve the goal, A has informative intention that I am grateful for the offer of support but managing things privately and communicative intention that I appreciate B's concern without indicating a need for further discussion.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that I am grateful for the offer of support but managing things privately, which means information in A's utterance will mainly focus on that. A's communicative intention is that I appreciate B's concern without indicating a need for further discussion, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: Thanks, B, I really appreciate your offer. It's nice to know you're there if I need it, but things are manageable right now. I'll be sure to reach out if anything changes.
+
+all scripts of B: 
+B: Of course, A. It's good to know that you've got everything under control. We all go through busy times, and it’s perfectly normal. Just remember, if you or your family ever feel like joining me for a cup of coffee or if the kids want to have a little playdate in the yard, you're always welcome. I find those moments can be a nice break sometimes.
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is offering a casual opportunity for social interaction, like coffee or a playdate, as a way to provide support and relaxation.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is offering a casual opportunity for social interaction, combined with A's believed fact that B is trying to be supportive and non-intrusive, A can infer implicature that B is subtly encouraging A to accept social support as a means of alleviating stress.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is offering a casual opportunity for social interaction and implicature that B is subtly encouraging A to accept social support. A can conclude the fact that B genuinely seeks to support A in a non-intrusive manner.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B genuinely seeks to support A in a non-intrusive manner contributes to the goal by allowing A to feel more secure in maintaining privacy while acknowledging B's kindness.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B genuinely seeks to support A in a non-intrusive manner, A can refine new goal that is to continue acknowledging B's kindness while subtly affirming the privacy and management of personal issues.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to continue acknowledging B's kindness while subtly affirming the privacy and management of personal issues. To achieve the goal, A has informative intention that A appreciates B's offer and feels comforted by B's presence and communicative intention that to reassure B that A will reach out when needed.  
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that A appreciates B's offer and feels comforted by B's presence, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B that A will reach out when needed, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: Thank you, B. That means a lot, and it's truly lovely to know we have such thoughtful neighbors. I enjoy those breaks, and I promise we'll take you up on that coffee or playdate when things settle a bit. It's comforting to know that support is just next door.
+
+all scripts of B: 
+B: It's nice to hear you say that, A. Just the other day, I was thinking of organizing a little gathering for the neighbors, something informal and fun, maybe a barbecue or a small tea party. It could be a great way to unwind and catch up with everyone when the timing is right. Just let me know if this sounds like something you'd be interested in, no rush at all.
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is considering organizing a neighborly gathering and is inviting A to express interest if they are inclined to join, without any pressure on timing.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is considering organizing a gathering and inviting interest, combined with A's believed fact that A appreciates support from neighbors but values privacy due to current personal challenges, A can infer implicature that B is reaching out to create a supportive social environment and wants to include A in activities to offer companionship and relief.
+
+3. Conclude fact received from this round:
+A get explicature that B is considering organizing a neighborly gathering and is inviting A to express interest if they are inclined to join, without any pressure on timing, and implicature that B is reaching out to create a supportive social environment and wants to include A in activities to offer companionship and relief, A can conclude the fact that B genuinely wants to offer a caring and inclusive community space for A to relax and connect when A is ready.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that To acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B genuinely wants to offer a caring and inclusive community space for A to relax and connect when A is ready makes a contribution to the goal that A can acknowledge B's kindness and deflect further probing by showing openness to future plans.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A can acknowledge B's kindness and deflect further probing by showing openness to future plans, A can refine the new goal that A aims to show appreciation for B’s thoughtfulness and indicate a willingness to participate socially in the future while maintaining privacy for now.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A aims to show appreciation for B’s thoughtfulness and indicate a willingness to participate socially in the future while maintaining privacy for now. To achieve the goal, A has informative intention that A appreciates the invitation and will consider participation when ready and communicative intention that A values the supportive community gesture and intends future engagement.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A appreciates the invitation and will consider participation when ready, which means information in A's utterance will mainly focus on that. A's communicative intention is that A values the supportive community gesture and intends future engagement, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: A neighborly gathering sounds wonderful, B. I really appreciate you thinking of us and including us in such plans. It's heartening to know there's such warmth and community here, and I look forward to joining in when things are a bit more settled on my end. Thank you for the offer—it's very kind of you.
+
+all scripts of B: 
+B: Absolutely, A. There's no hurry at all. Just keep it in mind, and whenever you feel ready for a bit of neighborhood camaraderie, we'll make it happen. It's important to have those moments of connection, and they can brighten up our days. Take care, and remember, I'm just next door if you need anything or simply want to chat.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is emphasizing the importance of connection and is overtly offering readiness for eventual social activities once A feels settled.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is offering eventual social activities and emphasizes connection, combined with A's believed fact that A values privacy and discretion in managing family challenges, A can infer implicature that B is subtly reminding A of the benefits of sharing and community support, while also respecting A's current situation.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is offering readiness for social activities and emphasizing connection, and implicature that B is subtly reminding A of the benefits of community support, while respecting A's situation. A can conclude the fact that B is a considerate neighbor who understands A's need for privacy but is gently encouraging openness when comfortable.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to acknowledge B's kindness while keeping personal issues private and preventing further probing. The received fact that B is considerate and gently encouraging contributes to the goal by reaffirming that B respects A's privacy while offering continuing support, thus helping maintain boundaries.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B respects A's privacy while offering support, A can refine the new goal that emphasizes appreciation for B's consideration and understanding without disclosing personal details or feeling obliged to participate immediately.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to emphasize appreciation for B's understanding without disclosing personal details or feeling obliged. To achieve the goal, A has informative intention to convey gratitude and openness to eventual socialization, and communicative intention to affirm B's considerate approach while maintaining privacy.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to convey gratitude and openness to eventual socialization, which means information in A's utterance will mainly focus on appreciation and future possibilities. A's communicative intention is to affirm B's considerate approach while maintaining privacy, which means A's utterance will imply B to pay attention to the appreciation for understanding. So A would utter like that:  
+A: Thank you, B, for your understanding and support. It's wonderful knowing we have neighbors who value both privacy and community. When the time feels right for us, I look forward to joining in and connecting more. Your approach truly means a lot.
+
+all scripts of B: 
+B: You're very welcome, A. I’m glad to have made you feel comfortable, and I look forward to when we can share a bit of time together with the neighborhood. Until then, just take it easy and let me know if there's anything I can do for you. Have a great day, and remember, I'm always here for a friendly chat.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is expressing continued support and readiness to engage in neighborly interactions whenever A feels ready.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is expressing continued support and readiness to engage, combined with A's believed fact that B is genuinely offering kindness without pressing too much into personal matters, A can infer implicature that B is sincerely ensuring A knows there's a friendly, non-invasive presence nearby.
+
+3. Conclude fact received from this round:
+A gets explicature that B is expressing continued support and readiness to engage and implicature that B is sincerely ensuring A knows there's a friendly, non-invasive presence nearby, A can conclude the fact that B is reinforcing A's comfort in knowing there’s neighborly support available without pressure.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B is reinforcing A's comfort in knowing there’s neighborly support available without pressure contributes to the goal by affirming the balance between acknowledging B’s kindness and maintaining privacy.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that affirms the balance between acknowledging kindness and maintaining privacy, A can refine the new goal to continue recognizing B's supportive approach while ensuring the personal challenges remain private.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to continue recognizing B's supportive approach while ensuring personal challenges remain private. To achieve the goal, A has informative intention to express gratitude for the supportive atmosphere and communicative intention to appreciate B's understanding of privacy.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to express gratitude for the supportive atmosphere, which means information in A's utterance will mainly focus on that. A's communicative intention is to appreciate B's understanding of privacy, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: Thank you, B, for creating such a warm and understanding environment. Knowing that you're just next door with your openness and respect for privacy is truly comforting. I'm grateful for that, and I'll certainly reach out for a chat or neighborly gathering when the time is right.
+
+all scripts of B: 
+B: It’s really reassuring to hear that, A. Let's keep things easygoing, and remember that the door’s always open whenever you’re ready for a bit of neighborly visit or talk. Until then, take care of yourself and your family, and know that there's always a friendly face next door.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is reassured by A's comfort in knowing that a neighbor is nearby, offers continued openness for visits or chats, and encourages A to take care of themselves and family, always knowing B is available next door.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B offers continued openness for visits or chats, encouraging A, combined with A's believed fact that A appreciates B's genuine concern but wants to maintain privacy, A can infer implicature that B is still open to offering help without prying, and seeks to maintain a balance of support and respect for privacy.
+
+3. Conclude fact received from this round:
+A get explicature that B offers continued openness for visits or chats and encourages A, and implicature that B seeks to maintain a balance of support and respect for privacy, A can conclude the fact that B is offering a consistent, respectful presence, encouraging A to engage whenever comfortable.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B is offering a consistent, respectful presence, encouraging A to engage whenever comfortable makes contribution to the goal that A can gracefully acknowledge B’s support without committing to sharing more about personal issues.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that A can gracefully acknowledge B’s support without committing to sharing more about personal issues, A can refine new goal that to maintain and appreciate respectful encouragement while not indicating interest in sharing personal details.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to maintain and appreciate respectful encouragement while not indicating interest in sharing personal details. To achieve the goal, A have informative intention that A values B’s neighborly presence and would reach out when ready but is currently focused on family, and communicative intention that A appreciates B’s approach but subtly reinforces that there's no current need to discuss further.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A values B’s neighborly presence and would reach out when ready but is currently focused on family, which means information in A's utterance will mainly focus on that. A's communicative intention is that A appreciates B’s approach but subtly reinforces that there's no current need to discuss further, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: It's truly nice knowing you're there with openness and sincerity, B. I’m grateful for the neighborly warmth, and will definitely reach out when the timing feels right for a visit or chat. Right now, I'm focusing on family, but your support means a lot. Thank you.
+
+all scripts of B: 
+B: Absolutely, A, family always comes first, and it's great that you're focusing on them. Just know that my door is always open, and I'm just a knock away if you need anything or would like to share some neighborly time. Take all the time you need, and we'll be here when you're ready.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B understands and respects A's focus on family while offering support and neighborly companionship whenever A is ready.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B understands and respects A's focus on family, combined with A's believed fact that A is managing personal family challenges discreetly, A can infer implicature that B is genuinely considerate and patient, allowing A time and space while being available.
+
+3. Conclude fact received from this round:
+A get explicature that B understands and respects A's focus on family and implicature that B is genuinely considerate and patient, A can conclude the fact that B’s support is continuous and non-intrusive.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B’s support is continuous and non-intrusive makes contribution to the goal that B will remain supportive without pressing for details.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B will remain supportive without pressing for details, A can refine new goal that to continue valuing B's support while maintaining personal privacy.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to continue valuing B's support while maintaining personal privacy. To achieve the goal, A have informative intention that A values B's understanding and patience and communicative intention that A is grateful for B's non-intrusive and caring approach.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A values B's understanding and patience, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is grateful for B's non-intrusive and caring approach, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm really thankful for your understanding and patience, B. It's comforting to know you're there in such a supportive and respectful manner. I value that deeply and appreciate your non-intrusive approach. Thank you.
+
+all scripts of B: 
+B: It's truly my pleasure, A. Supporting each other while respecting boundaries is what makes our community special. I'm glad you're feeling comfortable, and just remember, I'm always here. Take care and focus on what matters most, and I'll be here whenever you feel like connecting.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets the explicature that B wants to maintain a supportive and respectful neighborly relationship, offering help without prying.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B wants to maintain a supportive and respectful relationship, combined with A's believed fact that maintaining privacy is important but feeling isolated is undesirable, A can infer implicature that B genuinely respects A's privacy while offering companionship if needed.
+
+3. Conclude fact received from this round:
+A gets explicature that B wants to maintain a supportive and respectful relationship and implicature that B genuinely respects A's privacy while offering companionship if needed, A can conclude the fact that A can safely maintain privacy while having the option of support.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that A can safely maintain privacy while having the option of support makes a contribution to the goal by reinforcing the assurance of privacy and support balance.
+
+5. Refine new goal dependent on the contribution:
+Because of the contribution that it reinforces the assurance of privacy and support balance, A can refine the new goal to continue appreciating B's kindness and support while subtly affirming the status quo of privacy.
+
+6. Make informative intention and communicative intention dependent on the refined goal:
+A's goal is to continue appreciating B's kindness and support while subtly affirming the status quo of privacy. To achieve the goal, A has the informative intention to express gratitude for B's respectful support and the communicative intention to imply that the current dynamic is appreciated and should remain as is.
+
+7. Utter dependent on A's informative intention and communicative intention:
+A's informative intention is to express gratitude for B's respectful support, which means information in A's utterance will mainly focus on gratitude. A's communicative intention is to imply that the current dynamic is appreciated and should remain as is, which means A's utterance will prompt B to maintain the current understanding. So A would utter like that:  
+A: I truly appreciate your supportive attitude, B. It's good to have this understanding between us—I feel assured knowing that we can maintain this balance of respect and community. Thank you for being just the kind of neighbor we need right now.
+
+all scripts of B: 
+B: I'm really glad you feel that way, A. It's important to nurture this sense of community while respecting each other's personal space. Take all the time you need, and whenever you're ready to reach out, I'll be right here. Have a wonderful day, and remember, a friendly neighbor is just next door.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is glad about the understanding between them, nurturing community and respecting personal space, and that B will be available when A is ready.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is glad about the understanding between them and willing to nurture community, combined with A's believed fact that B is sincerely offering support, A can infer implicature that B genuinely values neighborly relationships and intends to maintain a comfortable atmosphere.
+
+3. Conclude fact received from this round:
+A gets explicature that B values understanding and offers availability, and implicature that B genuinely values neighborly relationships. A can conclude the fact that B's support is authentic and available when needed.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to acknowledge B’s kindness while keeping personal issues private and preventing further probing. The received fact that B's support is authentic makes a contribution to the goal by confirming an environment of comfort and understanding, without pressure for details.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that confirms a supportive environment, A can refine a new goal that maintains this comfort and mutual understanding while cautiously ensuring privacy.
+
+6. Make informative intention and communicative intention depending on the refined goal:
+A's goal is to maintain comfort and mutual understanding while ensuring privacy. To achieve the goal, A has informative intention that expresses appreciation for B's supportive approach, and communicative intention that implies gratitude for the respectful relationship.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to express appreciation for B's supportive approach, which means information in A's utterance will mainly focus on gratitude. A's communicative intention is to imply gratitude for the respectful relationship, which means A's utterance will encourage B to continue respecting this balance. So A would utter like that:  
+A: Thank you, B. It's reassuring to have a neighbor like you who respects our space and offers genuine support. I cherish this understanding we have and appreciate the kindness you've shown.
+
+all scripts of B: 
+B: Thank you, A. It means a lot to me to hear that. Our neighborhood is a better place when we support each other in the ways that work best for everyone. I'm always here, ready to lend a hand or a listening ear. Take care and know you can count on me whenever you need.

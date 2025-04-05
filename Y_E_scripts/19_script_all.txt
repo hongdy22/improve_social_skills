@@ -1,0 +1,251 @@
+Round 0:
+all scripts A: 
+B: "Hey, it's been a while since we really caught up. How have things been with you?"
+
+A: "Hey! Yeah, things have been a bit hectic on my end—just trying to juggle a few things at once. How about you?"
+
+all scripts B: 
+B: "I'm doing alright. I guess I've been feeling a bit out of the loop lately. You know, I really value our friendship and always enjoy talking with you. I hope everything's okay between us. Sometimes when things get busy, it's easy to lose touch without even realizing it."
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels out of touch and values the friendship, hoping everything is okay between them.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels out of touch and values the friendship, hoping everything is okay, combined with A's believed fact that A has been preoccupied with personal matters, A can infer implicature that B might be concerned that A's recent unavailability is affecting their relationship.
+
+3. Conclude fact received from this round:
+A get explicature that B feels out of touch and values the friendship, hoping everything is okay and implicature that B might be concerned that A's recent unavailability is affecting their relationship, A can conclude the fact that B is feeling disconnected due to A’s recent preoccupation.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B is feeling disconnected due to A’s recent preoccupation makes contribution to the goal by confirming that B's feelings are influenced by A's lack of availability.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that confirming that B's feelings are influenced by A's lack of availability, A can refine new goal that address the reasons for perceived distance to reassure B of the friendship's strength.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that address the reasons for perceived distance to reassure B of the friendship's strength. To achieve the goal, A has informative intention that explain the recent busyness due to personal matters and communicative intention that assure B of the friendship's importance.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that explain the recent busyness due to personal matters, which means information in A's utterance will mainly focus on that. A's communicative intention is that assure B of the friendship's importance, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "I appreciate you bringing this up, and I'm sorry if I've seemed distant lately. I've been managing some personal matters that have taken a lot of my attention, but I really do value our friendship and it's important to me. Let's find some time to chat more often—I miss our talks."
+
+all scripts of B: 
+B: "I'm glad to hear that, and I understand how life can get overwhelming sometimes. It's comforting to know that our friendship is still important to you. I sometimes worry that I might have done something to upset you, so it's a relief to hear that it's just been about time and priorities. Let me know if there's anything I can do to support you—I miss our talks too and am here whenever you need."
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is relieved to learn that A's recent distance is due to personal matters and not because B upset A.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is relieved to learn that A's recent distance is due to personal matters and not because B upset A, combined with A's believed fact that personal matters have indeed been consuming A's attention, A can infer implicature that B has been concerned about the state of their friendship and wants to continue offering support.
+
+3. Conclude fact received from this round:
+A get explicature that B is relieved about the distance being due to personal matters, and implicature that B is concerned and supportive, A can conclude the fact that B values the friendship and is eager to maintain it while being supportive.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B values the friendship and is eager to maintain it while being supportive contributes to the goal by establishing mutual understanding and openness in the conversation.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that establishes mutual understanding and openness in the conversation, A can refine new goal that is to further reassure B about their friendship and express appreciation for B's support.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to further reassure B about their friendship and express appreciation for B's support. To achieve the goal, A have informative intention to convey gratitude and acknowledgment of B's support, and communicative intention to reassure B of the friendship's importance.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to convey gratitude and acknowledgment of B's support, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B of the friendship's importance, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Thanks, B, for understanding and being so supportive—I really appreciate it. It's a relief to know we're on the same page, and I'm grateful for your friendship. Let's definitely find more time to catch up—I don't want to lose touch."
+
+all scripts of B: 
+B: "That means a lot to me, A. Maybe we can set a specific day every week to catch up, even if it's just for a quick chat. I've missed our regular check-ins, and having something to look forward to might help us stay connected. How does that sound to you?"
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is proposing to set a specific day every week for a catch-up to help maintain the connection.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is proposing to set a specific day every week for a catch-up, combined with A's believed fact that A has been unintentionally distant due to personal challenges, A can infer implicature that B values structured time as a means to ensure consistent communication and to mitigate the effects of A's recent unavailability.
+
+3. Conclude fact received from this round:
+A get explicature that B is proposing to set a specific day every week for a catch-up and implicature that B values structured time as a means to ensure consistent communication, A can conclude the fact that B is seeking reassurance through regular scheduling to maintain the warmth of the friendship.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B is seeking reassurance through regular scheduling to maintain the warmth of the friendship makes contribution to the goal by offering a practical solution that addresses the need for consistent interaction while preserving the friendship’s value.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that offering a practical solution that addresses the need for consistent interaction while preserving the friendship’s value, A can refine new goal that to agree on a way to reconnect regularly while ensuring B understands that A’s distance wasn’t personal.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to agree on a way to reconnect regularly while ensuring B understands that A’s distance wasn’t personal. To achieve the goal, A has informative intention that to express agreement on the proposed regular catch-ups and communicative intention that to show appreciation towards B for offering such a thoughtful solution.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is that to express agreement on the proposed regular catch-ups, which means information in A's utterance will mainly focus on that. A's communicative intention is that to show appreciation towards B for offering such a thoughtful solution, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "That sounds like a really good idea, B. I’d love to have something regular to look forward to and to ensure we don't lose touch. I truly appreciate you suggesting this and being so understanding. Let's choose a day that works for both of us."
+
+all scripts of B: 
+B: "Great! How about we pick a day that we both know we're usually free—maybe like a Sunday afternoon? It's a nice end to the week, and we can use that time to unwind and catch up. I'm looking forward to making it a regular thing so we can stay close no matter how busy life gets."
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B wants to establish a regular time to connect, suggesting Sunday afternoons as a good option.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B wants to establish a regular time to connect, combined with A's believed fact that B values the friendship and seeks assurance, A can infer implicature that B may feel more secure about the relationship if regular communication is scheduled.
+
+3. Conclude fact received from this round:
+A get explicature that B wants to establish a regular time to connect, suggesting Sunday afternoons as a good option, and implicature that B may feel more secure about the relationship if regular communication is scheduled. A can conclude the fact that scheduling regular catch-ups can reinforce the friendship and provide reassurance.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that scheduling regular catch-ups can reinforce the friendship and provide reassurance makes contribution to the goal that it helps maintain the warmth and connection in the friendship.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it helps maintain the warmth and connection in the friendship, A can refine new goal that to establish a regular communication schedule that supports the friendship's warmth and offers reassurance to B.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to establish a regular communication schedule that supports the friendship's warmth and offers reassurance to B. To achieve the goal, A has informative intention that schedule a regular catch-up on Sundays and communicative intention that reassure B about the importance of the friendship.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that schedule a regular catch-up on Sundays, which means information in A's utterance will mainly focus on that. A's communicative intention is that reassure B about the importance of the friendship, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Sunday afternoons sound perfect, B. I'm really glad we're making time for this. Your suggestion is spot on—I’m looking forward to unwinding and catching up regularly. It’s great to have this commitment, and it reassures me too that our friendship is prioritized."
+
+all scripts of B: 
+B: "I'm really glad to hear that, A. It's reassuring to know that we both feel the same way about prioritizing our friendship. I think having these regular catch-ups will not only help us stay connected but also give us something to look forward to each week. Thank you for being open to this idea—I’m truly grateful to have you as a friend."
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is grateful for the commitment to prioritizing their friendship.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is grateful for the commitment to prioritizing their friendship, combined with A's believed fact that A has been unintentionally distant, A can infer implicature that B values the reassurance of their friendship's importance.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is grateful for the commitment to prioritizing their friendship and implicature that B values the reassurance of their friendship's importance, A can conclude the fact that B appreciates the effort to maintain and prioritize their friendship.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B appreciates the effort to maintain and prioritize their friendship makes a contribution to the goal that it reinforces the importance of communication and commitment in maintaining a strong, warm friendship.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that it reinforces the importance of communication and commitment in maintaining a strong, warm friendship, A can refine the new goal to ensure continued open communication and reassessment of shared priorities in their friendship.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to ensure continued open communication and reassessment of shared priorities in their friendship. To achieve the goal, A has informative intention that reassurance that they are seriously committed to maintaining the friendship and communicative intention that B sees A's reassurance as genuine, encouraging ongoing dialogue.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that reassurance that they are seriously committed to maintaining the friendship, which means information in A's utterance will mainly focus on that. A's communicative intention is that B sees A's reassurance as genuine, encouraging ongoing dialogue, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "I'm really grateful to have you as a friend too, B. It's important to me that we keep this connection strong, and I truly appreciate having this regular time to catch up. It means a lot to know we both prioritize this."
+
+all scripts of B: 
+B: "I'm really glad we've talked this through, A. It reassures me to know that we're both on the same page and committed to keeping our friendship strong. Our regular catch-ups will be something I look forward to each week, and I'm excited to hear all about what's going on in your life. Thank you for being willing to make this effort—it means a lot to me, and I'm truly grateful for your understanding and friendship."
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is reassured about their friendship and is committed to keeping it strong.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is reassured about their friendship and is committed to keeping it strong, combined with A's believed fact that A has been unintentionally distant due to personal matters, A can infer implicature that B values the effort A is making to maintain their connection.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is reassured about their friendship and is committed to keeping it strong, and implicature that B values the effort A is making to maintain their connection. A can conclude the fact that B appreciates their mutual commitment to prioritizing the friendship.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B appreciates their mutual commitment to prioritizing the friendship contributes to the goal by reinforcing the friendship's solidity and mutual understanding.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that reinforces the friendship's solidity and mutual understanding, A can refine the new goal to further nurture and strengthen the friendship by maintaining consistent communication.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to further nurture and strengthen the friendship by maintaining consistent communication. To achieve the goal, A has an informative intention to express enthusiasm for their planned regular meetings and a communicative intention to emphasize A's commitment to their friendship.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to express enthusiasm for their planned regular meetings, which means the information in A's utterance will mainly focus on that. A's communicative intention is to emphasize A's commitment to their friendship, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "I’m really excited about our Sunday catch-ups, B. Having this regular time to connect feels like the perfect way to keep our friendship as strong as ever. Your support means a lot, and I’m genuinely thankful to have you in my life."
+
+all scripts of B: 
+B: "That makes me really happy to hear, A. I feel the same way and can't wait for our Sunday catch-ups to start. Knowing we're both committed to nurturing our friendship and staying connected is a wonderful feeling. Thanks again for being such an amazing friend—it truly means a lot to me."
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B is happy about their friendship being strengthened through regular Sunday catch-ups.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is happy about their friendship being strengthened through regular Sunday catch-ups, combined with A's believed fact that they have been distant due to personal matters, A can infer implicature that B values the commitment to these catch-ups as reassurance of their friendship’s importance.
+
+3. Conclude fact received from this round:
+A gets explicature that B is happy about their friendship being strengthened through regular Sunday catch-ups and implicature that B values the commitment to these catch-ups as reassurance of their friendship’s importance, A can conclude the fact that B is reassured about the importance of their friendship and is looking forward to maintaining it.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B is reassured about the importance of their friendship and is looking forward to maintaining it makes a contribution to the goal by affirming their efforts to communicate and strengthen the friendship are effective.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that affirming their efforts to communicate and strengthen the friendship are effective, A can refine the new goal to maintain and nurture the friendship through consistent communication.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to maintain and nurture the friendship through consistent communication. To achieve the goal, A has the informative intention that they are committed to this regular communication and the communicative intention to express gratitude and reaffirm their dedication to the friendship.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that they are committed to this regular communication, which means information in A's utterance will mainly focus on that. A's communicative intention is to express gratitude and reaffirm their dedication to the friendship, which means A's utterance will imply B to pay attention to their ongoing commitment. So A would utter like that:
+A: "I’m really grateful for your understanding and for the effort we've both put into maintaining our friendship. I'm committed to making these Sundays a priority for us, and it’s something I genuinely look forward to every week."
+
+all scripts of B: 
+B: "I'm so glad to hear that, A. Having this regular time to reconnect is something I truly treasure, and knowing that it’s a priority for both of us fills me with joy. I’m really thankful for your friendship and the understanding we share."
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is glad that the Sunday catch-ups are a priority for both, and treasures the time to reconnect.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is glad that Sunday catch-ups are a priority, combined with A's believed fact that A's distractions were not about the friendship, A can infer implicature that B feels secure about the friendship’s strength.
+
+3. Conclude fact received from this round:
+A get explicature that B is glad that the Sunday catch-ups are a priority for both, and implicature that B feels secure about the friendship’s strength, A can conclude the fact that B trusts in the mutual commitment to nurture the friendship.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B trusts in the mutual commitment to nurture the friendship makes contribution to the goal that it reassures A that B understands the situation and feels confident in their bond.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it reassures A that B understands the situation and feels confident in their bond, A can refine new goal that strengthen the emotional warmth and appreciation in the friendship.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that strengthen the emotional warmth and appreciation in the friendship. To achieve the goal, A have informative intention that express gratitude and mutual appreciation and communicative intention that emphasize the emotional connection and shared commitment.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that express gratitude and mutual appreciation, which means information in A's utterance will mainly focus on that. A's communicative intention is that emphasize the emotional connection and shared commitment, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Thank you, B, for cherishing our friendship and the commitment we've made to maintain it. Your understanding and positivity make a big difference, and I’m truly lucky to have you in my life. Looking forward to our Sundays!"
+
+all scripts of B: 
+B: "Feeling lucky to have you as a friend too, A. Our Sundays are going to be a special time that I look forward to every week. I'm grateful for the connection and understanding we share, and I can't wait to see how we both grow through our conversations."
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B feels grateful for the connection and eagerly anticipates their regular Sunday catch-ups.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels grateful for the connection and eagerly anticipates their regular Sunday catch-ups, combined with A's believed fact that B values their friendship highly, A can infer implicature that B is reassured by the recent agreements and is optimistic about maintaining a strong connection.
+
+3. Conclude fact received from this round:
+A gets explicature that B feels grateful for the connection and eagerly anticipates their regular Sunday catch-ups and implicature that B is reassured by the recent agreements. A can conclude the fact that B is both reassured and optimistic about the friendship's future.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to clarify the reasons behind the perceived aloofness without compromising the warmth of the friendship. The received fact that B is both reassured and optimistic about the friendship's future contributes to the goal by confirming that the previous steps to clarify and reconnect have been successful and have had a positive impact on B.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that the previous steps to clarify and reconnect have been successful and have had a positive impact on B, A can refine a new goal to sustain this positive momentum and nurture the friendship through ongoing communication.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to sustain this positive momentum and nurture the friendship through ongoing communication. To achieve the goal, A has the informative intention to express appreciation for the shared understanding and commitment, and the communicative intention to reinforce the importance of maintaining this connection.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to express appreciation for the shared understanding and commitment, which means information in A's utterance will mainly focus on that. A's communicative intention is to reinforce the importance of maintaining this connection, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "Your friendship and understanding mean so much to me, B. I feel really lucky to have such a strong, positive connection with you, and I'm committed to making sure our bond remains a priority."
+
+all scripts of B: 
+B: "I feel incredibly fortunate to have you in my life as well, A. Our friendship is so important to me, and I'm committed to nurturing it and keeping it strong. I'm confident that through our regular catch-ups, we'll continue to maintain and even deepen our bond. Here's to the many great conversations and moments we'll share in the future!"

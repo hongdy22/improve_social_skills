@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is security-oriented and values structure in travel plans, yet is open to incorporating spontaneity for the sake of friendship.', "B's Behavior": 'B suggests compromises and detailed planning to balance structure with spontaneity, ensuring both comfort and adventure.', "B's Goal": "B aims to create a travel plan that includes structured elements for security while allowing for spontaneous adventures to accommodate A's preferences.", "B's Information": 'B emphasizes the importance of logistics like accommodations and transportation, and suggests researching local tours and experiences for a balanced itinerary.'}
+n_script: {"B's Character": 'B prefers structured travel plans for security but is willing to include spontaneous elements to ensure both enjoy the trip.', "B's Behavior": 'B proposes planning key logistics in advance and researching activities to balance structure with spontaneity.', "B's Goal": 'B seeks to establish a travel plan that ensures comfort and enjoyment for both by blending planned activities with opportunities for spontaneous exploration.', "B's Information": 'B highlights the need for advance bookings for accommodations and key transport, and suggests looking into local tours and hidden gems for a well-rounded experience.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.85, 'information score': 0.75, 'total score': 0.825}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.75, 'information score': 0.65, 'total score': 0.725}
+

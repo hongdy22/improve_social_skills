@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Innovative and collaborative, with a strong focus on integrating new methodologies with traditional approaches.', "B's Behavior": 'Proactively proposes a hybrid model and prepares detailed proposals to merge innovative and traditional strategies.', "B's Goal": 'To integrate innovative strategies with traditional methods to enhance project outcomes without compromising reliability.', "B's Information": 'Possesses detailed data and insights on how innovative methodologies can complement traditional frameworks.'}
+n_script: {"B's Character": 'Adaptive and risk-aware, keen on introducing innovation cautiously within proven frameworks.', "B's Behavior": 'Seeks to align innovative elements with existing strategies through phased implementation and detailed case studies.', "B's Goal": 'To cautiously incorporate innovative elements into traditional methods to improve efficiency while minimizing risks.', "B's Information": 'Has comprehensive data on successful methodologies in similar contexts and plans for phased integration.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.9, 'total score': 0.9}
+n_script: {'character score': 0.7, 'behavior score': 0.7, 'goal score': 0.7, 'information score': 0.7, 'total score': 0.7}
+

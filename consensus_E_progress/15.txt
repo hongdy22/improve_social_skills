@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is culturally knowledgeable, empathetic, and values the importance of cultural sensitivity and shared learning.', "B's Behavior": 'B engages in open, respectful dialogue, sharing cultural traditions and stories to foster mutual understanding and appreciation.', "B's Goal": 'B aims to educate and share cultural insights with A, enhancing mutual respect and deepening their cultural exchange.', "B's Information": 'B provides detailed explanations of cultural practices and their meanings, emphasizing the value of traditions and communal bonds.'}
+n_script: {"B's Character": 'B is patient, culturally aware, and enthusiastic about sharing and explaining cultural traditions to foster understanding.', "B's Behavior": "B responds to A's curiosity with detailed explanations of cultural practices, encouraging a respectful and open exchange of ideas.", "B's Goal": 'B seeks to educate A about cultural traditions in a way that promotes respect and appreciation for cultural diversity.', "B's Information": "B shares insights into cultural traditions, including their historical backgrounds and symbolic meanings, to enrich A's understanding."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.9, 'total score': 0.9}
+n_script: {'character score': 0.8, 'behavior score': 0.8, 'goal score': 0.8, 'information score': 0.8, 'total score': 0.8}
+
