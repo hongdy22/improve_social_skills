@@ -1,0 +1,69 @@
+Round 0:
+all scripts A: 
+**A:** Hey, I've been thinking about Dad's estate and how we might handle things. I know it's a sensitive topic, but I really want us to make decisions together that feel right for both of us. How do you feel about discussing it?
+
+all scripts B: 
+B: You know, it's really great that you brought this up. I think it's crucial that we focus on what Dad would have wanted—that we stick together as a family and work through this amicably. It's a complex matter, but we should ensure we're keeping family bonds strong while making rational decisions. What kind of approach do you think would best support unity and fairness for everyone involved?
+
+Round 1:
+all scripts of A: 
+A: I completely agree, B. It’s so important that we respect what Dad would have valued most—our unity as a family. While keeping that in mind, I was wondering what your thoughts are on how we can best achieve a balance where everyone feels they’ve been treated fairly. After all, fairness can mean different things for each of us, right?
+
+all scripts of B: 
+B: Absolutely, A. Fairness is indeed subjective, and we want everyone to feel appreciated and valued. I think an important step might be to discuss what each of us values most—perhaps non-financial aspects such as family heirlooms or sentimental pieces—because those can hold vastly different meanings for each of us. By starting there, we can build a clear picture of what’s truly important to maintain harmony. How do you feel about organizing a family meeting to share our perspectives, so we ensure every voice is heard and can guide us in the decision-making process?
+
+Round 2:
+all scripts of A: 
+A: I think organizing a family meeting is a wonderful idea, B. It gives us an opportunity to share our individual perspectives and priorities, creating a foundation of understanding before we dive into specifics. That way, we can approach the situation with a clearer sense of what fairness and unity genuinely mean to each of us. I’m curious, though—are there any particular heirlooms or sentimental items you feel strongly about? Hearing your thoughts now might help us prepare for a more fruitful discussion with everyone.
+
+all scripts of B: 
+B: That's a thoughtful question, A. While I do feel a connection to several of Dad's old books and some family photographs, I'm more focused on making sure the process feels as equitable as possible for everyone. It's really important to me that nobody feels overshadowed or overlooked. Maybe by starting with our own priorities, we can make sure everyone feels equally involved and respected in the final outcome. What do you think?
+
+Round 3:
+all scripts of A: 
+A: I really appreciate your focus on making the process equitable, B. Ensuring that everyone feels equally involved and respected is crucial for maintaining the strength of our family bonds. Perhaps we could even facilitate the meeting by preparing a list of questions or topics that encourage openness and transparency, allowing everyone to express what matters most to them. It could be helpful to know if there are specific aspects of fairness that you think might need extra attention or discussion, so we can approach those thoughtfully.
+
+all scripts of B: 
+B: I think preparing a list of thoughtful questions is a great idea, A. By using them as a guide, we can create a nurturing space for everyone to voice their opinions and concerns. As for aspects of fairness that might need special attention, I believe it’s essential to ensure that everyone has equal time to express their thoughts, especially when it comes to the sentimental pieces. Establishing this sense of equality from the get-go will set the tone for the entire process, making everyone feel truly valued. What are your thoughts on how we might facilitate such balanced discussions?
+
+Round 4:
+all scripts of A: 
+A: I completely agree, B. Giving everyone equal time to express their thoughts, particularly regarding sentimental items, is essential for setting a positive, inclusive tone. Perhaps we can establish some ground rules for our meeting, ensuring a respectful and supportive environment where everyone feels comfortable sharing their priorities. Do you think it would also be beneficial to have a neutral party or a family friend present to help facilitate the discussion, or would you prefer we manage it ourselves?
+
+all scripts of B: 
+B: Having a neutral party present is definitely worth considering, A, as it could provide an objective perspective and ensure the discussion remains balanced and fair. However, there's a strong argument for managing ourselves, which might allow us to navigate the process more personally and intimately, preserving the heartfelt nature of our conversations. It's about finding the right balance, ultimately. We could benefit from discussing who might be suitable if we choose the neutral party approach. What criteria do you think are crucial for selecting someone to fill such a role?
+
+Round 5:
+all scripts of A: 
+A: I think it would be important to choose someone who not only understands the dynamics of our family but also values fairness and sensitivity, someone we all trust to guide us without taking sides. Maybe a family friend with experience in mediating similar discussions could be a good fit. What qualities do you think should be prioritized while selecting this person, if we decide to go that route?
+
+all scripts of B: 
+B: I completely agree with your suggestions, A. Trust and understanding of our family dynamics are critical, and someone with mediation experience could certainly help maintain the balance we're aiming for. I think neutrality is key; someone who can guide the conversation smoothly without influencing the outcomes is important. Perhaps we should both think of a few individuals who fit this description and discuss it further. How does that sound to you?
+
+Round 6:
+all scripts of A: 
+A: That sounds like a sensible approach, B. I appreciate your emphasis on neutrality and balance, and I think brainstorming potential candidates together will help us ensure that we're both comfortable with the choice. Let’s take some time to think it over, and then we can reconvene to discuss our ideas. This way, we can proceed with confidence in the integrity of the process. Would you like to set a time to revisit our options, or do you have any more immediate thoughts to share on this?
+
+all scripts of B: 
+B: I think taking some time to reflect on potential candidates is a great strategy, A. I appreciate that we're approaching this together and giving it the careful consideration it deserves. Let's plan to touch base in a few days once we've each had a chance to consider our options—I believe this will give us a fresh perspective and allow us to move forward with clarity and mutual agreement. If anything else comes to mind in the interim, I’m always open for a quick chat. How does early next week sound for our follow-up discussion?
+
+Round 7:
+all scripts of A: 
+A: Early next week sounds perfect, B. This will give us each time to consider our options thoughtfully. I'm grateful we're approaching this process collaboratively and keeping communication open. If there’s anything else you'd like to brainstorm or discuss before then, feel free to reach out. Looking forward to our follow-up and moving forward together in this shared endeavor.
+
+all scripts of B: 
+B: I really appreciate your openness and commitment to collaborating on this, A. The approach we’re taking feels constructive, and I’m hopeful it will bring about a positive resolution for everyone. Let’s plan to chat early next week to discuss our thoughts on potential facilitators. In the meantime, if anything comes up, don’t hesitate to reach out. Together, we can find the best path forward and honor our family’s values.
+
+Round 8:
+all scripts of A: 
+A: Thank you, B. I truly value the collaborative spirit we're fostering here. I'll spend some time considering our options and look forward to our discussion next week. Together, we can ensure that our approach honors both the practical aspects and the sentiments involved, staying true to what Dad would have wanted for us. If anything arises before then, let's stay in touch and keep this positive momentum going.
+
+all scripts of B: 
+B: I’m glad to hear that, A. Your dedication to our shared values is evident, and it reassures me that we’re heading in the right direction. The balance we’re striving for—honoring both practicalities and sentiments—is so important, and I’m confident we’ll accomplish it by maintaining this constructive approach. Let’s keep each other updated if anything comes to mind before our meeting next week. We’re on a good path, and by staying connected, we can ensure a process that truly reflects our family’s wishes and creates a legacy that would make Dad proud.
+
+Round 9:
+all scripts of A: 
+A: I wholeheartedly agree, B. Keeping the balance between our shared values and individual sentiments is crucial, and I’m optimistic about where our collaborative process will lead. I’ll ensure I stay open to any updates or thoughts that might arise before our meeting. Together, we can honor Dad’s legacy in a way that truly reflects our family’s unity and respect for each other. Let’s touch base next week and continue this positive dialogue as we move forward.
+
+all scripts of B: 
+B: I'm confident our careful, collaborative approach will uphold Dad’s legacy and our family’s values. I appreciate your commitment to keeping the dialogue open and constructive, A. Let's reconnect next week, and until then, feel free to reach out if any ideas or concerns arise. Together, we can ensure the process reflects unity and mutual respect, forging a path forward that honors our family’s intentions and strengthens our bonds. Looking forward to continuing such a meaningful discussion and setting the stage for positive resolution.

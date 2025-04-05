@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Optimistic and supportive, focusing on maintaining team morale and momentum.', "B's Behavior": 'Encourages collaboration and brainstorming, downplays immediate financial concerns to keep the team motivated.', "B's Goal": 'To explore innovative solutions and partnerships that address financial challenges without alarming the team.', "B's Information": 'Aware of financial challenges but prioritizes team morale and long-term vision over immediate concerns.'}
+n_script: {"B's Character": 'Resilient and forward-thinking, emphasizes the importance of adaptability and team engagement.', "B's Behavior": 'Promotes transparency and team involvement in finding solutions, focuses on strategic adjustments and partnerships.', "B's Goal": 'To navigate financial challenges by leveraging team creativity and strategic partnerships, ensuring long-term success.', "B's Information": "Recognizes the need for financial adjustments but remains committed to the team's morale and the overarching mission."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.8, 'information score': 0.9, 'total score': 0.875}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.5, 'information score': 0.6, 'total score': 0.55}
+

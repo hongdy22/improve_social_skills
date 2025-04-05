@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is cautious yet open to reconnecting, valuing the past but wary of reopening old wounds.', "B's Behavior": 'B engages in the conversation with a mix of nostalgia and caution, suggesting a casual meet-up to test the waters.', "B's Goal": 'B aims to explore the possibility of rebuilding the friendship without rushing, ensuring comfort and natural progression.', "B's Information": 'B is considering reconnecting with A, focusing on light-hearted moments and taking things one step at a time.'}
+n_script: {"B's Character": 'B is reflective and open to reconciliation, acknowledging the past but concerned about potential differences.', "B's Behavior": 'B agrees to a meet-up with a focus on openness, humor, and patience, suggesting a walk in the park to ease into the conversation.', "B's Goal": 'B seeks to rediscover the old rapport with A, willing to take small steps forward while keeping the interaction light and enjoyable.', "B's Information": 'B is willing to give the friendship another chance, emphasizing the importance of laughter and shared experiences in moving forward.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.6}
+

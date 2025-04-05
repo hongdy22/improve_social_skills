@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is a confident and persuasive technology supplier, emphasizing the versatility and robust performance of their solutions.', "B's Behavior": "B provides detailed examples and case studies, offers customization options, and is willing to align the technology with A's budgetary constraints.", "B's Goal": 'B aims to justify the higher price of their technology by highlighting its advanced features and potential for long-term savings.', "B's Information": "B's technology has been successfully integrated into various sectors, offering features like adaptive load management and dynamic efficiency scaling."}
+n_script: {"B's Character": "B is an enthusiastic and detail-oriented technology supplier, keen on showcasing their technology's performance under stress conditions.", "B's Behavior": "B offers specific benchmarks and case studies, discusses customization options, and inquires about A's budget to tailor the solution.", "B's Goal": "B seeks to demonstrate the value and ROI of their technology, ensuring it meets A's project requirements and budget constraints.", "B's Information": "B's technology excels in high-stress conditions, with features like adaptive buffer management and real-time cache optimization, and supports cloud and AI integrations."}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.6}
+

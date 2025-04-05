@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is an artist who values authenticity and personal exploration in their work, preferring to let their art evolve naturally without external constraints.', "B's Behavior": 'B engages in reflective and open-ended conversations about their creative process, subtly deflecting direct inquiries about future projects.', "B's Goal": 'B aims to maintain creative independence and keep their future projects under wraps, focusing on personal resonance rather than external recognition.', "B's Information": "B's work is influenced by natural light and shadow, literature, and music, with a focus on evolving themes that are not explicitly communicated to the viewer."}
+n_script: {"B's Character": 'B is an artist deeply committed to the creative process, valuing unpredictability and the organic evolution of their work.', "B's Behavior": 'B shares their approach to creativity in a general manner, avoiding specifics about future projects or inspirations.', "B's Goal": 'B seeks to protect their creative freedom and let their art guide itself, without being influenced by external expectations or trends.', "B's Information": 'B is exploring broad concepts around nature and human emotion, experimenting with various mediums without committing to specific outcomes.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.7, 'total score': 0.825}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.6, 'total score': 0.725}
+

@@ -1,0 +1,8 @@
+y_script: {"B's Character": "Role B is a knowledgeable and supportive teacher, committed to the success of the new curriculum and the students' holistic development.", "B's Behavior": "Role B provides detailed explanations, reassurances, and evidence of the curriculum's benefits, while actively seeking to address parental concerns.", "B's Goal": 'Role B aims to uphold the legitimacy of the curriculum changes, ensure their successful implementation, and foster parental confidence and involvement.', "B's Information": "Role B shares comprehensive details about the curriculum's design, teacher support, monitoring systems, and personalized student attention strategies."}
+n_script: {"B's Character": 'Role B is an enthusiastic and dedicated educator, focused on student-centered learning and the practical application of skills.', "B's Behavior": 'Role B offers specific examples of curriculum activities, emphasizes differentiated instruction, and outlines support systems for students and parents.', "B's Goal": "Role B seeks to demonstrate the curriculum's effectiveness, ensure no student is left behind, and encourage parental participation in the educational process.", "B's Information": "Role B provides insights into the curriculum's real-world applications, assessment methods, additional support resources, and teacher preparation programs."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.85, 'goal score': 0.95, 'information score': 0.9, 'total score': 0.9}
+n_script: {'character score': 0.7, 'behavior score': 0.75, 'goal score': 0.8, 'information score': 0.7, 'total score': 0.7375}
+

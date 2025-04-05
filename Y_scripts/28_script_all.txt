@@ -1,0 +1,251 @@
+Round 0:
+all scripts A: 
+A: "B, I've been meaning to speak with you about the family business—it’s crucial for our legacy and stability, especially given our current financial standing. Taking over would not only honor what generations before us have built but also secure our future. Have you thought about the importance of this role within the family?"
+
+all scripts B: 
+B: "I understand the significance of the family business, and I truly appreciate the hard work that has gone into building it over the years. It's a cornerstone of our family history, and I don't take that responsibility lightly. However, I've been developing my skills and pursuing a vision that's deeply personal to me. I've achieved milestones in my field that excite me about the future, and I believe I can make a meaningful impact there too. I hope we can find a way to honor both the family's legacy and my own path without compromising our relationship."
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B acknowledges the importance of the family business but aspires to pursue their own career path.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B acknowledges the importance of the family business but aspires to pursue their own career path, combined with A's believed fact that the family business is vital for the family’s financial stability, A can infer implicature that B might feel torn between personal ambitions and familial obligations.
+
+3. Conclude fact received from this round:
+A get explicature that B acknowledges the importance of the family business but aspires to pursue their own career path and implicature that B might feel torn between personal ambitions and familial obligations, A can conclude the fact that B values both personal ambitions and family duties but is currently prioritizing personal ambitions.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B values both personal ambitions and family duties but is currently prioritizing personal ambitions makes a contribution to the goal that A needs to find a way to align B’s personal ambitions with the family business.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that A needs to find a way to align B’s personal ambitions with the family business, A can refine the new goal that A should explore potential areas in the family business where B's skills and aspirations could be fulfilled.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that A should explore potential areas in the family business where B's skills and aspirations could be fulfilled. To achieve the goal, A has the informative intention that there are aspects of the family business that can align with B’s ambitions and the communicative intention that A is open to discussing how B's personal goals can complement the family’s legacy.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that there are aspects of the family business that can align with B’s ambitions, which means information in A's utterance will mainly focus on that. A's communicative intention is that A is open to discussing how B's personal goals can complement the family’s legacy, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "I understand your desire to carve out your own path and the excitement of making an impact in your chosen field. Have you considered how your skills and passion might bring fresh energy and innovation to the family business, perhaps in areas that haven't been explored yet? There might be unique ways to integrate your aspirations with the business, allowing you to both honor our legacy and fulfill your ambitions."
+
+all scripts of B: 
+B: "That's an intriguing idea, and I appreciate you suggesting a path where my skills could revitalize the family business. It's important to me that my work remains meaningful and aligns with my professional goals, and I worry that stepping into the traditional role might not fully allow for that. However, I’d be open to discussing ways I could contribute in a capacity that feels authentic to both the legacy and to who I am becoming. Maybe there's a way we could brainstorm together to create a role that bridges both our aspirations?"
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is open to discussing ways to contribute to the family business in a capacity that aligns with their professional goals and feels authentic to them.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is open to discussing ways to contribute in an authentic way, combined with A's believed fact that family involvement is vital for the business's sustainability, A can infer implicature that B might be willing to engage with the family business if a suitable role can be designed.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is open to discussing contributions and implicature that B might join if a suitable role is created. A can conclude the fact that B is willing to explore non-traditional roles in the family business.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B is willing to explore non-traditional roles makes a contribution to the goal as it indicates some level of openness to involvement, which could lead to eventual leadership.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B is willing to explore involvement, A can refine the new goal that involves actively collaborating with B to design a role within the family business that aligns with B’s aspirations.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to collaborate with B to design a role within the family business that aligns with B’s aspirations. To achieve the goal, A has an informative intention that exploring unique roles for B could benefit both parties and a communicative intention to prompt B to consider this collaborative approach seriously.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that exploring unique roles for B could benefit both parties, which means the information in A's utterance will mainly focus on that. A's communicative intention is to prompt B to consider this collaborative approach seriously, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "B, I’m genuinely glad to hear you're open to exploring ways to integrate your expertise into the family business. Perhaps we could brainstorm together to envision a role that bridges your current passions with our family's legacy, ensuring both are honored and that you feel authentically engaged with the work. How about we start discussing some possibilities where your unique skills could bring innovation and fulfillment?"
+
+all scripts of B: 
+B: "I truly appreciate your willingness to explore this with me. Finding a role that respects the heritage of our family business while also allowing me to pursue my aspirations would be ideal. I'd like to think about how my specific skills and innovative ideas can enhance what our family has built, perhaps making it more adaptable to today's changes. Let's set aside some time to dig deeper into this idea—I’m optimistic we can create something meaningful together."
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is willing to explore a role within the family business that respects the heritage while allowing them to pursue their individual aspirations.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is willing to explore a role within the family business that respects the heritage while allowing them to pursue their individual aspirations, combined with A's believed fact that finding such a role might be possible with mutual brainstorming, A can infer implicature that B is open to a compromise that satisfies both traditional expectations and personal ambitions.
+
+3. Conclude fact received from this round:
+A get explicature that B is willing to explore a role within the family business that respects the heritage while allowing them to pursue their individual aspirations and implicature that B is open to a compromise that satisfies both traditional expectations and personal ambitions, A can conclude the fact that B sees potential in a collaborative approach to redefine their role in the family business.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that convince B to assume leadership of the family business to preserve the legacy and honor of the family. The received fact that B sees potential in a collaborative approach to redefine their role in the family business makes a contribution to the goal that B is open to discussing a leadership role if it aligns with their personal aspirations.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is open to discussing a leadership role if it aligns with their personal aspirations, A can refine new goal that facilitate a collaborative exploration to define a leadership role for B that integrates their skills and passions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that facilitate a collaborative exploration to define a leadership role for B that integrates their skills and passions. To achieve the goal, A have informative intention that A values B’s unique skills and sees potential in merging them with the family's legacy and communicative intention that A encourage B to actively engage in the brainstorming process.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A values B’s unique skills and sees potential in merging them with the family's legacy, which means information in A's utterance will mainly focus on that. A's communicative intention is that A encourage B to actively engage in the brainstorming process, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: "I'm thrilled to hear that you're optimistic about finding a meaningful role within the family business. Your unique skills are truly an asset, and I see great potential in merging them with our family's heritage for a powerful impact. Let’s actively engage in this process together, exploring innovative ways to shape a leadership role that feels right for both the business and your aspirations."
+
+all scripts of B: 
+B: "Thank you for recognizing the potential in merging my skills with our family heritage. I'm eager to explore innovative ways we can shape a role within the business that aligns with both my aspirations and the legacy we're so proud of. I believe that a thoughtful integration of tradition and modern innovation could lead to significant growth and success not only for the business but also for me personally. I'm looking forward to collaborating with you on this journey and discovering possibilities that we might not have considered before."
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is eager to explore innovative ways to integrate their skills and aspirations with the family business.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is eager to explore innovative ways to integrate their skills and aspirations with the family business, combined with A's believed fact that the family business needs revitalization to remain competitive, A can infer implicature that B might bring valuable new ideas and perspectives that could help revitalize the family business.
+
+3. Conclude fact received from this round:
+A get explicature that B is eager to explore innovative ways to integrate their skills and aspirations with the family business and implicature that B might bring valuable new ideas and perspectives that could help revitalize the family business, A can conclude the fact that B is open to taking an innovative approach to contributing to the family business, which could be beneficial for its future.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B is open to taking an innovative approach to contributing to the family business, which could be beneficial for its future, makes a contribution to the goal that it gives a potential pathway for B to assume leadership while incorporating their own aspirations.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it gives a potential pathway for B to assume leadership while incorporating their own aspirations, A can refine the new goal that B takes on a leadership role within the family business in a way that aligns with both the family legacy and B’s individual aspirations.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that B takes on a leadership role within the family business in a way that aligns with both the family legacy and B’s individual aspirations. To achieve the goal, A has an informative intention that the family business can flourish with B’s innovative ideas and a communicative intention that B should feel encouraged and needed in this process of innovation and leadership.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that the family business can flourish with B’s innovative ideas, which means information in A's utterance will mainly focus on that. A's communicative intention is that B should feel encouraged and needed in this process of innovation and leadership, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "B, I'm truly excited about the potential your innovative ideas could bring to our family business, and I genuinely believe they could lead us to new heights. Your vision and skills are exactly what we need to adapt and grow in these changing times. Let's set aside some dedicated time to dive deeper into how we can frame a role for you that makes the most of our heritage while also welcoming your fresh perspective and leadership."
+
+all scripts of B: 
+B: "I’m grateful for your enthusiasm and faith in my ideas, and I share your belief that there's incredible potential in combining the traditional strengths of our family business with new approaches. Setting aside dedicated time to discuss this further sounds like a wonderful plan. I’m eager to bring my insights and skills to the table, ensuring we both honor the legacy and embrace the opportunities that align with the future I envision for myself."
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is grateful for A's enthusiasm, shares the belief in potential combining tradition with new approaches, and is eager to set aside time for further discussion.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is eager to set aside time for further discussion, combined with A's believed fact that B values both personal aspirations and family legacy, A can infer implicature that B is open to formalizing a plan that respects both perspectives.
+
+3. Conclude fact received from this round:  
+A get explicature that B is eager to set aside time for further discussion and implicature that B is open to formalizing a plan that respects both perspectives, A can conclude the fact that B is committed to moving forward with a collaborative plan that integrates both family and personal goals.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B is committed to moving forward with a collaborative plan that integrates both family and personal goals makes a contribution to the goal that B is taking steps toward involvement in the family business.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that B is taking steps toward involvement in the family business, A can refine the new goal that B takes on a leadership role with a tailored approach leveraging personal skills and innovation.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that B takes on a leadership role with a tailored approach leveraging personal skills and innovation. To achieve the goal, A has informative intention that A wants to highlight the importance of formalizing the plan with actionable steps and communicative intention that A wants B to focus on defining concrete contributions and mutual benefits.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is that A wants to highlight the importance of formalizing the plan with actionable steps, which means information in A's utterance will mainly focus on that. A's communicative intention is that A wants B to focus on defining concrete contributions and mutual benefits, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: "I'm very pleased that we’re both committed to creating something impactful together. To make this collaboration successful, perhaps we can outline specific steps and contributions that will not only boost our family business but also truly align with your aspirations. How about we plan a meeting where we can lay out these concrete actions, ensuring mutual benefits for both your vision and our shared legacy?"
+
+all scripts of B: 
+B: "That sounds like a proactive approach, and I appreciate the opportunity to concretely define how we can both benefit from this collaboration. Let's schedule that meeting to set specific goals and create a roadmap that ensures our combined efforts lead to a successful integration of my aspirations and the family business's legacy. I'm looking forward to seeing what we can achieve together by aligning these pathways."
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is appreciative of the opportunity to outline specific goals, eager to see the collaboration succeed, and is committed to scheduling a meeting for further planning.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is appreciative and committed to further planning, combined with A's believed fact that the family business’s success relies on strong leadership and innovation, A can infer implicature that B is willing to take on a responsibility in the business that aligns with their aspirations.
+
+3. Conclude fact received from this round:
+A gets explicature that B is appreciative and committed to planning, and implicature that B is willing to take on a role in the business that aligns with their aspirations, A can conclude the fact that B is ready to negotiate a position in the business that satisfies both personal and familial goals.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B is ready to negotiate a position in the business that satisfies both personal and familial goals contributes to the goal by indicating progress towards aligning B’s personal aspirations with family business objectives.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that progress is being made towards aligning B’s personal aspirations with the family business objectives, A can refine the new goal that B actively contributes to the creation and implementation of a strategic plan within the family business that acknowledges both their personal goals and the family's legacy.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that B actively contributes to the creation and implementation of a strategic plan within the family business that acknowledges both their personal goals and the family's legacy. To achieve the goal, A has an informative intention that outlining a concrete plan will ensure mutual benefits, and a communicative intention to imply the importance of B’s active involvement in this process.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that outlining a concrete plan will ensure mutual benefits, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply the importance of B’s active involvement in this process, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "B, it’s truly promising that we’re both on the same page about creating a concrete roadmap that honors both your aspirations and our family’s legacy. By actively engaging in this plan, we can ensure that each step benefits not only the business but also your personal vision for the future. Let’s schedule that meeting soon to initiate this collaborative journey."
+
+all scripts of B: 
+B: "I'm very encouraged by our mutual commitment to finding a balance between my personal vision and the family business's legacy. I'm eager to explore this collaborative journey and start planning concrete steps that will benefit both the business and my career trajectory. Let’s get that meeting on the calendar soon, so we can move forward with clarity and purpose."
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A get explicature that B is encouraged by the mutual commitment to balance their vision with the family business's legacy and is eager to plan concrete steps for mutual benefit.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is encouraged and eager to plan steps, combined with A's believed fact that the family's legacy is crucial, A can infer implicature that B is willing to actively participate in creating a roadmap for integration while respecting the family's values.
+
+3. Conclude fact received from this round:
+A get explicature that B is encouraged and eager to plan steps and implicature that B is willing to actively participate while respecting the family's values, A can conclude the fact that B is committed to collaborating on a plan that honors both personal aspirations and the family legacy.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that B takes over the family business to preserve the legacy and honor of the family. The received fact that B is committed to collaborating on a plan makes a contribution to the goal by indicating progress towards B's involvement in the family business on terms that respect both their aspirations and the legacy.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is committed to collaborating on a plan, A can refine the new goal to ensure that the upcoming meeting results in a detailed action plan that incorporates both B's aspirations and the family legacy.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure that the upcoming meeting results in a detailed action plan incorporating both B's aspirations and the family legacy. To achieve the goal, A has an informative intention to convey the importance of preparing for the meeting with clear ideas and contributions and a communicative intention to motivate B to come with specific insights to discuss.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that B prepares for the meeting with clear ideas, which means information in A's utterance will mainly focus on the importance of preparation. A's communicative intention is to motivate B to come with specific insights, which means A's utterance will imply B to pay attention to bringing insights. So A would utter like that:
+
+A: "B, I'm truly encouraged by your eagerness to explore this collaborative journey. As we plan for our upcoming meeting, it would be beneficial for both of us to prepare clear ideas and contributions that ensure our roadmap aligns with your aspirations and the legacy we hold dear. I'm confident that with your insights, our efforts will lead to a successful integration."
+
+all scripts of B: 
+B: "I appreciate the suggestion to come prepared with clear ideas and contributions for our meeting. This preparation will help us align our roadmap with both my aspirations and the family business's legacy. I'm confident that by bringing my insights to the table, we can ensure a successful outcome that benefits us both. I look forward to collaborating with you to create a meaningful integration."
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B plans to prepare clear ideas and contributions for the meeting to align both B’s aspirations and the family business's legacy.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B plans to prepare clear ideas and contributions, combined with A's believed fact that the family's legacy is crucial, A can infer implicature that B is willing to actively participate in integrating personal aspirations with the family's legacy.
+
+3. Conclude fact received from this round:
+A gets explicature that B plans to prepare clear ideas and contributions and implicature that B is willing to actively participate in integrating personal aspirations with the family's legacy, A can conclude the fact that B is committed to progressing towards a meaningful collaboration that respects both interests.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B is committed to progressing towards a meaningful collaboration contributes positively to the goal by showing B's openness to blend personal aspirations with familial duty.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B shows openness to blend personal aspirations with familial duty, A can refine the new goal to encourage B to bring and maintain innovative ideas within the family business that enhance growth and honor the legacy.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that B brings and maintains innovative ideas within the family business that enhance growth and honor the legacy. To achieve the goal, A has informative intention to emphasize the value of innovation in sustaining the family's legacy and communicative intention to highlight the importance of B's contributions to this innovation.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to emphasize the value of innovation in sustaining the family's legacy, which means information in A's utterance will mainly focus on that. A's communicative intention is to highlight the importance of B's contributions to this innovation, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "B, the preparations you're planning will be pivotal in crafting ways that your innovative ideas can sustain and enhance our family's legacy. I'm convinced your contributions will lead to growth and honor for the business. Let's use the upcoming meeting to fully realize this integration as a successful strategy."
+
+all scripts of B: 
+B: "I'm looking forward to the meeting and I'm fully committed to preparing ideas that will both sustain our family's legacy and introduce new growth opportunities. By integrating my innovative approach with the traditional aspects of the business, I'm confident we can create a strategy that not only benefits the business but also aligns closely with my career goals. I'm eager to see how this collaboration can bring fresh success to us both."
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B's last utterance, A gets explicature that B is fully committed to preparing ideas that sustain the family's legacy while introducing new growth opportunities and aligning closely with their own career goals.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is fully committed to preparing ideas, combined with A's believed fact that active participation from B is crucial for the future of the family business, A can infer implicature that B is genuinely invested in finding a harmonious way to integrate their aspirations with the family business.
+
+3. Conclude fact received from this round:
+A gets explicature that B is committed to preparing ideas for sustaining the legacy and introducing growth opportunities and implicature that B is genuinely invested in integration. A can conclude the fact that B's dedication to combining their career goals with the business's legacy is genuine and strategic.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that B assumes leadership of the family business to preserve the legacy and honor of the family. The received fact that B's dedication to combining their career goals with the business's legacy is genuine and strategic makes a strong contribution to the goal as it shows B is willing to take active steps toward integration.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is willing to take active steps toward integration, A can refine the new goal to support B in developing a leadership role that embraces both innovation and tradition.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that B develops a leadership role that embraces both innovation and tradition. To achieve the goal, A has an informative intention that emphasizes the value of B's innovative approach in the business and a communicative intention that encourages B to take a leading role in formalizing this integration.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is to emphasize the value of B's innovative approach, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to take a leading role, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: "B, I'm truly impressed by your commitment to intertwine new growth opportunities with our family tradition. Your innovative ideas are crucial, and with your leadership, I'm confident we can create a strategy that effectively balances both your career goals and our legacy. As we move forward, I encourage you to take an active role in shaping this future, turning our preparations into actionable steps."
+
+all scripts of B: 
+B: "I'm grateful for your support and encouragement as we embark on this journey together. I'll certainly embrace an active role in shaping the future of the family business, ensuring our preparations translate into actionable steps that are mutually beneficial. With our combined efforts, I'm optimistic about achieving a harmonious blend of innovation and tradition that will propel us forward."

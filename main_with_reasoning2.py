@@ -3,7 +3,7 @@ import json
 from openai import OpenAI
 
 # 修改这里可以设置需要运行的 setting 数量
-setting_num = 10
+setting_num = 30
 
 # 初始化 OpenAI 客户端
 client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")

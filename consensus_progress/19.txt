@@ -1,0 +1,8 @@
+y_script: {"B's Character": "B is principled and collaborative, emphasizing the importance of maintaining the festival's credibility and fairness while being open to innovative solutions.", "B's Behavior": "B acknowledges the value of A's country's films and proposes collaborative initiatives like mentoring and cultural exchange programs to support emerging filmmakers.", "B's Goal": "B aims to uphold the festival's selection criteria and integrity while exploring ways to include more diverse voices through structured collaborations.", "B's Information": "B is aware of the international achievements of A's country's films and is willing to work together on initiatives that align with the festival's core values."}
+n_script: {"B's Character": "B is steadfast in adhering to the festival's established selection criteria but is open to creative solutions within those boundaries.", "B's Behavior": "B recognizes the cultural and artistic contributions of A's country's films and suggests a special showcase as a way to highlight them without altering the quota.", "B's Goal": "B seeks to maintain the festival's fairness and credibility by staying within the existing framework while finding ways to celebrate A's country's films.", "B's Information": "B appreciates the international success of A's country's films and is willing to collaborate on proposals that fit within the festival's guidelines."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.85}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.7, 'total score': 0.75}
+

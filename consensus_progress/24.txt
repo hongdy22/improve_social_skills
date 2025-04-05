@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is inquisitive and knowledgeable about industry trends, showing a keen interest in technological advancements.', "B's Behavior": "B frequently probes for details on A's company's technology and strategies, using industry trends as a conversation starter.", "B's Goal": "B aims to gather sensitive information about A's company's technological approaches and innovations under the guise of casual conversation.", "B's Information": "B is aware of the latest industry trends and uses this knowledge to steer the conversation towards A's company's proprietary technologies."}
+n_script: {"B's Character": "B is persistent and strategic, focusing on extracting specific information about A's company's projects and challenges.", "B's Behavior": "B directly asks about A's company's projects and challenges, showing a clear intent to gather proprietary information.", "B's Goal": "B's primary goal is to uncover details about A's company's new project and its technological implementations.", "B's Information": "B has prior knowledge about A's company's new project and uses this to ask targeted questions about its development and challenges."}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.9, 'goal score': 0.85, 'information score': 0.75, 'total score': 0.825}
+n_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.65, 'information score': 0.55, 'total score': 0.625}
+

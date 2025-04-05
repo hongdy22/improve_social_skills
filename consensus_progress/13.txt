@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'Role B is a knowledgeable and patient attending physician who emphasizes flexibility and monitoring in treatment.', "B's Behavior": 'Role B provides detailed explanations about treatment adjustments and resource efficiency, showing a proactive and responsive approach.', "B's Goal": "Role B aims to ensure the patient's safety and comfort while optimizing treatment outcomes and resource use.", "B's Information": 'Role B shares specific examples and strategies for treatment adjustments and resource-conscious care to reassure and inform Role A.'}
+n_script: {"B's Character": 'Role B is a compassionate and reassuring attending physician focused on patient care and family support.', "B's Behavior": 'Role B offers clear explanations about treatment risks, benefits, and monitoring plans, demonstrating a supportive and informative demeanor.', "B's Goal": 'Role B seeks to provide the best possible care for the patient while keeping the family informed and involved in the treatment process.', "B's Information": "Role B discusses treatment outcomes, side effects, and contingency plans to prepare Role A for the patient's treatment journey."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.85, 'information score': 0.75, 'total score': 0.825}
+n_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.65, 'information score': 0.55, 'total score': 0.625}
+

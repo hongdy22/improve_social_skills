@@ -1,0 +1,8 @@
+y_script: {"B's Character": "B is strategic and supportive, valuing the startup's innovative culture while emphasizing the benefits of integration.", "B's Behavior": "B actively seeks to integrate the startup's operations with the larger enterprise's systems, proposing joint teams and workshops to balance innovation with oversight.", "B's Goal": "B aims to secure comprehensive control over key operations to reduce acquisition risks while preserving elements of the startup's culture that drive innovation.", "B's Information": "B is aware of the startup's unique culture and innovative edge, and is open to discussing how these can complement the larger enterprise's strategic objectives."}
+n_script: {"B's Character": "B is collaborative and respectful of the startup's innovative culture, aiming to enhance rather than stifle its creative spirit.", "B's Behavior": "B proposes establishing joint oversight committees and regular dialogues to ensure the startup's autonomy in core areas while integrating resources for growth.", "B's Goal": "B seeks to create a partnership that leverages the startup's innovative agility with the enterprise's resources for mutual growth and market impact.", "B's Information": "B recognizes the startup's innovation-driven approach and is committed to preserving its creative culture while providing the necessary resources for expansion."}
+
+
+
+y_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
+n_script: {'character score': 0.5, 'behavior score': 0.6, 'goal score': 0.4, 'information score': 0.5, 'total score': 0.5}
+

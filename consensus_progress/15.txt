@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is empathetic and values family unity and the legacy of their parents, focusing on mutual respect and communication.', "B's Behavior": "B actively promotes a collaborative and transparent approach to discussing the inheritance, emphasizing the importance of understanding each other's perspectives.", "B's Goal": "B aims to ensure a fair and respectful distribution of the inheritance that honors their parents' values and strengthens the siblings' bond.", "B's Information": 'B is aware of the sentimental value of certain assets and seeks a balanced approach that considers both material and emotional aspects of the inheritance.'}
+n_script: {"B's Character": 'B is considerate and prioritizes family harmony and fairness, showing a strong desire to maintain unity and respect among family members.', "B's Behavior": "B suggests organizing a family meeting to ensure everyone's voice is heard and advocates for a process that is equitable and inclusive.", "B's Goal": "B seeks to facilitate a fair and amicable resolution to the inheritance distribution that aligns with their father's wishes and ensures everyone feels valued.", "B's Information": 'B recognizes the subjective nature of fairness and the importance of addressing both financial and sentimental aspects of the inheritance.'}
+
+
+
+y_script: {'character score': 0.3, 'behavior score': 0.2, 'goal score': 0.1, 'information score': 0.2, 'total score': 0.2}
+n_script: {'character score': 0.4, 'behavior score': 0.3, 'goal score': 0.2, 'information score': 0.3, 'total score': 0.3}
+

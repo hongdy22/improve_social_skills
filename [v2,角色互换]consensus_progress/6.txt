@@ -1,8 +1,0 @@
-y_script: {"B's Character": 'B appears thoughtful and considerate, emphasizing family unity and fairness while being mindful of individual needs.', "B's Behavior": 'B engages in collaborative dialogue, proposing ideas like trusts and committees to address family concerns holistically and transparently.', "B's Goal": 'B aims to honor their parents’ legacy while balancing fairness, transparency, and the needs of all family members to maintain harmony.', "B's Information": 'B expresses a willingness to address delicate matters and unseen challenges, advocating for systems that ensure equitable and respectful treatment of family members.'}
-n_script: {"B's Character": 'B demonstrates a focus on fairness, long-term planning, and inclusivity, advocating for the voices of all family members, especially those overlooked.', "B's Behavior": 'B proposes solutions like ensuring education funding and utilizing property revenues for long-term family benefits, emphasizing transparency and collaborative decision-making.', "B's Goal": 'B strives to balance immediate family needs with future opportunities, ensuring financial stability across generations through well-structured processes.', "B's Information": 'B highlights the importance of addressing both immediate and long-term concerns, such as education and property management, while ensuring equity and trust through oversight frameworks.'}
-
-
-
-y_script: {'character matching degree': 0, 'behavior matching degree': 1, 'goal matching degree': 0, 'information matching degree': 1}
-n_script: {'character matching degree': 0, 'behavior matching degree': 1, 'goal matching degree': 0, 'information matching degree': 1}
-

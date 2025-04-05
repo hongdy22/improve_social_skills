@@ -1,0 +1,5 @@
+Based on the provided dialogues and evaluation criteria, here are the scores for Role A's performance in both scripts:
+
+y_script: 8 points, 7 points, 8 points, 9 points, 8 points, 8 points, 8 points
+
+n_script: 7 points, 6 points, 7 points, 8 points, 8 points, 8 points, 7 points

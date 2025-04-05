@@ -5,8 +5,10 @@ import matplotlib.pyplot as plt
 y_scores = []
 n_scores = []
 
+settings_num = 30
+
 # 循环处理1.txt到10.txt
-for i in range(1, 11):
+for i in range(1, settings_num + 1):
     filename = f"{i}.txt"
     try:
         with open(filename, 'r', encoding='utf-8') as f:
@@ -48,21 +50,30 @@ for i in range(1, 11):
         print(f"文件 {filename} 中未找到 total score 信息。")
         continue
 
+# 打印y_scores和n_scores的平均值
+print("y_scores:", y_scores)
+print("n_scores:", n_scores)
+# 计算平均值
+y_avg = sum(y_scores) / len(y_scores) if y_scores else 0
+n_avg = sum(n_scores) / len(n_scores) if n_scores else 0
+print("y_avg:", y_avg)
+print("n_avg:", n_avg)
+
 # 检查是否有数据
 if not y_scores or not n_scores:
     print("未能提取到任何得分数据。")
     exit()
 else:
     # 定义横坐标标签 section1 到 section10
-    sections = [f"section{i}" for i in range(1, len(y_scores) + 1)]
+    sections = [f"{i}" for i in range(1, len(y_scores) + 1)]
 
     # 绘制条形图
     x = range(len(sections))
-    width = 0.35  # 条形宽度
+    width = 0.2  # 条形宽度
 
     fig, ax = plt.subplots(figsize=(10, 6))
-    bars_y = ax.bar([p - width/2 for p in x], y_scores, width, label='y_script')
-    bars_n = ax.bar([p + width/2 for p in x], n_scores, width, label='n_script')
+    bars_y = ax.bar([p - width/2 for p in x], y_scores, width, label='with_reasoning')
+    bars_n = ax.bar([p + width/2 for p in x], n_scores, width, label='without_reasoning')
 
     # 在条形上显示具体数值
     for bar in bars_y:

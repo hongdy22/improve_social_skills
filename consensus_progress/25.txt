@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is persistent and detail-oriented, focusing on uncovering specific data and accountability measures.', "B's Behavior": 'B repeatedly asks for specific metrics and transparency, pressing A for concrete evidence of policy improvements.', "B's Goal": 'B aims to ensure public transparency and accountability by obtaining specific data on policy execution and its impacts.', "B's Information": 'B is aware of reported construction delays and permit processing inefficiencies, seeking detailed responses to these issues.'}
+n_script: {"B's Character": 'B is inquisitive and skeptical, questioning the fairness and transparency of policy execution and resource allocation.', "B's Behavior": 'B challenges A with reports of delays and budget overruns, asking for examples and mechanisms ensuring equitable resource distribution.', "B's Goal": 'B seeks to verify the efficiency and fairness of policy execution, ensuring taxpayer money is used effectively and community needs are met.', "B's Information": 'B has information on infrastructure project delays and budget overruns, and concerns about transparency in resource allocation.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.9, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.875}
+n_script: {'character score': 0.7, 'behavior score': 0.7, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.675}
+

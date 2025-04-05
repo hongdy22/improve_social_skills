@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is respectful and appreciative of the family legacy but is also passionate about pursuing personal career goals.', "B's Behavior": 'B is open to discussions and willing to explore ways to integrate personal aspirations with the family business.', "B's Goal": 'B aims to find a role within the family business that aligns with personal career aspirations while honoring the family legacy.', "B's Information": 'B has developed skills and achieved milestones in a personal field and sees potential in integrating these with the family business.'}
+n_script: {"B's Character": 'B deeply respects the family legacy but is committed to pursuing a personal career path that aligns with individual passions and values.', "B's Behavior": 'B expresses a desire to honor the family legacy through personal achievements and is open to exploring collaborative opportunities that blend tradition with innovation.', "B's Goal": "B seeks to contribute to the family's honor and stability through a personal career path, while also exploring ways to integrate personal successes with the family's legacy.", "B's Information": 'B has gained significant experience and recognition in a personal field and believes this can bring new opportunities and pride to the family.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.9, 'total score': 0.8}
+n_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.85}
+

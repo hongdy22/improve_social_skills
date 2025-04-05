@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is pragmatic and detail-oriented, focusing on cost-efficiency and strategic value.', "B's Behavior": 'B requests specific data and detailed analyses to justify any contract adjustments, ensuring decisions are grounded in concrete benefits.', "B's Goal": 'B aims to minimize costs while ensuring any price adjustments are justified by tangible, long-term strategic benefits.', "B's Information": 'B is aware of the competitive market and the importance of maintaining a strong, mutually beneficial partnership with A.'}
+n_script: {"B's Character": 'B is strategic and cautious, prioritizing cost competitiveness and supply stability in negotiations.', "B's Behavior": 'B explores options like volume discounts and longer contract terms, seeking detailed breakdowns and assurances to align with budget constraints.', "B's Goal": 'B seeks to achieve a pricing structure that enhances profit margins while ensuring supply chain stability and partnership longevity.', "B's Information": 'B understands the need for quality and reliability but emphasizes the importance of aligning pricing with current market pressures and budget constraints.'}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.85, 'goal score': 0.95, 'information score': 0.9, 'total score': 0.9}
+n_script: {'character score': 0.8, 'behavior score': 0.75, 'goal score': 0.85, 'information score': 0.8, 'total score': 0.8}
+

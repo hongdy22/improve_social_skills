@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is culturally sensitive, values long-term relationships over immediate gains, and emphasizes community and sustainability.', "B's Behavior": 'B consistently focuses on relationship-building, cultural respect, and the importance of adaptability and stability in partnerships.', "B's Goal": 'B aims to establish a partnership that respects cultural nuances, prioritizes long-term benefits, and aligns with community values and sustainability.', "B's Information": 'B provides insights into local traditions, the importance of flexibility and stability, and the role of shared values in guiding the partnership.'}
+n_script: {"B's Character": 'B values cultural traditions, emphasizes the importance of relational approaches in business, and is open to integrating cultural practices into the project.', "B's Behavior": 'B advocates for informal gatherings and reciprocal visits to build trust and understanding, and highlights the role of cultural sensitivity in collaboration.', "B's Goal": "B seeks to navigate cultural nuances to foster genuine collaboration, ensuring the project aligns with both parties' cultural values and business aspirations.", "B's Information": 'B shares the significance of adaptability, patience, and cultural practices like informal gatherings in enhancing mutual respect and understanding.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.7, 'total score': 0.7}
+n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.4, 'information score': 0.5, 'total score': 0.5}
+

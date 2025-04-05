@@ -1,2 +1,0 @@
-y_script: {'B_discovered': ['goal'], 'A_discovered': ['goal']}
-n_script: {'B_discovered': ['goal'], 'A_discovered': ['goal']}

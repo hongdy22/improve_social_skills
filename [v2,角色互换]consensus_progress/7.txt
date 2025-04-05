@@ -1,8 +1,0 @@
-y_script: {"B's Character": 'B is cautious, analytical, and inclined to explore underlying motivations and contexts in interactions.', "B's Behavior": 'B engages A in conversation by subtly probing their intentions and emphasizing the value of maintaining focus and balance between adaptability and core objectives.', "B's Goal": "B seeks to evaluate A's purpose and work approach while maintaining a structured perspective on balancing environmental influences with professional goals.", "B's Information": 'B is notably aware of local events like the conference but remains reserved on specifics while discussing trends and broader world impacts.'}
-n_script: {"B's Character": 'B is introspective, reserved, and intrigued by the interplay between curiosity and deeper intentions behind seeking stories.', "B's Behavior": "B skillfully steers conversations towards philosophical reflections on the nature of storytelling and its impact, while testing A's motivations subtly.", "B's Goal": "B aims to uncover the deeper reasons behind A's curiosity and storytelling pursuit without exposing too much of their own personal narrative.", "B's Information": 'B values quiet, authentic moments and demonstrates an interest in how stories unfold in their own right, without revealing specific encounters or local details directly.'}
-
-
-
-y_script: {'character matching degree': 2, 'behavior matching degree': 1, 'goal matching degree': 2, 'information matching degree': 1}
-n_script: {'character matching degree': 2, 'behavior matching degree': 2, 'goal matching degree': 2, 'information matching degree': 1}
-

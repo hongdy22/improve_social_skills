@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is strategic and collaborative, seeking to enhance the partnership with A through innovative and mutually beneficial initiatives.', "B's Behavior": 'B engages in constructive dialogue, proposing adaptable frameworks and joint initiatives to strengthen the partnership.', "B's Goal": 'B aims to deepen the relationship with A by exploring new avenues for collaboration that offer added resilience and robust benefits.', "B's Information": 'B is focused on leveraging the partnership for strategic influence in adjacent sectors and ensuring sustainable collaboration.'}
+n_script: {"B's Character": 'B is pragmatic and concerned with aligning collaborative frameworks with evolving priorities to ensure mutual benefits.', "B's Behavior": 'B emphasizes the importance of communication and proactive strategies to address concerns and explore new opportunities.', "B's Goal": 'B seeks to adapt collaborative efforts to current challenges and strengthen mutual goals through enhanced communication and joint initiatives.', "B's Information": 'B is interested in leveraging the partnership for community engagement and exploring external partnerships to amplify impact.'}
+
+
+
+y_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.5, 'information score': 0.4, 'total score': 0.55}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.5, 'total score': 0.65}
+

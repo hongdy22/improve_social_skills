@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is cooperative and supportive, emphasizing the importance of maintaining environmental standards while being open to flexible solutions.', "B's Behavior": "B proposes practical measures like phased timelines, technological support, and financial assistance to align A's development goals with environmental commitments.", "B's Goal": "B aims to ensure that any agreement upholds global environmental standards while supporting A's developmental needs through collaborative and innovative solutions.", "B's Information": "B is knowledgeable about international environmental agreements and is willing to provide support and resources to facilitate A's transition towards sustainable development."}
+n_script: {"B's Character": "B is understanding and flexible, recognizing A's development needs while stressing the importance of adhering to global environmental standards.", "B's Behavior": "B suggests transitional provisions, technical assistance, and a phased approach with clear milestones to balance A's developmental progress with environmental responsibilities.", "B's Goal": 'B seeks to find a mutually beneficial pathway that allows A to grow economically without compromising the integrity of global environmental commitments.', "B's Information": 'B is aware of the challenges faced by developing countries and is prepared to offer support to ensure both development and environmental goals are met.'}
+
+
+
+y_script: {'character score': 0.8, 'behavior score': 0.9, 'goal score': 0.85, 'information score': 0.9, 'total score': 0.8625}
+n_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.75, 'information score': 0.8, 'total score': 0.7625}
+

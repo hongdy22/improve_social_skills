@@ -1,0 +1,8 @@
+y_script: {"B's Character": "B is a strategic and supportive public relations consultant, focused on preserving A's reputation through careful messaging.", "B's Behavior": "B provides detailed drafts and strategic advice, emphasizing the importance of maintaining A's brand image while addressing public concerns.", "B's Goal": 'B aims to help A navigate the controversy by crafting statements that express regret without admitting fault, and by leveraging influencer support to shift public sentiment positively.', "B's Information": "B is aware of the volatile public sentiment and the importance of strategic communication to mitigate backlash and preserve A's long-term reputation."}
+n_script: {"B's Character": "B is a pragmatic and empathetic public relations consultant, focusing on aligning A's response with their brand values while addressing the public's concerns.", "B's Behavior": 'B suggests a live Q&A as a more authentic approach to address the controversy, emphasizing the need for A to remain true to their brand while engaging with the audience.', "B's Goal": 'B seeks to help A clarify their remarks in a way that maintains their bold brand image, without appearing to capitulate or admit fault, through direct audience engagement.', "B's Information": "B understands the importance of A's brand being perceived as unapologetically bold and the potential risks of a formal statement, advocating for a more interactive and genuine approach."}
+
+
+
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.85, 'information score': 0.9, 'total score': 0.8625}
+n_script: {'character score': 0.7, 'behavior score': 0.6, 'goal score': 0.65, 'information score': 0.7, 'total score': 0.6625}
+

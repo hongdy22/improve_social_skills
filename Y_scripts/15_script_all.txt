@@ -1,0 +1,252 @@
+Round 0:
+all scripts A: 
+A: I've been thinking a lot about how Mom and Dad always emphasized the importance of us supporting each other no matter what. How do you envision us handling everything now that we have to make decisions together?
+
+all scripts B: 
+B: Of course, A, family unity is crucial. I think we should focus on working together to honor Mom and Dad's wishes while keeping the bigger picture in mind. It's not just about the material things but ensuring that we maintain the values they instilled in us. What do you think would be a fair approach to start with?
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B wants to work collaboratively to honor their parents' wishes and maintain family values while discussing the inheritance.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B wants to work collaboratively to honor their parents' wishes and maintain family values, combined with A's believed fact that maintaining harmony is important for both siblings, A can infer implicature that B might be open to a balanced discussion as long as it aligns with perceived family values.
+
+3. Conclude fact received from this round:
+A get explicature that B wants to work collaboratively to honor their parents' wishes and maintain family values and implicature that B might be open to a balanced discussion as long as it aligns with perceived family values, A can conclude the fact that B places importance on perceived family values, which could guide the division process.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B places importance on perceived family values, which could guide the division process make contribution to the goal that it provides insight into B's priorities, suggesting openness to a fair and value-centered discussion.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it provides insight into B's priorities, suggesting openness to a fair and value-centered discussion, A can refine new goal that is to explore specific values that could influence a fair distribution, thus verifying B's commitment to a balanced approach.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to explore specific values that could influence a fair distribution, thus verifying B's commitment to a balanced approach. To achieve the goal, A has informative intention that A wants to understand how specific values could shape the discussion and communicative intention that prompt B to elaborate on what values are most important.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A wants to understand how specific values could shape the discussion, which means information in A's utterance will mainly focus on that. A's communicative intention is that prompt B to elaborate on what values are most important, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: That's a great starting point, B. I'm curious, which of Mom and Dad's values do you think should take priority in guiding us through this process? I think understanding what's most significant to us both could really help ensure a respectful and fair approach.
+
+all scripts of B: 
+B: I believe their emphasis on communication and mutual respect should lead the way. They always wanted us to be open with each other and to make important decisions collectively. It's about finding balance—not just in wealth, but in honoring their legacy. As we discuss these matters, let's keep those principles at the forefront to guide us. How do you see those values influencing our decisions?
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B believes communication and mutual respect should lead the process, emphasizing open discussion and collective decision-making, aiming for balance in wealth and legacy honor.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B believes communication and mutual respect should lead the process, combined with A's believed fact that B has previously shown an assertive approach in decision-making, A can infer implicature that B might use these values to subtly control the conversation while maintaining an appearance of fairness.
+
+3. Conclude fact received from this round:  
+A get explicature that B believes communication and mutual respect should lead the process and implicature that B might use these values to subtly control the conversation, A can conclude the fact that B is likely inclined to guide the conversation to maintain a certain level of control while ensuring it seems fair.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B is likely inclined to guide the conversation to maintain a certain level of control while ensuring it seems fair makes contribution to the goal that A gains insight into B's approach and strategy concerning the inheritance.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that A gains insight into B's approach and strategy concerning the inheritance, A can refine new goal that to further explore B's criteria for fairness and balance in division without triggering defensiveness.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to further explore B's criteria for fairness and balance in division without triggering defensiveness. To achieve the goal, A have informative intention that to understand B's specific criteria for fairness and balance and communicative intention that to gently imply B to share more about how they see fairness playing out in practical terms.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that to understand B's specific criteria for fairness and balance, which means information in A's utterance will mainly focus on that. A's communicative intention is that to gently imply B to share more about how they see fairness playing out in practical terms, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: It's reassuring that we both value communication and respect as guiding principles. I wonder, when it comes to the specifics of distribution, what do you think would be the most balanced way to reflect those values? This might help us ensure that we're truly honoring Mom and Dad's intentions.
+
+all scripts of B: 
+B: I think a balanced approach would involve considering each of our needs and contributions, both past and present. It's essential that we both feel secure about the future and confident that their legacy is being respected. Perhaps we could start by listing our priorities and discussing how each asset or responsibility could best serve our family's overall well-being. This way, we're not only dividing material things but also sharing the responsibilities and joys they left us with. Does that sound like a place where we could begin exploring possibilities?
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B thinks considering each of their needs and contributions is essential for a balanced approach.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B thinks considering each of their needs and contributions is essential for a balanced approach, combined with A's believed fact that fair distribution can be subjective, A can infer implicature that B might focus more on individual circumstances and contributions in the distribution process.
+
+3. Conclude fact received from this round:
+A get explicature that B thinks considering each of their needs and contributions is essential for a balanced approach and implicature that B might focus more on individual circumstances and contributions in the distribution process, A can conclude the fact that B wants to tailor the distribution process according to specific needs and past contributions.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B wants to tailor the distribution process according to specific needs and past contributions makes a contribution to the goal that it clarifies B’s focus on fairness through personalization, allowing A to navigate a potentially subjective conversation peacefully.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it clarifies B’s focus on fairness through personalization, allowing A to navigate a potentially subjective conversation peacefully, A can refine new goal that to explore specific priorities and contributions to ensure a nuanced, personalized approach aligns with family values.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to explore specific priorities and contributions to ensure a nuanced, personalized approach aligns with family values. To achieve the goal, A have informative intention that to understand B’s specific priorities and contributions and communicative intention that encourage B to articulate these priorities clearly.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that to understand B’s specific priorities and contributions, which means information in A's utterance will mainly focus on that. A's communicative intention is that encourage B to articulate these priorities clearly, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I see the person-centered approach you're suggesting, B. Maybe we could each outline the specific priorities or contributions we feel strongly about? I think digging into these could ensure we're genuinely respecting what Mom and Dad set out for us, both materially and in terms of responsibilities. How does that sound to you?
+
+all scripts of B: 
+B: That sounds like a thoughtful way to proceed, A. By identifying those priorities and contributions, we can create a comprehensive picture of what each of us can bring to the table. This would help us maintain transparency and ensure that we are genuinely honoring Mom and Dad's vision for our future. As we articulate these elements, we'll likely uncover new ways to support and uplift one another. Let's start by gathering our thoughts individually, and we can come together soon to share and refine our understanding. Does that approach align with your thoughts on managing this process?
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets explicature that B agrees on a person-centered approach and values transparency, with improvements through mutual sharing and refining of thoughts.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B agrees on a person-centered approach and values transparency, combined with A's believed fact that B tends to assert control during the division process, A can infer implicature that B might guide the prioritization process to favor their strategic interests under the guise of transparency.
+
+3. Conclude fact received from this round:
+A gets explicature that B agrees on a person-centered approach and values transparency and implicature that B might guide the prioritization process to favor their strategic interests under the guise of transparency. A can conclude the fact that B aims to steer the process while appearing collaborative.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B aims to steer the process while appearing collaborative contributes to the goal by highlighting potential intentions behind B's collaborative stance.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that highlights potential intentions behind B's collaborative stance, A can refine new goal to ensure both fairness and genuine mutual understanding are prioritized without confrontation.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to ensure both fairness and genuine mutual understanding are prioritized without confrontation. To achieve the goal, A have informative intention to explore the specifics of priorities and contributions to ensure clarity and equity, and communicative intention to encourage B to openly discuss specific interests to foster genuine collaboration.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to explore the specifics of priorities and contributions to ensure clarity and equity, which means information in A's utterance will mainly focus on that. A's communicative intention is to encourage B to openly discuss specific interests to foster genuine collaboration, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: I'm glad we're taking this thoughtful approach, B. As we each outline our priorities and contributions, let's make sure we're really clear about our specific interests and needs. This way, we can identify opportunities for mutual support and ensure we're building a future that genuinely honors what Mom and Dad envisioned for us. When we're ready, I look forward to openly discussing these and moving forward together in a way that feels right for both of us.
+
+all scripts of B: 
+B: Absolutely, A. I completely agree that clarity and openness will be key to reaching an agreement that both aligns with our parents' values and accommodates our individual needs. Let's take this time to carefully think about what truly matters to each of us and how we can merge these aspects into a cohesive plan. Once we've both had time to reflect, we can come together to create a strategy that not only respects their legacy but also strengthens our bond moving forward. I look forward to having that discussion and finding the best path together.
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B agrees with the importance of clarity and openness and is committed to reflecting on what matters individually to create a cohesive plan that respects their parents’ legacy and accommodates both siblings' needs.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B agrees with the importance of clarity and openness, combined with A's believed fact that B seeks to assert control over the division process without triggering direct confrontation, A can infer implicature that B might use the narrative of reflecting individually to ensure their preferences are subtly prioritized when they come together to discuss further.
+
+3. Conclude fact received from this round:
+A gets explicature that B agrees with the importance of clarity and openness, and implicature that B might use the narrative to prioritize their preferences, A can conclude the fact that B does want clarity and mutual agreement but may also weave their preferences into the discussions subtly.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B does want clarity and mutual agreement but may also weave their preferences into the discussions subtly makes a contribution to the goal by indicating B’s potential subtle approach to shaping the discussions toward their interests.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B's potential subtle approach to shaping the discussions, A can refine the new goal to subtly ensure A's own interests are equally considered without disrupting the family harmony.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to subtly ensure A's own interests are equally considered without disrupting the family harmony. To achieve the goal, A has the informative intention to highlight the importance of balancing both siblings' needs while honoring their legacy, and communicative intention to ensure that B feels their input is invaluable, which could open up a pathway for negotiation.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to highlight the importance of balancing both siblings' needs, which means information in A's utterance will mainly focus on that. A's communicative intention is to ensure that B feels their input is invaluable, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I'm really grateful for how we're approaching this, B. I think by each bringing our priorities to the table, we'll be able to craft a plan that truly supports both of us and celebrates what Mom and Dad cherished most. I’m looking forward to seeing how our reflections can guide us forward, ensuring that their legacy supports both our paths. Once we’re ready, let’s make sure we create a balance that fully accommodates both our perspectives.
+
+all scripts of B: 
+B: I appreciate your positivity, A. By combining our insights, we can construct a thoughtful framework that truly honors their legacy. This approach not only supports the vision Mom and Dad had for us but also serves as a testament to the strength of our relationship. I’m optimistic that as we move forward, our discussions will enable us to craft a plan that is both equitable and enduring. Let’s continue this dialogue at our own pace, ensuring that we address all our concerns and aspirations fully.
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B's last utterance A gets explicature that B appreciates the positive approach and is optimistic about creating a thoughtful plan that honors their parents' legacy and strengthens their relationship.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B appreciates the positive approach, combined with A's believed fact that B seeks to balance fairness and control, A can infer implicature that B is open to collaboration but also wants to ensure their own interests are addressed.
+
+3. Conclude fact received from this round:  
+A gets explicature that B appreciates the positive approach and implicature that B is open to collaboration but also wants to ensure their own interests are addressed. A can conclude the fact that B is willing to work together but is cautious about maintaining influence over the process.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B is willing to work together but is cautious about maintaining influence over the process contributes to the goal by suggesting that B is indeed open to a fair and collaborative approach but mindful of their own interests.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that B is open to fairness but wants to maintain some control, A can refine the new goal to ensure that any proposed distribution appears to equally respect both A's and B's input and priorities.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to ensure that any proposed distribution appears to equally respect both A's and B's input and priorities. To achieve the goal, A has an informative intention to share their own outline for priorities and contributions, and a communicative intention to imply that B's priorities will also be equally respected.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to share their own outline for priorities and contributions, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply that B's priorities will also be equally respected, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I've put some thought into outlining my priorities and contributions, and I'm eager to share them with you. I'm confident that together, we can find a balance that respects both our views and needs. I'm excited to see how your insights will further shape this process, making sure that it truly honors what Mom and Dad would have wanted for us both.
+
+all scripts of B: 
+B: I’m looking forward to hearing your perspectives, A. By sharing our priorities, we can ensure that the plan we develop is deeply rooted in mutual understanding and respect. As we move forward, let's focus on how we can preserve and enhance the legacy they've left us, ensuring it supports both our journeys. Remember, this is about more than just dividing assets; it’s about creating a future that reflects our unique values and strengthens our familial bond. I'm confident that with our combined insights, we'll forge a path that honors their wishes while fulfilling our own aspirations.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is looking forward to hearing A's perspectives and emphasizes that their plan should be rooted in mutual understanding and respect, preserving the legacy, and strengthening the family bond.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is looking forward to hearing A's perspectives and emphasizes mutual understanding, combined with A's believed fact that B wants to assert control over the process, A can infer implicature that B is genuinely open to A's input and is willing to collaborate in a respectful manner.
+
+3. Conclude fact received from this round:
+A get explicature that B is looking forward to A's perspectives and emphasizes mutual understanding, and implicature that B is willing to collaborate respectfully. A can conclude the fact that B is open to considering A's input seriously in the planning process.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to determine whether B is inclined toward a fair distribution. The received fact that B is open to considering A's input seriously contributes to the goal by indicating that B is indeed willing to work collaboratively and fairly in the distribution process.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B is open to considering A's input seriously, A can refine the new goal to focus on maintaining this collaborative and fair atmosphere while discussing specific distributions.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to maintain a collaborative and fair atmosphere. To achieve the goal, A has the informative intention to reinforce the importance of balanced input and mutual respect, and the communicative intention to subtly reinforce trust and collaboration in the ongoing discussions.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to reinforce the importance of balanced input and mutual respect, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly reinforce trust and collaboration, which means A's utterance will imply B to pay attention to that. So A would utter like this:
+A: I'm encouraged by our shared commitment to understanding each other's perspectives fully. As we continue, it's vital to me that we both feel our individual contributions and insights are shaping the future path we take together. I trust that by collaborating in this spirit, we'll create a truly balanced plan that embodies the legacy of our parents and supports both of our aspirations.
+
+all scripts of B: 
+B: That's the right sentiment, A. By focusing on collaboration, we can craft a strategy that not only supports our personal aspirations but also honors the values Mom and Dad held dear. Let’s keep prioritizing transparency and open dialogue, as this will enable us to weave our insights into a unified framework that resonates with our shared goals. As we move forward, let's ensure that we consistently revisit and refine our approach to keep our journey aligned with what truly matters to both of us.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B agrees with maintaining an open dialogue focused on personal aspirations while honoring their parents' values.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B agrees with maintaining an open dialogue focused on personal aspirations while honoring their parents' values, combined with A's believed fact that this may imply B is open to negotiation and flexibility, A can infer implicature that B is willing to accommodate both siblings' needs and values in the distribution process.
+
+3. Conclude fact received from this round:
+A gets explicature that B agrees with maintaining an open dialogue and implicature that B is willing to accommodate both siblings' needs and values, A can conclude the fact that B is supportive of a cooperative approach to ensure both personal aspirations and family values are respected.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B is supportive of a cooperative approach and willing to accommodate both needs contributes to the goal by confirming B's openness to fairness in the process.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B's openness to fairness is confirmed, A can refine the new goal to focus on identifying specific elements of the inheritance where mutual support can be reinforced.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to focus on identifying specific elements of the inheritance where mutual support can be reinforced. To achieve this goal, A has the informative intention to express areas of personal connection to specific elements of the inheritance and communicative intention to guide B toward revealing similar areas of interest.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to express areas of personal connection to specific elements of the inheritance, which means information in A's utterance will mainly focus on that. A's communicative intention is to guide B toward revealing similar areas of interest, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I'm feeling increasingly hopeful about how we can weave Mom and Dad's legacy into our present lives. I've been reflecting on some assets that hold particular sentimental value to me, as they've always reminded me of their principles. I'm eager to hear if there are specific assets or responsibilities you feel particularly connected to as well. That way, we can further tailor our approach to something that truly reflects both our personal and collective connections.
+
+all scripts of B: 
+B: It's wonderful to hear you’re connecting so deeply with their legacy, A. I believe identifying assets and responsibilities that resonate with both of us is a crucial part of respecting what Mom and Dad cherished. For me, certain aspects of their estate symbolize not just personal memories but also their broader values of perseverance and growth. By acknowledging these connections, we ensure that their impact remains tangible in our lives. Let's discuss these shared sentiments further, so we can create a balanced plan that encapsulates every facet of their legacy.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A get explicature that B is committed to identifying assets and responsibilities that resonate and symbolize personal memories and their parents' broader values.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is committed to identifying assets and responsibilities that resonate and symbolize personal memories and their parents' broader values, combined with A's believed fact that B prioritizes the emotional and value-driven aspects of inheritance over sheer material distribution, A can infer implicature that B seeks a distribution approach that deeply aligns with emotional connections and the legacy of their parents.
+
+3. Conclude fact received from this round:
+A get explicature that B is committed to identifying assets and responsibilities that resonate and symbolize personal memories and their parents' broader values and implicature that B seeks a distribution approach that deeply aligns with emotional connections and the legacy of their parents, A can conclude the fact that B desires a value-centric and emotionally resonant inheritance division.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to determine whether B is inclined toward a fair distribution while keeping the discussion warm and non-confrontational. The received fact that B desires a value-centric and emotionally resonant inheritance division makes a positive contribution to the goal by suggesting B's intentions are rooted in fairness and emotional connection.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that suggests B's intentions are rooted in fairness and emotional connection, A can refine a new goal that focuses on aligning emotionally resonant interests while ensuring equitable sharing.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that focuses on aligning emotionally resonant interests while ensuring equitable sharing. To achieve the goal, A have informative intention that A is keen to ensure equitable sharing that respects both emotional connections and value alignment and communicative intention that prompt B to express specific emotional ties to the assets.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that A is keen to ensure equitable sharing that respects both emotional connections and value alignment, which means information in A's utterance will mainly focus on balancing emotional and fair aspects. A's communicative intention is that prompt B to express specific emotional ties to the assets, which means A's utterance will imply B to pay attention to highlighting sentimental connections. So A would utter like that:
+
+A: I'm glad to hear we're both aligned on preserving Mom and Dad's legacy through assets that hold emotional value. As we discuss these further, let’s ensure that the distribution reflects a balance between our personal connections and fair sharing. Are there any particular assets that carry a strong sentimental significance for you? That might help us create a thoughtful plan.
+
+all scripts of B: 
+B: A, I appreciate your intent to balance personal ties with fairness in this discussion. There are indeed a few items that resonate with me, particularly some that represent our family's enduring spirit and commitment to community. For instance, I often think about the lake house, where we spent many summers growing up. It's a place filled with memories, but more than that, it embodies the hospitality and warmth that Mom and Dad exemplified. I'd like to consider how such meaningful places and things can continue to bring joy and connection to both of us in the future. Let's continue to share and reflect on these, ensuring that as we form our plans, each decision serves to strengthen the bonds they've inspired in us.

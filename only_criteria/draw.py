@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import re
 
+settings_num = 30
+
 def extract_scores(file_path):
     y_scores, n_scores = [], []
     try:
@@ -32,7 +34,7 @@ def extract_scores(file_path):
 def main():
     y_all, n_all = [], []
     
-    for i in range(1, 11):  # 处理1.txt到10.txt
+    for i in range(1, settings_num + 1):
         file_name = f"{i}.txt"
         if os.path.exists(file_name):
             y_scores, n_scores = extract_scores(file_name)
@@ -75,8 +77,8 @@ def main():
     width = 0.35  # 柱状图宽度
     
     fig, ax = plt.subplots()
-    bars1 = ax.bar(x - width/2, y_avg, width, label='y_script')
-    bars2 = ax.bar(x + width/2, n_avg, width, label='n_script')
+    bars1 = ax.bar(x - width/2, y_avg, width, label='with_reasoning')
+    bars2 = ax.bar(x + width/2, n_avg, width, label='without_reasoning')
     
     # 在条形图上方标注数字
     for bar in bars1:
@@ -88,7 +90,7 @@ def main():
     
     ax.set_xlabel('Index')
     ax.set_ylabel('Average Score')
-    ax.set_title('Average Scores from 10 sections')
+    ax.set_title(f"Average Scores from {settings_num} sections")
     ax.set_xticks(x)
     ax.set_xticklabels(x_labels, rotation=45)
     ax.legend()

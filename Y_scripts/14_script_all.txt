@@ -1,0 +1,251 @@
+Round 0:
+all scripts A: 
+A: Hey B, I've been thinking a lot about the times we used to hang out by the lake, just talking for hours. Those were some really good days, right? I've missed them—and I've missed you. Would you be open to chatting for a bit?
+
+all scripts B: 
+B: Hey A, those lake days were definitely memorable, like an old movie playing in my head sometimes. It’s nice to hear from you. Sure, we can chat for a bit. So, what's been on your mind lately?
+
+Round 1:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets explicature that B is open to chatting and has some nostalgia about the old days they spent together.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is open to chatting and reminisces about the old days, combined with A's believed fact that B might be hesitant to fully open up due to past misunderstandings, A can infer implicature that B might be cautiously opening the door for dialogue but is still reserved about the past issues.
+
+3. Conclude fact received from this round:  
+A gets explicature that B is open to chatting and has some nostalgia about the old days, and implicature that B might be cautiously opening the door for dialogue but is still reserved about the past issues. A can conclude the fact that B is willing to engage in conversation but might need reassurance to address past misunderstandings.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is willing to engage in conversation but might need reassurance to address past misunderstandings contributes to the goal by indicating a potential pathway for gentle exploration of past issues.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that indicates a potential pathway for gentle exploration of past issues, A can refine a new goal to explore shared past experiences while gradually addressing misunderstandings to reassure B and build trust.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to explore shared past experiences while gradually addressing misunderstandings to reassure B and build trust. To achieve the goal, A has the informative intention to share that A is introspective about past misunderstandings and values their friendship, and communicative intention to convey empathy and understanding, inviting B to share their perspective.
+
+7. Utter depend on A's informative intention and communicative intention:  
+A's informative intention is to share that A is introspective about past misunderstandings and values their friendship, which means information in A's utterance will mainly focus on that. A's communicative intention is to convey empathy and understanding, inviting B to share their perspective, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I've been doing a lot of reflecting recently, trying to understand where things might have gone wrong between us. I really value the friendship we had and genuinely hope we can find a way to move past the old misunderstandings. How have you been feeling about all this?
+
+all scripts of B: 
+B: Well, that's a thoughtful approach, A. To be honest, I've been straddling a line between remembering the good times and wondering if revisiting the past might just reopen old wounds. You know what they say, 'Time heals all wounds,' but it seems like time might also have swept some things under the rug. What are you hoping to achieve by reconnecting?
+
+Round 2:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A gets the explicature that B is cautious about revisiting the past due to potential unresolved issues.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is cautious about revisiting the past due to potential unresolved issues, combined with A's believed fact that B values the good times they shared, A can infer the implicature that B might be open to reconnecting if reassured that past issues can be resolved constructively.
+
+3. Conclude fact received from this round:
+A gets the explicature that B is cautious about revisiting the past due to potential unresolved issues and implicature that B might be open to reconnecting if reassured that past issues can be resolved constructively. A can conclude the fact that B is hesitant but possibly open to reconciliation if approached carefully and sincerely.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is hesitant but possibly open to reconciliation contributes to the goal by indicating a pathway forward that requires sensitivity and reassurance.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that B is hesitant but possibly open to reconciliation, A can refine the new goal that focuses on reassuring B about a careful and sincere approach to resolving any lingering issues.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to reassure B about a careful and sincere approach to resolving any lingering issues. To achieve the goal, A has the informative intention to express a willingness to address past misunderstandings thoughtfully and the communicative intention to imply that B’s feelings and concerns are important to A.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to express a willingness to address past misunderstandings thoughtfully, which means information in A's utterance will mainly focus on that. A's communicative intention is to imply that B’s feelings and concerns are important, which means A's utterance will imply B pays attention to that. So A would utter like that:
+A: I completely understand your hesitation, and I really want to make sure this isn’t about reopening old wounds. I’m hoping we can move forward by acknowledging what happened but focusing more on what can be done differently now. Your feelings about this are really important to me, so I'd like to know how you see us moving ahead, if you ever decide that's something you'd like.
+
+all scripts of B: 
+B: I appreciate that you're trying to approach this delicately, A. It's funny how life sometimes makes you feel like you're standing in front of a door, unsure whether to knock or just keep walking. I guess if we're talking about moving ahead, I'd be curious to see if we've both learned enough from the past to build something new. But no rush—maybe we could start with a casual get-together and see how that turns out. What do you think?
+
+Round 3:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B is open to reconnecting through a casual get-together and is curious about whether both have learned enough from the past to build something new.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is open to reconnecting through a casual get-together, combined with A's believed fact that B values the potential of rekindling the friendship cautiously, A can infer implicature that B is willing to give the friendship a chance but wants to proceed slowly and assess the situation.
+
+3. Conclude fact received from this round:
+A get explicature that B is open to reconnecting through a casual get-together and is curious about whether both have learned enough from the past to build something new, and implicature that B is willing to give the friendship a chance but wants to proceed slowly and assess the situation, A can conclude the fact that B is open to a cautious reconnection through a casual meeting, provided there is potential for the relationship to improve constructively.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is open to a cautious reconnection through a casual meeting, provided there is potential for the relationship to improve constructively contributes to the goal by setting a foundation for a low-pressure environment where past grievances can be addressed slowly with mutual consent.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that the received fact provides a foundation for a low-pressure environment, A can refine new goal to organize a casual, low-pressure get-together to explore the possibility of rebuilding the friendship in a way that feels comfortable for both.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to organize a casual, low-pressure get-together to explore the possibility of rebuilding the friendship in a way that feels comfortable for both. To achieve the goal, A has informative intention to propose a specific idea for a casual meet-up and gauge B's comfort with it and communicative intention to assure B that the pace and comfort level are a priority.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is to propose a specific idea for a casual meet-up and gauge B's comfort with it, which means information in A's utterance will mainly focus on that. A's communicative intention is to assure B that the pace and comfort level are a priority, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: How about we plan a simple coffee meet-up sometime soon? That way, we can just catch up and see how it feels without any pressure. Let me know what you think; your comfort is important to me.
+
+all scripts of B: 
+B: Coffee sounds good. It's amazing what a little caffeine can do to lift the mood—or help navigate conversations. We can aim for something relaxed and see how it goes. I'll let you know my availability soon. Keeping it light and breezy might just show where the winds of change are blowing for us.
+
+Round 4:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B agrees to a coffee meetup and aims for a relaxed conversation.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B agrees to a coffee meetup and aims for a relaxed conversation, combined with A's believed fact that B has been hesitant about revisiting the past too deeply, A can infer implicature that B is interested in exploring reconnection but prefers to keep initial interactions low-key and pressure-free.
+
+3. Conclude fact received from this round:
+A get explicature that B agrees to a coffee meetup and aims for a relaxed conversation and implicature that B is interested in exploring reconnection but prefers to keep initial interactions low-key and pressure-free, A can conclude the fact that B is willing to take small steps towards rebuilding the friendship but desires a comfortable and light-hearted setting.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is that to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is willing to take small steps towards rebuilding the friendship but desires a comfortable and light-hearted setting makes a contribution to the goal that it aligns with providing a safe space for communication and facilitates an organic reconnection.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that it aligns with providing a safe space for communication and facilitates an organic reconnection, A can refine new goal that to nurture a casual and comfortable dialogue that respects B’s pace while incrementally strengthening the bond.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is that to nurture a casual and comfortable dialogue that respects B’s pace while incrementally strengthening the bond. To achieve the goal, A has informative intention that express eagerness to meet in a relaxed setting and openness to whatever direction the conversation might take and communicative intention that reassuringly imply commitment to an unhurried process with patience and genuine interest in mutual understanding.
+
+7. Utter depend on A's informative intention and communicative intention:
+A's informative intention is that express eagerness to meet in a relaxed setting and openness to whatever direction the conversation might take, which means information in A's utterance will mainly focus on that. A's communicative intention is that reassuringly imply commitment to an unhurried process with patience and genuine interest in mutual understanding, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: That's great to hear, B. I'm really looking forward to catching up with you over coffee. Let's keep things easy-going and see where the conversation takes us. I'm here for whatever feels right to you, without any rush.
+
+all scripts of B: 
+B: Sounds like a plan, A. A relaxed coffee sounds just about right for taking the pulse of where we stand. I'll find a time that works soon and get back to you. It's honestly nice thinking about reconnecting with some laughter, even if a bit cautiously. Let's see where this goes, okay?
+
+Round 5:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance A get explicature that B is cautiously optimistic about the idea of reconnecting, and willing to approach it with a relaxed attitude.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B is cautiously optimistic about the idea of reconnecting, combined with A's believed fact that both of them have grown and reflected on past misunderstandings, A can infer implicature that B might be willing to gradually rebuild the friendship, as long as it is approached with understanding and patience.
+
+3. Conclude fact received from this round:  
+A get explicature that B is cautiously optimistic about the idea of reconnecting, and implicature that B might be willing to gradually rebuild the friendship, as long as it is approached with understanding and patience. A can conclude the fact that B is open to exploring the possibility of renewing their friendship in a careful and patient manner.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is that to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is open to exploring the possibility of renewing their friendship in a careful and patient manner makes a contribution to the goal that encourages A to proceed with sensitivity, aligning with B's comfort level.
+
+5. Refine new goal depend on the contribution:  
+Because of the contribution that encourages A to proceed with sensitivity, aligning with B's comfort level, A can refine new goal that to nurture a space where both can feel safe to rekindle the friendship slowly, based on mutual understanding.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is that to nurture a space where both can feel safe to rekindle the friendship slowly, based on mutual understanding. To achieve the goal, A has informative intention that to express a mutual appreciation for the idea of a relaxed, pressure-free coffee meet-up and communicative intention that to reassure B that A values taking things slowly and thoughtfully.
+
+7. Utter depend on the A's informative intention and communicative intention:  
+A's informative intention is that to express a mutual appreciation for the idea of a relaxed, pressure-free coffee meet-up, which means information in A's utterance will mainly focus on that. A's communicative intention is that to reassure B that A values taking things slowly and thoughtfully, which means A's utterance will imply B to pay attention to that. So A would utter like that:  
+A: I truly appreciate your openness to getting coffee and taking things at a pace that feels comfortable. I'm really happy that we're considering this in a relaxed and thoughtful manner. Whenever you're ready is just right for me, and I'm looking forward to enjoying some light-hearted moments together.
+
+all scripts of B: 
+B: Well, I suppose there's something a bit nostalgic about this whole scenario, like dusting off an old book and seeing if it still holds your interest. I do think there could be value in sharing some light-hearted moments and seeing what unfolds naturally. When the timing feels right, I'll reach out, and we'll plan from there. Let's keep things easygoing for now, shall we?
+
+Round 6:
+all scripts of A: 
+1. Get explicature from B’s last utterance:  
+In B’s last utterance, A gets the explicature that B thinks there is nostalgic value in possibly rekindling their friendship, and B is open to exploring shared light-hearted moments casually.
+
+2. Infer implicature from explicature combined with believed fact:  
+From the explicature that B thinks there is nostalgic value in possibly rekindling their friendship, and B is open to exploring shared light-hearted moments casually, combined with A's believed fact that B is cautious but open to gently exploring the friendship, A can infer the implicature that B is willing to see if their connection still holds meaning without any pressure.
+
+3. Conclude fact received from this round:  
+A gets explicature that B thinks there is nostalgic value in possibly rekindling their friendship, and B is open to exploring shared light-hearted moments casually, and implicature that B is willing to see if their connection still holds meaning without any pressure. A can conclude the fact that B is open to slowly seeing if their past relationship can be revived gently and naturally.
+
+4. Evaluate the contribution of the received fact to the goal:  
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is open to slowly seeing if their past relationship can be revived gently and naturally contributes to the goal by indicating that B is amenable to cautiously exploring a restored connection, aligning with A's desire to rebuild trust at a comfortable pace.
+
+5. Refine new goal depending on the contribution:  
+Because of the contribution that indicates B is amenable to cautiously exploring a restored connection, A can refine the new goal to focus on subtly reinforcing shared comfort and trust through casual and relaxed interactions, setting the stage for potential deeper dialogue later.
+
+6. Make informative intention and communicative intention depend on the refined goal:  
+A's goal is to subtly reinforce shared comfort and trust through casual and relaxed interactions, setting the stage for potential deeper dialogue later. To achieve the goal, A has the informative intention to assure B that A values this easygoing approach. The communicative intention is to convey reassurance to B that there's no pressure, just mutual comfort in their reconnection journey.
+
+7. Utter depending on A's informative intention and communicative intention:  
+A's informative intention is to assure B that A values this easygoing approach, which means the information in A's utterance will mainly focus on confirming appreciation for the relaxed process. A's communicative intention is to convey reassurance to B that there's no pressure, just mutual comfort in their reconnection journey, implying B to feel assured and at ease. So A would utter like this:    
+A: Thank you for embracing this easygoing plan, B. It feels nice to just think about the potential of sharing easy moments together again. Whenever the timing feels right, I'm just glad we're exploring this.
+
+all scripts of B: 
+B: It's intriguing how things can start to fall into place once we decide to explore potential rather than dwell on the past. I'm curious to see what our coffee chat might reveal. Till then, let's keep it light and take it one day at a time.
+
+Round 7:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is intrigued by the idea of exploring potential rather than dwelling on the past and is curious about what the coffee chat might reveal.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is intrigued and curious about the coffee chat, combined with A's believed fact that B is skeptical about A's genuine intentions, A can infer implicature that B is cautiously optimistic but still maintains some reservations about the sincerity of A's motives.
+
+3. Conclude fact received from this round:
+A gets explicature that B is intrigued by exploring the potential and curious about the coffee chat, and implicature that B is cautiously optimistic with reservations. A can conclude the fact that B is open to exploring the possibility of reconnecting, but remains wary of fully trusting A's intentions.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is open to exploring the possibility of reconnecting, but remains wary, contributes to the goal by confirming B's willingness to consider reconnecting, though cautiously.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that B is open but cautious, A can refine a new goal that is to gradually build trust by demonstrating sincerity and maintaining a light and supportive tone.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to gradually build trust by demonstrating sincerity and maintaining a light and supportive tone. To achieve the goal, A has informative intention to share enthusiasm for exploring possible reconnection in a relaxed manner and communicative intention to reassure B of a no-pressure environment.
+
+7. Utter depending on A's informative intention and communicative intention:
+A's informative intention is to share enthusiasm for exploring possible reconnection in a relaxed manner, which means information in A's utterance will mainly focus on that. A's communicative intention is to reassure B of a no-pressure environment, which implies A's utterance should prompt B to feel assured about the casual nature of this effort. So A would utter like that:
+A: I’m also curious to see where our conversation over coffee might lead us and glad we’re on the same page about keeping things unhurried. Whatever unfolds will do so naturally, and that feels right to me.
+
+all scripts of B: 
+B: That's the spirit, A. Embracing the unknown can be quite the adventure, and I'm warming up to the idea of seeing where our conversation might lead. Until then, let's keep things light and look forward to what might come naturally when the time's right.
+
+Round 8:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance, A gets explicature that B is warming up to the idea of reconnecting through a casual conversation over coffee.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B is warming up to the idea of reconnecting, combined with A's believed fact that B is cautious about reopening old wounds, A can infer implicature that B is cautiously optimistic about rekindling the friendship.
+
+3. Conclude fact received from this round:
+A gets explicature that B is warming up to the idea of reconnecting and implicature that B is cautiously optimistic about rekindling the friendship, A can conclude the fact that B is open to exploring the possibility of rebuilding their friendship, albeit with caution.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is open to exploring the possibility of rebuilding their friendship, albeit with caution, contributes to the goal by indicating a mutual interest in exploring the friendship further.
+
+5. Refine new goal depending on the contribution:
+Because of the contribution that there is a mutual interest in exploring the friendship, A can refine the new goal to foster an environment where both can positively engage with each other at a comfortable pace.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to foster an environment where both can positively engage each other at a comfortable pace. To achieve the goal, A has the informative intention to highlight optimism and possibility in their future interaction while underlining comfort, and communicative intention to subtly reassure B of the shared commitment to a pressure-free approach.
+
+7. Utter depending on the A's informative intention and communicative intention:
+A's informative intention is to highlight optimism and possibility in their future interaction while underlining comfort, which means information in A's utterance will mainly focus on that. A's communicative intention is to subtly reassure B of the shared commitment to a pressure-free approach, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+A: It's exciting to think about the journey ahead and let everything unfold at its own pace. I have a feeling that, once we meet, things will naturally find their rhythm. Until then, here's to taking it one step at a time, savoring the ease of anticipation.
+
+all scripts of B: 
+B: There's something comforting about just letting things evolve without forcing them, like watching a river flow gently along its course. The anticipation itself can be quite rewarding. I'll be in touch and we'll make sure that coffee meet-up happens when it feels right. Until then, here's to savoring the moment and seeing what our reconnection has in store.
+
+Round 9:
+all scripts of A: 
+1. Get explicature from B’s last utterance:
+In B’s last utterance A get explicature that B feels comforted by the idea of letting things evolve naturally, like watching a river flow, and values the anticipation of what might come from reconnecting.
+
+2. Infer implicature from explicature combined with believed fact:
+From the explicature that B feels comforted by the idea of letting things evolve naturally, combined with A's believed fact that B is skeptical about A's intentions, A can infer implicature that B is cautiously optimistic and prefers a gradual, pressure-free progression in reconnecting.
+
+3. Conclude fact received from this round:
+A get explicature that B feels comforted by the idea of letting things evolve naturally and implicature that B is cautiously optimistic and prefers gradual progression, A can conclude the fact that B is open to reconnecting, but desires it to happen without any pressure or force.
+
+4. Evaluate the contribution of the received fact to the goal:
+A's goal is to ease past grievances and rebuild mutual trust while ensuring that B does not feel pressured or exposed. The received fact that B is open to reconnecting, but desires it to happen without any pressure or force, makes a contribution to the goal by indicating that a slowly developing reconnection is likely viable and comfortable for B.
+
+5. Refine new goal depend on the contribution:
+Because of the contribution that a slowly developing reconnection is likely viable and comfortable for B, A can refine a new goal that is to nurture this potential reconnection with gentle communication and shared experiences at a natural pace.
+
+6. Make informative intention and communicative intention depend on the refined goal:
+A's goal is to nurture this potential reconnection with gentle communication and shared experiences at a natural pace. To achieve the goal, A has an informative intention that A values letting the relationship unfold naturally and relishes the anticipation of shared moments and a communicative intention that A shares B’s appreciation for gradual development and enjoys the thought of what might come.
+
+7. Utter depend on the A's informative intention and communicative intention:
+A's informative intention is that A values letting the relationship unfold naturally and relishes the anticipation of shared moments, which means information in A's utterance will mainly focus on that. A's communicative intention is that A shares B’s appreciation for gradual development and enjoys the thought of what might come, which means A's utterance will imply B to pay attention to that. So A would utter like that:
+
+A: I find comfort too, in letting this flow naturally, just like a river seeking its path. It's refreshing to think about what we might discover together, in time. Until then, I’m cherishing the anticipation and look forward to what our conversations might reveal.
+
+all scripts of B: 
+B: There's a gentle excitement in considering what life's current might sweep our way when the time is truly right. It seems like we're both taking a soft approach, enjoying the anticipation as things unfold naturally. Until our coffee chat comes around, I'll appreciate the opportunity to rediscover what made our friendship meaningful.

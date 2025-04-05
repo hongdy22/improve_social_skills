@@ -1,0 +1,8 @@
+y_script: {"B's Character": 'B is cooperative and open to dialogue, showing a willingness to find a mutually agreeable solution while respecting historical agreements.', "B's Behavior": 'B proposes practical steps like a neutral survey and open communication to address boundary discrepancies, demonstrating a constructive approach.', "B's Goal": "B aims to rectify boundary discrepancies based on personal land records, ensuring fairness and respect for both parties' land rights.", "B's Information": 'B relies on personal land records indicating different boundary demarcations, advocating for adjustments based on these discrepancies.'}
+n_script: {"B's Character": 'B is concerned about fairness and accuracy, advocating for adjustments to the boundary based on newer surveys, while valuing community harmony.', "B's Behavior": 'B suggests forming a neutral committee and pilot adjustments in disputed areas, showing a preference for evidence-based and transparent solutions.', "B's Goal": 'B seeks to adjust the boundary to reflect newer survey data accurately, ensuring fairness and updating historical agreements to current realities.', "B's Information": 'B references newer surveys showing discrepancies with the current boundary, emphasizing the need for adjustments to reflect accurate land rights.'}
+
+
+
+y_script: {'character score': 0.7, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.9, 'total score': 0.825}
+n_script: {'character score': 0.6, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.8, 'total score': 0.725}
+

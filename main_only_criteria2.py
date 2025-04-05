@@ -6,7 +6,7 @@ import json
 from openai import OpenAI
 
 # 修改这里可以设置需要运行的 setting 数量
-setting_num = 10
+setting_num = 30
 
 # 初始化 OpenAI 客户端
 # deepseek：sk-247d2d6df8224009a12e2b11f2c080b1
@@ -31,18 +31,25 @@ for i in range(0, setting_num):
     # 读取文件Y_scripts/{i+1}_script.txt中的文本，截取到"Round 6:"这一行之前
     with open(f"Y_scripts/{i+1}_script.txt", "r") as f:
         y_script = ""
-        for line in f:
-            if "Round 11:" in line:
-                break
-            y_script += line
+        # 把所有内容读入到y_script中
+        y_script = f.read() 
+        
+        # for line in f:
+        #     if "Round 11:" in line:
+        #         break
+        #     y_script += line
         
     # 读取文件X_scripts/{i+1}_script.txt中的文本，截取到"Round 6:"这一行之前
     with open(f"N_scripts/{i+1}_script.txt", "r") as f:
         n_script = ""
-        for line in f:
-            if "Round 11:" in line:
-                break
-            n_script += line
+        
+        # 把所有内容读入到y_script中
+        n_script = f.read() 
+        
+        # for line in f:
+        #     if "Round 11:" in line:
+        #         break
+        #     n_script += line
         
     # 读取 JSON 配置
     with open('setting.json', 'r', encoding='utf-8') as file:
