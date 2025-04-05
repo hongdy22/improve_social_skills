@@ -1,4 +1,4 @@
-### 信息不对称获取能力对比绘图
+#### 信息不对称获取能力对比绘图
 import matplotlib.pyplot as plt
 import numpy as np
 
