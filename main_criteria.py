@@ -12,11 +12,12 @@ degree = "E"  # 选择 "E" 或 "D"，代表 easy 或 difficult
 
 # 初始化 OpenAI 客户端
 # deepseek：sk-247d2d6df8224009a12e2b11f2c080b1
-client_dp = OpenAI(api_key="sk-247d2d6df8224009a12e2b11f2c080b1", base_url="https://api.deepseek.com")
+# client_dp = OpenAI(api_key="sk-247d2d6df8224009a12e2b11f2c080b1", base_url="https://api.deepseek.com")
+client_dp = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
 client_gpt = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="zQTxB4T2yXBFeoBtE7418192Df3e476a84259d84D9015cC1")
 # client = OpenAI(base_url="http://115.182.62.174:18888/v1", api_key="sk-AP87QFGmx6FLSXmw326a6b7aBf254f468011Ef9c293c21Fc")
 gpt_model_name = "gpt-4o"
-dp_model_name = "deepseek-chat"
+dp_model_name = "gpt-4o"
 
 def save_used_token_count(response):
     """"保存输入和输出的 token 数量"""

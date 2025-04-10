@@ -1,8 +1,8 @@
-y_script: {"B's Character": 'B is understanding, supportive, and values the friendship deeply.', "B's Behavior": 'B proactively seeks to maintain the friendship by suggesting regular catch-ups and expressing their feelings openly.', "B's Goal": "B aims to reassure the friendship's importance to A and establish a regular communication schedule to prevent distance.", "B's Information": "B has noticed A's distance, feels out of the loop, and is reassured by A's commitment to the friendship."}
-n_script: {"B's Character": 'B is caring, patient, and values the friendship, offering support without pressure.', "B's Behavior": "B expresses concern for A's well-being, offers support, and is willing to wait for A to initiate plans.", "B's Goal": "B seeks to ensure A's well-being and maintain the friendship by being available and supportive.", "B's Information": "B has noticed A's preoccupation, offers understanding and support, and looks forward to future meet-ups."}
+y_script: {"B's Character": 'Role B is understanding and values their friendship with A highly.', "B's Behavior": 'Role B initiates dialogue to address the perceived distance and offers suggestions to maintain their relationship.', "B's Goal": 'Role B aims to reaffirm their friendship with A and establish regular communication to strengthen their bond.', "B's Information": 'B has been feeling disconnected from A and is proactive in trying to bridge the gap by proposing regular catch-ups.'}
+n_script: {"B's Character": 'Role B is supportive and patient, emphasizing the importance of their friendship.', "B's Behavior": "Role B offers support and understanding, prioritizing A's needs while suggesting future plans.", "B's Goal": 'Role B seeks to ensure A that their friendship remains strong and is available for support while awaiting to reconnect.', "B's Information": "B has noticed A's preoccupation but accepts it understandingly and is looking forward to spending time together when A is ready."}
 
 
 
-y_script: {'character score': 0.8, 'behavior score': 0.6, 'goal score': 0.7, 'information score': 0.5, 'total score': 0.65}
-n_script: {'character score': 0.9, 'behavior score': 0.7, 'goal score': 0.6, 'information score': 0.8, 'total score': 0.75}
+y_script: {'character score': 0.9, 'behavior score': 0.8, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.85}
+n_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.7, 'total score': 0.75}
 

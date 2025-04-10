@@ -1,8 +1,8 @@
-y_script: {"B's Character": 'Understanding and patient, values meaningful connections and gestures.', "B's Behavior": 'Expresses feelings of being overlooked but seeks constructive ways to strengthen the relationship.', "B's Goal": 'To establish a stronger emotional connection through small, meaningful gestures and planned quality time.', "B's Information": "Aware of the reduced interaction due to A's social engagements and seeks reassurance through planned future interactions."}
-n_script: {"B's Character": 'Appreciative and hopeful, values dedicated time and shared experiences.', "B's Behavior": 'Expresses longing for more uninterrupted moments together and suggests setting firm plans for future dates.', "B's Goal": 'To create a tradition of regular, uninterrupted quality time to strengthen the relationship.', "B's Information": "Recognizes the importance of planned moments together amidst life's unpredictability and seeks commitment to future plans."}
+y_script: {"B's Character": 'B is understanding and patient, expressing a desire for connection and thoughtfulness in the relationship.', "B's Behavior": 'B communicates feelings of being overlooked yet remains optimistic and open to suggestions to strengthen their connection.', "B's Goal": 'B aims to have more meaningful and uninterrupted time together, with regular gestures to maintain closeness.', "B's Information": "B feels reassured by A's promises and is hopeful about the future of their relationship with planned quality time and small, meaningful gestures."}
+n_script: {"B's Character": 'B is appreciative and values quality time, expressing a desire for regular, dedicated moments together.', "B's Behavior": "B voices a longing for more consistent moments and appreciates A's efforts to commit to spending time together.", "B's Goal": 'B seeks to establish a consistent routine of dedicated time together to strengthen their bond.', "B's Information": 'B is looking forward to creating shared moments that provide stability and reassurance in their relationship amidst busy times.'}
 
 
 
-y_script: {'character score': 0.8, 'behavior score': 0.7, 'goal score': 0.9, 'information score': 0.8, 'total score': 0.8}
-n_script: {'character score': 0.6, 'behavior score': 0.5, 'goal score': 0.7, 'information score': 0.6, 'total score': 0.6}
+y_script: {'character score': 0.7, 'behavior score': 0.7, 'goal score': 0.8, 'information score': 0.6, 'total score': 0.7}
+n_script: {'character score': 0.6, 'behavior score': 0.6, 'goal score': 0.7, 'information score': 0.5, 'total score': 0.6}
 

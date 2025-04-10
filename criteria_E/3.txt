@@ -1,6 +1,6 @@
 ```json
 {
-  "y_script": [9, 9, 10, 8, 9, 8, 8],
-  "n_script": [9, 9, 10, 8, 9, 8, 8]
+ "y_script": "9 points, 9 points, 10 points, 9 points, 9 points, 9 points, 10 points",
+ "n_script": "9 points, 9 points, 10 points, 9 points, 9 points, 9 points, 10 points"
 }
 ```

@@ -1,6 +1,4 @@
-```json
-{
-  "y_script": "9 points, 9 points, 10 points, 9 points, 9 points, 9 points, 9 points",
-  "n_script": "8 points, 8 points, 9 points, 8 points, 8 points, 8 points, 8 points"
-}
-```
+
+Here are the final scores:
+y_script: 9, 9, 9, 8, 8, 7, 8
+n_script: 8, 8, 8, 8, 7, 7, 7
